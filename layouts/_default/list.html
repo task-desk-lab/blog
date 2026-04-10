@@ -1,19 +1,24 @@
 {{ define "schema" }}{{ end }}
 {{ define "main" }}
-<section>
-  <p style="color: var(--text-dim); text-align: center; margin-bottom: 40px;">
-    N=1の個人レビューではなく、N=数千の集合知で選ぶ。<br>
-    Amazon・楽天・YouTube・価格コムのレビューをまとめて分析しています。
-  </p>
-
-  <ul class="post-list">
-    {{ range .Pages.ByDate.Reverse }}
-    <li>
-      {{ with .Params.categories }}{{ range . }}<span class="category">{{ . }}</span>{{ end }}{{ end }}
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-      {{ with .Params.total_reviews }}<div style="color: var(--text-dim); font-size: 13px;">集合知: {{ . }}件の情報源</div>{{ end }}
-    </li>
-    {{ end }}
-  </ul>
+<section class="block">
+  <div class="container">
+    <h2>{{ .Title | default "記事一覧" }}</h2>
+    <div class="article-grid">
+      {{ range .Pages.ByDate.Reverse }}
+      <article class="article-card">
+        <a href="{{ .Permalink }}">
+          <div class="thumb">
+            <img src="{{ printf "/img/thumbs/%s.png" .Params.slug | absURL }}" alt="{{ .Title }}" loading="lazy">
+          </div>
+          <div class="body">
+            {{ with .Params.categories }}{{ range first 1 . }}<span class="cat">{{ . }}</span>{{ end }}{{ end }}
+            <h3>{{ .Title }}</h3>
+            {{ with .Params.total_reviews }}<div class="reviews">集合知: {{ . }}件</div>{{ end }}
+          </div>
+        </a>
+      </article>
+      {{ end }}
+    </div>
+  </div>
 </section>
 {{ end }}

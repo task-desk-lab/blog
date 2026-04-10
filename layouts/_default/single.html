@@ -4,7 +4,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "{{ .Params.product_name | default .Title }}",
-  {{ with .Params.image }}"image": "{{ . | absURL }}",{{ end }}
+  "image": "{{ printf "/img/thumbs/%s.png" .Params.slug | absURL }}",
   "description": "{{ .Description }}",
   {{ with .Params.price_jpy }}"offers": {
     "@type": "Offer",
@@ -21,10 +21,7 @@
   },{{ end }}
   "review": {
     "@type": "Review",
-    "author": {
-      "@type": "Person",
-      "name": "{{ .Site.Params.author }}"
-    },
+    "author": {"@type": "Person", "name": "{{ .Site.Params.author }}"},
     "datePublished": "{{ .Date.Format "2006-01-02" }}",
     "reviewBody": "{{ .Summary }}"
   }
@@ -33,11 +30,12 @@
 {{ end }}
 
 {{ define "main" }}
+<div class="article-content">
 <article>
   <h1>{{ .Title }}</h1>
   <div class="meta">
     {{ .Date.Format "2006年1月2日" }}
-    {{ with .Params.categories }} · {{ range . }}<span class="category">{{ . }}</span>{{ end }}{{ end }}
+    {{ with .Params.categories }} · {{ range . }}<span class="cat">{{ . }}</span>{{ end }}{{ end }}
   </div>
 
   {{ if .Params.product_name }}
@@ -62,4 +60,5 @@
   <p><a href="{{ . }}" target="_blank">YouTube Shortsで30秒で解説</a></p>
   {{ end }}
 </article>
+</div>
 {{ end }}

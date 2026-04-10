@@ -11,21 +11,137 @@
 {{ end }}
 
 {{ define "main" }}
-<section>
-  <p style="color: var(--text-dim); text-align: center; margin-bottom: 40px; font-size: 15px;">
-    N=1の個人レビューではなく、N=数千の集合知で選ぶ。<br>
-    Amazon・楽天・YouTube・価格コムのレビューをまとめて分析しています。
-  </p>
+{{ $pages := where .Site.RegularPages "Section" "reviews" }}
+{{ $total := 0 }}
+{{ $categories := dict }}
+{{ range $pages }}
+  {{ with .Params.total_reviews }}
+    {{ $clean := replace . "," "" }}
+    {{ $n := int $clean }}
+    {{ $total = add $total $n }}
+  {{ end }}
+  {{ range .Params.categories }}
+    {{ $cnt := index $categories . | default 0 }}
+    {{ $categories = merge $categories (dict . (add $cnt 1)) }}
+  {{ end }}
+{{ end }}
 
-  <h2>最新のレビュー</h2>
-  <ul class="post-list">
-    {{ range first 20 (where .Site.RegularPages "Section" "reviews") }}
-    <li>
-      {{ with .Params.categories }}{{ range . }}<span class="category">{{ . }}</span>{{ end }}{{ end }}
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-      {{ with .Params.total_reviews }}<div style="color: var(--text-dim); font-size: 13px;">集合知: {{ . }}件の情報源</div>{{ end }}
-    </li>
-    {{ end }}
-  </ul>
+<section class="hero">
+  <div class="container">
+    <div class="hero-inner">
+      <div>
+        <h2>個人の1票より、<br><span class="accent">数千人の集合知</span>で選ぶ</h2>
+        <p>Amazon・楽天・YouTube・価格コムのレビューをまとめて分析。ガジェット購入前の「本当に買っていいの？」に、数字で答えます。</p>
+        <div class="hero-stats">
+          <div class="stat-card">
+            <span class="num">{{ $total }}</span>
+            <span class="label">分析したレビュー件数</span>
+          </div>
+          <div class="stat-card">
+            <span class="num">{{ len $pages }}</span>
+            <span class="label">集合知レポート本数</span>
+          </div>
+          <div class="stat-card">
+            <span class="num">4</span>
+            <span class="label">情報ソース</span>
+          </div>
+          <div class="stat-card">
+            <span class="num">0</span>
+            <span class="label">忖度タイアップ</span>
+          </div>
+        </div>
+      </div>
+      <div class="hero-avatar">
+        <img src="{{ "/img/avatars/main.png" | absURL }}" alt="タスク">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="block">
+  <div class="container">
+    <div class="sources-bar">
+      <div class="label">▼ 4つのソースを横断分析</div>
+      <div class="logos">
+        <span>Amazon</span>
+        <span>楽天市場</span>
+        <span>YouTube</span>
+        <span>価格コム</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ if $categories }}
+<section class="block">
+  <div class="container">
+    <h2>カテゴリから探す</h2>
+    <div class="categories-grid">
+      {{ range $cat, $count := $categories }}
+      <div class="category-item">
+        <a href="{{ "/categories/" | absURL }}{{ $cat | urlize }}/">
+          <div class="icon">
+            {{ if eq $cat "モニターライト" }}💡
+            {{ else if eq $cat "キーボード" }}⌨️
+            {{ else if eq $cat "マウス" }}🖱
+            {{ else if eq $cat "電動昇降デスク" }}🪑
+            {{ else if eq $cat "チェア" }}💺
+            {{ else if eq $cat "充電器" }}🔌
+            {{ else if eq $cat "手帳" }}📔
+            {{ else if eq $cat "ノート" }}📓
+            {{ else if eq $cat "モニターアーム" }}🖥
+            {{ else if eq $cat "モニタースタンド" }}🖥
+            {{ else if eq $cat "デスク整理" }}📦
+            {{ else if eq $cat "スピーカーフォン" }}🔊
+            {{ else }}🎁
+            {{ end }}
+          </div>
+          <div class="name">{{ $cat }}</div>
+          <div class="count">{{ $count }}本</div>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<section class="block">
+  <div class="container">
+    <h2>最新の集合知レポート</h2>
+    <div class="article-grid">
+      {{ range first 12 $pages.ByDate.Reverse }}
+      <article class="article-card">
+        <a href="{{ .Permalink }}">
+          <div class="thumb">
+            <img src="{{ printf "/img/thumbs/%s.png" .Params.slug | absURL }}" alt="{{ .Title }}" loading="lazy">
+          </div>
+          <div class="body">
+            {{ with .Params.categories }}{{ range first 1 . }}<span class="cat">{{ . }}</span>{{ end }}{{ end }}
+            <h3>{{ .Title }}</h3>
+            {{ with .Params.total_reviews }}<div class="reviews">集合知: {{ . }}件</div>{{ end }}
+          </div>
+        </a>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<section class="block">
+  <div class="container">
+    <div class="author-section">
+      <img src="{{ "/img/avatars/main.png" | absURL }}" alt="タスク">
+      <div>
+        <h3>タスク｜集合知デスクラボ 運営者</h3>
+        <p>顔出しはしないけど、毎日デスク環境を研究してる30代。Amazon・楽天・YouTube・価格コムを横断して、数千件のレビューから「本当に買うべきガジェット」を集合知で選ぶのが日課です。個人の体験談より、300人の1年分のほうが価値があると信じています。</p>
+        <div class="sns">
+          <a href="https://instagram.com/task.desk.lab" target="_blank">Instagram</a>
+          <a href="https://tiktok.com/@taskdesklab" target="_blank">TikTok</a>
+          <a href="https://youtube.com/@task_desk_lab" target="_blank">YouTube</a>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 {{ end }}

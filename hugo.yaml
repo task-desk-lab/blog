@@ -7,7 +7,7 @@ buildFuture: true
 params:
   description: レビュー数千件の集合知で選ぶガジェット・デスク周り
   author: タスク
-  tagline: 300人の1年を聞いた情報で選ぶ
+  tagline: 数千件のレビューを調べて集合知で選ぶガジェット
   twitter: task_desk_lab
   instagram: task.desk.lab
   youtube: "@task_desk_lab"

@@ -13,6 +13,9 @@ params:
   youtube: "@task_desk_lab"
   tiktok: taskdesklab
   closing: また明日、集合知で会おう
+  # Analytics (set after signup)
+  googleAnalyticsId: ""         # G-XXXXXXXXXX
+  googleSiteVerification: ""    # Search Console HTML meta tag content
 
 pagination:
   pagerSize: 20

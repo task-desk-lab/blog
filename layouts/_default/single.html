@@ -39,10 +39,19 @@
   </div>
 
   {{ if .Params.product_name }}
-  <div class="product-card">
-    <h2 style="margin:0 0 8px 0;border:0;padding:0;">{{ .Params.product_name }}</h2>
-    {{ with .Params.price_display }}<div class="price">{{ . }}</div>{{ end }}
-    {{ with .Params.total_reviews }}<div class="total-reviews">集合知: {{ . }}件の情報源</div>{{ end }}
+  <div class="product-card" style="display: grid; grid-template-columns: {{ if .Params.product_image }}160px 1fr{{ else }}1fr{{ end }}; gap: 20px; align-items: center;">
+    {{ with .Params.product_image }}
+    <div style="background: white; padding: 10px; border-radius: 8px;">
+      <img src="{{ . | absURL }}" alt="{{ $.Params.product_name }}" style="width: 100%; height: auto;">
+    </div>
+    {{ end }}
+    <div>
+      <h2 style="margin:0 0 8px 0;border:0;padding:0;">{{ .Params.product_name }}</h2>
+      {{ with .Params.price_display }}<div class="price">{{ . }}</div>{{ end }}
+      {{ with .Params.shop_name }}<div style="color: var(--text-dim); font-size: 12px;">{{ . }}</div>{{ end }}
+      {{ with .Params.total_reviews }}<div class="total-reviews">集合知: {{ . }}件の情報源</div>{{ end }}
+      {{ with .Params.rating }}<div style="color: var(--accent); font-size: 14px; margin-top: 4px;">★ {{ . }} ({{ $.Params.review_count }}件 / 楽天)</div>{{ end }}
+    </div>
   </div>
   {{ end }}
 

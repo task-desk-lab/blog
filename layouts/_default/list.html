@@ -1,0 +1,19 @@
+{{ define "schema" }}{{ end }}
+{{ define "main" }}
+<section>
+  <p style="color: var(--text-dim); text-align: center; margin-bottom: 40px;">
+    個人の体験談より、300人の1年を聞いた情報。<br>
+    Amazon/楽天/YouTube/価格.com、数千件のレビューを集合知でまとめています。
+  </p>
+
+  <ul class="post-list">
+    {{ range .Pages.ByDate.Reverse }}
+    <li>
+      {{ with .Params.categories }}{{ range . }}<span class="category">{{ . }}</span>{{ end }}{{ end }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      {{ with .Params.total_reviews }}<div style="color: var(--text-dim); font-size: 13px;">集合知: {{ . }}件の情報源</div>{{ end }}
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}

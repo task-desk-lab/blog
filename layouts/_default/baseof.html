@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  {{ if .Params.keywords }}<meta name="keywords" content="{{ delimit .Params.keywords ", " }}">{{ end }}
+  <meta name="author" content="{{ .Site.Params.author }}">
+
+  <!-- Open Graph / Twitter -->
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  {{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
+
+  <!-- Canonical -->
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "/index.xml" | absURL }}">
+
+  <!-- Structured Data -->
+  {{ block "schema" . }}{{ end }}
+
+  <style>
+    :root {
+      --bg: #1a1a2e;
+      --bg-card: #23233c;
+      --text: #e8e8f0;
+      --text-dim: #9090a8;
+      --accent: #c8954e;
+      --accent2: #64c8b4;
+      --warning: #ff6464;
+      --border: #33334d;
+      --max-width: 740px;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      font-family: "Hiragino Sans", "Noto Sans JP", -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.8;
+      font-size: 16px;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    img { max-width: 100%; height: auto; }
+    .container { max-width: var(--max-width); margin: 0 auto; padding: 0 20px; }
+    header.site-header {
+      padding: 24px 0;
+      border-bottom: 1px solid var(--border);
+      text-align: center;
+    }
+    header.site-header h1 {
+      font-size: 20px;
+      margin: 0;
+      letter-spacing: 0.05em;
+    }
+    header.site-header h1 a { color: var(--text); }
+    header.site-header .tagline {
+      color: var(--text-dim);
+      font-size: 13px;
+      margin-top: 4px;
+    }
+    main { padding: 40px 0; }
+    article h1 { font-size: 28px; line-height: 1.4; margin: 0 0 16px; }
+    article h2 { font-size: 22px; margin: 40px 0 16px; padding-left: 12px; border-left: 4px solid var(--accent); }
+    article h3 { font-size: 18px; margin: 32px 0 12px; color: var(--accent2); }
+    article p { margin: 16px 0; }
+    article ul, article ol { margin: 16px 0; padding-left: 24px; }
+    article li { margin: 8px 0; }
+    article blockquote {
+      border-left: 4px solid var(--accent);
+      background: var(--bg-card);
+      margin: 20px 0;
+      padding: 16px 20px;
+      color: var(--text-dim);
+    }
+    .meta {
+      color: var(--text-dim);
+      font-size: 13px;
+      margin-bottom: 24px;
+    }
+    .affiliate-buttons {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin: 32px 0;
+    }
+    .affiliate-buttons a {
+      display: block;
+      padding: 16px;
+      background: var(--bg-card);
+      border: 2px solid var(--accent);
+      border-radius: 8px;
+      text-align: center;
+      color: var(--text);
+      font-weight: bold;
+      transition: all 0.2s;
+    }
+    .affiliate-buttons a:hover {
+      background: var(--accent);
+      color: var(--bg);
+      text-decoration: none;
+    }
+    .affiliate-buttons .rakuten { border-color: #bf0000; }
+    .affiliate-buttons .rakuten:hover { background: #bf0000; }
+    .affiliate-buttons .amazon { border-color: #ff9900; }
+    .affiliate-buttons .amazon:hover { background: #ff9900; }
+    .product-card {
+      background: var(--bg-card);
+      border-left: 6px solid var(--accent);
+      padding: 20px 24px;
+      border-radius: 8px;
+      margin: 24px 0;
+    }
+    .product-card .price {
+      font-size: 24px;
+      color: var(--accent);
+      font-weight: bold;
+    }
+    .total-reviews {
+      display: inline-block;
+      background: var(--accent);
+      color: var(--bg);
+      padding: 6px 16px;
+      border-radius: 20px;
+      font-weight: bold;
+      font-size: 14px;
+      margin: 8px 0;
+    }
+    .post-list { list-style: none; padding: 0; }
+    .post-list li {
+      padding: 16px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .post-list a {
+      display: block;
+      color: var(--text);
+      font-weight: bold;
+    }
+    .post-list .category {
+      display: inline-block;
+      background: var(--bg-card);
+      color: var(--accent2);
+      font-size: 11px;
+      padding: 2px 8px;
+      border-radius: 4px;
+      margin-right: 8px;
+    }
+    footer.site-footer {
+      padding: 40px 0 20px;
+      border-top: 1px solid var(--border);
+      text-align: center;
+      color: var(--text-dim);
+      font-size: 13px;
+    }
+    footer.site-footer .sns a { margin: 0 8px; color: var(--text-dim); }
+    footer.site-footer .closing {
+      font-style: italic;
+      color: var(--accent);
+      margin: 16px 0;
+    }
+    .disclaimer {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      padding: 12px 16px;
+      border-radius: 6px;
+      font-size: 12px;
+      color: var(--text-dim);
+      margin: 40px 0 20px;
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1><a href="{{ "/" | absURL }}">{{ .Site.Title }}</a></h1>
+      <div class="tagline">{{ .Site.Params.tagline }}</div>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      {{ block "main" . }}{{ end }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="closing">{{ .Site.Params.closing }}</div>
+      <div class="sns">
+        <a href="https://instagram.com/{{ .Site.Params.instagram }}" rel="me" target="_blank">Instagram</a>
+        <a href="https://tiktok.com/@{{ .Site.Params.tiktok }}" rel="me" target="_blank">TikTok</a>
+        <a href="https://youtube.com/{{ .Site.Params.youtube }}" rel="me" target="_blank">YouTube</a>
+      </div>
+      <p>© {{ now.Year }} {{ .Site.Title }}</p>
+      <div class="disclaimer">
+        本サイトは Amazon.co.jp アソシエイト、楽天アフィリエイト等の広告リンクを含みます。<br>
+        購入時の決定は読者自身の判断にてお願いします。
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

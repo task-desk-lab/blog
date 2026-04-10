@@ -1,0 +1,38 @@
+baseURL: https://taskdesklab.com/
+languageCode: ja
+defaultContentLanguage: ja
+title: タスク｜集合知デスクラボ
+
+params:
+  description: レビュー数千件の集合知で選ぶガジェット・デスク周り
+  author: タスク
+  tagline: 300人の1年を聞いた情報で選ぶ
+  twitter: task_desk_lab
+  instagram: task.desk.lab
+  youtube: "@task_desk_lab"
+  tiktok: taskdesklab
+  closing: また明日、集合知で会おう
+
+pagination:
+  pagerSize: 20
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
+
+outputs:
+  home: [HTML, RSS, JSON]
+  section: [HTML, RSS]
+
+taxonomies:
+  category: categories
+  tag: tags
+
+sitemap:
+  changeFreq: weekly
+  filename: sitemap.xml
+  priority: 0.5

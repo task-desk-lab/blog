@@ -1,0 +1,65 @@
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "{{ .Params.product_name | default .Title }}",
+  {{ with .Params.image }}"image": "{{ . | absURL }}",{{ end }}
+  "description": "{{ .Description }}",
+  {{ with .Params.price_jpy }}"offers": {
+    "@type": "Offer",
+    "priceCurrency": "JPY",
+    "price": "{{ . }}",
+    "availability": "https://schema.org/InStock"
+  },{{ end }}
+  {{ with .Params.rating }}"aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ . }}",
+    "reviewCount": "{{ $.Params.review_count | default 0 }}",
+    "bestRating": "5",
+    "worstRating": "1"
+  },{{ end }}
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "{{ .Site.Params.author }}"
+    },
+    "datePublished": "{{ .Date.Format "2006-01-02" }}",
+    "reviewBody": "{{ .Summary }}"
+  }
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  <div class="meta">
+    {{ .Date.Format "2006年1月2日" }}
+    {{ with .Params.categories }} · {{ range . }}<span class="category">{{ . }}</span>{{ end }}{{ end }}
+  </div>
+
+  {{ if .Params.product_name }}
+  <div class="product-card">
+    <h2 style="margin:0 0 8px 0;border:0;padding:0;">{{ .Params.product_name }}</h2>
+    {{ with .Params.price_display }}<div class="price">{{ . }}</div>{{ end }}
+    {{ with .Params.total_reviews }}<div class="total-reviews">集合知: {{ . }}件の情報源</div>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ .Content }}
+
+  {{ if or .Params.rakuten_url .Params.amazon_url }}
+  <div class="affiliate-buttons">
+    {{ with .Params.rakuten_url }}<a href="{{ . }}" class="rakuten" rel="nofollow sponsored" target="_blank">楽天で見る</a>{{ end }}
+    {{ with .Params.amazon_url }}<a href="{{ . }}" class="amazon" rel="nofollow sponsored" target="_blank">Amazonで見る</a>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ with .Params.video_url }}
+  <h2>動画で見る</h2>
+  <p><a href="{{ . }}" target="_blank">YouTube Shortsで30秒で解説</a></p>
+  {{ end }}
+</article>
+{{ end }}

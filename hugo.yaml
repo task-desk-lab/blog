@@ -2,6 +2,7 @@ baseURL: https://taskdesklab.com/
 languageCode: ja
 defaultContentLanguage: ja
 title: タスク｜集合知デスクラボ
+buildFuture: true
 
 params:
   description: レビュー数千件の集合知で選ぶガジェット・デスク周り

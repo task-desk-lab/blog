@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Crawler-friendly: explicit sitemap reference
+Sitemap: https://taskdesklab.com/sitemap.xml

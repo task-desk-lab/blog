@@ -31,6 +31,33 @@
 
 {{ define "main" }}
 <div class="article-content">
+
+<nav aria-label="breadcrumb" style="font-size: 12px; color: var(--text-dim); margin-bottom: 16px;">
+  <a href="{{ "/" | absURL }}" style="color: var(--text-dim);">ホーム</a>
+  &nbsp;›&nbsp;
+  <a href="{{ "/reviews/" | absURL }}" style="color: var(--text-dim);">レビュー</a>
+  {{ with .Params.categories }}{{ range first 1 . }}
+  &nbsp;›&nbsp;
+  <a href="{{ printf "/categories/%s/" (. | urlize) | absURL }}" style="color: var(--text-dim);">{{ . }}</a>
+  {{ end }}{{ end }}
+  &nbsp;›&nbsp;
+  <span>{{ .Params.product_name | default .Title }}</span>
+</nav>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "ホーム", "item": "{{ "/" | absURL }}"},
+    {"@type": "ListItem", "position": 2, "name": "レビュー", "item": "{{ "/reviews/" | absURL }}"}
+    {{ with .Params.categories }}{{ range first 1 . }},
+    {"@type": "ListItem", "position": 3, "name": "{{ . }}", "item": "{{ printf "/categories/%s/" (. | urlize) | absURL }}"}
+    {{ end }}{{ end }}
+  ]
+}
+</script>
+
 <article>
   <h1>{{ .Title }}</h1>
   <div class="meta">
@@ -69,5 +96,63 @@
   <p><a href="{{ . }}" target="_blank">YouTube Shortsで30秒で解説</a></p>
   {{ end }}
 </article>
+
+{{ $category := index .Params.categories 0 }}
+{{ $related := where (where .Site.RegularPages "Section" "reviews") "Params.categories" "intersect" .Params.categories }}
+{{ $related = where $related "Permalink" "ne" .Permalink }}
+{{ if $related }}
+<section style="margin-top: 60px;">
+  <h2>同じカテゴリの集合知レビュー</h2>
+  <div class="article-grid" style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
+    {{ range first 6 $related }}
+    <article class="article-card">
+      <a href="{{ .Permalink }}">
+        <div class="thumb">
+          <img src="{{ printf "/img/thumbs/%s.png" .Params.slug | absURL }}" alt="{{ .Title }}" loading="lazy">
+        </div>
+        <div class="body">
+          <h3>{{ .Title }}</h3>
+          {{ with .Params.total_reviews }}<div class="reviews">集合知: {{ . }}件</div>{{ end }}
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ $cur := .Permalink }}
+{{ $cats := .Params.categories }}
+{{ $other := slice }}
+{{ range (where .Site.RegularPages "Section" "reviews") }}
+  {{ if ne .Permalink $cur }}
+    {{ $intersect := false }}
+    {{ range .Params.categories }}
+      {{ if in $cats . }}{{ $intersect = true }}{{ end }}
+    {{ end }}
+    {{ if not $intersect }}{{ $other = $other | append . }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ if $other }}
+<section style="margin-top: 60px;">
+  <h2>他カテゴリの集合知レビュー</h2>
+  <div class="article-grid" style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
+    {{ range first 4 $other }}
+    <article class="article-card">
+      <a href="{{ .Permalink }}">
+        <div class="thumb">
+          <img src="{{ printf "/img/thumbs/%s.png" .Params.slug | absURL }}" alt="{{ .Title }}" loading="lazy">
+        </div>
+        <div class="body">
+          {{ with .Params.categories }}{{ range first 1 . }}<span class="cat">{{ . }}</span>{{ end }}{{ end }}
+          <h3>{{ .Title }}</h3>
+          {{ with .Params.total_reviews }}<div class="reviews">集合知: {{ . }}件</div>{{ end }}
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
 </div>
 {{ end }}

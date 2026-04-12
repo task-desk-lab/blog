@@ -27,6 +27,11 @@
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "/index.xml" | absURL }}">
 
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/favicon-32x32.png" | absURL }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/favicon-16x16.png" | absURL }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/apple-touch-icon.png" | absURL }}">
+  <link rel="manifest" href="{{ "/site.webmanifest" | absURL }}">
+
   {{ with .Site.Params.googleSiteVerification }}
   <meta name="google-site-verification" content="{{ . }}">
   {{ end }}
@@ -439,5 +444,39 @@
       </div>
     </div>
   </footer>
+
+  {{ with .Site.Params.googleAnalyticsId }}
+  <script>
+    (function () {
+      if (typeof gtag !== 'function') return;
+      var host = location.hostname;
+      document.addEventListener('click', function (e) {
+        var a = e.target.closest && e.target.closest('a[href]');
+        if (!a) return;
+        var href = a.getAttribute('href') || '';
+        if (!/^https?:\/\//i.test(href)) return;
+        var url;
+        try { url = new URL(href); } catch (_) { return; }
+        if (url.hostname === host) return;
+        var domain = url.hostname.replace(/^www\./, '');
+        var network = 'other';
+        if (/(^|\.)rakuten\.co\.jp$/.test(url.hostname) || /(^|\.)afl\.rakuten\.co\.jp$/.test(url.hostname)) network = 'rakuten';
+        else if (/(^|\.)amazon\.co\.jp$/.test(url.hostname) || /(^|\.)amzn\.to$/.test(url.hostname)) network = 'amazon';
+        gtag('event', 'affiliate_click', {
+          network: network,
+          link_domain: domain,
+          link_url: href,
+          link_text: (a.innerText || '').trim().slice(0, 60),
+          page_path: location.pathname
+        });
+        gtag('event', 'click', {
+          link_domain: domain,
+          link_url: href,
+          outbound: true
+        });
+      }, true);
+    })();
+  </script>
+  {{ end }}
 </body>
 </html>

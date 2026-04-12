@@ -1,0 +1,37 @@
+{{ define "schema" }}{{ end }}
+{{ define "main" }}
+<section class="block">
+  <div class="container">
+    <h2>{{ .Title | default "カテゴリから探す" }}</h2>
+    <div class="categories-grid">
+      {{ range .Data.Terms.Alphabetical }}
+      {{ $cat := .Name }}
+      <div class="category-item">
+        <a href="{{ "/categories/" | absURL }}{{ $cat | urlize }}/">
+          <div class="icon">
+            {{ if eq $cat "モニターライト" }}💡
+            {{ else if eq $cat "キーボード" }}⌨️
+            {{ else if eq $cat "マウス" }}🖱
+            {{ else if eq $cat "電動昇降デスク" }}🪑
+            {{ else if eq $cat "チェア" }}💺
+            {{ else if eq $cat "充電器" }}🔌
+            {{ else if eq $cat "ワイヤレス充電器" }}🔋
+            {{ else if eq $cat "筆記具" }}🖊
+            {{ else if eq $cat "手帳" }}📔
+            {{ else if eq $cat "ノート" }}📓
+            {{ else if eq $cat "モニターアーム" }}🖥
+            {{ else if eq $cat "モニタースタンド" }}🖥
+            {{ else if eq $cat "デスク整理" }}📦
+            {{ else if eq $cat "スピーカーフォン" }}🔊
+            {{ else }}🎁
+            {{ end }}
+          </div>
+          <div class="name">{{ $cat }}</div>
+          <div class="count">{{ .Count }}本</div>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -1,11 +1,12 @@
 ---
-title: "FlexiSpot E7｜レビュー2,695件を調べた結論"
-description: "FlexiSpot E7のレビューを2,695件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「長時間座っても腰が楽になる」｜FlexiSpot E7（レビュー2,695件）"
+description: "集合知の結論、「長時間座っても腰が楽になる」。FlexiSpot E7のレビューを2,695件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-11T07:12:43.902882
 slug: "flexispot-e7"
 categories: ["電動昇降デスク"]
-tags: ["電動昇降デスク", "集合知", "レビュー", "FlexiSpot E7"]
+tags: ["電動昇降デスク", "集合知", "レビュー"]
 product_name: "FlexiSpot E7"
+verdict: "長時間座っても腰が楽になる"
 price_display: "63,800円"
 price_jpy: 63800
 total_reviews: "2,695"

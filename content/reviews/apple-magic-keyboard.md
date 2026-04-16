@@ -1,11 +1,12 @@
 ---
-title: "Apple Magic Keyboard｜レビュー1,770件を調べた結論"
-description: "Apple Magic Keyboardのレビューを1,770件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「指が止まらない打鍵感」｜Apple Magic Keyboard（レビュー1,770件）"
+description: "集合知の結論、「指が止まらない打鍵感」。Apple Magic Keyboardのレビューを1,770件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-12T07:12:30.275260
 slug: "apple-magic-keyboard"
 categories: ["キーボード"]
-tags: ["キーボード", "集合知", "レビュー", "Apple Magic Keyboard"]
+tags: ["キーボード", "集合知", "レビュー"]
 product_name: "Apple Magic Keyboard"
+verdict: "指が止まらない打鍵感"
 price_display: "25,545円"
 price_jpy: 25545
 total_reviews: "1,770"

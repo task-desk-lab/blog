@@ -1,11 +1,12 @@
 ---
-title: "HHKB Professional HYBRID Type-S｜レビュー1,035件を調べた結論"
-description: "HHKB Professional HYBRID Type-Sのレビューを1,035件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「指の音が消える」｜HHKB Professional HYBRID Type-S（レビュー1,035件）"
+description: "集合知の結論、「指の音が消える」。HHKB Professional HYBRID Type-Sのレビューを1,035件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-11T01:13:55.201843
 slug: "hhkb-professional-hybrid-type-s"
 categories: ["キーボード"]
-tags: ["キーボード", "集合知", "レビュー", "HHKB Professional HYBRID Type-S"]
+tags: ["キーボード", "集合知", "レビュー"]
 product_name: "HHKB Professional HYBRID Type-S"
+verdict: "指の音が消える"
 price_display: "36,850円"
 price_jpy: 36850
 total_reviews: "1,035"

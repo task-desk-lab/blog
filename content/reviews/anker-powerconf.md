@@ -1,11 +1,12 @@
 ---
-title: "Anker PowerConf｜レビュー3,743件を調べた結論"
-description: "Anker PowerConfのレビューを3,743件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「相手に声が届く、会議が決まる」｜Anker PowerConf（レビュー3,743件）"
+description: "集合知の結論、「相手に声が届く、会議が決まる」。Anker PowerConfのレビューを3,743件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-14T07:13:52.853719
 slug: "anker-powerconf"
 categories: ["スピーカーフォン"]
-tags: ["スピーカーフォン", "集合知", "レビュー", "Anker PowerConf"]
+tags: ["スピーカーフォン", "集合知", "レビュー"]
 product_name: "Anker PowerConf"
+verdict: "相手に声が届く、会議が決まる"
 price_display: "17,400円"
 price_jpy: 17400
 total_reviews: "3,743"

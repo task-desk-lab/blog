@@ -1,11 +1,12 @@
 ---
-title: "Apple AirPods Pro｜レビュー52,500件を調べた結論"
-description: "Apple AirPods Proのレビューを52,500件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「外の音が消える」｜Apple AirPods Pro（レビュー52,500件）"
+description: "集合知の結論、「外の音が消える」。Apple AirPods Proのレビューを52,500件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-13T07:31:14.429975
 slug: "apple-airpods-pro"
 categories: ["イヤホン"]
-tags: ["イヤホン", "集合知", "レビュー", "Apple AirPods Pro"]
+tags: ["イヤホン", "集合知", "レビュー"]
 product_name: "Apple AirPods Pro"
+verdict: "外の音が消える"
 price_display: "36,499円"
 price_jpy: 36499
 total_reviews: "52,500"

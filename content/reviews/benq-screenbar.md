@@ -1,11 +1,12 @@
 ---
-title: "BenQ ScreenBar｜レビュー4,750件を調べた結論"
-description: "BenQ ScreenBarのレビューを4,750件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「デスクの暗さが消える」｜BenQ ScreenBar（レビュー4,750件）"
+description: "集合知の結論、「デスクの暗さが消える」。BenQ ScreenBarのレビューを4,750件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-11T01:08:46.679835
 slug: "benq-screenbar"
 categories: ["モニターライト"]
-tags: ["モニターライト", "集合知", "レビュー", "BenQ ScreenBar"]
+tags: ["モニターライト", "集合知", "レビュー"]
 product_name: "BenQ ScreenBar"
+verdict: "デスクの暗さが消える"
 price_display: "15,900円"
 price_jpy: 15900
 total_reviews: "4,750"

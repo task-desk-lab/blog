@@ -1,11 +1,12 @@
 ---
-title: "Logicool MX Master 3S｜レビュー3,513件を調べた結論"
-description: "Logicool MX Master 3Sのレビューを3,513件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「クリック音が消える、集中が続く」｜Logicool MX Master 3S（レビュー3,513件）"
+description: "集合知の結論、「クリック音が消える、集中が続く」。Logicool MX Master 3Sのレビューを3,513件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-11T01:28:09.857130
 slug: "logicool-mx-master-3s"
 categories: ["マウス"]
-tags: ["マウス", "集合知", "レビュー", "Logicool MX Master 3S"]
+tags: ["マウス", "集合知", "レビュー"]
 product_name: "Logicool MX Master 3S"
+verdict: "クリック音が消える、集中が続く"
 price_display: "18,780円"
 price_jpy: 18780
 total_reviews: "3,513"

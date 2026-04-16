@@ -1,11 +1,12 @@
 ---
-title: "Anker Nano II 65W｜レビュー4,215件を調べた結論"
-description: "Anker Nano II 65Wのレビューを4,215件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「カバンが軽くなる」｜Anker Nano II 65W（レビュー4,215件）"
+description: "集合知の結論、「カバンが軽くなる」。Anker Nano II 65Wのレビューを4,215件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-12T07:21:06.117519
 slug: "anker-nano-ii-65w"
 categories: ["充電器"]
-tags: ["充電器", "集合知", "レビュー", "Anker Nano II 65W"]
+tags: ["充電器", "集合知", "レビュー"]
 product_name: "Anker Nano II 65W"
+verdict: "カバンが軽くなる"
 price_display: "4,490円"
 price_jpy: 4490
 total_reviews: "4,215"

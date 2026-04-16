@@ -1,11 +1,12 @@
 ---
-title: "FlexiSpot EF1｜レビュー1,395件を調べた結論"
-description: "FlexiSpot EF1のレビューを1,395件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「朝から夕方まで腰が楽になる」｜FlexiSpot EF1（レビュー1,395件）"
+description: "集合知の結論、「朝から夕方まで腰が楽になる」。FlexiSpot EF1のレビューを1,395件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-11T07:19:34.875732
 slug: "flexispot-ef1"
 categories: ["電動昇降デスク"]
-tags: ["電動昇降デスク", "集合知", "レビュー", "FlexiSpot EF1"]
+tags: ["電動昇降デスク", "集合知", "レビュー"]
 product_name: "FlexiSpot EF1"
+verdict: "朝から夕方まで腰が楽になる"
 price_display: "30,800円"
 price_jpy: 30800
 total_reviews: "1,395"

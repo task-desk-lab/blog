@@ -1,11 +1,12 @@
 ---
-title: "Keychron K3｜レビュー1,395件を調べた結論"
-description: "Keychron K3のレビューを1,395件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「カバンに忍ばせたまま仕事が続く」｜Keychron K3（レビュー1,395件）"
+description: "集合知の結論、「カバンに忍ばせたまま仕事が続く」。Keychron K3のレビューを1,395件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-11T01:19:03.887918
 slug: "keychron-k3"
 categories: ["キーボード"]
-tags: ["キーボード", "集合知", "レビュー", "Keychron K3"]
+tags: ["キーボード", "集合知", "レビュー"]
 product_name: "Keychron K3"
+verdict: "カバンに忍ばせたまま仕事が続く"
 price_display: "19,360円"
 price_jpy: 19360
 total_reviews: "1,395"

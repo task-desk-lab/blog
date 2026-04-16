@@ -1,11 +1,12 @@
 ---
-title: "山田照明 Z-Light Z-10N｜レビュー472件を調べた結論"
-description: "山田照明 Z-Light Z-10Nのレビューを472件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「どの角度でも光が逃げない」｜山田照明 Z-Light Z-10N（レビュー472件）"
+description: "集合知の結論、「どの角度でも光が逃げない」。山田照明 Z-Light Z-10Nのレビューを472件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-16T07:25:01.628360
 slug: "山田照明-z-light-z-10n"
 categories: ["デスクライト"]
-tags: ["デスクライト", "集合知", "レビュー", "山田照明 Z-Light Z-10N"]
+tags: ["デスクライト", "集合知", "レビュー"]
 product_name: "山田照明 Z-Light Z-10N"
+verdict: "どの角度でも光が逃げない"
 price_display: "39,800円"
 price_jpy: 39800
 total_reviews: "472"

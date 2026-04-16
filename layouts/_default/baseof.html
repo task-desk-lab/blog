@@ -8,6 +8,12 @@
   {{ if .Params.keywords }}<meta name="keywords" content="{{ delimit .Params.keywords ", " }}">{{ end }}
   <meta name="author" content="{{ .Site.Params.author }}">
 
+  {{/* Taxonomy pages (tags/categories) are thin → noindex,follow.
+       Keeps Google focused on the home + /reviews/ list + individual review pages. */}}
+  {{ if or (eq .Kind "term") (eq .Kind "taxonomy") }}
+  <meta name="robots" content="noindex,follow">
+  {{ end }}
+
   <!-- Open Graph / Twitter -->
   <meta property="og:title" content="{{ .Title }}">
   <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">

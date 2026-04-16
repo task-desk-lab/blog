@@ -1,11 +1,12 @@
 ---
-title: "Anker PowerPort III 3-Port 65W Pod｜レビュー2,227件を調べた結論"
-description: "Anker PowerPort III 3-Port 65W Podのレビューを2,227件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「朝のカバンが軽くなる」｜Anker PowerPort III 3-Port 65W Pod（レビュー2,227件）"
+description: "集合知の結論、「朝のカバンが軽くなる」。Anker PowerPort III 3-Port 65W Podのレビューを2,227件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-12T07:31:30.799288
 slug: "anker-powerport-iii-3-port-65w-pod"
 categories: ["充電器"]
-tags: ["充電器", "集合知", "レビュー", "Anker PowerPort III 3-Port 65W Pod"]
+tags: ["充電器", "集合知", "レビュー"]
 product_name: "Anker PowerPort III 3-Port 65W Pod"
+verdict: "朝のカバンが軽くなる"
 price_display: "5,490円"
 price_jpy: 5490
 total_reviews: "2,227"

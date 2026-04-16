@@ -1,11 +1,12 @@
 ---
-title: "エレコム リストレスト FITTIO MOH-FTRBK｜レビュー677件を調べた結論"
-description: "エレコム リストレスト FITTIO MOH-FTRBKのレビューを677件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「手首の痛みが消える」｜エレコム リストレスト FITTIO MOH-FTRBK（レビュー677件）"
+description: "集合知の結論、「手首の痛みが消える」。エレコム リストレスト FITTIO MOH-FTRBKのレビューを677件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-15T07:19:39.874197
 slug: "エレコム-リストレスト-fittio-moh-ftrbk"
 categories: ["リストレスト"]
-tags: ["リストレスト", "集合知", "レビュー", "エレコム リストレスト FITTIO MOH-FTRBK"]
+tags: ["リストレスト", "集合知", "レビュー"]
 product_name: "エレコム リストレスト FITTIO MOH-FTRBK"
+verdict: "手首の痛みが消える"
 price_display: "3,084円"
 price_jpy: 3084
 total_reviews: "677"

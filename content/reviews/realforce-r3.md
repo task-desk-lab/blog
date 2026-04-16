@@ -1,11 +1,12 @@
 ---
-title: "REALFORCE R3｜レビュー812件を調べた結論"
-description: "REALFORCE R3のレビューを812件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「指が疲れない、10年使える」｜REALFORCE R3（レビュー812件）"
+description: "集合知の結論、「指が疲れない、10年使える」。REALFORCE R3のレビューを812件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-12T07:07:05.200737
 slug: "realforce-r3"
 categories: ["キーボード"]
-tags: ["キーボード", "集合知", "レビュー", "REALFORCE R3"]
+tags: ["キーボード", "集合知", "レビュー"]
 product_name: "REALFORCE R3"
+verdict: "指が疲れない、10年使える"
 price_display: "21,780円"
 price_jpy: 21780
 total_reviews: "812"

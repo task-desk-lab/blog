@@ -1,11 +1,12 @@
 ---
-title: "Anker PowerWave 10｜レビュー10,965件を調べた結論"
-description: "Anker PowerWave 10のレビューを10,965件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「置くだけで充電が始まる」｜Anker PowerWave 10（レビュー10,965件）"
+description: "集合知の結論、「置くだけで充電が始まる」。Anker PowerWave 10のレビューを10,965件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-12T07:25:54.746154
 slug: "anker-powerwave-10"
 categories: ["ワイヤレス充電器"]
-tags: ["ワイヤレス充電器", "集合知", "レビュー", "Anker PowerWave 10"]
+tags: ["ワイヤレス充電器", "集合知", "レビュー"]
 product_name: "Anker PowerWave 10"
+verdict: "置くだけで充電が始まる"
 price_display: "2,999円"
 price_jpy: 2999
 total_reviews: "10,965"

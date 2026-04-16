@@ -1,11 +1,12 @@
 ---
-title: "Logicool MX Keys Mini｜レビュー1,195件を調べた結論"
-description: "Logicool MX Keys Miniのレビューを1,195件調べて集合知でまとめました。良い点・注意点・買うべき人を正直に。"
+title: "集合知の結論「指が止まらない打鍵感」｜Logicool MX Keys Mini（レビュー1,195件）"
+description: "集合知の結論、「指が止まらない打鍵感」。Logicool MX Keys Miniのレビューを1,195件ぜんぶ調べた答え。良い点・注意点・買うべき人を正直に。"
 date: 2026-04-11T07:06:56.174517
 slug: "logicool-mx-keys-mini"
 categories: ["キーボード"]
-tags: ["キーボード", "集合知", "レビュー", "Logicool MX Keys Mini"]
+tags: ["キーボード", "集合知", "レビュー"]
 product_name: "Logicool MX Keys Mini"
+verdict: "指が止まらない打鍵感"
 price_display: "16,700円"
 price_jpy: 16700
 total_reviews: "1,195"

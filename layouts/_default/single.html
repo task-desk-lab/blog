@@ -35,7 +35,7 @@
 <nav aria-label="breadcrumb" style="font-size: 12px; color: var(--text-dim); margin-bottom: 16px;">
   <a href="{{ "/" | absURL }}" style="color: var(--text-dim);">ホーム</a>
   &nbsp;›&nbsp;
-  <a href="{{ "/reviews/" | absURL }}" style="color: var(--text-dim);">レビュー</a>
+  <a href="{{ "/reviews/" | absURL }}" style="color: var(--text-dim);">口コミ</a>
   {{ with .Params.categories }}{{ range first 1 . }}
   &nbsp;›&nbsp;
   <a href="{{ printf "/categories/%s/" (. | urlize) | absURL }}" style="color: var(--text-dim);">{{ . }}</a>
@@ -50,7 +50,7 @@
   "@type": "BreadcrumbList",
   "itemListElement": [
     {"@type": "ListItem", "position": 1, "name": "ホーム", "item": "{{ "/" | absURL }}"},
-    {"@type": "ListItem", "position": 2, "name": "レビュー", "item": "{{ "/reviews/" | absURL }}"}
+    {"@type": "ListItem", "position": 2, "name": "口コミ", "item": "{{ "/reviews/" | absURL }}"}
     {{ with .Params.categories }}{{ range first 1 . }},
     {"@type": "ListItem", "position": 3, "name": "{{ . }}", "item": "{{ printf "/categories/%s/" (. | urlize) | absURL }}"}
     {{ end }}{{ end }}
@@ -102,7 +102,7 @@
 {{ $related = where $related "Permalink" "ne" .Permalink }}
 {{ if $related }}
 <section style="margin-top: 60px;">
-  <h2>同じカテゴリの集合知レビュー</h2>
+  <h2>同じカテゴリの集合知口コミ</h2>
   <div class="article-grid" style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
     {{ range first 6 $related }}
     <article class="article-card">
@@ -135,7 +135,7 @@
 {{ end }}
 {{ if $other }}
 <section style="margin-top: 60px;">
-  <h2>他カテゴリの集合知レビュー</h2>
+  <h2>他カテゴリの集合知口コミ</h2>
   <div class="article-grid" style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
     {{ range first 4 $other }}
     <article class="article-card">

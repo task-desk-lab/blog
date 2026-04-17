@@ -82,6 +82,28 @@
   </div>
   {{ end }}
 
+  {{ with .Params.youtube_id }}
+  <div class="video-embed">
+    <div class="video-caption"><b>30秒で結論</b>｜集合知の答えを動画で</div>
+    <div class="iframe-wrap">
+      <iframe
+        src="https://www.youtube.com/embed/{{ . }}?rel=0&modestbranding=1"
+        title="集合知の動画レビュー"
+        loading="lazy"
+        allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        referrerpolicy="strict-origin-when-cross-origin"></iframe>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if or .Params.rakuten_url .Params.amazon_url }}
+  <div class="affiliate-buttons primary">
+    {{ with .Params.rakuten_url }}<a href="{{ . }}" class="rakuten" rel="nofollow sponsored" target="_blank">楽天で価格を見る</a>{{ end }}
+    {{ with .Params.amazon_url }}<a href="{{ . }}" class="amazon" rel="nofollow sponsored" target="_blank">Amazonで価格を見る</a>{{ end }}
+  </div>
+  {{ end }}
+
   {{ .Content }}
 
   {{ if or .Params.rakuten_url .Params.amazon_url }}
@@ -91,9 +113,10 @@
   </div>
   {{ end }}
 
-  {{ with .Params.video_url }}
+  {{/* Legacy text link kept as fallback when only video_url exists (no youtube_id) */}}
+  {{ if and (not .Params.youtube_id) .Params.video_url }}
   <h2>動画で見る</h2>
-  <p><a href="{{ . }}" target="_blank">YouTube Shortsで30秒で解説</a></p>
+  <p><a href="{{ .Params.video_url }}" target="_blank">YouTube Shortsで30秒で解説</a></p>
   {{ end }}
 </article>
 

@@ -4,6 +4,7 @@ description: "FlexiSpot E7の口コミを2,695件ぜんぶ調査。集合知の�
 tags: ["電動昇降デスク", "集合知", "口コミ", "レビュー"]
 date: 2026-04-11T07:12:43.902882
 slug: "flexispot-e7"
+youtube_id: "CseQBBFh0xc"
 categories: ["電動昇降デスク"]
 product_name: "FlexiSpot E7"
 verdict: "長時間座っても腰が楽になる"

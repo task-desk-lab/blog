@@ -4,6 +4,7 @@ description: "Anker PowerPort III 3-Port 65W Podの口コミを2,227件ぜんぶ
 tags: ["充電器", "集合知", "口コミ", "レビュー"]
 date: 2026-04-12T07:31:30.799288
 slug: "anker-powerport-iii-3-port-65w-pod"
+youtube_id: "3aiVW7uCz2M"
 categories: ["充電器"]
 product_name: "Anker PowerPort III 3-Port 65W Pod"
 verdict: "朝のカバンが軽くなる"

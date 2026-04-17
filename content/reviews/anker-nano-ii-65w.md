@@ -4,6 +4,7 @@ description: "Anker Nano II 65Wの口コミを4,215件ぜんぶ調査。集合�
 tags: ["充電器", "集合知", "口コミ", "レビュー"]
 date: 2026-04-12T07:21:06.117519
 slug: "anker-nano-ii-65w"
+youtube_id: "iRXZGH_bt3I"
 categories: ["充電器"]
 product_name: "Anker Nano II 65W"
 verdict: "カバンが軽くなる"

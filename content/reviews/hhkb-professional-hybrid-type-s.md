@@ -4,6 +4,7 @@ description: "HHKB Professional HYBRID Type-Sの口コミを1,035件ぜんぶ調
 tags: ["キーボード", "集合知", "口コミ", "レビュー"]
 date: 2026-04-11T01:13:55.201843
 slug: "hhkb-professional-hybrid-type-s"
+youtube_id: "QVltke4gcpc"
 categories: ["キーボード"]
 product_name: "HHKB Professional HYBRID Type-S"
 verdict: "指の音が消える"

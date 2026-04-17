@@ -4,6 +4,7 @@ description: "Logicool MX Keys Miniの口コミを1,195件ぜんぶ調査。集�
 tags: ["キーボード", "集合知", "口コミ", "レビュー"]
 date: 2026-04-11T07:06:56.174517
 slug: "logicool-mx-keys-mini"
+youtube_id: "ULFDRKWalis"
 categories: ["キーボード"]
 product_name: "Logicool MX Keys Mini"
 verdict: "指が止まらない打鍵感"

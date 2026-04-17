@@ -4,6 +4,7 @@ description: "イトーキ サリダYL9の口コミを689件ぜんぶ調査。�
 tags: ["チェア", "集合知", "口コミ", "レビュー"]
 date: 2026-04-14T07:09:01.014501
 slug: "イトーキ-サリダyl9"
+youtube_id: "19VhHrbjkco"
 categories: ["チェア"]
 product_name: "イトーキ サリダYL9"
 verdict: "午後の蒸し蒸れから解放される"

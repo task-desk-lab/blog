@@ -448,6 +448,46 @@
     .affiliate-buttons .rakuten:hover { background: #bf0000; }
     .affiliate-buttons .amazon { border-color: #ff9900; }
     .affiliate-buttons .amazon:hover { background: #ff9900; }
+    /* Primary CTA placed right after the video embed — pre-filled bg so it
+       reads as the action, not just a link. The secondary set after .Content
+       keeps the lighter outlined style as a re-prompt. */
+    .affiliate-buttons.primary { margin: 18px 0 28px; }
+    .affiliate-buttons.primary .rakuten { background: #bf0000; color: #fff; }
+    .affiliate-buttons.primary .rakuten:hover { background: #d50000; color: #fff; }
+    .affiliate-buttons.primary .amazon { background: #ff9900; color: var(--bg); }
+    .affiliate-buttons.primary .amazon:hover { background: #ffad33; color: var(--bg); }
+
+    /* YouTube Shorts embed — narrow wrapper so the 9:16 iframe doesn't
+       letterbox the article. aspect-ratio prevents CLS on lazy mount. */
+    .video-embed {
+      max-width: 360px;
+      margin: 24px auto 8px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .video-embed .video-caption {
+      text-align: center;
+      padding: 12px 14px 6px;
+      font-size: 13px;
+      color: var(--text-dim);
+      letter-spacing: 0.02em;
+    }
+    .video-embed .video-caption b { color: var(--accent); margin-right: 6px; }
+    .video-embed .iframe-wrap {
+      position: relative;
+      aspect-ratio: 9 / 16;
+      background: var(--bg-deep);
+    }
+    .video-embed iframe {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+      display: block;
+    }
 
     .product-card {
       background: var(--bg-card);

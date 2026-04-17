@@ -4,6 +4,7 @@ description: "Anker PowerWave 10の口コミを10,965件ぜんぶ調査。集合
 tags: ["ワイヤレス充電器", "集合知", "口コミ", "レビュー"]
 date: 2026-04-12T07:25:54.746154
 slug: "anker-powerwave-10"
+youtube_id: "Gn04uiSxRKg"
 categories: ["ワイヤレス充電器"]
 product_name: "Anker PowerWave 10"
 verdict: "置くだけで充電が始まる"

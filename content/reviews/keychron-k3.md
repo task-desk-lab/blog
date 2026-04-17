@@ -4,6 +4,7 @@ description: "Keychron K3の口コミを1,395件ぜんぶ調査。集合知の�
 tags: ["キーボード", "集合知", "口コミ", "レビュー"]
 date: 2026-04-11T01:19:03.887918
 slug: "keychron-k3"
+youtube_id: "f8OXQGqBYrA"
 categories: ["キーボード"]
 product_name: "Keychron K3"
 verdict: "カバンに忍ばせたまま仕事が続く"

@@ -4,6 +4,7 @@ description: "Apple AirPods Proの口コミを52,500件ぜんぶ調査。集合�
 tags: ["イヤホン", "集合知", "口コミ", "レビュー"]
 date: 2026-04-13T07:31:14.429975
 slug: "apple-airpods-pro"
+youtube_id: "C-OgzPGnDkU"
 categories: ["イヤホン"]
 product_name: "Apple AirPods Pro"
 verdict: "外の音が消える"

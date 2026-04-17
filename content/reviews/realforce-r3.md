@@ -4,6 +4,7 @@ description: "REALFORCE R3の口コミを812件ぜんぶ調査。集合知の結
 tags: ["キーボード", "集合知", "口コミ", "レビュー"]
 date: 2026-04-12T07:07:05.200737
 slug: "realforce-r3"
+youtube_id: "7lgc2lEvfOw"
 categories: ["キーボード"]
 product_name: "REALFORCE R3"
 verdict: "指が疲れない、10年使える"

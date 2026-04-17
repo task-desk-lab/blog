@@ -4,6 +4,7 @@ description: "Apple Magic Keyboardの口コミを1,770件ぜんぶ調査。集�
 tags: ["キーボード", "集合知", "口コミ", "レビュー"]
 date: 2026-04-12T07:12:30.275260
 slug: "apple-magic-keyboard"
+youtube_id: "we8fJaJA3B4"
 categories: ["キーボード"]
 product_name: "Apple Magic Keyboard"
 verdict: "指が止まらない打鍵感"

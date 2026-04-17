@@ -4,6 +4,7 @@ description: "Anker PowerConfの口コミを3,743件ぜんぶ調査。集合知�
 tags: ["スピーカーフォン", "集合知", "口コミ", "レビュー"]
 date: 2026-04-14T07:13:52.853719
 slug: "anker-powerconf"
+youtube_id: "sz1-UGOlokA"
 categories: ["スピーカーフォン"]
 product_name: "Anker PowerConf"
 verdict: "相手に声が届く、会議が決まる"

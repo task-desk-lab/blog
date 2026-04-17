@@ -4,6 +4,7 @@ description: "FlexiSpot EF1の口コミを1,395件ぜんぶ調査。集合知の
 tags: ["電動昇降デスク", "集合知", "口コミ", "レビュー"]
 date: 2026-04-11T07:19:34.875732
 slug: "flexispot-ef1"
+youtube_id: "jVkIh_4OIv8"
 categories: ["電動昇降デスク"]
 product_name: "FlexiSpot EF1"
 verdict: "朝から夕方まで腰が楽になる"

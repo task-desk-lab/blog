@@ -4,6 +4,7 @@ description: "BenQ ScreenBarの口コミを4,750件ぜんぶ調査。集合知�
 tags: ["モニターライト", "集合知", "口コミ", "レビュー"]
 date: 2026-04-11T01:08:46.679835
 slug: "benq-screenbar"
+youtube_id: "LIewL4ik38k"
 categories: ["モニターライト"]
 product_name: "BenQ ScreenBar"
 verdict: "デスクの暗さが消える"

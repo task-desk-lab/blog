@@ -6,6 +6,12 @@
     <div class="categories-grid">
       {{ range .Data.Terms.Alphabetical }}
       {{ $cat := .Name }}
+      {{ $latest := "" }}
+      {{ range .Pages }}
+        {{ if or (not $latest) (.Date.After $latest) }}
+          {{ $latest = .Date }}
+        {{ end }}
+      {{ end }}
       <div class="category-item">
         <a href="{{ "/categories/" | absURL }}{{ $cat | urlize }}/">
           <div class="icon">
@@ -27,7 +33,8 @@
             {{ end }}
           </div>
           <div class="name">{{ $cat }}</div>
-          <div class="count">{{ .Count }}本</div>
+          <div class="count">{{ .Count }} REPORTS</div>
+          {{ with $latest }}<div class="updated">{{ .Format "2006.01.02" }} 更新</div>{{ end }}
         </a>
       </div>
       {{ end }}

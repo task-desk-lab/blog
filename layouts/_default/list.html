@@ -5,6 +5,10 @@
     <h2>{{ .Title | default "記事一覧" }}</h2>
     <div class="article-grid">
       {{ range .Pages.ByDate.Reverse }}
+      {{ $rating := .Params.rating | default 0 }}
+      {{ $sat := 0 }}
+      {{ if $rating }}{{ $sat = mul (div $rating 5.0) 100 }}{{ end }}
+      {{ $satInt := int $sat }}
       <article class="article-card">
         <a href="{{ .Permalink }}">
           <div class="thumb">
@@ -13,7 +17,19 @@
           <div class="body">
             {{ with .Params.categories }}{{ range first 1 . }}<span class="cat">{{ . }}</span>{{ end }}{{ end }}
             <h3>{{ .Title }}</h3>
-            {{ with .Params.total_reviews }}<div class="reviews">集合知: {{ . }}件</div>{{ end }}
+            {{ if $rating }}
+            <div class="sat-bar">
+              <div class="sat-row">
+                <span>集合知の満足度</span>
+                <span class="sat-score">{{ $satInt }}%</span>
+              </div>
+              <div class="sat-track">
+                <div class="sat-fill" style="width: {{ $satInt }}%"></div>
+                <div class="sat-rest" style="width: {{ sub 100 $satInt }}%"></div>
+              </div>
+            </div>
+            {{ end }}
+            {{ with .Params.total_reviews }}<div class="reviews">口コミ <b>{{ . }}</b> 件を分析</div>{{ end }}
           </div>
         </a>
       </article>

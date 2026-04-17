@@ -14,59 +14,83 @@
 {{ $pages := where .Site.RegularPages "Section" "reviews" }}
 {{ $total := 0 }}
 {{ $categories := dict }}
+{{ $catDates := dict }}
 {{ range $pages }}
   {{ with .Params.total_reviews }}
     {{ $clean := replace . "," "" }}
     {{ $n := int $clean }}
     {{ $total = add $total $n }}
   {{ end }}
+  {{ $d := .Date }}
   {{ range .Params.categories }}
     {{ $cnt := index $categories . | default 0 }}
     {{ $categories = merge $categories (dict . (add $cnt 1)) }}
+    {{ $prev := index $catDates . }}
+    {{ if or (not $prev) ($d.After $prev) }}
+      {{ $catDates = merge $catDates (dict . $d) }}
+    {{ end }}
   {{ end }}
 {{ end }}
 
 <section class="hero">
-  <div class="container">
-    <div class="hero-inner">
-      <div>
-        <h2>個人の1票より、<br><span class="accent">数千人の集合知</span>で選ぶ</h2>
-        <p>Amazon・楽天・YouTube・価格コムの口コミをまとめて分析。ガジェット購入前の「本当に買っていいの？」に、数字で答えます。</p>
-        <div class="hero-stats">
-          <div class="stat-card">
-            <span class="num">{{ $total }}</span>
-            <span class="label">分析した口コミ件数</span>
-          </div>
-          <div class="stat-card">
-            <span class="num">{{ len $pages }}</span>
-            <span class="label">集合知レポート本数</span>
-          </div>
-          <div class="stat-card">
-            <span class="num">4</span>
-            <span class="label">情報ソース</span>
-          </div>
-          <div class="stat-card">
-            <span class="num">0</span>
-            <span class="label">忖度タイアップ</span>
-          </div>
-        </div>
+  <div class="container hero-inner">
+    <div class="hero-badge">
+      <span class="dot"></span>
+      <span>LAB REPORT / 忖度タイアップ 0件</span>
+    </div>
+    <div class="hero-number mono" data-countup="{{ $total }}">{{ $total }}</div>
+    <div class="hero-number-sub">件の口コミを、AIが横断分析</div>
+    <h2>個人の1票より、<span class="accent">数千人の集合知</span>で選ぶ。</h2>
+    <p>Amazon・楽天・YouTube・価格コムをまたいで、ガジェットの「本当に買っていいの？」に数字で答えます。</p>
+    <div class="hero-sources">
+      <span class="label">▼ 情報ソース</span>
+      <span class="chip">Amazon</span>
+      <span class="chip">楽天市場</span>
+      <span class="chip">YouTube</span>
+      <span class="chip">価格コム</span>
+    </div>
+    <div class="hero-stats">
+      <div class="stat-card">
+        <span class="num">{{ $total }}</span>
+        <span class="label">分析した口コミ件数</span>
       </div>
-      <div class="hero-avatar">
-        <img src="{{ "/img/avatars/main.png" | absURL }}" alt="タスク">
+      <div class="stat-card">
+        <span class="num">{{ len $pages }}</span>
+        <span class="label">集合知レポート本数</span>
+      </div>
+      <div class="stat-card">
+        <span class="num">4</span>
+        <span class="label">情報ソース</span>
+      </div>
+      <div class="stat-card">
+        <span class="num">0</span>
+        <span class="label">忖度タイアップ</span>
       </div>
     </div>
   </div>
 </section>
 
-<section class="block">
+<section class="how-it-works block">
   <div class="container">
-    <div class="sources-bar">
-      <div class="label">▼ 4つのソースを横断分析</div>
-      <div class="logos">
-        <span>Amazon</span>
-        <span>楽天市場</span>
-        <span>YouTube</span>
-        <span>価格コム</span>
+    <h2>どうやって「集合知」を出しているか</h2>
+    <div class="how-grid">
+      <div class="how-step">
+        <span class="icon">📥</span>
+        <div class="step-num">STEP 01</div>
+        <h3>4媒体から口コミ収集</h3>
+        <p>Amazon・楽天・YouTube・価格コムを横断。1商品あたり数百〜数千件を機械的に取得します。</p>
+      </div>
+      <div class="how-step">
+        <span class="icon">🧪</span>
+        <div class="step-num">STEP 02</div>
+        <h3>AIでポジ/ネガ論点を抽出</h3>
+        <p>良い評価・悪い評価の根拠を要約。一方では見えない弱点を、別の媒体が補足していないか照合します。</p>
+      </div>
+      <div class="how-step">
+        <span class="icon">📊</span>
+        <div class="step-num">STEP 03</div>
+        <h3>集合知スコアで順位化</h3>
+        <p>件数・満足度・デメリットの深刻度を重み付けして、「後悔しにくい1品」をレポート化します。</p>
       </div>
     </div>
   </div>
@@ -78,6 +102,7 @@
     <h2>カテゴリから探す</h2>
     <div class="categories-grid">
       {{ range $cat, $count := $categories }}
+      {{ $d := index $catDates $cat }}
       <div class="category-item">
         <a href="{{ "/categories/" | absURL }}{{ $cat | urlize }}/">
           <div class="icon">
@@ -99,7 +124,8 @@
             {{ end }}
           </div>
           <div class="name">{{ $cat }}</div>
-          <div class="count">{{ $count }}本</div>
+          <div class="count">{{ $count }} REPORTS</div>
+          {{ with $d }}<div class="updated">{{ .Format "2006.01.02" }} 更新</div>{{ end }}
         </a>
       </div>
       {{ end }}
@@ -113,6 +139,10 @@
     <h2>最新の集合知レポート</h2>
     <div class="article-grid">
       {{ range first 12 $pages.ByDate.Reverse }}
+      {{ $rating := .Params.rating | default 0 }}
+      {{ $sat := 0 }}
+      {{ if $rating }}{{ $sat = mul (div $rating 5.0) 100 }}{{ end }}
+      {{ $satInt := int $sat }}
       <article class="article-card">
         <a href="{{ .Permalink }}">
           <div class="thumb">
@@ -121,7 +151,19 @@
           <div class="body">
             {{ with .Params.categories }}{{ range first 1 . }}<span class="cat">{{ . }}</span>{{ end }}{{ end }}
             <h3>{{ .Title }}</h3>
-            {{ with .Params.total_reviews }}<div class="reviews">集合知: {{ . }}件</div>{{ end }}
+            {{ if $rating }}
+            <div class="sat-bar">
+              <div class="sat-row">
+                <span>集合知の満足度</span>
+                <span class="sat-score">{{ $satInt }}%</span>
+              </div>
+              <div class="sat-track">
+                <div class="sat-fill" style="width: {{ $satInt }}%"></div>
+                <div class="sat-rest" style="width: {{ sub 100 $satInt }}%"></div>
+              </div>
+            </div>
+            {{ end }}
+            {{ with .Params.total_reviews }}<div class="reviews">口コミ <b>{{ . }}</b> 件を分析</div>{{ end }}
           </div>
         </a>
       </article>
@@ -146,4 +188,34 @@
     </div>
   </div>
 </section>
+
+<script>
+  (function () {
+    var el = document.querySelector('[data-countup]');
+    if (!el) return;
+    var target = parseInt(el.getAttribute('data-countup'), 10);
+    if (!target || target < 1) return;
+    var duration = 1400;
+    var start = null;
+    el.textContent = '0';
+    function step(ts) {
+      if (!start) start = ts;
+      var p = Math.min(1, (ts - start) / duration);
+      var eased = 1 - Math.pow(1 - p, 3);
+      var v = Math.floor(target * eased);
+      el.textContent = v.toLocaleString('en-US');
+      if (p < 1) requestAnimationFrame(step);
+      else el.textContent = target.toLocaleString('en-US');
+    }
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting) {
+          requestAnimationFrame(step);
+          io.disconnect();
+        }
+      });
+    }, { threshold: 0.2 });
+    io.observe(el);
+  })();
+</script>
 {{ end }}

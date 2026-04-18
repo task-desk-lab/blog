@@ -20,16 +20,6 @@ product_image: "/img/products/logicool-ergo-m575s.jpg"
 keywords: ["Logicool ERGO M575S 口コミ", "Logicool ERGO M575S 評判", "Logicool ERGO M575S デメリット", "Logicool ERGO M575S レビュー", "Logicool ERGO M575S 後悔", "Logicool ERGO M575S", "トラックボール 口コミ", "トラックボール おすすめ"]
 ---
 
-【編集者メモ：SEO実装セット】
-- **title tag**: `Logicool ERGO M575Sレビュー｜肩こりに効くか4,000件の口コミで検証`
-- **meta description**: `Logicool ERGO M575Sの口コミ4,000件超を調査。3週間使って気づいた肩こり改善の実態・慣れの壁・左利き非対応など、買う前に知っておきたいことを正直にまとめた。`
-- **OGP og:title/og:description**: meta descriptionと同文で可
-- **構造化データ**: Product schemaにname・brand・offers（price: 8800, priceCurrency: JPY）を設定。Review schemaにratingValue・reviewCount（4000+）を追加し、featured snippet対象のFAQセクションにはFAQPage schemaを付与する
-
----
-
-# Logicool ERGO M575Sレビュー｜肩こりに効くか4,000件の口コミで検証
-
 Amazon・楽天合わせて4,000件超の口コミを調べた。結論から言うと、**腕を動かさずに操作できる構造が、肩や前腕への負担を実際に減らす**。ただし慣れるまでの1〜2週間は正直しんどい。左利きと精密作業が多い人には向かない。
 
 ---

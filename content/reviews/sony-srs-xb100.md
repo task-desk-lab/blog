@@ -20,7 +20,6 @@ product_image: "/img/products/sony-srs-xb100.jpg"
 keywords: ["Sony SRS-XB100 口コミ", "Sony SRS-XB100 評判", "Sony SRS-XB100 デメリット", "Sony SRS-XB100 レビュー", "Sony SRS-XB100 後悔", "Sony SRS-XB100", "Bluetoothスピーカー 口コミ", "Bluetoothスピーカー おすすめ"]
 ---
 
-```markdown
 <!-- meta description: Sony SRS-XB100の口コミ3,200件を横断調査。IP67防水・16時間バッテリー・280gの実力をメリット・デメリット別に整理。買って後悔する人・満足する人を明確に解説。（118字） -->
 
 <script type="application/ld+json">
@@ -210,4 +209,3 @@ Amazon3,200件・楽天820件、合計4,470件の口コミを調査すると、�
 </div>
 
 また明日、集合知で会おう。
-```

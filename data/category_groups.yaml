@@ -1,0 +1,86 @@
+- name: 入力デバイス
+  emoji: "⌨️"
+  items:
+    - { cat: "キーボード", icon: "⌨️" }
+    - { cat: "マウス", icon: "🖱" }
+    - { cat: "エルゴノミクスマウス", icon: "🤚" }
+    - { cat: "トラックボール", icon: "🖲" }
+
+- name: ディスプレイ周り
+  emoji: "🖥"
+  items:
+    - { cat: "モニターアーム", icon: "🦾" }
+    - { cat: "モニタースタンド", icon: "🖥" }
+    - { cat: "モニターライト", icon: "🔆" }
+    - { cat: "Webカメラ", icon: "📷" }
+    - { cat: "書見台", icon: "📖" }
+
+- name: デスク環境
+  emoji: "🪑"
+  items:
+    - { cat: "電動昇降デスク", icon: "🪑" }
+    - { cat: "チェア", icon: "💺" }
+    - { cat: "フットレスト", icon: "🦶" }
+    - { cat: "リストレスト", icon: "✋" }
+    - { cat: "PCスタンド", icon: "💻" }
+    - { cat: "デスクライト", icon: "💡" }
+
+- name: オーディオ・通話
+  emoji: "🎧"
+  items:
+    - { cat: "ワイヤレスイヤホン", icon: "🎧" }
+    - { cat: "ヘッドホン", icon: "🎵" }
+    - { cat: "イヤホン", icon: "🎶" }
+    - { cat: "Bluetoothスピーカー", icon: "🔈" }
+    - { cat: "スピーカーフォン", icon: "📞" }
+
+- name: 電源・接続
+  emoji: "🔌"
+  items:
+    - { cat: "充電器", icon: "🔌" }
+    - { cat: "ワイヤレス充電器", icon: "🔋" }
+    - { cat: "モバイルバッテリー", icon: "🪫" }
+    - { cat: "電源タップ", icon: "⚡" }
+    - { cat: "USBハブ", icon: "🧩" }
+    - { cat: "Wi-Fiルーター", icon: "📡" }
+
+- name: スマート家電・事務機器
+  emoji: "📲"
+  items:
+    - { cat: "スマートスピーカー", icon: "🔊" }
+    - { cat: "スマートプラグ", icon: "🟢" }
+    - { cat: "スマートリモコン", icon: "🎛" }
+    - { cat: "ラベルライター", icon: "🏷" }
+    - { cat: "シュレッダー", icon: "📄" }
+
+- name: 環境・キッチン
+  emoji: "🌿"
+  items:
+    - { cat: "加湿器", icon: "💧" }
+    - { cat: "空気清浄機", icon: "🌬" }
+    - { cat: "サーキュレーター", icon: "🌀" }
+    - { cat: "温湿度計", icon: "🌡" }
+    - { cat: "コーヒーメーカー", icon: "☕" }
+    - { cat: "タンブラー", icon: "🥤" }
+
+- name: 文房具・筆記
+  emoji: "🖊"
+  items:
+    - { cat: "ボールペン", icon: "🖊" }
+    - { cat: "シャープペン", icon: "✏️" }
+    - { cat: "万年筆", icon: "🖋" }
+    - { cat: "蛍光ペン", icon: "🖍" }
+    - { cat: "筆記具", icon: "✒️" }
+    - { cat: "ペンケース", icon: "👜" }
+    - { cat: "ペン立て", icon: "🪣" }
+    - { cat: "ハサミ", icon: "✂️" }
+    - { cat: "文房具", icon: "📎" }
+
+- name: ノート・整理
+  emoji: "📓"
+  items:
+    - { cat: "ノート", icon: "📓" }
+    - { cat: "手帳", icon: "📔" }
+    - { cat: "デスク整理", icon: "📦" }
+    - { cat: "デスク収納", icon: "🗄" }
+    - { cat: "書類収納", icon: "🗂" }

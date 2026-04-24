@@ -1,0 +1,70 @@
+{{/*
+  Renders the full category index, grouped by theme defined in
+  data/category_groups.yaml. Falls back to "その他" group for any
+  category not yet listed in the data file.
+*/}}
+{{ $tax := .Site.Taxonomies.categories }}
+{{ if $tax }}
+{{ $known := slice }}
+{{ range .Site.Data.category_groups }}
+  {{ range .items }}
+    {{ $known = $known | append (lower .cat) }}
+  {{ end }}
+{{ end }}
+
+<div class="cat-toc">
+  {{ range $i, $g := .Site.Data.category_groups }}
+    {{ $shown := false }}
+    {{ range $g.items }}{{ if index $tax (lower .cat) }}{{ $shown = true }}{{ end }}{{ end }}
+    {{ if $shown }}<a href="#g{{ $i }}" class="cat-toc-chip"><span>{{ $g.emoji }}</span>{{ $g.name }}</a>{{ end }}
+  {{ end }}
+</div>
+
+{{ range $i, $g := .Site.Data.category_groups }}
+  {{ $name := $g.name }}
+  {{ $emoji := $g.emoji }}
+  {{ $items := slice }}
+  {{ range $g.items }}
+    {{ $term := index $tax (lower .cat) }}
+    {{ if $term }}
+      {{ $items = $items | append (dict "cat" .cat "icon" .icon "count" $term.Count) }}
+    {{ end }}
+  {{ end }}
+  {{ if $items }}
+  <div class="cat-group" id="g{{ $i }}">
+    <h3 class="cat-group-title"><span class="cat-group-emoji">{{ $emoji }}</span>{{ $name }}<span class="cat-group-num">{{ len $items }}</span></h3>
+    <div class="categories-grid-compact">
+      {{ range $items }}
+      <a class="category-chip" href="{{ "/categories/" | absURL }}{{ .cat | urlize }}/">
+        <span class="ci">{{ .icon }}</span>
+        <span class="cn">{{ .cat }}</span>
+        <span class="cc">{{ .count }} REPORTS</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+{{ end }}
+
+{{/* Orphan categories not yet placed in a group */}}
+{{ $orphans := slice }}
+{{ range $name, $term := $tax }}
+  {{ if not (in $known (lower $name)) }}
+    {{ $orphans = $orphans | append (dict "cat" $name "count" $term.Count) }}
+  {{ end }}
+{{ end }}
+{{ if $orphans }}
+<div class="cat-group" id="g-other">
+  <h3 class="cat-group-title"><span class="cat-group-emoji">🎁</span>その他<span class="cat-group-num">{{ len $orphans }}</span></h3>
+  <div class="categories-grid-compact">
+    {{ range $orphans }}
+    <a class="category-chip" href="{{ "/categories/" | absURL }}{{ .cat | urlize }}/">
+      <span class="ci">🎁</span>
+      <span class="cn">{{ .cat }}</span>
+      <span class="cc">{{ .count }} REPORTS</span>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+{{ end }}

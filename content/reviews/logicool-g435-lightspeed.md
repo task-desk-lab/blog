@@ -1,5 +1,5 @@
 ---
-title: "Logicool G435 LIGHTSPEEDの口コミ｜4,540件調べて分かった「165gの軽さで長時間ゲームも首が疲れない」｜評判・デメリット【2026】"
+title: "Logicool G435 LIGHTSPEEDの口コミ・評判｜165gの軽さで長時間ゲームも首が疲れない【2026】"
 description: "Logicool G435 LIGHTSPEEDの口コミを4,540件ぜんぶ調査。集合知の結論は「165gの軽さで長時間ゲームも首が疲れない」。良い評判・悪い口コミ・デメリット・後悔する人を正直にまとめました。"
 date: 2026-05-07T08:41:18.783484
 slug: "logicool-g435-lightspeed"

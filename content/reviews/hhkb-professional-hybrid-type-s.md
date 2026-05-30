@@ -1,5 +1,5 @@
 ---
-title: "HHKB Professional HYBRID Type-Sの口コミ｜1,035件調べて分かった「指の音が消える」｜評判・デメリット【2026】"
+title: "HHKB Professional HYBRID Type-Sの口コミ・評判｜指の音が消える【2026】"
 description: "HHKB Professional HYBRID Type-Sの口コミを1,035件ぜんぶ調査。集合知の結論は「指の音が消える」。良い評判・悪い口コミ・デメリット・後悔する人を正直にまとめました。"
 tags: ["キーボード", "集合知", "口コミ", "レビュー"]
 date: 2026-04-11T01:13:55.201843

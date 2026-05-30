@@ -1,5 +1,5 @@
 ---
-title: "Bose QuietComfort Earbuds IIの口コミ｜6,100件調べて分かった「飛行機でも無音になる」｜評判・デメリット【2026】"
+title: "Bose QuietComfort Earbuds IIの口コミ・評判｜飛行機でも無音になる【2026】"
 description: "Bose QuietComfort Earbuds IIの口コミを6,100件ぜんぶ調査。集合知の結論は「飛行機でも無音になる」。良い評判・悪い口コミ・デメリット・後悔する人を正直にまとめました。"
 date: 2026-05-24T07:51:12.561912
 slug: "bose-quietcomfort-earbuds-ii"

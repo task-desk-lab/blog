@@ -1,5 +1,5 @@
 ---
-title: "Wacom Intuos Medium CTL-6100WLの口コミ｜3,260件調べて分かった「線が手に吸いつく感覚、ワイヤレスで机がすっきり」｜評判・デメリット【2026】"
+title: "Wacom Intuos Medium CTL-6100WLの口コミ・評判｜線が手に吸いつく感覚、ワイヤレスで机がすっきり【2026】"
 description: "Wacom Intuos Medium CTL-6100WLの口コミを3,260件ぜんぶ調査。集合知の結論は「線が手に吸いつく感覚、ワイヤレスで机がすっきり」。良い評判・悪い口コミ・デメリット・後悔する人を正直にまとめました。"
 date: 2026-05-12T07:45:30.829387
 slug: "wacom-intuos-medium-ctl-6100wl"

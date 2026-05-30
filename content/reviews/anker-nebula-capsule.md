@@ -1,5 +1,5 @@
 ---
-title: "Anker Nebula Capsuleの口コミ｜2,350件調べて分かった「暗室さえあればどこでも映画館になる」｜評判・デメリット【2026】"
+title: "Anker Nebula Capsuleの口コミ・評判｜暗室さえあればどこでも映画館になる【2026】"
 description: "Anker Nebula Capsuleの口コミを2,350件ぜんぶ調査。集合知の結論は「暗室さえあればどこでも映画館になる」。良い評判・悪い口コミ・デメリット・後悔する人を正直にまとめました。"
 date: 2026-04-28T08:57:14.229253
 slug: "anker-nebula-capsule"

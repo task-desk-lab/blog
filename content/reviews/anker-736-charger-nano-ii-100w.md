@@ -1,5 +1,5 @@
 ---
-title: "Anker 736 Charger Nano II 100Wの口コミ｜2,404件調べて分かった「ACアダプタがこれ1個に集約される」｜評判・デメリット【2026】"
+title: "Anker 736 Charger Nano II 100Wの口コミ・評判｜ACアダプタがこれ1個に集約される【2026】"
 description: "Anker 736 Charger Nano II 100Wの口コミを2,404件ぜんぶ調査。集合知の結論は「ACアダプタがこれ1個に集約される」。良い評判・悪い口コミ・デメリット・後悔する人を正直にまとめました。"
 date: 2026-04-30T07:44:08.784289
 slug: "anker-736-charger-nano-ii-100w"

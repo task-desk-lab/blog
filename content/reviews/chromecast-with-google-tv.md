@@ -1,5 +1,5 @@
 ---
-title: "Chromecast with Google TVの口コミ｜6,970件調べて分かった「スマホの続きがテレビで始まる」｜評判・デメリット【2026】"
+title: "Chromecast with Google TVの口コミ・評判｜スマホの続きがテレビで始まる【2026】"
 description: "Chromecast with Google TVの口コミを6,970件ぜんぶ調査。集合知の結論は「スマホの続きがテレビで始まる」。良い評判・悪い口コミ・デメリット・後悔する人を正直にまとめました。"
 date: 2026-05-11T08:23:16.162075
 slug: "chromecast-with-google-tv"

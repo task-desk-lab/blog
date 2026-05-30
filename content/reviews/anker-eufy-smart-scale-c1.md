@@ -1,5 +1,5 @@
 ---
-title: "Anker Eufy Smart Scale C1の口コミ｜9,795件調べて分かった「アプリ連携で体組成が毎朝自動で記録される」｜評判・デメリット【2026】"
+title: "Anker Eufy Smart Scale C1の口コミ・評判｜アプリ連携で体組成が毎朝自動で記録される【2026】"
 description: "Anker Eufy Smart Scale C1の口コミを9,795件ぜんぶ調査。集合知の結論は「アプリ連携で体組成が毎朝自動で記録される」。良い評判・悪い口コミ・デメリット・後悔する人を正直にまとめました。"
 date: 2026-05-01T09:06:23.276034
 slug: "anker-eufy-smart-scale-c1"

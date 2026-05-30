@@ -1,5 +1,5 @@
 ---
-title: "CIO SMARTCOBY Pro 30Wの口コミ｜1,322件調べて分かった「充電器をカバンから追放できる」｜評判・デメリット【2026】"
+title: "CIO SMARTCOBY Pro 30Wの口コミ・評判｜充電器をカバンから追放できる【2026】"
 description: "CIO SMARTCOBY Pro 30Wの口コミを1,322件ぜんぶ調査。集合知の結論は「充電器をカバンから追放できる」。良い評判・悪い口コミ・デメリット・後悔する人を正直にまとめました。"
 date: 2026-04-25T08:36:46.538558
 slug: "cio-smartcoby-pro-30w"

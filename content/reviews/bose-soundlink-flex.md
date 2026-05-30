@@ -1,5 +1,5 @@
 ---
-title: "Bose SoundLink Flexの口コミ｜5,250件調べて分かった「水に落としても音が死なない」｜評判・デメリット【2026】"
+title: "Bose SoundLink Flexの口コミ・評判｜水に落としても音が死なない【2026】"
 description: "Bose SoundLink Flexの口コミを5,250件ぜんぶ調査。集合知の結論は「水に落としても音が死なない」。良い評判・悪い口コミ・デメリット・後悔する人を正直にまとめました。"
 date: 2026-05-23T08:25:26.873294
 slug: "bose-soundlink-flex"

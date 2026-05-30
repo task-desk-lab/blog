@@ -123,6 +123,17 @@
 {{ $category := index .Params.categories 0 }}
 {{ $related := where (where .Site.RegularPages "Section" "reviews") "Params.categories" "intersect" .Params.categories }}
 {{ $related = where $related "Permalink" "ne" .Permalink }}
+{{/* Concentrate internal links on near-page-1 / winning articles: pull any
+     same-category page listed in data/seo_priority.yaml to the front, so the
+     6 surfaced links favour the pages most likely to be pushed onto page 1.
+     Falls back to default ordering when no priority pages share the category. */}}
+{{ $prioSlugs := .Site.Data.seo_priority.slugs }}
+{{ $prioPages := slice }}
+{{ $restPages := slice }}
+{{ range $related }}
+  {{ if in $prioSlugs .Params.slug }}{{ $prioPages = $prioPages | append . }}{{ else }}{{ $restPages = $restPages | append . }}{{ end }}
+{{ end }}
+{{ $related = $prioPages | append $restPages }}
 {{ if $related }}
 <section style="margin-top: 60px;">
   <h2>同じカテゴリの集合知口コミ</h2>
@@ -161,6 +172,40 @@
   <h2>他カテゴリの集合知口コミ</h2>
   <div class="article-grid" style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
     {{ range first 4 $other }}
+    <article class="article-card">
+      <a href="{{ .Permalink }}">
+        <div class="thumb">
+          <img src="{{ printf "/img/thumbs/%s.png" .Params.slug | absURL }}" alt="{{ .Title }}" loading="lazy">
+        </div>
+        <div class="body">
+          {{ with .Params.categories }}{{ range first 1 . }}<span class="cat">{{ . }}</span>{{ end }}{{ end }}
+          <h3>{{ .Title }}</h3>
+          {{ with .Params.total_reviews }}<div class="reviews">集合知: {{ . }}件</div>{{ end }}
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{/* Cross-category internal links to near-page-1 / winning articles. Every one
+     of the 278 reviews links here, concentrating link equity on the ~22 pages
+     in data/seo_priority.yaml that are most likely to break onto page 1.
+     Self is excluded; regenerate the list with scripts/gen_priority.py. */}}
+{{ $prioSlugs := .Site.Data.seo_priority.slugs }}
+{{ $spotlight := slice }}
+{{ range $prioSlugs }}
+  {{ $slug := . }}
+  {{ range where (where $.Site.RegularPages "Section" "reviews") "Params.slug" $slug }}
+    {{ if ne .Permalink $.Permalink }}{{ $spotlight = $spotlight | append . }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ if $spotlight }}
+<section style="margin-top: 60px;">
+  <h2>いま注目の集合知レポート</h2>
+  <div class="article-grid" style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
+    {{ range first 8 $spotlight }}
     <article class="article-card">
       <a href="{{ .Permalink }}">
         <div class="thumb">

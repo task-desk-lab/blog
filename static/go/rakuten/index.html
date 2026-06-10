@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>楽天へ移動中… | 集合知デスクラボ</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-V9ST57M0Y0"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-V9ST57M0Y0', { transport_type: 'beacon' });
+  </script>
+  <style>
+    body { font-family: -apple-system, "Hiragino Sans", sans-serif; display: flex;
+           align-items: center; justify-content: center; min-height: 100vh; margin: 0;
+           color: #333; background: #fafafa; }
+    .box { text-align: center; padding: 24px; }
+    .spinner { width: 28px; height: 28px; border: 3px solid #ddd; border-top-color: #bf0000;
+               border-radius: 50%; margin: 0 auto 14px; animation: spin .8s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    a { color: #bf0000; }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <div class="spinner"></div>
+    <p>楽天へ移動しています…</p>
+    <p id="fallback" style="display:none"><a id="manual" href="#">移動しない場合はこちら</a></p>
+  </div>
+  <script>
+    (function () {
+      var q = new URLSearchParams(location.search);
+      var raw = q.get('u') || '';
+      var ch = (q.get('ch') || 'unknown').slice(0, 40);
+      var item = (q.get('v') || '').slice(0, 120);
+
+      var target = null;
+      try {
+        var url = new URL(raw);
+        var host = url.hostname;
+        var ok = /(^|\.)rakuten\.co\.jp$/.test(host)
+              || host === 'a.r10.to'
+              || host === 'af.moshimo.com'
+              || /(^|\.)rakuten-card\.co\.jp$/.test(host);
+        if (ok && /^https?:$/.test(url.protocol)) target = url.href;
+      } catch (_) { /* invalid u param */ }
+
+      if (!target) { location.replace('https://taskdesklab.com/'); return; }
+
+      var navigated = false;
+      function go() {
+        if (navigated) return;
+        navigated = true;
+        // JS-initiated navigation: iOS universal links do not fire here, so the
+        // user lands on Rakuten WEB (affiliate cookie set in-browser) instead of
+        // being bounced to the Rakuten app where the cookie is lost.
+        location.replace(target);
+      }
+
+      var dest = '';
+      try { dest = new URL(target).hostname; } catch (_) {}
+      if (typeof gtag === 'function') {
+        gtag('event', 'affiliate_redirect', {
+          network: 'rakuten',
+          channel: ch,
+          item_slug: item,
+          link_domain: dest,
+          referrer: (document.referrer || '').slice(0, 200),
+          event_callback: go
+        });
+      }
+      setTimeout(go, 450);
+
+      var manual = document.getElementById('manual');
+      manual.href = target;
+      setTimeout(function () { document.getElementById('fallback').style.display = 'block'; }, 2500);
+    })();
+  </script>
+</body>
+</html>

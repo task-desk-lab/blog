@@ -31,6 +31,14 @@
   </div>
   <script>
     (function () {
+      // Bots that ignore robots.txt but execute JS (preview fetchers, headless
+      // crawlers) must not reach Rakuten — each hit counts as an affiliate click.
+      // Real browsers never match: UA tokens + webdriver flag only.
+      var isBot = navigator.webdriver === true ||
+        /bot|crawl|spider|slurp|headless|lighthouse|validator|facebookexternalhit|embedly|preview|vkshare|pinterest|whatsapp|telegram|discord|slack|skype/i
+          .test(navigator.userAgent);
+      if (isBot) { location.replace('https://taskdesklab.com/'); return; }
+
       var q = new URLSearchParams(location.search);
       var raw = q.get('u') || '';
       var ch = (q.get('ch') || 'unknown').slice(0, 40);

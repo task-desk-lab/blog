@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /
+# Affiliate redirector: crawlers must not fetch /go/ — rendering the page
+# executes the JS redirect and inflates Rakuten click counts (2026-06-11 bot spike)
+Disallow: /go/
 
 # Crawler-friendly: explicit sitemap reference
 Sitemap: https://taskdesklab.com/sitemap.xml

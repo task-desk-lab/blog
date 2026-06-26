@@ -109,7 +109,10 @@
   <div class="container">
     <h2>最新の集合知レポート</h2>
     <div class="article-grid">
-      {{ range first 12 $pages.ByDate.Reverse }}
+      {{/* Surface the freshest 30 on the homepage (most-crawled, highest-PageRank
+           page) so newly published articles get the strongest internal crawl path —
+           addresses Googlebot leaving recent posts "unknown to Google" (2026-06-26). */}}
+      {{ range first 30 $pages.ByDate.Reverse }}
       {{ $rating := .Params.rating | default 0 }}
       {{ $sat := 0 }}
       {{ if $rating }}{{ $sat = mul (div $rating 5.0) 100 }}{{ end }}

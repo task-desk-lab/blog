@@ -1,0 +1,20 @@
+{{- /* Responsive WebP thumbnail from assets/img/thumbs/<slug>.png.
+       params: slug (required), alt, eager (bool, for above-the-fold/LCP).
+       Source PNGs are 1200x630 (ratio 1200:630). Hugo resizes + re-encodes
+       to WebP at build time and caches under resources/_gen. */ -}}
+{{- $slug := .slug -}}
+{{- $alt := .alt | default "" -}}
+{{- $res := resources.Get (printf "img/thumbs/%s.png" $slug) -}}
+{{- if $res -}}
+  {{- $small := $res.Resize "400x webp q80" -}}
+  {{- $large := $res.Resize "800x webp q80" -}}
+  <img src="{{ $small.RelPermalink }}"
+       srcset="{{ $small.RelPermalink }} 400w, {{ $large.RelPermalink }} 800w"
+       sizes="(max-width: 560px) 100vw, 360px"
+       width="800" height="420"
+       alt="{{ $alt }}"
+       decoding="async"
+       {{ if .eager }}loading="eager" fetchpriority="high"{{ else }}loading="lazy"{{ end }}>
+{{- else -}}
+  <img src="{{ printf "/img/thumbs/%s.png" $slug | absURL }}" alt="{{ $alt }}" width="800" height="420" loading="lazy" decoding="async">
+{{- end -}}

@@ -4,7 +4,7 @@
   <div class="container">
     <h2>{{ .Title | default "記事一覧" }}</h2>
     <div class="article-grid">
-      {{ range .Pages.ByDate.Reverse }}
+      {{ range $i, $p := .Pages.ByDate.Reverse }}
       {{ $rating := .Params.rating | default 0 }}
       {{ $sat := 0 }}
       {{ if $rating }}{{ $sat = mul (div $rating 5.0) 100 }}{{ end }}
@@ -12,7 +12,7 @@
       <article class="article-card">
         <a href="{{ .Permalink }}">
           <div class="thumb">
-            <img src="{{ printf "/img/thumbs/%s.png" .Params.slug | absURL }}" alt="{{ .Title }}" loading="lazy">
+            {{ partial "thumb.html" (dict "slug" .Params.slug "alt" .Title "eager" (lt $i 3)) }}
           </div>
           <div class="body">
             {{ with .Params.categories }}{{ range first 1 . }}<span class="cat">{{ . }}</span>{{ end }}{{ end }}

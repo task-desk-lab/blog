@@ -4,7 +4,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "{{ .Params.product_name | default .Title }}",
-  "image": "{{ printf "/img/thumbs/%s.png" .Params.slug | absURL }}",
+  "image": "{{ partial "og_image.html" (dict "slug" .Params.slug) }}",
   "description": "{{ .Description }}",
   {{ with .Params.price_jpy }}"offers": {
     "@type": "Offer",
@@ -142,7 +142,7 @@
     <article class="article-card">
       <a href="{{ .Permalink }}">
         <div class="thumb">
-          <img src="{{ printf "/img/thumbs/%s.png" .Params.slug | absURL }}" alt="{{ .Title }}" loading="lazy">
+          {{ partial "thumb.html" (dict "slug" .Params.slug "alt" .Title) }}
         </div>
         <div class="body">
           <h3>{{ .Title }}</h3>
@@ -175,7 +175,7 @@
     <article class="article-card">
       <a href="{{ .Permalink }}">
         <div class="thumb">
-          <img src="{{ printf "/img/thumbs/%s.png" .Params.slug | absURL }}" alt="{{ .Title }}" loading="lazy">
+          {{ partial "thumb.html" (dict "slug" .Params.slug "alt" .Title) }}
         </div>
         <div class="body">
           {{ with .Params.categories }}{{ range first 1 . }}<span class="cat">{{ . }}</span>{{ end }}{{ end }}
@@ -209,7 +209,7 @@
     <article class="article-card">
       <a href="{{ .Permalink }}">
         <div class="thumb">
-          <img src="{{ printf "/img/thumbs/%s.png" .Params.slug | absURL }}" alt="{{ .Title }}" loading="lazy">
+          {{ partial "thumb.html" (dict "slug" .Params.slug "alt" .Title) }}
         </div>
         <div class="body">
           {{ with .Params.categories }}{{ range first 1 . }}<span class="cat">{{ . }}</span>{{ end }}{{ end }}

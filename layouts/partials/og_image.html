@@ -1,0 +1,6 @@
+{{- /* Absolute URL for an og:image (1200x630 JPEG) from assets/img/thumbs.
+       JPEG (not WebP) for maximum social-scraper compatibility.
+       params: slug (required). Returns the URL string. */ -}}
+{{- $slug := .slug -}}
+{{- $res := resources.Get (printf "img/thumbs/%s.png" $slug) -}}
+{{- if $res -}}{{ ($res.Resize "1200x jpg q82").Permalink }}{{- else -}}{{ printf "/img/thumbs/%s.png" $slug | absURL }}{{- end -}}

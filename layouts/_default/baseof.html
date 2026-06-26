@@ -25,7 +25,7 @@
     <meta property="og:image" content="{{ $thumb }}">
     <meta name="twitter:image" content="{{ $thumb }}">
   {{ else }}
-    <meta property="og:image" content="{{ "/img/avatars/main.png" | absURL }}">
+    <meta property="og:image" content="{{ with resources.Get "img/avatars/main.png" }}{{ (.Resize "600x600 jpg q82").Permalink }}{{ else }}{{ "/img/avatars/main.png" | absURL }}{{ end }}">
   {{ end }}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
@@ -709,7 +709,7 @@
     <div class="container">
       <div class="inner">
         <div class="brand">
-          <a href="{{ "/" | absURL }}"><img src="{{ "/img/avatars/main.png" | absURL }}" alt="タスク"></a>
+          <a href="{{ "/" | absURL }}">{{ partial "avatar.html" (dict "size" 42 "alt" "タスク" "eager" true) }}</a>
           <div>
             <h1><a href="{{ "/" | absURL }}">{{ .Site.Title }}</a></h1>
             <div class="tagline">{{ .Site.Params.tagline }}</div>

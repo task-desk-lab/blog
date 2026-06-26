@@ -1,0 +1,18 @@
+{{- /* Optimized avatar from assets/img/avatars/main.png (1024x1024 source).
+       Emits a small WebP at 1x/2x for the requested display size.
+       params: size (px, default 120), alt, eager (bool). */ -}}
+{{- $size := .size | default 120 -}}
+{{- $alt := .alt | default "" -}}
+{{- $res := resources.Get "img/avatars/main.png" -}}
+{{- if $res -}}
+  {{- $x1 := $res.Resize (printf "%dx webp q82" $size) -}}
+  {{- $x2 := $res.Resize (printf "%dx webp q82" (mul $size 2)) -}}
+  <img src="{{ $x1.RelPermalink }}"
+       srcset="{{ $x1.RelPermalink }} 1x, {{ $x2.RelPermalink }} 2x"
+       width="{{ $size }}" height="{{ $size }}"
+       alt="{{ $alt }}"
+       decoding="async"
+       {{ if .eager }}fetchpriority="high"{{ else }}loading="lazy"{{ end }}>
+{{- else -}}
+  <img src="{{ "/img/avatars/main.png" | absURL }}" alt="{{ $alt }}" width="{{ $size }}" height="{{ $size }}" decoding="async">
+{{- end -}}

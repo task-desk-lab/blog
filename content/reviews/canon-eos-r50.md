@@ -43,7 +43,7 @@ keywords: ["Canon EOS R50 口コミ", "Canon EOS R50 評判", "Canon EOS R50 デ
 | 販売店 | 価格 | 在庫 |
 |--------|------|------|
 | Amazon | [最新価格を確認](https://taskdesklab.com/go/amazon?q=canon-eos-r50) | 随時更新 |
-| 楽天 | [楽天での価格比較](https://taskdesklab.com/go/rakuten?q=canon-eos-r50) | 随時更新 |
+| 楽天 | [楽天での価格比較](https://taskdesklab.com/go/rakuten/?ch=blog-review&v=canon-eos-r50&u=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00rd00m.ycj6k72e.g00rd00m.ycj6ld4e%2F%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fe-cutestyle%252Fp000000821816%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fe-cutestyle%252Fi%252F19770294%252F%26rafcid%3Dwsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) | 随時更新 |
 | キヤノン公式 | 公式ストア参照 | — |
 
 ## Canon EOS R50の悪い口コミ・デメリット
@@ -105,6 +105,6 @@ Amazonと楽天で1300件以上の口コミを調べた結果、Canon EOS R50は
 **このカメラが向いてる人なら、今が買い時。**
 
 - [Amazonで最新価格を確認する](https://taskdesklab.com/go/amazon?q=canon-eos-r50)
-- [楽天でレビューを見る](https://taskdesklab.com/go/rakuten?q=canon-eos-r50)
+- [楽天でレビューを見る](https://taskdesklab.com/go/rakuten/?ch=blog-review&v=canon-eos-r50&u=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00rd00m.ycj6k72e.g00rd00m.ycj6ld4e%2F%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fe-cutestyle%252Fp000000821816%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fe-cutestyle%252Fi%252F19770294%252F%26rafcid%3Dwsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

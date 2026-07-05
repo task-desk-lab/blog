@@ -246,11 +246,21 @@
       .hero-stats { grid-template-columns: repeat(2, 1fr); }
     }
     .stat-card {
-      background: var(--bg-card);
+      background: linear-gradient(180deg, var(--bg-card2), var(--bg-card));
       border: 1px solid var(--border);
       border-top: 2px solid var(--accent);
       padding: 14px 16px;
       border-radius: 8px;
+      position: relative;
+      overflow: hidden;
+    }
+    /* Faint scanline texture — reads as a telemetry gauge rather than a flat card. */
+    .stat-card::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: repeating-linear-gradient(0deg, transparent 0 3px, rgba(255, 255, 255, 0.015) 3px 4px);
+      pointer-events: none;
     }
     .stat-card .num {
       font-family: var(--font-mono);
@@ -259,6 +269,7 @@
       font-weight: bold;
       display: block;
       letter-spacing: -0.02em;
+      text-shadow: 0 0 16px rgba(255, 216, 77, 0.3);
     }
     .stat-card .label {
       font-size: 11px;
@@ -500,6 +511,41 @@
     .total-reviews {
       display: inline-block; background: var(--accent); color: var(--bg);
       padding: 6px 16px; border-radius: 20px; font-weight: bold; font-size: 14px; margin: 8px 0;
+    }
+
+    /* Aggregate star rating — visually fills the single aggregate `rating`.
+       Honest: this is the mean score, NOT a per-star distribution (we hold no
+       distribution data). The filled layer is width-clipped to rating/5. */
+    .rating-block { display: flex; align-items: baseline; gap: 8px; margin: 12px 0 4px; }
+    .star-rating {
+      position: relative; display: inline-block;
+      font-size: 19px; line-height: 1; letter-spacing: 2px;
+      font-family: Arial, "Hiragino Sans", sans-serif;
+    }
+    .star-rating .sr-empty { color: var(--border); }
+    .star-rating .sr-fill {
+      position: absolute; top: 0; left: 0; overflow: hidden; white-space: nowrap;
+      color: var(--accent); text-shadow: 0 0 10px rgba(255, 216, 77, 0.45);
+    }
+    .rating-block .rating-num {
+      font-size: 20px; font-weight: bold; color: var(--accent); letter-spacing: -0.02em;
+    }
+    .rating-block .rating-scale { font-size: 12px; color: var(--text-dim); }
+
+    /* Aggregation nameplate — the trust meter. Shows sample size, the basis of
+       the star score, and freshness so the "集合知" claim stays auditable. */
+    .knowledge-meter {
+      display: flex; flex-wrap: wrap; gap: 6px 14px;
+      margin-top: 10px; padding-top: 10px;
+      border-top: 1px dashed var(--border);
+      font-family: var(--font-mono);
+      font-size: 11px; color: var(--text-dim); letter-spacing: 0.02em;
+    }
+    .knowledge-meter .km-item { display: inline-flex; align-items: center; gap: 5px; }
+    .knowledge-meter .km-item b { color: var(--text); font-weight: bold; }
+    .knowledge-meter .km-dot {
+      width: 6px; height: 6px; border-radius: 50%; flex: none;
+      background: var(--accent2); box-shadow: 0 0 8px var(--accent2);
     }
 
     /* Categories */

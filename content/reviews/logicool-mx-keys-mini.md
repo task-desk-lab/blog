@@ -15,7 +15,7 @@ review_count: 161
 rating: 4.38
 shop_name: "ロジクール 公式ストア"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fkx700gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000432%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: "https://www.amazon.co.jp/dp/B09HQZB9NR"
+amazon_url: ""
 product_image: "/img/products/logicool-mx-keys-mini.jpg"
 keywords: ["Logicool MX Keys Mini 口コミ", "Logicool MX Keys Mini 評判", "Logicool MX Keys Mini デメリット", "Logicool MX Keys Mini レビュー", "Logicool MX Keys Mini 後悔", "Logicool MX Keys Mini", "キーボード 口コミ", "キーボード おすすめ"]
 ---
@@ -123,8 +123,8 @@ MX Keys Miniの競合製品として、以下の選択肢がある：
 
 複数デバイス運用が前提なら、切替の時間短縮だけで元が取れる。口コミでも「作業効率が上がった」という評判が多かった。
 
-→ [楽天公式ストアで価格と在庫を確認する](実リンク想定)  
-→ [Amazonで価格と在庫を確認する](実リンク想定)
+→ [楽天公式ストアで価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fkx700gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000432%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
+→ [楽天で価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fkx700gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000432%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### オンライン会議が多いリモートワーカー
 

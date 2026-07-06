@@ -33,7 +33,7 @@ MacBookとスマホとタブレットを毎日持ち歩いていて、充電器�
 
 後悔するのは、3ポート同時使用時にPC側の出力が45Wに下がる仕様を知らずに買った場合だ。「全ポート65W」を期待すると、デメリットが想定外に刺さる。
 
-**[→ Amazonで現在の価格を確認する](https://amzn.to/XXXXX)**
+**[→ 楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rw28m.ycj6keec.g00rw28m.ycj6l659/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeedwagon%2F10008058%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeedwagon%2Fi%2F10008058%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ## Anker 735 Charger GaNPrime 65Wの基本スペック
 
@@ -109,7 +109,7 @@ MacBook Pro 14インチの推奨は67Wだが、65Wで使っていて差を感じ
 
 純粋な性能差は小さく、どちらを選ぶかはブランドへの信頼感と購入タイミングの価格差で決まる。UGREENはAnkerより安く買えるタイミングがあり、スペックもほぼ同等だ。Anker 735については、保証サポートの対応速度や万が一のやり取りのしやすさをAnkerを選んだ理由として挙げているレビューを何度も見た。GaN充電器が初めてならAnker、2台目以降でコストを絞りたいならUGREENという分け方が、ぼくが調べた範囲では実態に近い。
 
-**[→ Amazonで現在の価格を確認する](https://amzn.to/XXXXX)**
+**[→ 楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rw28m.ycj6keec.g00rw28m.ycj6l659/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeedwagon%2F10008058%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeedwagon%2Fi%2F10008058%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 **[→ 楽天市場で現在の価格を確認する](https://item.rakuten.co.jp/XXXXX)**
 
@@ -145,15 +145,15 @@ MacBook Pro 14インチの推奨は67Wだが、65Wで使っていて差を感じ
 
 Amazon・楽天・YouTube・ブログ合計3,836件のデータを調査した結果、ぼくの結論は「MacBookを持つビジネスパーソンが充電器を1台に統合したいとき、現時点で失敗が少ない選択肢」だ。4,490円÷365日≒12.3円、1日あたり12円ちょっとのコストでバッグから充電器が2〜3個減る。3ポート同時使用時の出力低下は、事前に知っていれば使い方でカバーできる範囲だ。スペックを把握した上で選ぶなら、評判通りの製品だ。
 
-**[→ Amazonで現在の価格を確認する](https://amzn.to/XXXXX)**
+**[→ 楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rw28m.ycj6keec.g00rw28m.ycj6l659/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeedwagon%2F10008058%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeedwagon%2Fi%2F10008058%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 **[→ 楽天市場で現在の価格を確認する](https://item.rakuten.co.jp/XXXXX)**
 
 ---
 
 **あわせて読む**
-- [65W GaN充電器 比較5選｜MacBookユーザー向けの選び方](../gan-charger-65w-comparison/)
-- [MacBook向け充電環境まとめ｜充電器・ケーブル・モバイルバッテリー](../macbook-charging-setup/)
+- 65W GaN充電器 比較5選｜MacBookユーザー向けの選び方
+- MacBook向け充電環境まとめ｜充電器・ケーブル・モバイルバッテリー
 
 ---
 
@@ -177,4 +177,4 @@ USB-C搭載のiPhone 15以降はUSB-Cポートに直接接続できる。MacBook
 
 USB-C対応のiPad（iPad Pro・iPad Air）であれば、USB-Cポートから急速充電できる。Lightning端子のiPadはUSB-AポートにLightningケーブルで接続する形になるが、Anker 735のUSB-AはPowerIQ 4.0対応（最大22.5W給電）のため、通常の5W充電より速い給電が可能だ。USB PDとは仕組みが異なるものの、「Lightning iPadの充電が遅い」という体験にはなりにくい。
 
-**[→ Amazonで現在の価格を確認する](https://amzn.to/XXXXX)**
+**[→ 楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rw28m.ycj6keec.g00rw28m.ycj6l659/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeedwagon%2F10008058%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeedwagon%2Fi%2F10008058%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**

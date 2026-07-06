@@ -118,7 +118,7 @@ ECサイト用商品写真を月50枚撮るライターがPIXIを導入したと
 - Vlog・ライブ配信でさっと固定台を出したい人（収納・展開のストレスが少ない）
 - デスク上の機材の見た目を揃えたい人（金属ボディがプロ機材と並んでも浮かない）
 
-[→ 3,480円で今すぐ試す](https://www.amazon.co.jp/)
+[→ 3,480円で今すぐ試す](https://hb.afl.rakuten.co.jp/hgc/g00s4phm.ycj6k5ee.g00s4phm.ycj6l78f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmd-kk%2F8024221643640-56e-ol%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmd-kk%2Fi%2F10004791%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ▶ [ミニ三脚の選び方まとめはこちら](/guide/mini-tripod-how-to-choose)
 

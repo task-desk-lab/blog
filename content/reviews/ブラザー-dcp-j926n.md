@@ -105,7 +105,7 @@ LC411シリーズの純正インクはヨドバシやビックカメラだけで
 
 3機種の違いはこの3点に絞られる。予算・写真印刷の頻度・FAXの必要性だ。文書中心で月50枚以上刷るならDCP-J926Nが最も割り切りのいい選択だ。写真も頻繁にプリントするならEW-M630Tを選んで後悔しにくい。FAXが業務フローに入っているならMFC-J739DN一択になる。
 
-**[▶ AmazonでDCP-J926Nの最安値を確認する（在庫状況もチェック）](AMAZON_LINK)**
+**[▶ 楽天でDCP-J926Nの最安値を確認する（在庫状況もチェック）](https://hb.afl.rakuten.co.jp/hgc/g00q072m.ycj6k6d5.g00q072m.ycj6l289/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16828459%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20494465%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ## DCP-J926Nを買って後悔する人
 
@@ -139,7 +139,7 @@ PDFの契約書、議事録、業務マニュアルなど週に数十枚以上�
 
 456件の口コミで「この価格帯でADF・WiFi・両面印刷が揃う」と評価が一致した機種だ。月50枚以上使う家庭なら、18ヶ月以内に競合比のランニングコスト差を回収できる計算が成り立つ。
 
-**[▶ Amazonで今すぐ価格を確認する（在庫状況もチェック）](AMAZON_LINK)**　　**[▶ 楽天で口コミ評価と価格を見る](RAKUTEN_LINK)**
+**[▶ 楽天で今すぐ価格を確認する（在庫状況もチェック）](https://hb.afl.rakuten.co.jp/hgc/g00q072m.ycj6k6d5.g00q072m.ycj6l289/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16828459%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20494465%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**　　**[▶ 楽天で口コミ評価と価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.ycj6k6d5.g00q072m.ycj6l289/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16828459%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20494465%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 
@@ -151,7 +151,7 @@ Amazon・楽天・ブログ・YouTubeを合わせた456件分を調査した。�
 
 **Q: DCP-J926N 互換インクは使えますか？**
 
-使える。LC411対応の互換インクが各社から出ており、1枚あたり0.5円以下での運用が現実的だ。ただし互換インクはメーカー保証外になる点は覚えておきたい。[LC411対応の互換4色セットはこちら（楽天・Amazon）](COMPATIBLE_INK_LINK)
+使える。LC411対応の互換インクが各社から出ており、1枚あたり0.5円以下での運用が現実的だ。ただし互換インクはメーカー保証外になる点は覚えておきたい。LC411対応の互換4色セットはこちら（楽天・Amazon）
 
 **Q: スマホからの印刷は簡単ですか？**
 

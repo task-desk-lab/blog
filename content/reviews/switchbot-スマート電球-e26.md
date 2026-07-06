@@ -49,7 +49,7 @@ Amazonで2,400件、楽天で380件の口コミを調査した。ネガティブ
 
 ### ③ ハブなしだと外出先からの操作が不安定
 
-ハブなし構成では、外から操作しようとしたら反応しないケースがある。在宅中の操作は安定しているが、外部リモートに信頼性を求めるなら[SwitchBotハブ（別売）](YOUR_SWITCHBOT_HUB_AFFILIATE_LINK)の追加が現実的な対策だ。ハブ経由に切り替えた後は外出先での無反応が解消したという報告がある。
+ハブなし構成では、外から操作しようとしたら反応しないケースがある。在宅中の操作は安定しているが、外部リモートに信頼性を求めるならSwitchBotハブ（別売）の追加が現実的な対策だ。ハブ経由に切り替えた後は外出先での無反応が解消したという報告がある。
 
 ### ④ フルカラーモードは照度が落ちる
 
@@ -81,7 +81,7 @@ SwitchBotのカーテンやスマートプラグは別途ハブが必要な製�
 
 非エンジニアでも「説明書を読まずに設定できた」という感想が目立つ。初期設定はアプリの指示通り進めるだけで、途中で詰まる場面がほとんどない。
 
-[Amazonで在庫と最安値を確認する →](YOUR_AMAZON_AFFILIATE_LINK)
+[楽天で在庫と最安値を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00puugm.ycj6k2e0.g00puugm.ycj6lc61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut%2F522622%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut%2Fi%2F10133693%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## SwitchBot E26 vs Philips Hue：購入者の比較口コミまとめ
 
@@ -97,7 +97,7 @@ SwitchBotのカーテンやスマートプラグは別途ハブが必要な製�
 
 コスト優先ならSwitchBot、安定性と長期信頼性を優先するならPhilips Hueという構図が、比較レビューの総意に近い。すでにSwitchBot製品を使っている人には、エコシステムの一貫性からSwitchBotを選ぶ合理性がある。
 
-[コスト優先でSwitchBotを選ぶなら今すぐ在庫確認 →](YOUR_AMAZON_AFFILIATE_LINK)
+[コスト優先でSwitchBotを選ぶなら今すぐ在庫確認 →](https://hb.afl.rakuten.co.jp/hgc/g00puugm.ycj6k2e0.g00puugm.ycj6lc61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut%2F522622%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut%2Fi%2F10133693%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## SwitchBot E26を買って後悔する人
 
@@ -127,7 +127,7 @@ SwitchBotのカーテンやスマートプラグは別途ハブが必要な製�
 
 ハブ不要・設定10分・3,480円という入口の低さが、「まず1個から始めたい」という人に刺さっている。「思ったより簡単だった」という感想が初心者ユーザーのレビューに多い。
 
-[在庫切れ前に確認する →](YOUR_AMAZON_AFFILIATE_LINK)
+[在庫切れ前に確認する →](https://hb.afl.rakuten.co.jp/hgc/g00puugm.ycj6k2e0.g00puugm.ycj6lc61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut%2F522622%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut%2Fi%2F10133693%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## よくある質問（FAQ）
 
@@ -155,6 +155,6 @@ SwitchBotアプリの「オートメーション」機能を使う。「帰宅�
 
 AmazonやYouTube、個人ブログを含む3,000超のデータを調査した。SwitchBot スマート電球 E26は「ハマる環境ではコスパよし、ハマらない環境では使えない」という評価が正確だ。2.4GHz Wi-Fiが使えて壁スイッチを常時オンにできるなら、3,480円で声が届けば電気がつき、色を自分で決められ、朝は勝手に点灯する。電気代の節約については[メリット⑤の節約計算](#⑤-電気代の節約で1年以内に元が取れる)を参照。逆に、壁スイッチの習慣を変えられない環境では、このメリットが活かせないリスクが高い。
 
-[Amazonで在庫と最安値を確認する →](YOUR_AMAZON_AFFILIATE_LINK)
+[楽天で在庫と最安値を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00puugm.ycj6k2e0.g00puugm.ycj6lc61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut%2F522622%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut%2Fi%2F10133693%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 このレビューは口コミ集合知シリーズの一記事だ。また明日、集合知で会おう。

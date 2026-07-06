@@ -15,7 +15,7 @@ review_count: 0
 rating: 0.0
 shop_name: "Keychron Japan"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00uqaxm.ycj6kfe4.g00uqaxm.ycj6l198/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeychron%2Fkc-4894979044891%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeychron%2Fi%2F10000122%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: "https://www.amazon.co.jp/dp/B0B6HXR6GZ"
+amazon_url: ""
 product_image: "/img/products/keychron-k3.jpg"
 keywords: ["Keychron K3 口コミ", "Keychron K3 評判", "Keychron K3 デメリット", "Keychron K3 レビュー", "Keychron K3 後悔", "Keychron K3", "キーボード 口コミ", "キーボード おすすめ"]
 ---
@@ -50,7 +50,7 @@ keywords: ["Keychron K3 口コミ", "Keychron K3 評判", "Keychron K3 デメリ
 | Gateron 青軸 | 12,100円 |
 | 光学式 | 14,300円 |
 
-→ [現在の価格を確認する（Amazon）](https://www.amazon.co.jp/dp/B08W2CSXLM)  
+→ [現在の価格を確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00uqaxm.ycj6kfe4.g00uqaxm.ycj6l198/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeychron%2Fkc-4894979044891%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeychron%2Fi%2F10000122%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
 → [現在の価格を確認する（楽天市場）](https://search.rakuten.co.jp/search/mall/Keychron+K3/)
 
 **調査対象の内訳（合計1,395件）**
@@ -86,7 +86,7 @@ Macのファンクションキー（音量調整・輝度など）の刻印が�
 
 厚さ22mmで重量約600gという薄さが、持ち運び前提のユーザーから高評価。「MacBook Proと重ねて収納できる」「カバンに入れても邪魔にならない」という口コミが多数。メカニカルキーボードとしては異例の薄さで、リモートワーカーからの評判が高い。自宅とコワーキングスペースを行き来する働き方に適しているという口コミが目立った。
 
-→ [持ち運びやすさを確認する（Amazon）](https://www.amazon.co.jp/dp/B08W2CSXLM)
+→ [持ち運びやすさを確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00uqaxm.ycj6kfe4.g00uqaxm.ycj6l198/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeychron%2Fkc-4894979044891%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeychron%2Fi%2F10000122%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### 3台同時接続機能の実用性
 
@@ -102,7 +102,7 @@ Bluetoothで最大3台まで記憶し、ボタン一つで切替できる点が�
 
 通常のメカニカルキーボードより打鍵音が小さく、オフィスやカフェでも使えるレベルという口コミが多数。青軸でも「通常の赤軸程度の音量」という評価が目立った。「周囲を気にせず使える」という評判が、在宅ワーカーから寄せられている。
 
-→ [静音性を確認する（Amazon）](https://www.amazon.co.jp/dp/B08W2CSXLM)
+→ [静音性を確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00uqaxm.ycj6kfe4.g00uqaxm.ycj6l198/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeychron%2Fkc-4894979044891%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeychron%2Fi%2F10000122%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### アルミフレーム筐体の質感
 
@@ -155,7 +155,7 @@ US配列しか選択肢がないため、JIS配列から移行できない人に
 
 ### US配列に慣れたMacユーザー
 
-→ [あなたに最適なモデルを確認する（Amazon）](https://www.amazon.co.jp/dp/B08W2CSXLM)
+→ [あなたに最適なモデルを確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00uqaxm.ycj6kfe4.g00uqaxm.ycj6l198/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeychron%2Fkc-4894979044891%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeychron%2Fi%2F10000122%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 macOS向けの設定が最初から用意されており、親和性が高いという口コミが多数。CommandキーとOptionキーの配置も違和感なしという評判。「Macとの相性が良い」という口コミが目立つ。
 
@@ -167,7 +167,7 @@ macOS向けの設定が最初から用意されており、親和性が高いと
 
 ### 持ち運び前提のリモートワーカー
 
-→ [あなたに最適なモデルを確認する（Amazon）](https://www.amazon.co.jp/dp/B08W2CSXLM)
+→ [あなたに最適なモデルを確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00uqaxm.ycj6kfe4.g00uqaxm.ycj6l198/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeychron%2Fkc-4894979044891%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeychron%2Fi%2F10000122%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 自宅とコワーキングスペースを行き来する働き方に適したサイズと重量という口コミが多い。リュックの隙間に入る薄さが実用的という評判。「毎日持ち運んでも苦にならない」という口コミが目立つ。
 

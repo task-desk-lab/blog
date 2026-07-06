@@ -14,7 +14,7 @@ review_count: 4
 rating: 5.0
 shop_name: "雑貨と文具の店 Gute Gouter"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rd6om.ycj6k98a.g00rd6om.ycj6l1d6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsomania%2Fothers-midori-k-a5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsomania%2Fi%2F10024062%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: "https://www.amazon.co.jp/dp/B001A1UJIE"
+amazon_url: ""
 product_image: "/img/products/mdノート-a5.jpg"
 keywords: ["MDノート A5 口コミ", "MDノート A5 評判", "MDノート A5 デメリット", "MDノート A5 レビュー", "MDノート A5 後悔", "MDノート A5", "ノート 口コミ", "ノート おすすめ"]
 ---
@@ -115,7 +115,7 @@ MDノート A5は、ミドリが製造する万年筆向けに設計された上
 **ノートの書き心地にこだわりがある人**  
 紙の質感、開きやすさ、ペンの滑り。細部まで設計された書き心地を体感したいなら試す価値があるという評判だ。
 
-→ [Amazonで現在の価格を見る](https://www.amazon.co.jp/s?k=MD%E3%83%8E%E3%83%BC%E3%83%88+A5)  
+→ [楽天で現在の価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00rd6om.ycj6k98a.g00rd6om.ycj6l1d6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsomania%2Fothers-midori-k-a5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsomania%2Fi%2F10024062%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
 → [楽天で在庫を確認](https://search.rakuten.co.jp/search/mall/MD%E3%83%8E%E3%83%BC%E3%83%88+A5/)
 
 それでも紙の書き心地を一度体験したいなら、1冊だけ試してみる価値はある。万年筆との相性は実際に書いてみないとわからない。

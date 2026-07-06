@@ -104,7 +104,7 @@ Amazonの星5レビューのうち「ANCに言及したコメント」の割合�
 
 サウンドキャラクターの違いとして「Q45はよりフラット、770NCは低音強め」という比較レビューがAmazonでも楽天でも同様の声が上がっている。ANCを最優先するならJBL Tune 770NC、操作性とサウンドバランスを重視するならSoundcore Q45やW820NBを選ぶ——というのが口コミを総合した判断になる。
 
-**[1日38円で試す・返品保証あり【AmazonでJBL Tune 770NCを確認する】](https://www.amazon.co.jp/)**
+**[1日38円で試す・返品保証あり【楽天でJBL Tune 770NCを確認する】](https://hb.afl.rakuten.co.jp/hgc/g00ufznm.ycj6kdae.g00ufznm.ycj6l842/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftales-store%2F202411100259024968929218530%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftales-store%2Fi%2F10046671%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 
@@ -156,7 +156,7 @@ Amazonと楽天の口コミ2,460件を調査した総評として、JBL Tune 770
 
 Amazonには返品ポリシーがあるため、ANCの気圧感が体質に合わなければ返品ルートがある。1日38円で試して合わなければ返品する——その前提で動けるのが、この価格帯での現実的な選択肢になる。
 
-**[1日38円で試す・返品保証あり【AmazonでJBL Tune 770NCを確認する】](https://www.amazon.co.jp/)**
+**[1日38円で試す・返品保証あり【楽天でJBL Tune 770NCを確認する】](https://hb.afl.rakuten.co.jp/hgc/g00ufznm.ycj6kdae.g00ufznm.ycj6l842/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftales-store%2F202411100259024968929218530%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftales-store%2Fi%2F10046671%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 **[楽天で最新価格・口コミを確認する（JBL Tune 770NC）](https://www.rakuten.co.jp/)**
 
 また明日、集合知で会おう。

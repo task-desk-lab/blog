@@ -85,7 +85,7 @@ Amazon・楽天合計で1万4000件超の口コミを調べた結果、Boyata �
 
 楽天・Amazonを通じて「この値段でこのクオリティは想定外だった」という声が多い。同カテゴリの上位製品と比べても遜色なく、コスパ面での評判は高い。
 
-**在宅勤務の首こり改善を試したい人 → [Amazonで現在の価格を確認する](https://www.amazon.co.jp/dp/B07HGPVD3R)**
+**在宅勤務の首こり改善を試したい人 → [楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rzshm.ycj6kd61.g00rzshm.ycj6lb5d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fselectshopcrea%2Fboyata13%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fselectshopcrea%2Fi%2F10000102%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 
@@ -104,7 +104,7 @@ Amazon・楽天合計で1万4000件超の口コミを調べた結果、Boyata �
 
 「Nulaxyから乗り換えた」というレビューでは「安定感と見た目がBoyataのほうが上だった」という評価が多い。「Nulaxyで十分」という声も存在するが、毎日8時間以上使うならBoyataを選ぶ人が多い傾向がある。
 
-**毎日8時間使うならBoyata一択。→ [Amazonで現在の価格を確認する](https://www.amazon.co.jp/dp/B07HGPVD3R)**
+**毎日8時間使うならBoyata一択。→ [楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rzshm.ycj6kd61.g00rzshm.ycj6lb5d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fselectshopcrea%2Fboyata13%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fselectshopcrea%2Fi%2F10000102%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 
@@ -128,7 +128,7 @@ Amazon・楽天合計で1万4000件超の口コミを調べた結果、Boyata �
 
 Amazon・楽天合計で1万4000件以上のデータ（Amazon約12,400件＋楽天371件）を調べた結果、Boyata ノートPCスタンドは「買って後悔した」より「買ってよかった」の声が圧倒的に多い商品だった。デメリットはほぼ「外付けキーボードが必要になる」の一点に集約されており、それを事前に知っているかどうかで評価が決まる構造だ。1日換算で約14円の出費（4,999円÷365日）でこれだけの姿勢改善が得られるなら、費用対効果の観点からも検討に値する。
 
-外付けキーボードをすでに持っているなら迷う必要はない。まだ持っていない場合は、予算1万円前後でスタンドとキーボードをセットで揃えることを勧める。→ [Amazonで現在の価格を確認する](https://www.amazon.co.jp/dp/B07HGPVD3R) ／ [楽天で確認する](https://search.rakuten.co.jp/search/mall/Boyata+%E3%83%8E%E3%83%BC%E3%83%88PC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/)
+外付けキーボードをすでに持っているなら迷う必要はない。まだ持っていない場合は、予算1万円前後でスタンドとキーボードをセットで揃えることを勧める。→ [楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rzshm.ycj6kd61.g00rzshm.ycj6lb5d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fselectshopcrea%2Fboyata13%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fselectshopcrea%2Fi%2F10000102%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [楽天で確認する](https://search.rakuten.co.jp/search/mall/Boyata+%E3%83%8E%E3%83%BC%E3%83%88PC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/)
 
 ※「集合知で会おう」の意味が気になった人は[こちら](https://task-desk-lab.com/about)へ。
 

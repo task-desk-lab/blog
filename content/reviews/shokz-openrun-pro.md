@@ -29,7 +29,7 @@ Amazonで3,200件超の口コミを調べた結果、Shokz OpenRun Proは「ア�
 - 買って後悔する人・満足する人の具体的な違い
 - OpenRun無印・OpenMoveとのスペック・価格差
 
-**[→ 今月の最安値を確認する](https://www.amazon.co.jp/)**
+**[→ 今月の最安値を確認する](https://hb.afl.rakuten.co.jp/hgc/g00qjy0m.ycj6kbaf.g00qjy0m.ycj6l470/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-earphone%2Fshokz-openrunpro2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-earphone%2Fi%2F10037644%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 
@@ -118,7 +118,7 @@ USB-Cではなく専用ケーブルが必要なため、紛失・断線時の対
 
 「週5でランニングするならProにして正解だった」「たまにしか走らないならOpenMoveで十分」という使い分けが参考になる。週3以上走るなら感覚的にはProが正解になりやすい。OpenRun（無印）はProより軽量な点も評価されており、重さを気にする人には選択肢に入る。
 
-**[→ OpenRun Proの在庫・価格を見る](https://www.amazon.co.jp/)**
+**[→ OpenRun Proの在庫・価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00qjy0m.ycj6kbaf.g00qjy0m.ycj6l470/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-earphone%2Fshokz-openrunpro2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-earphone%2Fi%2F10037644%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 
@@ -146,7 +146,7 @@ USB-Cではなく専用ケーブルが必要なため、紛失・断線時の対
 **在宅ワークとランニングを両方こなしたい人**
 マルチポイント接続で仕事と運動を1台でカバーできる。複数のシーンを想定してコストを分散させたい人には使い勝手がいい。
 
-**[→ Amazonで購入する（レビュー3,200件）](https://www.amazon.co.jp/)**
+**[→ 楽天で購入する（レビュー3,200件）](https://hb.afl.rakuten.co.jp/hgc/g00qjy0m.ycj6kbaf.g00qjy0m.ycj6l470/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-earphone%2Fshokz-openrunpro2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-earphone%2Fi%2F10037644%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 

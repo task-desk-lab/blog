@@ -114,13 +114,13 @@ Amazon・楽天・YouTube・個人ブログを合わせた5,000件超を調べ�
 
 実勢価格は0.9mが1,000〜1,200円前後、1.8mが1,300〜1,500円前後で推移している（時期により変動あり）。
 
-- [今の価格と在庫を確認する（Amazon）→]（Amazon商品ページのURLを挿入）
-- [今の価格と在庫を確認する（楽天）→]（楽天商品ページのURLを挿入）
+- [今の価格と在庫を確認する（楽天）→](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa855%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000963%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+- [今の価格と在庫を確認する（楽天）→](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa855%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000963%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **関連記事**
 
-- [Anker充電器 おすすめ比較：用途別の選び方→]（充電器比較記事のURLを挿入）
-- [USB-Cケーブル 選び方まとめ：W数・長さ・素材の基準→]（USB-Cケーブルまとめ記事のURLを挿入）
-- [Anker製品 口コミまとめ：ケーブル・充電器・モバイルバッテリー→]（Ankerまとめ記事のURLを挿入）
+- Anker充電器 おすすめ比較：用途別の選び方→
+- USB-Cケーブル 選び方まとめ：W数・長さ・素材の基準→
+- Anker製品 口コミまとめ：ケーブル・充電器・モバイルバッテリー→
 
 また明日、集合知で会おう。

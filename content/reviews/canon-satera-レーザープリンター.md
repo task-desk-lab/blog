@@ -120,7 +120,7 @@ Brotherは自動両面印刷と本体価格の低さで優位に立つ。Canon�
 
 ▶ [Brother HL-L2375DWの詳細レビューはこちら](#)
 
-▶ [Canon MF272dwの現在価格をAmazonで確認する](https://www.amazon.co.jp/)
+▶ [Canon MF272dwの現在価格を楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00r8mvm.ycj6k2b9.g00r8mvm.ycj6l3d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4549292122206%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11201529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Canon Satera MF272dwを買って後悔する人
 
@@ -170,7 +170,7 @@ Brotherは自動両面印刷と本体価格の低さで優位に立つ。Canon�
 
 ---
 
-▶ [Canon MF272dwをAmazonで見る（現在の価格・在庫）](https://www.amazon.co.jp/)
+▶ [Canon MF272dwを楽天で見る（現在の価格・在庫）](https://hb.afl.rakuten.co.jp/hgc/g00r8mvm.ycj6k2b9.g00r8mvm.ycj6l3d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4549292122206%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11201529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 ▶ [楽天市場で価格を比較する](https://www.rakuten.co.jp/)
 
 ※価格は変動します。購入前にご確認ください。

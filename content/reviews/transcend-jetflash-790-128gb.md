@@ -139,6 +139,6 @@ USB 3.0ポートが付いたPCがあれば、大容量ファイルを短時間�
 
 Amazon3,200件超・楽天420件超のレビューを通じて見えてくるのは、転送速度・耐久性・保証の三つが2,480円に収まっている製品、という評判だ。5年使えば1日1.4円のコストで、データ紛失リスクを考えると格安の部類に入る。注意点はUSB 2.0環境での速度低下と書き込み速度の制限に絞られる。USB 3.0環境が確認できたなら、この価格で5年保証付きの金属メモリを選ばない理由がない。
 
-▶ [JetFlash 790 128GB の現在価格を確認する（Amazon）](Amazon商品URLをここに挿入)
+▶ [JetFlash 790 128GB の現在価格を確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00pmmbm.ycj6k8ea.g00pmmbm.ycj6l61a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2Fts128gjf790k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10078305%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

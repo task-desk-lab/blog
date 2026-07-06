@@ -102,7 +102,7 @@ Logi Options+によるカスタマイズ（DPI変更、ボタンへのショー�
 
 肩こり・腱鞘炎に悩むデスクワーカーに一番合う製品だ。1日8時間以上マウスを使う人に好評価が集まる。複数デバイスをワンマウスで使いたい人にも、Bluetooth＋レシーバー切り替えの利便性は調査通りに機能する。作業スペースが狭いテレワーカーにも、マウスパッド不要の設計はすぐ使えるメリットになる。
 
-→ [Amazonで現在の価格を確認する](https://www.amazon.co.jp/dp/B09JB1ZQ99)
+→ [楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm575spd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000682%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 → [楽天で価格・レビューを見る](https://search.rakuten.co.jp/search/mall/Logicool+ERGO+M575S/)
 
 ---

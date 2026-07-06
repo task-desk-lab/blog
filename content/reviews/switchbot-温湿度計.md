@@ -112,7 +112,7 @@ SwitchBot Hub Mini/2をすでに持っているユーザーからの満足度は
 
 アラート通知はどちらも対応している。差別化ポイントは精度とエコシステムにある。SwitchBot製品をすでに持っているか、今後スマートホームを整えるつもりがあるならSwitchBot 温湿度計一択。アカウント登録を避けたい、単体で完結させたいだけならINKBIRDで十分だ。
 
-→ [AmazonでSwitchBot 温湿度計の現在価格を確認する](https://www.amazon.co.jp/dp/B07L4QNZVF)
+→ [楽天でSwitchBot 温湿度計の現在価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00uc4wm.ycj6k588.g00uc4wm.ycj6lfd1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2F1000010927%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswitchbot%2Fi%2F10000220%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## SwitchBot 温湿度計を買って後悔する人
 
@@ -130,7 +130,7 @@ SwitchBot Hub Mini/2をすでに持っているユーザーからの満足度は
 
 **複数部屋を管理したい人**：1台2,000円以下なので、3〜4台揃えてもトータルコストが低い。「全部屋の温湿度をアプリ1つで比較できる」という使い方は、同価格帯の競合にはなかなかできない。
 
-→ [AmazonでSwitchBot 温湿度計の現在価格を確認する](https://www.amazon.co.jp/dp/B07L4QNZVF)
+→ [楽天でSwitchBot 温湿度計の現在価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00uc4wm.ycj6k588.g00uc4wm.ycj6lfd1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2F1000010927%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswitchbot%2Fi%2F10000220%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## SwitchBot 温湿度計の口コミ調査からの結論
 
@@ -138,7 +138,7 @@ Amazonで18,400件、楽天で3,200件超の口コミを調査した結果、Swi
 
 スマホ連携・グラフ記録・アラート通知を使う気があるなら、1,980円という価格はほぼ文句のつけようがない。1,980円÷365日≒5.4円、1日あたり約5円で室内環境を24時間記録できる計算だ。読者自身で検算してほしい。
 
-→ [AmazonでSwitchBot 温湿度計の現在価格を確認する](https://www.amazon.co.jp/dp/B07L4QNZVF)
+→ [楽天でSwitchBot 温湿度計の現在価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00uc4wm.ycj6k588.g00uc4wm.ycj6lfd1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2F1000010927%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswitchbot%2Fi%2F10000220%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 外出先からリアルタイム確認したいなら、ハブとのセット導入が前提になる。これをデメリットと取るかどうかは用途次第であって、商品の欠陥ではない。スマートホームをこれから整えたい人、赤ちゃんやペットのいる家庭で温湿度管理を始めたい人には、2026年現在でも選ぶ理由が十分ある一台と判断した。
 

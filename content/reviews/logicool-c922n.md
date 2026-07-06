@@ -100,8 +100,8 @@ OBSでのグリーンバック合成を使う人の満足度がここに集ま�
 
 グリーンバック配信を始めるならC922n一択。現在の最安値はこちら →
 
-[Amazonで現在の価格を確認する →](AFFILIATE_URL)
-[楽天で確認する →](AFFILIATE_URL)
+[楽天で現在の価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0107262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173589%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天で確認する →](https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0107262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173589%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## C922nを買って後悔する人・満足する人
 
@@ -117,8 +117,8 @@ OBSでのグリーンバック合成を使う人の満足度がここに集ま�
 
 クロマキー配信を始める最初の1台として、この価格帯での選択肢はほぼC922nに絞られる。グリーンバックとセットで在庫を確認する →
 
-[Amazonでグリーンバックとセットで在庫を確認する →](AFFILIATE_URL)
-[楽天で確認する →](AFFILIATE_URL)
+[楽天でグリーンバックとセットで在庫を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0107262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173589%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天で確認する →](https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0107262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173589%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Logicool C922n よくある質問
 
@@ -146,8 +146,8 @@ macOS 10.10以降に対応しており、追加ドライバなしで使用でき
 
 クロマキー配信を始める最初の1台として、この価格帯での選択肢はほぼC922nに絞られる。今すぐ11,800円の最安値を確認する →
 
-[Amazonで今すぐ11,800円の最安値を確認する →](AFFILIATE_URL)
-[楽天で確認する →](AFFILIATE_URL)
+[楽天で今すぐ11,800円の最安値を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0107262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173589%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天で確認する →](https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0107262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173589%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 このレビューは各ECサイトとブログの口コミを集積・分析する集合知シリーズの一つです。

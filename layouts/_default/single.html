@@ -114,7 +114,6 @@
   {{ if or .Params.rakuten_url .Params.amazon_url }}
   <div class="affiliate-buttons primary">
     {{ with .Params.rakuten_url }}<a href="{{ . }}" class="rakuten" rel="nofollow sponsored" target="_blank">楽天で価格を見る</a>{{ end }}
-    {{ with .Params.amazon_url }}<a href="{{ . }}" class="amazon" rel="nofollow sponsored" target="_blank">Amazonで価格を見る</a>{{ end }}
   </div>
   {{ end }}
 
@@ -123,7 +122,6 @@
   {{ if or .Params.rakuten_url .Params.amazon_url }}
   <div class="affiliate-buttons">
     {{ with .Params.rakuten_url }}<a href="{{ . }}" class="rakuten" rel="nofollow sponsored" target="_blank">楽天で見る</a>{{ end }}
-    {{ with .Params.amazon_url }}<a href="{{ . }}" class="amazon" rel="nofollow sponsored" target="_blank">Amazonで見る</a>{{ end }}
   </div>
   {{ end }}
 

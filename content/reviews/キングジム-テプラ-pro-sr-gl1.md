@@ -114,7 +114,7 @@ iOS版に比べて、Android版アプリで接続が切れやすいという報�
 
 「4mm幅のテープが必要ならLateco EC-K10のほうが選択肢は広い」という口コミがある一方、「アプリのテンプレートやデザイン性ではSR-GL1に分がある」という評判も。価格重視なら「ブラザーのP-touch Cubeが選択肢に入るが、テープ幅が12mmまでと制限がある」という比較口コミも確認できた。
 
-→ [Lateco EC-K10の最安値を見る（Amazon）](https://amazon.co.jp) / [P-touch Cubeと価格比較（楽天市場）](https://rakuten.co.jp) / [価格コムで3機種を一括比較](https://kakaku.com)
+→ [Lateco EC-K10の最安値を見る（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00tupxm.ycj6k327.g00tupxm.ycj6l6ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanreishop%2F4971660771837%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanreishop%2Fi%2F10005400%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) / [P-touch Cubeと価格比較（楽天市場）](https://rakuten.co.jp) / [価格コムで3機種を一括比較](https://kakaku.com)
 
 ## キングジム テプラ PRO SR-GL1を買って後悔する人
 
@@ -148,7 +148,7 @@ iOS版に比べて、Android版アプリで接続が切れやすいという報�
 
 パソコンを起動せず、思い立った時にすぐラベルを作れる。「デジタルツールに抵抗がない世代向け」という口コミが散見される。手軽さを最優先する人からの評判が良い。
 
-→ [整理収納好きならこの価格をチェック（Amazon）](https://amazon.co.jp) / [子育て世帯に人気の理由を見る（楽天市場）](https://rakuten.co.jp)
+→ [整理収納好きならこの価格をチェック（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00tupxm.ycj6k327.g00tupxm.ycj6l6ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanreishop%2F4971660771837%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanreishop%2Fi%2F10005400%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) / [子育て世帯に人気の理由を見る（楽天市場）](https://rakuten.co.jp)
 
 ## キングジム テプラ PRO SR-GL1の口コミ調査からの結論
 
@@ -168,7 +168,7 @@ iOS版に比べて、Android版アプリで接続が切れやすいという報�
 
 互換テープを使用すれば、これらのコストを3〜4割削減できる可能性がある。ただし印字品質や色の再現性は純正に劣るケースもあるため、用途に応じて使い分けるのが現実的だ。
 
-→ [ランニングコストを抑えたい人向けの購入先（Amazon）](https://amazon.co.jp) / [楽天市場で価格を比較](https://rakuten.co.jp) / [購入前に最新価格をチェック（Amazon）](https://amazon.co.jp)
+→ [ランニングコストを抑えたい人向けの購入先（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00tupxm.ycj6k327.g00tupxm.ycj6l6ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanreishop%2F4971660771837%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanreishop%2Fi%2F10005400%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) / [楽天市場で価格を比較](https://rakuten.co.jp) / [購入前に最新価格をチェック（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00tupxm.ycj6k327.g00tupxm.ycj6l6ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanreishop%2F4971660771837%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanreishop%2Fi%2F10005400%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 

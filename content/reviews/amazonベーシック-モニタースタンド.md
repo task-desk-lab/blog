@@ -14,7 +14,7 @@ review_count: 3200
 rating: 4.3
 shop_name: ""
 rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazon%E3%83%99%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%20%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2F"
-amazon_url: "https://www.amazon.co.jp/dp/B00NKIFXHQ"
+amazon_url: ""
 
 
 keywords: ["Amazonベーシック モニタースタンド 口コミ", "Amazonベーシック モニタースタンド 評判", "Amazonベーシック モニタースタンド デメリット", "Amazonベーシック モニタースタンド レビュー", "Amazonベーシック モニタースタンド 後悔", "Amazonベーシック モニタースタンド", "モニタースタンド 口コミ", "モニタースタンド おすすめ"]
@@ -160,6 +160,6 @@ Amazonの3200件を超える口コミから、繰り返し指摘されている�
 
 在庫変動が激しく、過去3ヶ月で2回品切れを確認している。首や肩のつらさを2282円で改善できるなら、試す価値は高い。
 
-[→ Amazonで今すぐ在庫と価格を確認する](https://www.amazon.co.jp/)
+[→ 楽天で今すぐ在庫と価格を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazon%E3%83%99%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%20%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2F)
 
 また明日、集合知で会おう。

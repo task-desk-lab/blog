@@ -145,7 +145,7 @@ safariのペン先の重厚感・安定感をカクノより評価するレビ�
 
 上記のどれかに当てはまるなら、4,400円（コンバーター込みなら5,200円）の投資は回収できる。
 
-→ [Amazonで今すぐ価格を確認する（在庫あり）](https://www.amazon.co.jp/)
+→ [楽天で今すぐ価格を確認する（在庫あり）](https://hb.afl.rakuten.co.jp/hgc/g00qm7tm.ycj6k660.g00qm7tm.ycj6l6e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-youstyle%2Flyot%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-youstyle%2Fi%2F10066407%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 → [楽天で在庫と最安値を今すぐ確認する](https://www.rakuten.co.jp/)
 
@@ -155,7 +155,7 @@ Amazon4.4・楽天4.58という評価は、2,470件のレビューデータが�
 
 三角グリップの相性を店頭で確認する30分が、4,400円を正解にする唯一の条件だ。
 
-→ [Amazonで今すぐ価格を確認する（在庫あり）](https://www.amazon.co.jp/)
+→ [楽天で今すぐ価格を確認する（在庫あり）](https://hb.afl.rakuten.co.jp/hgc/g00qm7tm.ycj6k660.g00qm7tm.ycj6l6e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-youstyle%2Flyot%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-youstyle%2Fi%2F10066407%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 

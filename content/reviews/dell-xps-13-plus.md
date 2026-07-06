@@ -103,7 +103,7 @@ USB-C 2本の制約を「ドングルで解決」は心の負担になり続け�
 
 **購入の判断に迷ったら、まずはこちらから商品を確認してみてください。**
 
-- [Amazonで確認する](https://amazon.co.jp)
+- [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00s5bqm.ycj6k8e3.g00s5bqm.ycj6l3d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcasemania55%2Fpvt-180-k0001570290%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcasemania55%2Fi%2F11035487%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 - [楽天で確認する](https://rakuten.co.jp)
 
 ## Dell XPS 13 Plusの口コミ調査からの結論

@@ -51,7 +51,7 @@ WF-1000XM5の口コミ・評価をAmazonと楽天合計5,000件超から調査�
 | 重量（片耳） | 約5.9g | 約5.3g |
 | iOSシームレス連携 | △ | ◎ |
 
-> **[Amazonで現在の価格・在庫を確認する →](https://www.amazon.co.jp/dp/B0C33XXS3X)**
+> **[楽天で現在の価格・在庫を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00qjy0m.ycj6kbaf.g00qjy0m.ycj6l470/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-earphone%2Fsony-wf1000xm5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-earphone%2Fi%2F10034795%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 
@@ -167,6 +167,6 @@ LDAC対応の高音質と細かく調整できるイコライザーの組み合�
 
 1日あたり108円・3年使えば元が取れる。今日の価格だけ確認して、明日の自分に投資する判断をしてほしい。
 
-**[楽天市場で価格を見る →](https://hb.afl.rakuten.co.jp/hgc/g00qjy0m.ycj6kbaf.g00qjy0m.ycj6l470/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-earphone%2Fsony-wf1000xm5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-earphone%2Fi%2F10034795%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)** ／ **[Amazonで価格を見る →](https://www.amazon.co.jp/dp/B0C33XXS3X)**
+**[楽天市場で価格を見る →](https://hb.afl.rakuten.co.jp/hgc/g00qjy0m.ycj6kbaf.g00qjy0m.ycj6l470/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-earphone%2Fsony-wf1000xm5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-earphone%2Fi%2F10034795%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)** ／ **[楽天で価格を見る →](https://hb.afl.rakuten.co.jp/hgc/g00qjy0m.ycj6kbaf.g00qjy0m.ycj6l470/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-earphone%2Fsony-wf1000xm5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-earphone%2Fi%2F10034795%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 また明日、集合知で会おう。

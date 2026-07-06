@@ -15,7 +15,7 @@ review_count: 112
 rating: 4.18
 shop_name: "イトーキオンラインショップ"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00ppram.ycj6k276.g00ppram.ycj6l84e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoho-st%2F24083400s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoho-st%2Fi%2F10032555%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: "https://www.amazon.co.jp/dp/B07YS2P8T7"
+amazon_url: ""
 product_image: "/img/products/イトーキ-サリダyl9.jpg"
 keywords: ["イトーキ サリダYL9 口コミ", "イトーキ サリダYL9 評判", "イトーキ サリダYL9 デメリット", "イトーキ サリダYL9 レビュー", "イトーキ サリダYL9 後悔", "イトーキ サリダYL9", "チェア 口コミ", "チェア おすすめ"]
 ---
@@ -44,7 +44,7 @@ keywords: ["イトーキ サリダYL9 口コミ", "イトーキ サリダYL9 評
 
 価格は35,900円で、3万円台で買える国産チェアというポジション。競合のオカムラ ビラージュやエルゴヒューマン ベーシックと比較されることが多く、487件中78件でメーカーへの信頼性に言及があった。
 
-→ [この基本性能で十分か確認する（Amazon）](https://www.amazon.co.jp/s?k=イトーキ+サリダYL9)  
+→ [この基本性能で十分か確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00ppram.ycj6k276.g00ppram.ycj6l84e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoho-st%2F24083400s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoho-st%2Fi%2F10032555%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
 → [楽天市場で在庫を確認](https://search.rakuten.co.jp/search/mall/イトーキ+サリダYL9/)
 
 ## イトーキ サリダYL9の悪い口コミ・デメリット
@@ -102,7 +102,7 @@ Amazon487件中312件の口コミで「通気性」に言及があった。背�
 **使い分けの目安：**  
 1日8時間×週5日の事務作業中心ならサリダYL9で必要十分という口コミが多い。週末も含めて長時間ゲームや映像作業をするならエルゴヒューマン ベーシック。座面の硬さが心配で柔らかめを求めるならオカムラ ビラージュという評判だった。
 
-→ [サリダYL9の最新価格を確認（Amazon）](https://www.amazon.co.jp/s?k=イトーキ+サリダYL9)
+→ [サリダYL9の最新価格を確認（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00ppram.ycj6k276.g00ppram.ycj6l84e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoho-st%2F24083400s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoho-st%2Fi%2F10032555%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **よくある質問**
 
@@ -121,7 +121,7 @@ Amazon487件中312件の口コミで「通気性」に言及があった。背�
 **保証期間中に壊れたらどうなる？**  
 2年保証が適用され、通常使用での故障は無償修理または交換対応という報告があった。689件中、保証対応への言及があった12件では、イトーキの国内サポート体制を評価する声があった。
 
-→ [実際の使用感を最新口コミで確認（Amazon）](https://www.amazon.co.jp/s?k=イトーキ+サリダYL9)
+→ [実際の使用感を最新口コミで確認（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00ppram.ycj6k276.g00ppram.ycj6l84e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoho-st%2F24083400s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoho-st%2Fi%2F10032555%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## イトーキ サリダYL9を買って後悔する人
 
@@ -146,14 +146,14 @@ Amazon487件中312件の口コミで「通気性」に言及があった。背�
 **メッシュ素材の通気性を重視する人**  
 夏場のエアコン代を抑えたい、または暑がりな体質の人には評判が良い。
 
-→ [Amazonで最新価格を見る](https://www.amazon.co.jp/s?k=イトーキ+サリダYL9)  
+→ [楽天で最新価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00ppram.ycj6k276.g00ppram.ycj6l84e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoho-st%2F24083400s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoho-st%2Fi%2F10032555%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
 → [楽天市場で在庫を確認](https://search.rakuten.co.jp/search/mall/イトーキ+サリダYL9/)
 
 ## イトーキ サリダYL9の口コミ調査からの結論
 
 イトーキ サリダYL9は、5年使用前提、平日のみ8時間稼働として計算すると1日約3.7円（35,900円÷8時間×240日×5年）というコストになる。この価格で納得できるか、最新の価格と口コミを確認しておくといい。
 
-→ [最新価格を確認する（Amazon）](https://www.amazon.co.jp/s?k=イトーキ+サリダYL9)
+→ [最新価格を確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00ppram.ycj6k276.g00ppram.ycj6l84e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoho-st%2F24083400s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoho-st%2Fi%2F10032555%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 689件のデータを調査した限り、3万円台の国産オフィスチェアとして基本性能は確保されており、在宅勤務初心者の最初の一脚としては妥当な選択肢だ。座面の硬さとヘッドレスト非搭載というデメリットはあるが、メッシュの通気性と組み立てやすさ、腰部サポートでカバーしている。
 

@@ -112,7 +112,7 @@ Seagate One Touch HDD などの競合製品と比較したユーザー口コミ�
 
 Transcend StoreJet 25M3 は、耐衝撃性とシンプルさを武器にしたポータブルHDD。Amazon 1240件、楽天 148件のレビューデータからは、「本当に買って大丈夫か」という購入直前の不安を払拭する十分な評判が見えます。デメリットの「動作音」と「重さ」は実際に存在しますが、用途によっては全く問題にならない。1日あたり23円程度で、外出先のバックアップと持ち運びを両立したいなら、検討する価値があります。
 
-⇒ [Amazon で現在価格を確認](https://amazon.co.jp)  
+⇒ [楽天 で現在価格を確認](https://hb.afl.rakuten.co.jp/hgc/g00pmmbm.ycj6k8ea.g00pmmbm.ycj6l61a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2Fts2tsj25m3g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10090536%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
 ⇒ [楽天で購入する](https://rakuten.co.jp)
 
 また明日、集合知で会おう

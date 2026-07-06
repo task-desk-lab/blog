@@ -43,7 +43,7 @@ keywords: ["トンボ鉛筆 MONO 消しゴム 口コミ", "トンボ鉛筆 MONO 
 | 原産国 | 日本 |
 | 販売歴 | 1969年発売・50年以上の継続販売 |
 
-[Amazonで価格を確認する →](https://www.amazon.co.jp/dp/【ASIN】)
+[楽天で価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00toskm.ycj6kec3.g00toskm.ycj6ldf3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftheme-de-bungu%2F326%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftheme-de-bungu%2Fi%2F10000462%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## トンボ鉛筆 MONO 消しゴムの悪い口コミ・デメリット
 
@@ -81,7 +81,7 @@ HBや2Bの跡でも、数回こするだけでほぼ消える。「消えない�
 **サイズが選べる**
 S・M・L・XLと幅広い。机上の取り回しを重視するならS、長時間使うならLなど、用途に合わせて選べる。
 
-[Amazonで価格を確認する →](https://www.amazon.co.jp/dp/【ASIN】)
+[楽天で価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00toskm.ycj6kec3.g00toskm.ycj6ldf3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftheme-de-bungu%2F326%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftheme-de-bungu%2Fi%2F10000462%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## MONO消しゴム vs Pentelアイン：どちらを選ぶべきか
 
@@ -97,7 +97,7 @@ S・M・L・XLと幅広い。机上の取り回しを重視するならS、長�
 
 消え方はほぼ互角。差として挙がるのが消しカスのまとまり方で、MONOのほうがきれいにまとまるという声がやや多い。消し心地の好みで選ぶなら、ソフト系が好きな人はアイン、標準的な抵抗感が好きな人はMONOを選ぶ人が多い。入手しやすさではMONOが優位だ。シャープペンシルをメインで使う場合は[シャープペンシル向け消しゴム比較まとめ](/eraser/sharpener-pencil)も参照してほしい。
 
-[Amazonで価格を確認する →](https://www.amazon.co.jp/dp/【ASIN】)
+[楽天で価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00toskm.ycj6kec3.g00toskm.ycj6ldf3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftheme-de-bungu%2F326%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftheme-de-bungu%2Fi%2F10000462%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## トンボ鉛筆 MONO 消しゴムを買って後悔する人
 
@@ -127,7 +127,7 @@ Amazonと楽天あわせて1万件超の口コミを調査した。評価の高�
 
 デメリットは「消しカスの量」と「インク系への非対応」で、用途さえ合えばどちらも問題にならない。130円・1日0.4円で、鉛筆やシャープペンシルを普段使いする学生・受験生・オフィスワーカーにとって外れない選択肢だ。まず1個試すコストが低い。
 
-[Amazonで価格を確認する →](https://www.amazon.co.jp/dp/【ASIN】)
+[楽天で価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00toskm.ycj6kec3.g00toskm.ycj6ldf3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftheme-de-bungu%2F326%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftheme-de-bungu%2Fi%2F10000462%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## よくある質問（FAQ）
 
@@ -146,4 +146,3 @@ Amazonと楽天あわせて1万件超の口コミを調査した。評価の高�
 
 ---
 
-CTAリンク内の `【ASIN】` は実際の商品ASINに差し替えてください。Amazon.co.jpの商品ページURLから `dp/` 以降の英数字10桁がASINです。

@@ -111,7 +111,7 @@ Amazonで220件、楽天で55件の口コミを調べた結果、用途が明確
 もし「あと何分？」との質問が1日に何度も飛んでくる環境にいるなら、検討してみる価値がある。
 
 **購入を検討する場合**
-- [Amazonで在庫・価格確認](https://amazon.co.jp)
+- [楽天で在庫・価格確認](https://hb.afl.rakuten.co.jp/hgc/g00r68im.ycj6k704.g00r68im.ycj6l64b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftheenglishstore%2F850070055093%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftheenglishstore%2Fi%2F10002128%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 - [楽天での最安値比較](https://rakuten.co.jp)
 
 ただし60分制限と耐久性の課題は事前に理解した上で判断してほしい。

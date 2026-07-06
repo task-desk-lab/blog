@@ -67,7 +67,7 @@ XGIMI Halo+の冷却ファン騒音は公称値が非公開だが、競合のAnk
 
 ---
 
-**▶ [Amazonで在庫と最新価格を確認する（価格は変動します）](Amazonアフィリエイトリンクをここに設定)**
+**▶ [楽天で在庫と最新価格を確認する（価格は変動します）](https://hb.afl.rakuten.co.jp/hgc/g00tqo9m.ycj6k17f.g00tqo9m.ycj6l47d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fxgimi-store%2Fhaloplus-gtv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fxgimi-store%2Fi%2F10000067%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 
@@ -122,8 +122,8 @@ XGIMI公式の保証は1年間、Amazonなら購入日から返品30日対応。
 
 それでも気になる人は現在の価格を確認してから決めるといい。
 
-**▶ [Amazonで在庫と最新価格を確認する（価格は変動します）](Amazonアフィリエイトリンクをここに設定)**
-**▶ [楽天市場で口コミをすべて確認する](楽天アフィリエイトリンクをここに設定)**
+**▶ [楽天で在庫と最新価格を確認する（価格は変動します）](https://hb.afl.rakuten.co.jp/hgc/g00tqo9m.ycj6k17f.g00tqo9m.ycj6l47d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fxgimi-store%2Fhaloplus-gtv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fxgimi-store%2Fi%2F10000067%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**▶ [楽天市場で口コミをすべて確認する](https://hb.afl.rakuten.co.jp/hgc/g00tqo9m.ycj6k17f.g00tqo9m.ycj6l47d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fxgimi-store%2Fhaloplus-gtv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fxgimi-store%2Fi%2F10000067%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 
@@ -140,8 +140,8 @@ XGIMI公式の保証は1年間、Amazonなら購入日から返品30日対応。
 
 ---
 
-**▶ [Amazonで在庫と最新価格を確認する（価格は変動します）](Amazonアフィリエイトリンクをここに設定)**
-**▶ [楽天市場で口コミをすべて確認する](楽天アフィリエイトリンクをここに設定)**
+**▶ [楽天で在庫と最新価格を確認する（価格は変動します）](https://hb.afl.rakuten.co.jp/hgc/g00tqo9m.ycj6k17f.g00tqo9m.ycj6l47d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fxgimi-store%2Fhaloplus-gtv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fxgimi-store%2Fi%2F10000067%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**▶ [楽天市場で口コミをすべて確認する](https://hb.afl.rakuten.co.jp/hgc/g00tqo9m.ycj6k17f.g00tqo9m.ycj6l47d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fxgimi-store%2Fhaloplus-gtv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fxgimi-store%2Fi%2F10000067%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 

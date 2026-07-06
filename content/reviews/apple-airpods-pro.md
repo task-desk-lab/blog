@@ -127,7 +127,7 @@ Android端末では以下7つの機能が使えない。
 **iPhone・Mac・iPadを複数台持っている人**  
 デバイス間の自動切り替え機能が役立つ。会議と音楽視聴をシームレスに移行できる。口コミで最も満足度が高いのはこの層だ。
 
-→ [Amazonで現在の価格を確認](https://www.amazon.co.jp/dp/B0CHWRXH8B)  
+→ [楽天で現在の価格を確認](https://hb.afl.rakuten.co.jp/hgc/g00s2dam.ycj6kefc.g00s2dam.ycj6l4b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeitai-god%2Fairpodspro3-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeitai-god%2Fi%2F10022103%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
 → [楽天ポイント還元率をチェック](https://item.rakuten.co.jp/apple/airpods-pro/)
 
 **通勤・通学で集中したい環境が必要な人**  
@@ -140,7 +140,7 @@ Android端末では以下7つの機能が使えない。
 
 AirPods Proは39,800円という価格に対し、iPhoneユーザーには2〜3年使用を前提とした投資価値があるという評価が集合知では多い。52,500件の口コミ調査が示す通り、ノイズキャンセリング性能-30dBと接続安定性は使える水準で、毎日の通勤・作業環境を改善するという報告が目立つ。
 
-→ [最安値をチェックする](https://www.amazon.co.jp/dp/B0CHWRXH8B)
+→ [最安値をチェックする](https://hb.afl.rakuten.co.jp/hgc/g00s2dam.ycj6kefc.g00s2dam.ycj6l4b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeitai-god%2Fairpodspro3-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeitai-god%2Fi%2F10022103%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ただしAndroid端末では7つの機能が制限されるため、購入対象者は明確だ。複数のApple製品を持ち、エコシステムの中で生活している人には合理的な選択になる。価格だけで判断せず、自分の使用環境と照らし合わせて検討してほしい。
 

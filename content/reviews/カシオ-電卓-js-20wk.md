@@ -104,7 +104,7 @@ A4用紙（210×297mm）と比べると横幅185mmはほぼ同等のサイズ感
 
 **カシオ JS-20WK**：[楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[Amazonで価格を確認する](https://www.amazon.co.jp/dp/B082YSL1CZ/?tag=taskdesklab-22)
 
-**シャープ EL-G37**：[楽天で価格を確認する](#)　[Amazonで価格を確認する](https://www.amazon.co.jp/dp/B07XXXXXXXXX/?tag=taskdesklab-22)
+**シャープ EL-G37**：[楽天で価格を確認する](#)　[楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## カシオ 電卓 JS-20WKを買って後悔する人
 

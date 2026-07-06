@@ -146,7 +146,7 @@ Amazonで集めた1,340件の口コミと楽天の280件のレビューから、
 
 ---
 
-📱 [Amazonで最新価格を確認する](https://amazon.co.jp)
+📱 [楽天で最新価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00puugm.ycj6k2e0.g00puugm.ycj6lc61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut%2F50395540381%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut%2Fi%2F10123553%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 🔗 [Belkin公式サイト](https://www.belkin.com)
 

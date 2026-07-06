@@ -24,9 +24,9 @@ keywords: ["Jackery ポータブル電源 240 口コミ", "Jackery ポータブ�
 
 Jackery ポータブル電源 240の口コミ・評判を4,300件超調査した。Amazonで3,200件を含む計4,300件超のレビューを確認し、評価の平均は4.4〜4.7。実用的な容量・静かな動作音・複数端子の同時使用が一貫して評価されている。ただし240Whという容量の壁が明確で、用途が合わない人には後悔につながりやすい製品でもある。
 
-[Amazonで価格・在庫を確認する](AMAZON_AFFILIATE_LINK) ／ [楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tgrom.ycj6k7cb.g00tgrom.ycj6l0a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjackery-japan%2Fn-p-240200-bkor-jk2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjackery-japan%2Fi%2F10000004%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tgrom.ycj6k7cb.g00tgrom.ycj6l0a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjackery-japan%2Fn-p-240200-bkor-jk2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjackery-japan%2Fi%2F10000004%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
-![Jackery ポータブル電源 240 外観](./product.jpg)
+!Jackery ポータブル電源 240 外観
 
 ## Jackery ポータブル電源 240の基本スペック
 
@@ -51,7 +51,7 @@ Jackery ポータブル電源 240の口コミ・評判を4,300件超調査した
 
 この2択の判断軸はシンプルだ。価格差は約11,000円。リン酸鉄リチウムはサイクル寿命が長く、長期保管でも劣化が進みにくい。防災備蓄として5年以上使い続けたいならNewモデルが理にかなっている。週末キャンプで2〜3年使い倒すなら旧240でも十分機能する。「長く持たせたいか、まず安く試したいか」だけ決めれば選び先は決まる。
 
-[Amazonで旧240・New 240の現在価格を確認する](AMAZON_AFFILIATE_LINK)
+[楽天で旧240・New 240の現在価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tgrom.ycj6k7cb.g00tgrom.ycj6l0a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjackery-japan%2Fn-p-240200-bkor-jk2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjackery-japan%2Fi%2F10000004%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Jackery ポータブル電源 240の悪い口コミ・デメリット
 
@@ -117,7 +117,7 @@ Jackery 240にはUSB-C出力ポートがない。MacBook・最新スマホ・ワ
 
 口コミから見えてくる棲み分けはシンプルだ。JackeryはUSB-Cを必要としないシンプルな用途、AnkerはUSB-C対応デバイスを多く持つユーザーに選ばれている。どちらが優れているというよりも、充電したいデバイスのポート規格と保証期間の重み次第で選び先が変わる。上位モデルとの容量比較は[Jackeryシリーズ比較まとめ](/jackery-series-comparison)にまとめている。
 
-[Amazonで両機種の現在価格を今すぐ確認する](AMAZON_AFFILIATE_LINK)
+[楽天で両機種の現在価格を今すぐ確認する](https://hb.afl.rakuten.co.jp/hgc/g00tgrom.ycj6k7cb.g00tgrom.ycj6l0a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjackery-japan%2Fn-p-240200-bkor-jk2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjackery-japan%2Fi%2F10000004%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Jackery ポータブル電源 240を買って後悔する人
 
@@ -151,7 +151,7 @@ Jackery 240にはUSB-C出力ポートがない。MacBook・最新スマホ・ワ
 
 Amazon・楽天・YouTube・ブログを合わせて4,300件超の口コミを調べた。評価の平均は4.4〜4.7と高く、スマホ3回分の容量・静音性・端子の同時使用という実用性が一貫している。価格21,800円（※2026年4月時点）を5年（1,800日）で割ると1日約12円。週末のデイキャンプや防災の入門機として見れば、継続的なコストは低い。「家電を動かしたい」「USB-Cデバイスが多い」「2泊以上のオフグリッドキャンプを想定している」用途には明確に合わない。240Whの壁を把握した上で買えば、この価格帯で最も安定した入門機の一つだ。
 
-[Amazonで価格・在庫を確認する](AMAZON_AFFILIATE_LINK) ／ [楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tgrom.ycj6k7cb.g00tgrom.ycj6l0a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjackery-japan%2Fn-p-240200-bkor-jk2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjackery-japan%2Fi%2F10000004%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tgrom.ycj6k7cb.g00tgrom.ycj6l0a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjackery-japan%2Fn-p-240200-bkor-jk2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjackery-japan%2Fi%2F10000004%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## よくある質問
 

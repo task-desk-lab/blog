@@ -24,7 +24,7 @@ keywords: ["Wacom Cintiq 16 口コミ", "Wacom Cintiq 16 評判", "Wacom Cintiq 
 
 59,800円の液タブを買うべきか。Amazonの1,240件を含む口コミ総数3,030件超を調査したところ、判断の分岐点は明確に2点に絞られた。発熱と視差（パララックス）だ。この記事で、その実態と用途別の適合性を検証する。
 
-**▶ 3,030件の口コミを読んで迷うより、今の価格を確認する方が早い →**（← アフィリエイトリンクを挿入）
+**[▶ 3,030件の口コミを読んで迷うより、今の価格を確認する方が早い →](https://hb.afl.rakuten.co.jp/hgc/g00rqvhm.ycj6k1f3.g00rqvhm.ycj6lac8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwacomstore%2Fdtk1660k0d-ol%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwacomstore%2Fi%2F10000468%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ## Wacom Cintiq 16の基本スペック
 
@@ -86,7 +86,7 @@ A4に近いサイズで全体を確認しながら細部も描ける。小型機
 
 視差と解像度を優先するならXP-Pen Artist 16 Gen2、書き味とドライバー安定性を優先するならWacom Cintiq 16だ。正直に言えば、ぼくは書き味を優先してWacomを選ぶ。ただ予算差20,000円をどう評価するかは用途次第だ。どちらを選ぶか迷っているなら、先に板タブとの使い分けを整理しておくと判断しやすい（→板タブと液タブの比較ガイド）。
 
-**▶ XP-Penと迷っているなら、価格差を数字で確認する →**（← アフィリエイトリンクを挿入）
+**[▶ XP-Penと迷っているなら、価格差を数字で確認する →](https://hb.afl.rakuten.co.jp/hgc/g00rqvhm.ycj6k1f3.g00rqvhm.ycj6lac8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwacomstore%2Fdtk1660k0d-ol%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwacomstore%2Fi%2F10000468%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ## この液タブ、あなたに合うか合わないか
 
@@ -112,6 +112,6 @@ Amazonの1,240件を含む3,030件超を調査した結果、Wacom Cintiq 16の�
 
 Amazonレビュー1,240件、評価4.3/5。
 
-**▶ 3年で1日164円。購入を後押しする最終チェックはこちら →**（← アフィリエイトリンクを挿入）
+**[▶ 3年で1日164円。購入を後押しする最終チェックはこちら →](https://hb.afl.rakuten.co.jp/hgc/g00rqvhm.ycj6k1f3.g00rqvhm.ycj6lac8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwacomstore%2Fdtk1660k0d-ol%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwacomstore%2Fi%2F10000468%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 また明日、集合知で会おう。

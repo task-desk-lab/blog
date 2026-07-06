@@ -109,7 +109,7 @@ MacBook Pro、Surface Pro、iPad Proなど、OSをまたいだ動作確認の声
 
 **4Kデュアル出力が不要で持ち運びを重視するなら、Anker 563が最有力候補になる。**
 
-→ [Amazonで在庫と価格を確認する（Anker 563）](https://www.amazon.co.jp/s?k=Anker+563+A8393)
+→ [楽天で在庫と価格を確認する（Anker 563）](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8377%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001361%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### どのモデルを選ぶかの分岐点
 
@@ -147,7 +147,7 @@ UHS-II非対応のSDカードスロットは、高頻度な大容量転送でボ
 
 コンパクトなアルミ筐体はバッグに入れても苦にならないサイズで、ホテルや客先オフィスで自分のデスク環境を再現できるという声が40件以上あった。
 
-→ [Amazonで在庫と価格を確認する（Anker 563）](https://www.amazon.co.jp/s?k=Anker+563+A8393)
+→ [楽天で在庫と価格を確認する（Anker 563）](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8377%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001361%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Anker 563 口コミ調査からの結論
 
@@ -155,7 +155,7 @@ UHS-II非対応のSDカードスロットは、高頻度な大容量転送でボ
 
 向いていない用途は限られている。4Kデュアル出力が必要な人、高速ストレージ転送が日常的な人、UHS-IIのSDスロットが必須な人には、この製品では足りない部分がある。用途の範囲を先に確認してから購入すれば、後悔はほぼ防げる。
 
-→ [Amazonで在庫と価格を確認する（Anker 563）](https://www.amazon.co.jp/s?k=Anker+563+A8393)  
+→ [楽天で在庫と価格を確認する（Anker 563）](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8377%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001361%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
 → [楽天市場で価格を比較する（Anker 563）](https://search.rakuten.co.jp/search/mall/Anker+563+A8393/)  
 → [Anker公式ストアで確認する](https://www.ankerjapan.com/)
 

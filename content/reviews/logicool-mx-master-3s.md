@@ -15,7 +15,7 @@ review_count: 1
 rating: 4.0
 shop_name: "ハッピーライフスタイルショップ"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00t5ukm.ycj6ke33.g00t5ukm.ycj6lbca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappylifestyleshop%2Fmix1l-355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappylifestyleshop%2Fi%2F10131174%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: "https://www.amazon.co.jp/dp/B09P1GHGF2"
+amazon_url: ""
 product_image: "/img/products/logicool-mx-master-3s.jpg"
 keywords: ["Logicool MX Master 3S 口コミ", "Logicool MX Master 3S 評判", "Logicool MX Master 3S デメリット", "Logicool MX Master 3S レビュー", "Logicool MX Master 3S 後悔", "Logicool MX Master 3S", "マウス 口コミ", "マウス おすすめ"]
 ---
@@ -60,7 +60,7 @@ Logicool MX Master 3Sは、ロジクールのワイヤレスマウス上位モ�
 **クリック音が90%削減されているという評判**  
 カフェや図書館、静かなオフィスで作業しても音が気にならない。Amazon口コミ243件で「静音性」に言及があり、前モデルのMX Master 3と比べて体感で明らかに静かという口コミだ。
 
-→ [MX Master 3SのAmazon口コミ2,850件を見る](https://www.amazon.co.jp/s?k=MX+Master+3S)
+→ [MX Master 3Sの楽天口コミ2,850件を見る](https://hb.afl.rakuten.co.jp/hgc/g00t5ukm.ycj6ke33.g00t5ukm.ycj6lbca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappylifestyleshop%2Fmix1l-355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappylifestyleshop%2Fi%2F10131174%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **8Kセンサーで細かく動くという口コミ**  
 ガラス面でも使える精度で、細かいデザイン作業やCAD操作で正確にカーソルが動く。DPI（dots per inch：マウスを1インチ動かしたときにカーソルが移動するドット数）調整も可能だ。

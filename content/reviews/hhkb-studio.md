@@ -121,7 +121,7 @@ Mac・iPad・Windowsを切り替えながら使うヘビーユーザーの間で
 
 打鍵感とマウス不要運用が優先事項なら、HHKB Studio一択だ。
 
-→ [**打鍵感で選ぶならHHKB Studio：Amazonで在庫と価格を確認する**](https://www.amazon.co.jp/s?k=HHKB+Studio)
+→ [**打鍵感で選ぶならHHKB Studio：楽天で在庫と価格を確認する**](https://hb.afl.rakuten.co.jp/hgc/g00rgzim.ycj6kc7d.g00rgzim.ycj6l064/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpfudirect%2Fpd-id120b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpfudirect%2Fi%2F10001012%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -155,7 +155,7 @@ Mac・iPad・Windowsを切り替えながら使うヘビーユーザーの間で
 
 Macとの相性が良い設計で、Bluetooth複数台接続とジェスチャーパッドの組み合わせがmacOS操作と合うという評価が多い。マウスを排除したいデスクセットアップ志向の人に刺さっている。
 
-上記3条件のどれかに当てはまるなら、今すぐ価格と在庫を確認する価値がある→ [Amazonで確認する](https://www.amazon.co.jp/s?k=HHKB+Studio)
+上記3条件のどれかに当てはまるなら、今すぐ価格と在庫を確認する価値がある→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00rgzim.ycj6kc7d.g00rgzim.ycj6l064/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpfudirect%2Fpd-id120b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpfudirect%2Fi%2F10001012%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 

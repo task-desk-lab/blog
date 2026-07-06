@@ -15,7 +15,7 @@ review_count: 0
 rating: 0.0
 shop_name: "ショップあまのとり"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00trvrm.ycj6k8dc.g00trvrm.ycj6l1b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-amanotori%2F202511200300134549995513981%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshop-amanotori%2Fi%2F10039133%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: "https://www.amazon.co.jp/dp/B09V4LDNHY"
+amazon_url: ""
 product_image: "/img/products/apple-magic-keyboard.jpg"
 keywords: ["Apple Magic Keyboard 口コミ", "Apple Magic Keyboard 評判", "Apple Magic Keyboard デメリット", "Apple Magic Keyboard レビュー", "Apple Magic Keyboard 後悔", "Apple Magic Keyboard", "キーボード 口コミ", "キーボード おすすめ"]
 ---

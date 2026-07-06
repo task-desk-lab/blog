@@ -117,7 +117,7 @@ AnkerのラインナップにはデータI/O対応・非対応のモデルが混
 
 ※Amazonの表示価格は変動します。
 
-▶ [Amazonで価格を確認する（2,490円）](AFFILIATE_LINK)
+▶ [楽天で価格を確認する（2,490円）](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8866%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001166%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Anker USB-C 240W ケーブルを買って満足する人
 
@@ -135,7 +135,7 @@ AnkerのラインナップにはデータI/O対応・非対応のモデルが混
 
 ※Amazonの表示価格は変動します。
 
-▶ [Amazonで価格を確認する（2,490円）](AFFILIATE_LINK)
+▶ [楽天で価格を確認する（2,490円）](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8866%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001166%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## USB-C 240W ケーブルは買いか？結論と選び方
 

@@ -90,7 +90,7 @@ SwitchBot カーテンを買って後悔した人の共通パターンを、Amaz
 
 | 製品 | 実売価格（2026年4月時点） | Alexa/Google連携 | 日本語サポート | リンク |
 |---|---|---|---|---|
-| SwitchBot カーテン | 9,980円〜 | ハブ経由で可 | あり | [楽天](https://search.rakuten.co.jp/search/mall/SwitchBot+カーテン/) / [Amazon](https://www.amazon.co.jp/s?k=SwitchBot+カーテン) |
+| SwitchBot カーテン | 9,980円〜 | ハブ経由で可 | あり | [楽天](https://search.rakuten.co.jp/search/mall/SwitchBot+カーテン/) / [楽天](https://hb.afl.rakuten.co.jp/hgc/g00uc4wm.ycj6k588.g00uc4wm.ycj6lfd1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2F10000109%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswitchbot%2Fi%2F10000115%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) |
 | mornin' plus | 8,800円〜 | 限定的 | あり | [楽天](https://search.rakuten.co.jp/search/mall/mornin+plus/) |
 | Tuya互換品 | 4,000円〜 | 可（設定複雑） | 弱い | ー |
 

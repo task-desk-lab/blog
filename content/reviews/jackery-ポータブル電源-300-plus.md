@@ -133,7 +133,7 @@ ACコンセント1口・USB-A 2口という構成は、大人数で使うと取�
 
 スマホ数台・ノートPC・照明・電気毛布程度のニーズなら300Whで十分対応できる。
 
-**→ [Amazonで確認する（★4.3・720件）](アフィリエイトリンクをここに入れる)**
+**→ [楽天で確認する（★4.3・720件）](https://hb.afl.rakuten.co.jp/hgc/g00t7ukm.ycj6k235.g00t7ukm.ycj6l6e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcarmeister-2%2Fje-300b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcarmeister-2%2Fi%2F10001419%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 **5年以上使い続けることを前提に選ぶ人**
 
@@ -143,7 +143,7 @@ LFP電池の3,000サイクルは長期使用で明確なコスト優位につな
 
 MacBook ProまたはiPad Proを使う人は100W PD対応が重要な差別化点になる。ポータブル電源でPC充電まで完結すると持ち物が減り、荷物の整理がしやすくなる。
 
-**→ [Amazonで確認する（★4.3・720件）](アフィリエイトリンクをここに入れる)**
+**→ [楽天で確認する（★4.3・720件）](https://hb.afl.rakuten.co.jp/hgc/g00t7ukm.ycj6k235.g00t7ukm.ycj6l6e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcarmeister-2%2Fje-300b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcarmeister-2%2Fi%2F10001419%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ## Jackery ポータブル電源 300 Plus 口コミまとめ
 
@@ -151,7 +151,7 @@ Amazonで720件・楽天で180件を含む1,275件超のデータを調べた。
 
 ただしAC出力300W・コンセント1口という設計上の制約は実際の使用シーンで問題になりやすい。「何でも動く万能電源」ではなく、「ソロ〜2人分のデジタル機器と小型家電を静かに長く動かす電源」と理解して買うのが正しい。購入前に屋外で使う家電の消費電力をリストアップしておくのが、後悔を防ぐ最も確実な予防策だ。
 
-**→ [Amazonで確認する（★4.3・720件）](アフィリエイトリンクをここに入れる)**
+**→ [楽天で確認する（★4.3・720件）](https://hb.afl.rakuten.co.jp/hgc/g00t7ukm.ycj6k235.g00t7ukm.ycj6l6e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcarmeister-2%2Fje-300b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcarmeister-2%2Fi%2F10001419%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 関連記事：[EcoFlow RIVER 2 口コミ・レビュー] / [ポータブル電源 300Wh以下 比較]
 

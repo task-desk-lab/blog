@@ -70,7 +70,7 @@ AKRacing Pro-X V2の口コミ・評判をAmazon320件・楽天180件にわたっ
 
 バケットシェルが固定式のため、あぐらや横向きといった自由な姿勢には向かない。姿勢を変えながら長時間過ごしたいタイプで、同価格帯からメッシュチェアに乗り換えたという声も調査の中にあった。
 
-デメリットを把握した上でそれでも検討したい方は、[Amazonで在庫と価格を確認する](※URL)。
+デメリットを把握した上でそれでも検討したい方は、[楽天で在庫と価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pw5sm.ycj6k92e.g00pw5sm.ycj6lcd8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmousecomputer%2Fakr-pro-x%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmousecomputer%2Fi%2F10012008%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)。
 
 ## AKRacing Pro-X V2 良い口コミ｜実際に評価された5つの強み
 
@@ -108,7 +108,7 @@ PUレザーの蒸れが嫌でAKRacing Pro-X V2に乗り換えたというレビ�
 
 身長170cm以上・体重70kg以上で仮眠も含めた多目的な使い方をしたい人はAKRacingで不満が出にくく、身長165cm前後の標準体型ならフィット感でSecretlabに軍配が上がるケースが目立つ。アフターサービスの手厚さでは、5年保証があるAKRacing Pro-X V2が一歩リードしている。同ブランドの下位モデルとの違いは[AKRacing PROシリーズ 比較・選び方ガイド](/akracing-pro-series-comparison/)も参考になる。
 
-AKRacingが体型的に合わないと感じたなら、→ [Secretlab TITAN Evo 2022をAmazonで比較する](※URL)
+AKRacingが体型的に合わないと感じたなら、→ Secretlab TITAN Evo 2022をAmazonで比較する
 
 ## AKRacing Pro-X V2を買って後悔する人・満足する人
 
@@ -120,7 +120,7 @@ AKRacingが体型的に合わないと感じたなら、→ [Secretlab TITAN Evo
 
 合計500件（Amazon320件・楽天180件）を通じて最も多い「満足」の声は「1日6時間以上作業する腰痛持ちの在宅ワーカー・ゲーマー」から出ている。腰痛整体に月1回通えば年12,000〜30,000円以上かかる計算になる。その支出を削れるなら、58,000円を払う根拠が揃う。1日あたり約16円（58,000円÷10年使用換算）というコスト感で納得できるかどうかが、購入判断の分かれ目になる。
 
-上記3条件にどれも当てはまらないなら → [今すぐAmazonで在庫を確認する](※URL)（残り在庫・配送日は商品ページで要確認）
+上記3条件にどれも当てはまらないなら → [今すぐ楽天で在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pw5sm.ycj6k92e.g00pw5sm.ycj6lcd8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmousecomputer%2Fakr-pro-x%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmousecomputer%2Fi%2F10012008%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)（残り在庫・配送日は商品ページで要確認）
 
 ## AKRacing Pro-X V2 口コミ調査からの結論
 
@@ -128,6 +128,6 @@ AKRacingが体型的に合わないと感じたなら、→ [Secretlab TITAN Evo
 
 今の腰痛関連の月次出費（整体・鎮痛剤・湿布）を合計して58,000円と比べてから決めてほしい。それだけで答えは出る。なお5年のメーカー保証に加え、Amazonでは購入後の返品制度も利用できる（対象条件は商品ページで確認）。初期不良や部品不具合のリスクはこの2つでかなり抑えられる。
 
-→ [AKRacing Pro-X V2をAmazonで確認する](※URL)　／　[楽天市場で価格を見る](※URL)
+→ [楽天市場で価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00pw5sm.ycj6k92e.g00pw5sm.ycj6lcd8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmousecomputer%2Fakr-pro-x%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmousecomputer%2Fi%2F10012008%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

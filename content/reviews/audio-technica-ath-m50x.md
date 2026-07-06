@@ -124,8 +124,7 @@ Amazonで調べた4,200件のレビュー層を見ると、音楽制作初心者
 
 ATH-M50xを検討する際、以下のポイントを確認しておくと後悔を防ぎやすい。
 
-- **Amazonリンク**：https://www.amazon.co.jp/s?k=ATH-M50x
-- **楽天リンク**：楽天での在庫・価格も一度確認しておく価値がある
+- **楽天リンク**：[楽天で在庫・価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rizmm.ycj6k471.g00rizmm.ycj6l7a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmikidj%2F4961310125431%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmikidj%2Fi%2F10001456%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 - **返品対応**：多くの販売元で30日返品保証に対応。実際に装着して側圧が自分に合うかを確認できる
 - **ポイント還元**：クレジットカード決済で3-5%のポイント還元を受けられるケースが多い
 - **カラー展開**：ブラックが基本。限定カラーは在庫限定で廃盤になりやすい

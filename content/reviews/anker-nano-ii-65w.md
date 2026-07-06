@@ -15,7 +15,7 @@ review_count: 1255
 rating: 4.67
 shop_name: "アンカー・ダイレクト楽天市場店"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000961%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: "https://www.amazon.co.jp/dp/B09B3FX8SN"
+amazon_url: ""
 product_image: "/img/products/anker-nano-ii-65w.jpg"
 keywords: ["Anker Nano II 65W 口コミ", "Anker Nano II 65W 評判", "Anker Nano II 65W デメリット", "Anker Nano II 65W レビュー", "Anker Nano II 65W 後悔", "Anker Nano II 65W", "充電器 口コミ", "充電器 おすすめ"]
 ---
@@ -26,7 +26,7 @@ keywords: ["Anker Nano II 65W 口コミ", "Anker Nano II 65W 評判", "Anker Nan
 
 Anker Nano II 65Wは、Amazon・楽天の4,050件超の口コミを調査した結果、77%が高評価。4,490円でMacBookも充電できるパワーを手のひらサイズに詰め込んだGaN充電器で、純正より2,000円安く体積は約半分。ただしケーブル別売りで同時充電非対応のため、複数デバイスを一度に充電したい人には向かない。
 
-→ [Amazonで現在の価格を確認する](https://amzn.to/anker-nano-ii-65w) | [楽天で価格を比較する](https://a.r10.to/anker-nano-65w)
+→ [楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000961%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Anker Nano II 65Wの基本スペック
 
@@ -100,7 +100,7 @@ Amazon3,200件、楽天850件、YouTube動画45本の口コミを調査した結
 
 MacBook純正充電器は約6,800円。差額2,000円は1日あたり約12円のコスト削減。価格面での評判は総じて良好。200g軽量化できたことで、カバンの肩掛けストレスが確実に減ったという口コミも。
 
-→ [この充電速度を今すぐ確認する](https://amzn.to/anker-nano-ii-65w)
+→ [この充電速度を今すぐ確認する](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000961%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Anker Nano II 65Wを他社製品と比較した口コミ
 
@@ -122,11 +122,11 @@ MacBook純正充電器は約6,800円。差額2,000円は1日あたり約12円の
 
 **複数デバイスを同時充電したい人**
 
-ポートが1つしかないため、同時充電が必要なら<a href="https://amzn.to/anker-nano-ii-3port">Anker Nano II 3ポート版</a>や<a href="https://amzn.to/cio-novaport-duo">CIO NovaPort DUO</a>のような複数ポート搭載モデルを検討したほうが後悔しない。「もう1ポート欲しかった」という口コミが散見される。
+ポートが1つしかないため、同時充電が必要なら<a href="https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000961%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968">Anker Nano II 3ポート版</a>や<a href="https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000961%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968">CIO NovaPort DUO</a>のような複数ポート搭載モデルを検討したほうが後悔しない。「もう1ポート欲しかった」という口コミが散見される。
 
 **USB-A端子が必要な人**
 
-古いケーブルやデバイスを使い続けたい場合は、<a href="https://amzn.to/anker-powerport-atom">Anker PowerPort Atom III</a>のようなUSB-A搭載モデルのほうが使い勝手がいい。「手持ちのケーブルが使えなかった」という低評価口コミが一定数存在する。
+古いケーブルやデバイスを使い続けたい場合は、<a href="https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000961%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968">Anker PowerPort Atom III</a>のようなUSB-A搭載モデルのほうが使い勝手がいい。「手持ちのケーブルが使えなかった」という低評価口コミが一定数存在する。
 
 **ケーブル込みで安く揃えたい人**
 
@@ -148,7 +148,7 @@ iPhone 15以降やiPad Pro、MacBookなど、すべてUSB-Cで揃えている場
 
 コンパクトさと折りたたみプラグは、頻繁に持ち運ぶ人ほど恩恵を感じやすい。「毎日持ち歩くストレスが減った」という口コミが散見される。
 
-→ [Amazonで現在の価格を見る](https://amzn.to/anker-nano-ii-65w) | [楽天で価格を比較する](https://a.r10.to/anker-nano-65w)
+→ [楽天で現在の価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000961%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Anker Nano II 65Wの口コミ調査からの結論
 
@@ -158,6 +158,6 @@ Anker Nano II 65Wは、4,490円で手に入る実用性の高い充電器だっ�
 
 モバイルワーカーで荷物を減らしたい人なら、出張カバンが200g軽くなる体験は価値がある。購入を検討している人は、まず現在の価格と最新の口コミを確認してほしい。
 
-→ [Amazonで現在の価格を見る](https://amzn.to/anker-nano-ii-65w) | [楽天で価格を比較する](https://a.r10.to/anker-nano-65w)
+→ [楽天で現在の価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000961%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

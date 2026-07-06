@@ -26,7 +26,7 @@ keywords: ["Logicool H390 口コミ", "Logicool H390 評判", "Logicool H390 デ
 
 Amazon4,200件・楽天380件、合計4,500件超の口コミを調べた。調査していくうちに気づいたのは、用途さえ合えば後悔しない製品だということだ。マイク音質の高さと「挿すだけで動く」手軽さが満足層を支えており、音楽再生を目的に選んだ人は物足りなさを感じている。AmazonとRakutenで同じパターンが出てきたので、これは本物だと判断した。
 
-[週3回以上Web会議があるなら在庫状況と価格を確認する →](AMAZON_AFFILIATE_LINK)
+[週3回以上Web会議があるなら在庫状況と価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0107266%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173599%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Logicool H390の基本スペック
 
@@ -59,7 +59,7 @@ USB-Aに差した瞬間にOSが認識するため、ドライバのインスト�
 
 **MacでUSBマイクが認識されないケース**も少数ながら報告がある。[発生時の対処はFAQを参照](#faq-mac)。
 
-Web会議専用と割り切れる人は → [在庫状況と現在価格を確認する（Amazon）](AMAZON_AFFILIATE_LINK)
+Web会議専用と割り切れる人は → [在庫状況と現在価格を確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0107266%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173599%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Logicool H390に関するよくある質問 {#faq-mac}
 
@@ -108,13 +108,13 @@ Discord通話など音声コミュニケーション目的なら使えるが、�
 
 **高価なメインヘッドセットのバックアップを探している人**にも選ばれている。バッテリー切れや充電待ちが発生しない有線USB接続は予備機として信頼性が高く、「2台目としてH390を追加購入した」という報告がAmazonで何件もあった。
 
-週3回以上Web会議があるなら今すぐ → [在庫状況と今の価格を確認する（Amazon）](AMAZON_AFFILIATE_LINK)
+週3回以上Web会議があるなら今すぐ → [在庫状況と今の価格を確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0107266%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173599%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Logicool H390の口コミ調査からの結論
 
 Amazon4,200件・楽天380件、合計4,500件超の口コミを調べた結論として、Logicool H390は「Web会議専用の道具」として完成度が高い。音楽・動画鑑賞には向かないというデメリットを把握したうえで会議専用と割り切れば、3,680円÷365日で1日あたり約10円の運用コストで通話品質が改善する。この使い方に徹するなら、後悔する理由はほぼない。
 
-[Amazonで在庫状況と現在価格を確認する →](AMAZON_AFFILIATE_LINK) ／ [楽天で確認する →](RAKUTEN_AFFILIATE_LINK)
+[楽天で確認する →](https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0107266%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173599%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 在宅勤務の機材をまとめて見直したい場合は[リモートワーク機材おすすめまとめ](/remote-work-gear)も参考にしてほしい。
 

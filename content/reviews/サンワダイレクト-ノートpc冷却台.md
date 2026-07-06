@@ -45,7 +45,7 @@ keywords: ["サンワダイレクト ノートPC冷却台 口コミ", "サンワ
 | 価格 | 3,980円（税込） |
 
 > **▼ 現在の価格を確認する**
-> [Amazonで200-CLN034の価格・在庫を見る →](https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88+200-CLN034)
+> [楽天で200-CLN034の価格・在庫を見る →](https://hb.afl.rakuten.co.jp/hgc/g00pmmbm.ycj6k8ea.g00pmmbm.ycj6l61a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F400-cln037%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10105141%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -109,12 +109,12 @@ USB-Aポートが少ない薄型ノートPCでは、1ポート削られる制約
 
 ## エレコム・Ankerとの比較：200-CLN034はどう位置づけられるか
 
-価格帯が近い競合として名前が挙がるのが[**エレコム SX-CL03BK**](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0+SX-CL03BK)だ。温度低下幅の報告は、エレコムが「2〜3℃低下」が多いのに対し、サンワダイレクトは「5〜10℃低下」が多い（いずれも口コミ報告値の中央値）。「静かさだけならエレコム、冷却効果を重視するならサンワ」という使い分けが口コミ上で定着している。
+価格帯が近い競合として名前が挙がるのが[**エレコム SX-CL03BK**](https://hb.afl.rakuten.co.jp/hgc/g00pmmbm.ycj6k8ea.g00pmmbm.ycj6l61a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F400-cln037%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10105141%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)だ。温度低下幅の報告は、エレコムが「2〜3℃低下」が多いのに対し、サンワダイレクトは「5〜10℃低下」が多い（いずれも口コミ報告値の中央値）。「静かさだけならエレコム、冷却効果を重視するならサンワ」という使い分けが口コミ上で定着している。
 
-より高価格帯の[**Anker製冷却スタンド**](https://www.amazon.co.jp/s?k=Anker+%E5%86%B7%E5%8D%B4%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89)との比較では、素材の質感や剛性感でAnkerが優位という声が出る。ただし「この価格でここまで冷える」という点でサンワで十分という評価も一定数あり、価格と冷却効果のバランスという観点では中間ポジションに落ち着いている。
+より高価格帯の[**Anker製冷却スタンド**](https://hb.afl.rakuten.co.jp/hgc/g00pmmbm.ycj6k8ea.g00pmmbm.ycj6l61a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F400-cln037%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10105141%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)との比較では、素材の質感や剛性感でAnkerが優位という声が出る。ただし「この価格でここまで冷える」という点でサンワで十分という評価も一定数あり、価格と冷却効果のバランスという観点では中間ポジションに落ち着いている。
 
 > **▼ 価格を比較する**
-> - [Amazonで200-CLN034を確認する →](https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88+200-CLN034)
+> - [楽天で200-CLN034を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00pmmbm.ycj6k8ea.g00pmmbm.ycj6l61a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F400-cln037%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10105141%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 > - [楽天市場で確認する →](https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%B3%E3%83%AF%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88+200-CLN034/)
 
 ---
@@ -123,11 +123,11 @@ USB-Aポートが少ない薄型ノートPCでは、1ポート削られる制約
 
 **ゲーミングや動画編集など高負荷作業がメインの人**
 
-フル稼働時の発熱を本格的に抑えたい場合、このモデルのファン風量では力不足になる。高負荷環境には[**Thermaltake Massive TM**](https://www.amazon.co.jp/s?k=Thermaltake+Massive+TM)など強力なファンを搭載したゲーミング専用製品が適している。
+フル稼働時の発熱を本格的に抑えたい場合、このモデルのファン風量では力不足になる。高負荷環境には[**Thermaltake Massive TM**](https://hb.afl.rakuten.co.jp/hgc/g00pmmbm.ycj6k8ea.g00pmmbm.ycj6l61a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F400-cln037%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10105141%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)など強力なファンを搭載したゲーミング専用製品が適している。
 
 **USB-Aポートが1つしかない薄型ノートユーザー**
 
-電源・マウス・外付けストレージで既にポートを使い切っている場合、さらに1ポート消費する設計は運用上の足かせになる。[**Anker製のUSBハブ一体型冷却スタンド**](https://www.amazon.co.jp/s?k=Anker+%E5%86%B7%E5%8D%B4+USB%E3%83%8F%E3%83%96+%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89)を最初から選んだ方がスムーズだ。ポート不足と冷却を同時に解決できる。
+電源・マウス・外付けストレージで既にポートを使い切っている場合、さらに1ポート消費する設計は運用上の足かせになる。[**Anker製のUSBハブ一体型冷却スタンド**](https://hb.afl.rakuten.co.jp/hgc/g00pmmbm.ycj6k8ea.g00pmmbm.ycj6l61a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F400-cln037%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10105141%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)を最初から選んだ方がスムーズだ。ポート不足と冷却を同時に解決できる。
 
 **金属製の高剛性スタンドを求める人**
 
@@ -164,7 +164,7 @@ Amazon・楽天の合計1,600件を調査した結論として、この製品は
 夏が来る前に試しておく価値はある。3,980円で1日5.5円、熱落ちが1回減れば元が取れる計算だ。
 
 > **▼ 購入はこちら**
-> - [Amazonで価格を確認する →](https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88+200-CLN034)
+> - [楽天で価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00pmmbm.ycj6k8ea.g00pmmbm.ycj6l61a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F400-cln037%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10105141%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 > - [楽天市場で価格を確認する →](https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%B3%E3%83%AF%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88+200-CLN034/)
 
 また明日、集合知で会おう。

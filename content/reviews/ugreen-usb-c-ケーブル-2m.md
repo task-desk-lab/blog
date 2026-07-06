@@ -32,7 +32,7 @@ keywords: ["Ugreen USB-C ケーブル 2M 口コミ", "Ugreen USB-C ケーブル 
 - 対応デバイス：iPhone、Android、iPad、ノートPC等
 - 価格：980円前後（Amazon）、1499円（楽天）
 
-→ [Amazonで確認する](https://amazon.co.jp/)
+→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00u0fbm.ycj6k004.g00u0fbm.ycj6l855/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fugreen-gear%2F70643%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fugreen-gear%2Fi%2F10000062%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 → [楽天で見る](https://rakuten.co.jp/)
 
 ## ぼくが実際に使ってみた

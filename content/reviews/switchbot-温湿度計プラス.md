@@ -96,7 +96,7 @@ Inkbird IBS-TH2はBluetooth接続でアプリ連携でき、差額は約2,500円
 
 **SwitchBotエコシステムをすでに持っているなら、ハブとのセット導入コストを試算した上で判断する価値がある。**
 
-[Amazonで現在の価格・在庫を見る →](https://www.amazon.co.jp/)
+[楽天で現在の価格・在庫を見る →](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F0850037096015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12712433%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## SwitchBot 温湿度計プラスを買って後悔する人
 
@@ -130,7 +130,7 @@ Inkbird IBS-TH2はBluetooth接続でアプリ連携でき、差額は約2,500円
 
 ハブを持っているなら今すぐ追加して損はない。持っていないなら、ハブとのセット購入を前提に3,980円という数字を見てほしい。
 
-[Amazonで現在の価格・在庫を見る（3,980円〜） →](https://www.amazon.co.jp/)
+[楽天で現在の価格・在庫を見る（3,980円〜） →](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F0850037096015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12712433%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 [楽天で価格を確認する（3,080円・2026年5月時点） →](https://www.rakuten.co.jp/)
 

@@ -46,7 +46,7 @@ Amazon1,240件・楽天380件のRoomba i3 口コミを調べた結果、この�
 
 ### ダストボックスが小さく、手動廃棄の頻度が高い
 
-容量約400mlのダストボックスは、ペット飼育・カーペット多めの環境では1回の稼働で満杯になることがある。同価格帯のDEEBOT N8 Proは420ml、Eufy RoboVac X8は600mlで、i3の400mlは主要競合の中で最小クラスに入る。ゴミ捨てまで自動化したいなら、クリーンベース付きのi3+を先に検討すべきだ。→ [i3+の口コミはこちら](https://www.amazon.co.jp/s?k=irobot+roomba+i3%2B)
+容量約400mlのダストボックスは、ペット飼育・カーペット多めの環境では1回の稼働で満杯になることがある。同価格帯のDEEBOT N8 Proは420ml、Eufy RoboVac X8は600mlで、i3の400mlは主要競合の中で最小クラスに入る。ゴミ捨てまで自動化したいなら、クリーンベース付きのi3+を先に検討すべきだ。→ [i3+の口コミはこちら](https://hb.afl.rakuten.co.jp/hgc/g00smopm.ycj6k405.g00smopm.ycj6l49a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-item%2Fpa-834%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-item%2Fi%2F10001553%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### コード・靴下・おもちゃを巻き込んで止まる
 
@@ -101,7 +101,7 @@ iRobotアプリはスマホから即時起動・停止・スケジュール管�
 
 スペックだけ見ればi3が劣る項目は複数ある。それでもこの機種が選ばれ続ける根拠は、iRobotが日本市場で10年以上積み上げてきたサポート体制と部品供給の厚さにある。「安い中華製で失敗した後にiRobotにした」という経緯を持つユーザー層からの評価は一貫して高く、機能面の差を承知で選ぶ判断が成立している。1〜2LDKでマッピングが不要な環境なら、この価格帯でアフターサポートが最も手厚い選択肢になる。機能・コスパ重視ならDEEBOT N8 Pro以上を、信頼性重視ならRoomba i3という軸で整理できる。
 
-[楽天で最安値を確認する](https://search.rakuten.co.jp/search/mall/irobot+roomba+i3/) ／ [Amazonで最安値を確認する](https://www.amazon.co.jp/s?k=irobot+roomba+i3)
+[楽天で最安値を確認する](https://search.rakuten.co.jp/search/mall/irobot+roomba+i3/) ／ [楽天で最安値を確認する](https://hb.afl.rakuten.co.jp/hgc/g00smopm.ycj6k405.g00smopm.ycj6l49a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-item%2Fpa-834%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-item%2Fi%2F10001553%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## iRobot Roomba i3を買って後悔する人
 
@@ -131,7 +131,7 @@ iRobotアプリはスマホから即時起動・停止・スケジュール管�
 
 消耗品を互換品で抑えながら長く使い続けるユーザーからの評価は安定している。サポート体制と部品供給を重視するなら、選択肢として筋が通っている。
 
-→ [今すぐ最安値を確認する](https://www.amazon.co.jp/s?k=irobot+roomba+i3)
+→ [今すぐ最安値を確認する](https://hb.afl.rakuten.co.jp/hgc/g00smopm.ycj6k405.g00smopm.ycj6l49a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-item%2Fpa-834%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-item%2Fi%2F10001553%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## よくある質問
 

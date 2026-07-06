@@ -118,12 +118,12 @@ DPI4,000では横幅の広い環境でカーソル移動が遅く感じる場面
 **職場やカフェで音を気にしながら作業する人**  
 静音クリックの恩恵を最も受けるのはこの層だ。「会議中でも使える」「周囲への配慮が不要になった」という声が調査を通じて繰り返し上がっていた。
 
-[→ Amazonで在庫・価格を確認する](https://amzn.to/xxxxxxx)
+[→ 楽天で在庫・価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm750mgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000503%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **複数デバイスをひとつのマウスで使い回したい人**  
 PC・Mac・iPadを状況で切り替える人の評価が高い。2接続方式が日常の切替コストを下げている。
 
-[→ 楽天の820件の口コミを読む](https://a.r10.to/xxxxxxx)
+[→ 楽天の820件の口コミを読む](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm750mgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000503%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **コスパを重視して長く使いたい人**  
 4,980円÷3年÷365日で1日あたり約1.4円の計算になる。バッテリー持続最大24ヶ月という仕様もあり、「買って2年経つが快調」という声がある。
@@ -136,8 +136,8 @@ Amazon・楽天で合計4,500件超のデータを調べた。静音性への言
 
 デメリットは左利き非対応・サイドボタン2つ・DPI上限4,000と明確で、これらが自分の用途に当てはまらなければ後悔する可能性は低い。この価格で3条件——静音・マルチデバイス・USB-C——が揃うオフィス向けマウスとして、同価格帯の選択肢の中で選ばれる理由はそこにある。
 
-[→ Amazonで現在の価格を確認する](https://amzn.to/xxxxxxx)  
-[→ 楽天の口コミ820件を見る](https://a.r10.to/xxxxxxx)
+[→ 楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm750mgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000503%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
+[→ 楽天の口コミ820件を見る](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm750mgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000503%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### この記事を読んで迷っている人へ
 

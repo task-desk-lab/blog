@@ -142,7 +142,7 @@ DS223jの購入判断はシンプルだ：写真バックアップが目的な�
 
 ---
 
-[Amazonで本体価格を確認して購入する →]（本体 39,800円）
+[楽天で本体価格を確認して購入する →](https://hb.afl.rakuten.co.jp/hgc/g00pztmm.ycj6kade.g00pztmm.ycj6l93d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fetre%2F1255906%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fetre%2Fi%2F10048230%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## HDD構成別 総額早見表
 

@@ -107,7 +107,7 @@ RGBライティングや豊富なキーキャップカスタマイズを望む�
 あなたのタイピング習慣と課題が明確であれば、Realforce R3 を検討してみる価値はある。
 
 **現在価格と購入窓口**
-- [Amazon：Realforce R3（税込）](https://amazon.co.jp/s?k=Realforce+R3)
+- [楽天：Realforce R3（税込）](https://hb.afl.rakuten.co.jp/hgc/g00u1z7m.ycj6k6ef.g00u1z7m.ycj6lc9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealforce%2Fr3sb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealforce%2Fi%2F10000131%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 - [楽天：Realforce R3（最新価格）](https://search.rakuten.co.jp/search/mall/Realforce+R3/)
 
 ただし「キーボードを変えたら人生が変わる」という類いの期待は禁物。あくまで「長時間作業の疲労を減らす道具」という認識が、後悔しない購入判断につながる。

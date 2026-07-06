@@ -51,7 +51,7 @@ Amazon3,200件の口コミを調べて最初に目に入るのが、充電口の
 
 Windows環境での評判も厳しい。ジェスチャー機能の大部分がmacOS専用のため、Windowsで使うとただのワイヤレスマウスになる。購入前に確認しておくべき点だ。
 
-▶ [それでも買うなら→現在の最安値をAmazonで確認](AMAZON_AFFILIATE_URL)
+▶ [それでも買うなら→現在の最安値を楽天で確認](https://hb.afl.rakuten.co.jp/hgc/g00s0xnm.ycj6kdfd.g00s0xnm.ycj6lc48/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkadekaden%2F1000031416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkadekaden%2Fi%2F10617469%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Apple Magic Mouse 良い口コミ・ジェスチャー操作が評価されるメリット
 
@@ -115,7 +115,7 @@ Bluetoothペアリングの即応性も好評だ。電源を入れると自動�
 
 口コミを横断すると、長時間作業をする人はほぼMX Master 3Sを選んでいる。一方「Macのトラックパッドのような操作感をマウスで実現したい」という目的には、MX Master 3Sでは代替できない体験がMagic Mouseにある。ジェスチャー最優先ならトラックパッド、予算を抑えたいならM750も現実的だ。「デザイン統一したいだけならMagic Mouse、長時間作業ならMX Master 3S、コスパ重視ならM750」——調べた中でこの整理がもっとも的確だった。
 
-▶ [比較して選ぶなら→現在の最安値をAmazonで確認](AMAZON_AFFILIATE_URL)
+▶ [比較して選ぶなら→現在の最安値を楽天で確認](https://hb.afl.rakuten.co.jp/hgc/g00s0xnm.ycj6kdfd.g00s0xnm.ycj6lc48/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkadekaden%2F1000031416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkadekaden%2Fi%2F10617469%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Apple Magic Mouseを買って後悔する人
 
@@ -174,6 +174,6 @@ Bluetooth接続自体は可能だが、スワイプ・慣性スクロール・�
 
 Macとの連携とデザインを最優先するならあり、それ以外は他の選択肢が現実的だ。
 
-▶ [現在の最安値をAmazonで確認する](AMAZON_AFFILIATE_URL)
+▶ [現在の最安値を楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00s0xnm.ycj6kdfd.g00s0xnm.ycj6lc48/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkadekaden%2F1000031416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkadekaden%2Fi%2F10617469%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

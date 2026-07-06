@@ -26,7 +26,7 @@ keywords: ["Logicool G435 LIGHTSPEED 口コミ", "Logicool G435 LIGHTSPEED 評�
 
 Amazonで3,200件、楽天で820件の口コミを調べた。G435 LIGHTSPEEDは「軽さ」と「マルチデバイス接続」に特化したワイヤレスゲーミングヘッドセットで、その2点に関しては価格帯最高水準と言っていい。ただしマイク品質と低音の薄さは設計上の割り切りであり、この2点が譲れない人には向かない。
 
-[Amazonで最新価格を確認する →](Amazonアフィリエイトリンク)
+[楽天で最新価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fg435bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000427%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -86,7 +86,7 @@ FPSの銃声やアクションゲームの爆発音はヘッドセットの低�
 
 7,980円を365日で割ると1日約22円。上記の5点が自分の使い方に当てはまらないなら、この価格での妥協点は十分に小さい。
 
-[在庫と最新価格を確認する →](Amazonアフィリエイトリンク)
+[在庫と最新価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fg435bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000427%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -137,7 +137,7 @@ PCにはUSBレシーバーで低遅延接続、スマホにはBluetoothで同時
 
 3つ当てはまるなら、G435がはっきりと上位互換になる。
 
-[G435の在庫を確認する →](Amazonアフィリエイトリンク)
+[G435の在庫を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fg435bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000427%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -173,6 +173,6 @@ PCにはUSBレシーバーで低遅延接続、スマホにはBluetoothで同時
 
 購入を迷っているなら、まずAmazonのQ&Aで最新の使用感を確認することを勧める。
 
-[今の価格と在庫を確認する →](Amazonアフィリエイトリンク)
+[今の価格と在庫を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fg435bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000427%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

@@ -15,7 +15,7 @@ review_count: 69
 rating: 4.75
 shop_name: "REALFORCE Store"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u1z7m.ycj6k6ef.g00u1z7m.ycj6lc9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealforce%2Fr3sb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealforce%2Fi%2F10000131%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: "https://www.amazon.co.jp/dp/B09MVFWB6K"
+amazon_url: ""
 product_image: "/img/products/realforce-r3.jpg"
 keywords: ["REALFORCE R3 口コミ", "REALFORCE R3 評判", "REALFORCE R3 デメリット", "REALFORCE R3 レビュー", "REALFORCE R3 後悔", "REALFORCE R3", "キーボード 口コミ", "キーボード おすすめ"]
 ---
@@ -87,7 +87,7 @@ REALFORCE R3は、東プレが製造する静電容量式スイッチを採用�
 
 指への反発が柔らかく、8時間以上タイピングしても肩や指の疲労が少ない。812件中287件が疲労軽減を明記しており、「1日中コーディングしても指が痛くならない」との評判が目立つ。
 
-[→ Amazonで現在の価格を確認する](https://www.amazon.co.jp/s?k=REALFORCE+R3)
+[→ 楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00u1z7m.ycj6k6ef.g00u1z7m.ycj6lc9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealforce%2Fr3sb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealforce%2Fi%2F10000131%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### 10年以上の耐久性が口コミで実証済み
 
@@ -154,7 +154,7 @@ REALFORCE R3は、東プレが製造する静電容量式スイッチを採用�
 
 疲労軽減効果が長時間労働でコスト回収できる。「肩こりが減った」との評判が目立つ。
 
-[→ Amazonで現在の価格を見る](https://www.amazon.co.jp/s?k=REALFORCE+R3)
+[→ 楽天で現在の価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00u1z7m.ycj6k6ef.g00u1z7m.ycj6lc9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealforce%2Fr3sb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealforce%2Fi%2F10000131%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### キーボードを5年以上使い続ける前提の人
 

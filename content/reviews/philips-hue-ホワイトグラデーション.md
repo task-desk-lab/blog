@@ -108,7 +108,7 @@ Wi-Fi機器が多いスマートホーム環境でも通信干渉が起きにく
 
 KL130は1灯あたり2,000〜2,500円でBridge不要のWi-Fi直接接続が強みだ。SwitchBot電球はさらに安価で、SwitchBotハブとまとめて管理したいユーザー向けの選択肢になる。ただし多灯時の通信安定性ではZigbee方式のHueが上回るという評価がレビューで繰り返し登場する。「最初はTP-Linkで試してHueに移行した」という移行ユーザーの投稿も確認できた。
 
-多灯で使い込む前提なら、機能の網羅性でHueが頭一つ抜ける。**[現在の価格と在庫を確認する →]（アフィリエイトリンクをここに挿入）**
+多灯で使い込む前提なら、機能の網羅性でHueが頭一つ抜ける。**[現在の価格と在庫を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00r8mvm.ycj6k2b9.g00r8mvm.ycj6l3d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F8720169399808%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11519533%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ## Philips Hue ホワイトグラデーションを買って後悔する人
 
@@ -146,9 +146,9 @@ Amazon・楽天・YouTube・ブログ合計1,925件のデータを調べた。E1
 
 Amazonは30日返品対応。スペックが合わなければ返品できる。
 
-**[Amazonで今すぐ確認する →]（アフィリエイトリンクをここに挿入）**
+**[楽天で今すぐ確認する →](https://hb.afl.rakuten.co.jp/hgc/g00r8mvm.ycj6k2b9.g00r8mvm.ycj6l3d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F8720169399808%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11519533%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
-**[楽天市場で確認する →]（アフィリエイトリンクをここに挿入）**
+**[楽天市場で確認する →](https://hb.afl.rakuten.co.jp/hgc/g00r8mvm.ycj6k2b9.g00r8mvm.ycj6l3d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F8720169399808%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11519533%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 

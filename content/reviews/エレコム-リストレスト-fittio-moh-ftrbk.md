@@ -80,7 +80,7 @@ keywords: ["エレコム リストレスト FITTIO MOH-FTRBK 口コミ", "エレ
 
 ［サイズ比較図：エレコム FITTIO MOH-FTRBKと一般的なマウスのサイズ比較 alt=エレコム リストレスト FITTIO サイズ感］
 
-→ [現在の在庫状況を確認する](製品URL)
+→ [現在の在庫状況を確認する](https://hb.afl.rakuten.co.jp/hgc/g00s4o6m.ycj6k0a7.g00s4o6m.ycj6lf29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2F4953103486263%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F10639344%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## エレコム リストレスト FITTIO MOH-FTRBKを他社製品と比較した口コミ
 
@@ -128,9 +128,9 @@ keywords: ["エレコム リストレスト FITTIO MOH-FTRBK 口コミ", "エレ
 | 楽天市場 | 1,798円 | 180件 |
 | Yahoo!ショッピング | 1,780円 | 47件 |
 
-→ [Amazonで最新価格を見る](製品URL)
+→ [楽天で最新価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00s4o6m.ycj6k0a7.g00s4o6m.ycj6lf29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2F4953103486263%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F10639344%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
-→ [楽天市場で最新価格を見る](製品URL)
+→ [楽天市場で最新価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00s4o6m.ycj6k0a7.g00s4o6m.ycj6lf29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2F4953103486263%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F10639344%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 在庫状況や価格は変動するため、購入前に最新情報を確認してほしい。今日注文すれば明日から負担軽減できる。
 

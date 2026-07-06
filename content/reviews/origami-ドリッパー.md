@@ -26,7 +26,7 @@ ORIGAMIドリッパーを買う前に知っておくべきことが2つある。
 
 AmazonとRakutenの口コミを合わせて1,400件超調査した。総合評価は4.6。「フィルター2種類を使い分けられる磁器製ドリッパー」として支持を集めているが、磁器製ゆえの割れリスクとスタンド別売りという構造的な制約がある。この2点を事前に把握してから判断してほしい。
 
-[Amazonで価格を確認する →]({{AFFILIATE_LINK}})
+[楽天で価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00tkj9m.ycj6k0bb.g00tkj9m.ycj6lbe2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fincrasso%2Ftic-xxx-0050%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fincrasso%2Fi%2F10002871%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## ORIGAMI ドリッパーの基本スペック
 
@@ -56,7 +56,7 @@ ORIGAMI専用設計のペリカンフィルターは、近所のスーパーや�
 
 1日1杯のカフェ代（600円）を自宅抽出に替えれば、スタンド込みの総額（約6,000円）は約10日で回収できる計算になる。「高い」という第一印象は、ここを計算すると変わる。
 
-[スタンドとの総コストを確認する →]({{AFFILIATE_LINK}})
+[スタンドとの総コストを確認する →](https://hb.afl.rakuten.co.jp/hgc/g00tkj9m.ycj6k0bb.g00tkj9m.ycj6lbe2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fincrasso%2Ftic-xxx-0050%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fincrasso%2Fi%2F10002871%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## ORIGAMI ドリッパーの良い口コミ・メリット
 
@@ -88,7 +88,7 @@ ORIGAMIを購入した人が最初に気づくのが、フィルター違いに�
 
 コーヒーを抽出の実験として楽しみたいならORIGAMI、毎朝同じ味を確実に再現したいならV60——口コミを見ると、そう区別される傾向がある。「V60を使い込んだ後に試したら戻れなくなった」という声がある一方で、「V60で十分だった」という結論に至る人も同程度いる。
 
-[この違いを踏まえてORIGAMIを選ぶなら →]({{AFFILIATE_LINK}})
+[この違いを踏まえてORIGAMIを選ぶなら →](https://hb.afl.rakuten.co.jp/hgc/g00tkj9m.ycj6k0bb.g00tkj9m.ycj6lbe2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fincrasso%2Ftic-xxx-0050%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fincrasso%2Fi%2F10002871%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## ORIGAMIドリッパーが割れた場合の対処・保管のコツ
 
@@ -138,8 +138,8 @@ A. 国産品のクオリティと見た目の評価が高く、プレゼント�
 
 Amazonで購入する場合はAmazonの返品ポリシーが適用されるため、万一の際も手続きの窓口が明確だ。
 
-スタンドの純正・互換品の違いや選び方は[ORIGAMIドリッパー スタンド比較]({{STAND_ARTICLE_LINK}})でまとめている。
+スタンドの純正・互換品の違いや選び方はORIGAMIドリッパー スタンド比較でまとめている。
 
-[Amazonで購入・在庫を確認する →]({{AFFILIATE_LINK}})
+[楽天で購入・在庫を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00tkj9m.ycj6k0bb.g00tkj9m.ycj6lbe2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fincrasso%2Ftic-xxx-0050%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fincrasso%2Fi%2F10002871%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 道具が変わると、毎朝の抽出が実験になる。また明日、集合知で会おう。

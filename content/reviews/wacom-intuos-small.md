@@ -59,7 +59,7 @@ PhotoshopやClip Studio Paintでショートカットを多用する人には、
 **替え芯の消耗コスト**
 純正ペン先は10本入りで約2,000円前後。週5時間ペースで描くと3〜6か月が交換目安になる。年間で4,000〜8,000円の追加コストとして計算に入れておく必要がある。
 
-▶ [Amazonで現在価格を確認する](URL) ／ [楽天市場で見る](URL)
+▶ [楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4949268305457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12534399%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Wacom Intuos Smallの良い口コミ・メリット【実績4,690件】
 
@@ -100,17 +100,17 @@ PhotoshopやClip Studio Paintでショートカットを多用する人には、
 
 XP-Pen Deco Mini 7はアクティブエリア・筆圧段階数・充電端子の面で有利で、価格差は約3,000円ある。ドライバトラブルで1時間の作業が無駄になるリスクを嫌う人には、その3,000円が「失った時間を買い戻すコスト」として機能する。
 
-▶ [Amazonで現在価格を確認する](URL) ／ [楽天市場で見る](URL)
+▶ [楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4949268305457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12534399%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Wacom Intuos Smallを買って後悔する人
 
 **A4以上の原稿を描く予定がある人**
 アクティブエリア152 × 95 mmはSNSサイズのイラストまでは問題ないが、A4の原稿用紙感覚で描こうとすると手の動きが詰まる。マンガのネームや背景を広く描きたい人は最初からMediumを選ぶべきだ。
-→ [Wacom Intuos Mediumを確認する](URL)
+→ [Wacom Intuos Mediumを確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4949268305457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12534399%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **ショートカットをフルに使うデジタル漫画家**
 ファンクションキー4つだけではレイヤー操作やブラシ切り替えを全てペンタブ側で完結させるには足りない。作業効率を最優先にする人には不満が積み重なる。
-→ [Wacom Intuos Mediumを確認する](URL)
+→ [Wacom Intuos Mediumを確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4949268305457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12534399%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **USB-C環境に統一している人**
 MacBook ProなどUSB-Cを基準に揃えている環境では、micro USBケーブルの管理がストレスになる。ワイヤレスモデルを選んでBluetooth接続に徹するか、割り切って別ケーブルを用意するかどちらかだ。
@@ -120,7 +120,7 @@ MacBook ProなどUSB-Cを基準に揃えている環境では、micro USBケー�
 **初めてペンタブを買うイラスト初心者**
 「ドライバの安定性」と「Clip Studio Paint同梱」の組み合わせは、7,980円で描く環境がその日にそろう。追加出費なしに即日で使い始められる。Amazonでは30日以内の返品対応が適用されるケースが多く、サイズが合わなければMediumへの切り替えも現実的な選択肢だ。
 
-▶ [Amazonで在庫と価格を確認する](URL) ／ [楽天市場で見る](URL)
+▶ [楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4949268305457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12534399%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **SNSイラストや小さめのデザイン作業が中心の人**
 アイコン制作やSNS投稿用イラストが主な用途なら、Smallのアクティブエリアで十分という声が多い。コンパクトさは置き場所を選ばず、日常的に机の端に置いておける。
@@ -134,7 +134,7 @@ MacBook ProなどUSB-Cを基準に揃えている環境では、micro USBケー�
 
 Wacom Intuos Smallを迷っているなら、まず描く原稿のサイズだけ確認してほしい。それさえクリアすれば、半年後も机の上でドライバが落ちないペンタブが手元にある。意外と、そういう機材は少ない。
 
-▶ [Amazonで今すぐ在庫と価格を確認する（送料無料対象）](URL) ／ [楽天市場で見る](URL)
+▶ [楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4949268305457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12534399%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 

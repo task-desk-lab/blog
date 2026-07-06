@@ -68,13 +68,13 @@ Amazon口コミで目立つのが「アプリの接続に失敗した」とい�
 
 これが最大の売りだ。口コミで最頻出なのが「帰宅前にエアコンをONできるので、帰ったら涼しい（暖かい）」という声だ。夏のワンルームの熱気地獄から解放される。
 
-→ [Amazonで確認する](https://amazon.co.jp/) / [楽天で確認する](https://rakuten.co.jp/)
+→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00tjs4m.ycj6kb10.g00tjs4m.ycj6l17a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnature-remo%2Fremo-2w2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnature-remo%2Fi%2F10000007%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) / [楽天で確認する](https://rakuten.co.jp/)
 
 **Alexa・Google Homeの音声操作に対応**
 
 「アレクサ、エアコンつけて」と言うだけで操作できるのは、ハンズフリーで便利だ。テレビのリモコンも同じく音声対応できる。口コミで「生活が向上した」と評価する人は、だいたいこの音声操作の快適さを褒めてる。
 
-→ [Amazonで確認する](https://amazon.co.jp/) / [楽天で確認する](https://rakuten.co.jp/)
+→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00tjs4m.ycj6kb10.g00tjs4m.ycj6l17a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnature-remo%2Fremo-2w2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnature-remo%2Fi%2F10000007%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) / [楽天で確認する](https://rakuten.co.jp/)
 
 **設定がアプリだけで完結、工事不要**
 
@@ -84,7 +84,7 @@ Amazon口コミで目立つのが「アプリの接続に失敗した」とい�
 
 毎日同じ時間にエアコンをONするルーチンを組める。消し忘れがなくなり、帰宅直前の手動操作も不要だ。「朝5時に冷房を切る」など細かい指定も可能で、電気代節約の口コミも見かける。
 
-→ [Amazonで確認する](https://amazon.co.jp/) / [楽天で確認する](https://rakuten.co.jp/)
+→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00tjs4m.ycj6kb10.g00tjs4m.ycj6l17a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnature-remo%2Fremo-2w2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnature-remo%2Fi%2F10000007%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) / [楽天で確認する](https://rakuten.co.jp/)
 
 **コンパクトで部屋に馴染む**
 

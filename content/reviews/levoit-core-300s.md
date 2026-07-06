@@ -124,6 +124,6 @@ Levoit Core 300S は、シャープの「プラズマクラスター KI-JP」と
 
 「朝起きたときの目のかゆみや喉の違和感が、季節の変わり目に気になる」という人は、このモデルを検討してみる価値がある。Amazonと楽天での3,200件超の口コミから、一人暮らしの花粉症・ハウスダスト対策としての実効性は明確に読み取れる。ただし、フィルター交換コストと適用畳数の限界は事前に認識しておくべきだ。広い空間では力不足だし、Wi-Fi環境が不安定な家庭ではスマート機能の恩恵を受けづらい。自分の部屋のサイズと、技術セットアップへの抵抗感を踏まえた上で判断すれば、後悔を減らせるだろう。
 
-[Amazonで確認する](https://www.amazon.co.jp/s?k=Levoit+Core+300S)
+[楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00twdhm.ycj6kc6f.g00twdhm.ycj6l467/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fryohinseikatsukan%2Ftsuhan-123-c300s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fryohinseikatsukan%2Fi%2F10000131%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

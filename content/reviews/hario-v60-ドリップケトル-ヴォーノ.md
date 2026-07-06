@@ -117,8 +117,8 @@ Kalitaナローポアはノズルが若干太めで、湯量調節が多少ア�
 
 **カフェ代を削減したい人**にも合理性がある。¥5,280÷365日≒約15円/日。毎日1杯淹れる習慣があれば、1年以内に本体代は回収できる計算になる。カフェで週5回コーヒーを飲む場合と比べると、月あたり2,000円以上の差が出る。
 
-[Amazonで今すぐ価格を見る（¥5,280前後）](アフィリエイトリンクをここに入力)  
-[楽天で口コミ全件を見る](アフィリエイトリンクをここに入力)
+[楽天で今すぐ価格を見る（¥5,280前後）](https://hb.afl.rakuten.co.jp/hgc/g00qceum.ycj6k62f.g00qceum.ycj6l955/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgensouen%2F10000353%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgensouen%2Fi%2F10000353%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
+[楽天で口コミ全件を見る](https://hb.afl.rakuten.co.jp/hgc/g00qceum.ycj6k62f.g00qceum.ycj6l955/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgensouen%2F10000353%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgensouen%2Fi%2F10000353%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Hario V60 ドリップケトル ヴォーノの口コミ調査からの結論
 

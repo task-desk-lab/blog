@@ -121,6 +121,6 @@ Amazonや楽天で800件を超える口コミを調べた結果、Herman Miller 
 
 購入を検討している場合は、実際の店舗で試座するか、ランバーサポートオプションの必要性を事前に判断してから注文することが後悔を防ぐコツだ。
 
-[Amazonで詳細を見る](https://www.amazon.co.jp/) | [楽天で詳細を見る](https://www.rakuten.co.jp/) | [Herman Miller公式サイト](https://www.hermanmiller.com/)
+[楽天で詳細を見る](https://hb.afl.rakuten.co.jp/hgc/g00q4k9m.ycj6k7bc.g00q4k9m.ycj6lce9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcds-r%2Fhmsa-17%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcds-r%2Fi%2F10016266%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) | [楽天で詳細を見る](https://www.rakuten.co.jp/) | [Herman Miller公式サイト](https://www.hermanmiller.com/)
 
 また明日、集合知で会おう

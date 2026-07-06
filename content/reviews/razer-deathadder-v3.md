@@ -98,7 +98,7 @@ V3無印はRGB非搭載。デスクのライティング環境に統一感を求
 
 「G Pro X Superlight 2は高すぎる、DeathAdder V3で十分」という声と、「左右対称が好みならSuperlight 2」という声がレビュー上で並立している。重量はほぼ同等で、価格差は約8,500円。DeathAdder V3の価格面での優位を評価する口コミは多く、右手専用形状をどう評価するかが選択の分かれ目になる。
 
-[DeathAdder V3の最安値を見る（Amazon）](https://www.amazon.co.jp/)
+[DeathAdder V3の最安値を見る（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00tys6m.ycj6kb05.g00tys6m.ycj6l7ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgcgr%2F50957793001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgcgr%2Fi%2F10000529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Razer DeathAdder V3を買って後悔する人・満足する人
 
@@ -114,13 +114,13 @@ V3無印はRGB非搭載。デスクのライティング環境に統一感を求
 - **重いマウスから乗り換えたい人**: 100g超から59gへの移行はプレイ感を大きく変える。「もっと早く乗り換えればよかった」という声が複数ある。
 - **予算10,000円以内で超軽量マウスを探している人**: 競合のSuperlight 2より約8,500円安く、同等クラスの性能を求めるなら価格面での優位が明確だ。口コミ件数を横断した範囲では、9,980円という価格帯で得られる性能として上位に入る。
 
-[在庫切れ前に価格を確認する（Amazon）](https://www.amazon.co.jp/)
+[在庫切れ前に価格を確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00tys6m.ycj6kb05.g00tys6m.ycj6l7ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgcgr%2F50957793001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgcgr%2Fi%2F10000529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Razer DeathAdder V3 レビューまとめ：買うべきか
 
 Amazon・楽天・YouTube・ブログ合わせて3,260件のデータをもとに書いた。Razer DeathAdder V3はターゲットが明確な商品で、右利きのFPS/TPSプレイヤーに刺さるスペックだ。デメリットは「左利き」「RGBなし」「手が小さい」の3点に絞られる。1日換算で約27円、365日使えば元を取れるコストの商品だ。3年使えばSuperlight 2より合計コストが2万円以上安くなる計算で、用途と右手専用形状が合致するなら選びやすい選択肢だ。合わないパターンも口コミから読み取れるため、デメリットの確認を先にやっておくことが後悔しない選択の近道になる。
 
-→ [今すぐDeathAdder V3を注文する（Amazon）](https://www.amazon.co.jp/)
+→ [今すぐDeathAdder V3を注文する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00tys6m.ycj6kb05.g00tys6m.ycj6l7ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgcgr%2F50957793001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgcgr%2Fi%2F10000529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## よくある質問
 

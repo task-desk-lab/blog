@@ -40,7 +40,7 @@ Baron バロンの悪い口コミで最も多いのは「背もたれの腰サ�
 
 次点として挙げられるのは「本体が重く、一人での移動・組立が大変」という口コミ。約20kgあるため、女性や腕力に自信がない人は配送・組立サービスの利用を検討したほうがいい。
 
-「同価格帯の[Herman Miller Aeron](https://amazon.co.jp/)と比べてアームレストの横方向可動域が狭い」というデメリット口コミもあり、精密な調整性を重視する人には物足りない可能性がある。
+「同価格帯の[Herman Miller Aeron](https://hb.afl.rakuten.co.jp/hgc/g00q0kcm.ycj6k448.g00q0kcm.ycj6l519/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fof9%2Fcp81dr-bf-sc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fof9%2Fi%2F10006968%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)と比べてアームレストの横方向可動域が狭い」というデメリット口コミもあり、精密な調整性を重視する人には物足りない可能性がある。
 
 座面クッションが薄めという評判も少数だが存在し、骨盤が立たない人は固く感じる場合がある。購入前にショールームで試座しない限り、自分の体型に合うサイズ（S/M）を選び間違えるリスクもある。
 
@@ -56,7 +56,7 @@ Baron バロン の良い口コミで最も共通しているのは「日本人�
 
 ## Baron バロンを他社製品と比較した口コミ
 
-Baron バロン を比較する対象として、Amazonレビューでよく引き合いに出されるのは[Herman Miller Aeron](https://amazon.co.jp/)だ。Aeronはアームレストの横方向可動域が広く、グラデーション調整でやや優れている。一方 Baron バロン は日本人の平均体型に合わせた腰椎サポートが特徴で、とくに日本国内メーカーとしての部品調達とサポート体制が利点だ。
+Baron バロン を比較する対象として、Amazonレビューでよく引き合いに出されるのは[Herman Miller Aeron](https://hb.afl.rakuten.co.jp/hgc/g00q0kcm.ycj6k448.g00q0kcm.ycj6l519/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fof9%2Fcp81dr-bf-sc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fof9%2Fi%2F10006968%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)だ。Aeronはアームレストの横方向可動域が広く、グラデーション調整でやや優れている。一方 Baron バロン は日本人の平均体型に合わせた腰椎サポートが特徴で、とくに日本国内メーカーとしての部品調達とサポート体制が利点だ。
 
 価格帯も異なり、Aeronは高機能だが Baron バロン は同等の座り心地をより手頃な価格で実現している点が、購入判断の分岐点になっている。結局のところ、「精密な調整性か、体型最適化か」という優先順位の違いで選び分けられる。
 
@@ -80,6 +80,6 @@ Baron バロン を比較する対象として、Amazonレビューでよく引�
 
 Baron バロン は「腰が逃げない8時間が手に入る」というシンプルな価値を持つチェアだ。Amazonで210件、楽天で95件の口コミを調べた結果、デメリットは体型による合う・合わないに限定され、在宅フルリモート勤務の人にはほぼ後悔がない。1日71円で腰痛のない快適さが手に入ると考えれば、購入を後悔する理由は少ない。
 
-ただし小柄な体型の人やたまにしか座らない人には不向きなため、ショールームでの試座をおすすめする。[今すぐAmazonで確認する](https://amazon.co.jp/)または[楽天で仕様をチェック](https://hb.afl.rakuten.co.jp/)。
+ただし小柄な体型の人やたまにしか座らない人には不向きなため、ショールームでの試座をおすすめする。[今すぐ楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00q0kcm.ycj6k448.g00q0kcm.ycj6l519/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fof9%2Fcp81dr-bf-sc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fof9%2Fi%2F10006968%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)または[楽天で仕様をチェック](https://hb.afl.rakuten.co.jp/)。
 
 また明日、集合知で会おう。

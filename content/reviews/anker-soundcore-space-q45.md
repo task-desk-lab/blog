@@ -85,7 +85,7 @@ PCとスマホを同時待受できるため、仕事の音声とスマホ通知
 ### 装着感の良さとハイレゾ対応
 長時間つけても耳や頭が痛くなりにくいと感じた人が多く、側圧問題はかなり抑えられているようだ。LDACコーデック対応によるハイレゾ再生も、この価格帯では競合に対して明確に優位な点だ。
 
-→ **[Amazonで現在の価格を確認する](https://www.amazon.co.jp/dp/B09JNLJKS3)**
+→ **[楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa3040%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001231%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 
@@ -105,7 +105,7 @@ PCとスマホを同時待受できるため、仕事の音声とスマホ通知
 
 実際に試した人の書き込みを見ると、Space Q45はエアコンや空調ノイズの遮断で優位に立ち、WH-CH720Nは軽量さと通話マイクの信頼性で支持されている。選択の軸は「ANC重視か通話品質重視か」に集約される。音楽リスニングと遮音を主目的にするならSpace Q45、通話も同等に重要なら競合を先に検討すべきだ。
 
-→ **[Amazonで在庫・価格を確認する →](https://www.amazon.co.jp/dp/B09JNLJKS3)**
+→ **[楽天で在庫・価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa3040%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001231%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 
@@ -129,7 +129,7 @@ ZoomやMTSを屋外やノイズのある環境で頻繁に使う場合、マイ�
 **テレワークで集中したいが予算を抑えたい人**
 1万円以下でANC環境を確保したい人には、コストパフォーマンスの観点で合理的な選択だ。7,990円÷365日で計算すると1日あたり約22円。毎日ノイズキャンセリング環境を確保できるコストとしては相当安い。
 
-→ **[Amazonで現在の価格を確認する](https://www.amazon.co.jp/dp/B09JNLJKS3)**
+→ **[楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa3040%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001231%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 **毎日充電を忘れがちな人**
 50時間バッテリーは「週1充電でいい」という運用を可能にする。充電の煩わしさを感じていた人に刺さる評価が何件も上がっていた。
@@ -164,6 +164,6 @@ Amazonで3,200件・楽天で274件、計約3,500件超の口コミを調査し�
 
 迷っているなら、まず価格だけ確認してみてほしい。
 
-→ **[今すぐ価格を確認する →](https://www.amazon.co.jp/dp/B09JNLJKS3)**
+→ **[今すぐ価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa3040%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001231%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ぼくは毎日、こうして口コミの集合知を掘り起こしている。また明日、集合知で会おう。

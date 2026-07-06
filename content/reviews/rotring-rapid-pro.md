@@ -131,7 +131,7 @@ Rotring Rapid Proの口コミを調査対象675件（Amazon 380件、楽天 15�
 
 では、Rotring Rapid Proを試してみる。
 
-**Amazon**: https://www.amazon.co.jp/s?k=Rotring+Rapid+Pro
+**楽天**: [楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tvdzm.ycj6kea0.g00tvdzm.ycj6lad8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fart-and-craft-lab%2Frotring-rapidpro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fart-and-craft-lab%2Fi%2F10006928%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **楽天**: https://search.rakuten.co.jp/search/mall/Rotring+Rapid+Pro/
 

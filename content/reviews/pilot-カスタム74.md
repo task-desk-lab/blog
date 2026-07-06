@@ -31,7 +31,7 @@ keywords: ["PILOT カスタム74 口コミ", "PILOT カスタム74 評判", "PIL
 - **全長**: キャップ装着時 約141mm
 - **軸径**: 約12mm
 - **重量**: 約18g（キャップ装着時）
-- **参考価格**: [税込¥22,000 — Amazonで最新価格を確認](購入ページURL) / [楽天で最安値を確認](楽天URL)
+- **参考価格**: [税込¥22,000 — 楽天で最新価格を確認](https://hb.afl.rakuten.co.jp/hgc/g00pzf7m.ycj6k0f1.g00pzf7m.ycj6l11b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhougado%2Fpilot-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhougado%2Fi%2F10001384%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) / [楽天で最安値を確認](https://hb.afl.rakuten.co.jp/hgc/g00pzf7m.ycj6k0f1.g00pzf7m.ycj6l11b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhougado%2Fpilot-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhougado%2Fi%2F10001384%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 - **原産国**: 日本
 - **メーカー**: パイロットコーポレーション
 
@@ -95,7 +95,7 @@ EFからBまで複数の字幅が揃っている。縦書きの手紙はF、横�
 
 どちらか迷っているなら、まず軸の細さを実際に手で確認してから決める方が失敗が少ない。「プロフィット21も試したけど、カスタム74の方がニブが紙に追いついてくる感じで自分には合った」という記述がある一方、「カスタム74は柔らかすぎて落ち着かない、プロフィット21に乗り換えた」という人も同じくらい出てくる。軽い筆圧でもニブが紙に吸い付く感触を重視するならカスタム74、力を入れてもブレない安定感を重視するならプロフィット21、というのが集計結果から読み取れる傾向だ。
 
-→ [今すぐ最安値を確認する（税込¥22,000）](購入ページURL)
+→ [今すぐ最安値を確認する（税込¥22,000）](https://hb.afl.rakuten.co.jp/hgc/g00pzf7m.ycj6k0f1.g00pzf7m.ycj6l11b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhougado%2Fpilot-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhougado%2Fi%2F10001384%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## PILOT カスタム74を買って後悔する人
 
@@ -125,7 +125,7 @@ EFからBまで複数の字幅が揃っている。縦書きの手紙はF、横�
 
 「10年以上使い続けている」というレビューも珍しくない。修理・ニブ調整のアフターサービスが充実しており、消耗品を買い替え続けるより信頼できる一本を長く使いたいという価値観に合う。
 
-→ [Amazonで現在の価格を確認する（税込¥22,000）](購入ページURL)
+→ [楽天で現在の価格を確認する（税込¥22,000）](https://hb.afl.rakuten.co.jp/hgc/g00pzf7m.ycj6k0f1.g00pzf7m.ycj6l11b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhougado%2Fpilot-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhougado%2Fi%2F10001384%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## PILOT カスタム74 口コミ・レビューまとめ
 

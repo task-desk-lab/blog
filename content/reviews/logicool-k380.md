@@ -140,6 +140,6 @@ keywords: ["Logicool K380 口コミ", "Logicool K380 評判", "Logicool K380 デ
 
 1万件超の口コミを調査した結果、K380は複数デバイスを使うユーザーにとって、この価格帯では競合が少ない選択肢だ。テンキーが不要で、持ち運びと使い回しを重視するなら、評判どおりに機能する道具として長く使える。
 
-現在4,980円・2年保証。価格は時期によって変動するため、Amazonで在庫と最新価格を確認してから判断してほしい → [Amazonで確認する](https://www.amazon.co.jp/dp/B07HFYMD32)
+現在4,980円・2年保証。価格は時期によって変動するため、Amazonで在庫と最新価格を確認してから判断してほしい → [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk380sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000560%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

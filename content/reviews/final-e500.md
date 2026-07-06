@@ -152,8 +152,8 @@ AmazonとRakutenを合わせて3,600件以上を調査した。YouTubeや個人�
 ---
 
 **関連記事**
-- [Anker Soundcore Motion+ レビュー｜口コミ全件調査でわかった実力と限界](../anker-soundcore-motion-plus/)
-- [1MORE ピストン 完全ガイド｜有線イヤホン入門の最適解を口コミで検証](../1more-piston/)
-- [Bose SoundLink Flex レビュー｜2万円台Bluetoothスピーカー、3,000件の声をまとめた](../bose-soundlink-flex/)
+- Anker Soundcore Motion+ レビュー｜口コミ全件調査でわかった実力と限界
+- 1MORE ピストン 完全ガイド｜有線イヤホン入門の最適解を口コミで検証
+- [Bose SoundLink Flex レビュー｜2万円台Bluetoothスピーカー、3,000件の声をまとめた](/reviews/bose-soundlink-flex/)
 
 また明日、集合知で会おう。

@@ -110,7 +110,7 @@ Bluetooth、光デジタル、RCAアナログという豊富な入力が、レ�
 
 30～50代のロック好きで、置き場所が固定できるなら、この投資は後悔しない。
 
-[Amazonで購入する](https://amazon.co.jp/s?k=Marshall+Acton+III)
+[楽天で購入する](https://hb.afl.rakuten.co.jp/hgc/g00u54tm.ycj6kace.g00u54tm.ycj6l127/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarshall-official%2F7340055384940%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarshall-official%2Fi%2F10000022%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 [楽天で購入する](https://search.rakuten.co.jp/search/mall/Marshall+Acton+III/)
 

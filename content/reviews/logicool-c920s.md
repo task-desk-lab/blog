@@ -102,7 +102,7 @@ PCがモニターから離れている環境では延長ケーブルが別途必
 | 視野角 | 78度 | 100度 |
 | マイク | デュアル（ノイズキャンセリング） | 単体 |
 | 公式認定 | Zoom・Teams・Meet | なし |
-| 価格帯 | [13,000円前後](アフィリエイトリンクをここに挿入) | 8,000円前後 |
+| 価格帯 | [13,000円前後](https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0178688%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173587%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) | 8,000円前後 |
 
 ※エレコム UCAM-C980FBBKのスペックはエレコム公式サイト（elecom.co.jp）を2026年5月時点で確認。価格は変動する場合がある。
 
@@ -126,7 +126,7 @@ YouTube配信やゲーム実況など、高解像度が求められる用途に�
 
 いずれかに当てはまるなら、用途を整理してから判断してほしい。
 
-▶ [→ 自分には向いているか確認する](アフィリエイトリンクをここに挿入)
+▶ [→ 自分には向いているか確認する](https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0178688%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173587%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -151,7 +151,7 @@ YouTube配信やゲーム実況など、高解像度が求められる用途に�
 
 ---
 
-▶ [Amazonで最新価格を確認する](アフィリエイトリンクをここに挿入)
+▶ [楽天で最新価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0178688%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173587%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 

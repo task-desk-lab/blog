@@ -15,7 +15,7 @@ review_count: 193
 rating: 4.63
 shop_name: "ベンキューダイレクト楽天市場店"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tkdfm.ycj6kff6.g00tkdfm.ycj6l322/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenq-directshop%2Fmoniterlight_01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenq-directshop%2Fi%2F10000009%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: "https://www.amazon.co.jp/dp/B0785D93KD"
+amazon_url: ""
 product_image: "/img/products/benq-screenbar.jpg"
 keywords: ["BenQ ScreenBar 口コミ", "BenQ ScreenBar 評判", "BenQ ScreenBar デメリット", "BenQ ScreenBar レビュー", "BenQ ScreenBar 後悔", "BenQ ScreenBar", "モニターライト 口コミ", "モニターライト おすすめ"]
 ---
@@ -40,7 +40,7 @@ BenQ ScreenBarは、モニター上部に引っ掛けて使うデスクライト
 
 モニター上部に専用クリップで固定し、USB給電で動作する。手元だけを照らし、画面には光が反射しない非対称光学設計を採用している点が特徴だ。自動調光センサーを搭載し、周囲の明るさに応じて光量を調整する機能も備えている。
 
-→ 現在の価格を確認: [Amazon](https://amzn.to/benq-screenbar) | [楽天](https://a.r10.to/benq-screenbar)
+→ 現在の価格を確認: [楽天](https://hb.afl.rakuten.co.jp/hgc/g00tkdfm.ycj6kff6.g00tkdfm.ycj6l322/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenq-directshop%2Fmoniterlight_01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenq-directshop%2Fi%2F10000009%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## BenQ ScreenBarの悪い口コミ・デメリット
 
@@ -131,10 +131,7 @@ USB給電ケーブルが約1.5mしかなく、PCが遠い位置にあると延�
 
 楽天のポイントアップ期間中が実質的な最安値になる。定期的に開催される「お買い物マラソン」時は還元率が10%を超えるケースもある。
 
-購入リンク：  
-- Amazon: https://amzn.to/benq-screenbar  
-- 楽天市場: https://a.r10.to/benq-screenbar  
-- Yahoo!ショッピング: https://ck.jp.ap.valuecommerce.com/benq-screenbar
+購入リンク：[楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tkdfm.ycj6kff6.g00tkdfm.ycj6l322/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenq-directshop%2Fmoniterlight_01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenq-directshop%2Fi%2F10000009%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 比較した口コミでは「基本機能は安価な代替品でも実現できる」という評判がある一方、「非対称光学設計の精度が違う」「質感が安物とは別格」という意見も確認された。
 
@@ -178,7 +175,7 @@ BenQ ScreenBarは、3,200件の口コミデータが示す通り、高価格帯�
 
 曲面モニターへの非対応と価格の高さは明確なデメリットだが、対応モニター環境で作業効率を重視する人には有効な選択肢になる。3,000円の類似品で試してから判断するのも合理的な方法だ。口コミ全体を見ると、購入前に自分の環境と用途を確認した人ほど満足度が高い傾向にあった。
 
-→ BenQ ScreenBarを見る: [Amazon](https://amzn.to/benq-screenbar) | [楽天](https://a.r10.to/benq-screenbar) | [Yahoo!](https://ck.jp.ap.valuecommerce.com/benq-screenbar)
+→ BenQ ScreenBarを見る: [楽天](https://hb.afl.rakuten.co.jp/hgc/g00tkdfm.ycj6kff6.g00tkdfm.ycj6l322/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenq-directshop%2Fmoniterlight_01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenq-directshop%2Fi%2F10000009%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。
 

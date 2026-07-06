@@ -146,7 +146,7 @@ Amazonのレビューと楽天の口コミを合わせて見ると、Marshall St
 
 ただしコンセント位置と「動かさない運用」を想定できるかが分岐点だ。バッテリーの自由度やWi-Fiの機能追加への対応よりも「見た目と低音」を優先する人であれば、この製品は答えの1つになり得る。
 
-関連して、前モデルの[Marshall Stanmore II](https://www.marshall.com/)や、同価格帯の[Bluetoothスピーカー](https://www.amazon.co.jp/)、[低音スピーカー](https://www.amazon.co.jp/)、[据え置きスピーカー](https://www.amazon.co.jp/)の記事も読む価値がある。
+関連して、前モデルの[Marshall Stanmore II](https://www.marshall.com/)や、同価格帯の[Bluetoothスピーカー](https://hb.afl.rakuten.co.jp/hgc/g00pukwm.ycj6kb97.g00pukwm.ycj6l9a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F7340055385121-35-20168-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F13890585%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)、[低音スピーカー](https://hb.afl.rakuten.co.jp/hgc/g00pukwm.ycj6kb97.g00pukwm.ycj6l9a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F7340055385121-35-20168-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F13890585%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)、[据え置きスピーカー](https://hb.afl.rakuten.co.jp/hgc/g00pukwm.ycj6kb97.g00pukwm.ycj6l9a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F7340055385121-35-20168-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F13890585%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)の記事も読む価値がある。
 
 **Amazonで現在の価格を確認する**  
 **楽天で在庫をチェックする**

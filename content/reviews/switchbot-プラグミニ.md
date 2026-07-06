@@ -106,7 +106,7 @@ Amazonと楽天合わせて15,000件超の口コミを調べた結果、判断�
 - 電気代の内訳を家電別に把握したい
 - すでにSwitchBot製品を使っている
 
-[Amazonで現在の価格を確認する →](https://amzn.to/XXXXXX)
+[楽天で現在の価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F0850037096039%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12712435%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **見送りの人**
 - ルーターが5GHz専用、かつ設定変更が難しい環境

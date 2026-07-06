@@ -56,7 +56,7 @@ PU素材はホコリと皮脂を吸着しやすい。半年ほどでエッジが
 
 貼り付けタイプの性質上、剥がす際の塗装ダメージを心配する声を何件か見かけた。樹脂製PC底面では特に注意が必要で、MacBookのアルミ筐体は比較的問題が少ないようだ。
 
-→ [自分の用途に合うか確認する（Amazon）](購入リンクをここに挿入)
+→ [自分の用途に合うか確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00u220m.ycj6k133.g00u220m.ycj6lf49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshow-it%2Fp_6731008409758%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshow-it%2Fi%2F10000022%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## MOFT ノートPCスタンドのメリット・良い評判
 
@@ -96,7 +96,7 @@ PU素材はホコリと皮脂を吸着しやすい。半年ほどでエッジが
 
 Amazon 4.3★（2,800件超）— 購入前の参考に。
 
-→ [Amazonで最安値・在庫を確認する](購入リンクをここに挿入)
+→ [楽天で最安値・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00u220m.ycj6k133.g00u220m.ycj6lf49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshow-it%2Fp_6731008409758%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshow-it%2Fi%2F10000022%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## MOFT vs BoYata vs Nexstand：どれを買うべきか
 
@@ -175,11 +175,11 @@ MacBookのアルミ筐体では塗装ダメージの報告は少ない。樹脂�
 
 Amazon 4.3★（2,800件超）— 納得してから買うための数字として参考にしてほしい。
 
-→ [Amazonで口コミ・価格を確認する](購入リンクをここに挿入)
+→ [楽天で口コミ・価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00u220m.ycj6k133.g00u220m.ycj6lf49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshow-it%2Fp_6731008409758%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshow-it%2Fi%2F10000022%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **関連記事**
-- [BoYata ノートPCスタンド レビュー｜在宅デスクワークで使った口コミをまとめた](関連記事リンクをここに挿入)
-- [ノートPCスタンド比較｜MOFT・BoYata・Nexstandを用途別に調べた](関連記事リンクをここに挿入)
-- [Nexstand ノートPCスタンド レビュー｜貼り付けなしで持ち運べるか調べた](関連記事リンクをここに挿入)
+- BoYata ノートPCスタンド レビュー｜在宅デスクワークで使った口コミをまとめた
+- ノートPCスタンド比較｜MOFT・BoYata・Nexstandを用途別に調べた
+- Nexstand ノートPCスタンド レビュー｜貼り付けなしで持ち運べるか調べた
 
 また明日、集合知で会おう。

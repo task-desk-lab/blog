@@ -111,7 +111,7 @@ Amazonのレビューを調査した中で繰り返し上がるデメリット�
 
 **8畳以下ならCL8DLで機能は揃う。**
 
-[楽天での取り扱いはこちら](https://hb.afl.rakuten.co.jp/hgc/g00sr5am.ycj6k881.g00sr5am.ycj6l158/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsair%2F252236%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsair%2Fi%2F10041216%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [Amazonでの取り扱いはこちら](Amazonアフィリリンクを挿入)
+[楽天での取り扱いはこちら](https://hb.afl.rakuten.co.jp/hgc/g00sr5am.ycj6k881.g00sr5am.ycj6l158/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsair%2F252236%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsair%2Fi%2F10041216%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## アイリスオーヤマ シーリングライト CL8DLを買って後悔する人
 
@@ -135,7 +135,7 @@ Amazonのレビューを調査した中で繰り返し上がるデメリット�
 **電気代を気にしている人**
 蛍光灯からの乗り換えで電気代が下がったというレビューは多い。5年保証込みで長期使用を前提にすれば、トータルコストは悪くない。
 
-[楽天での取り扱いはこちら](https://hb.afl.rakuten.co.jp/hgc/g00sr5am.ycj6k881.g00sr5am.ycj6l158/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsair%2F252236%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsair%2Fi%2F10041216%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [Amazonでの取り扱いはこちら](Amazonアフィリリンクを挿入)
+[楽天での取り扱いはこちら](https://hb.afl.rakuten.co.jp/hgc/g00sr5am.ycj6k881.g00sr5am.ycj6l158/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsair%2F252236%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsair%2Fi%2F10041216%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## アイリスオーヤマ シーリングライト CL8DLについてよくある質問
 
@@ -152,6 +152,6 @@ CLシリーズは数字が上がるほど光量・機能（音声操作・スマ
 
 ぼくが調査した結果、CL8DLは「8畳以下・価格重視」の条件が揃えば同価格帯20製品の中央値を上回るコスパだ。「買って後悔した」という声の大半は「部屋が広すぎた」に集中しており、用途が合えばレビューどおり機能する。
 
-[楽天での取り扱いはこちら](https://hb.afl.rakuten.co.jp/hgc/g00sr5am.ycj6k881.g00sr5am.ycj6l158/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsair%2F252236%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsair%2Fi%2F10041216%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [Amazonでの取り扱いはこちら](Amazonアフィリリンクを挿入)
+[楽天での取り扱いはこちら](https://hb.afl.rakuten.co.jp/hgc/g00sr5am.ycj6k881.g00sr5am.ycj6l158/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsair%2F252236%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsair%2Fi%2F10041216%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

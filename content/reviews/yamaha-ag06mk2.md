@@ -60,7 +60,7 @@ Windowsの大型アップデート後に「デバイスが突然見えなくな�
 
 XLRケーブルもスタンドマウントも同梱されていない。単体購入の場合、別途費用を見込む必要がある。
 
-**[Amazonで今の価格を確認する →](リンクURL)　[楽天で今の価格を確認する →](リンクURL)**
+**[楽天で今の価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00qdd1m.ycj6k365.g00qdd1m.ycj6lf56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshimamuragakki%2Fmt0125067%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshimamuragakki%2Fi%2F10227787%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天で今の価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00qdd1m.ycj6k365.g00qdd1m.ycj6lf56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshimamuragakki%2Fmt0125067%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshimamuragakki%2Fi%2F10227787%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ## AG06MK2の良い口コミ・メリット
 
@@ -95,7 +95,7 @@ DSPエフェクト以外に評価されている点も2つある。USB給電の�
 
 DAWで音楽制作する用途では「Scarlettの方が素直な音」という声がある。一方、ループバック・DSPエフェクト・ミキサー機能がひとつにまとまっている点でAG06MK2が配信・ポッドキャスト向けに選ばれている。配信ならAG06MK2、DAWならScarlett。用途が決め手になる。
 
-**[Amazonで今の価格を確認する →](リンクURL)　[楽天で今の価格を確認する →](リンクURL)**
+**[楽天で今の価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00qdd1m.ycj6k365.g00qdd1m.ycj6lf56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshimamuragakki%2Fmt0125067%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshimamuragakki%2Fi%2F10227787%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天で今の価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00qdd1m.ycj6k365.g00qdd1m.ycj6lf56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshimamuragakki%2Fmt0125067%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshimamuragakki%2Fi%2F10227787%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ## YAMAHA AG06MK2を買って後悔する人
 
@@ -109,17 +109,17 @@ DAWで音楽制作する用途では「Scarlettの方が素直な音」という
 - **ポッドキャスターや音声配信者**: マイク音質と使いやすさのバランスが価格帯として優れており、長期使用者が多い
 - **Mac・iPadで配信を始めたい人**: ドライバーレスの手軽さという評判は実態と一致しており、環境構築が取りかかりやすい
 
-**[Amazonで今の価格を確認する →](リンクURL)　[楽天で今の価格を確認する →](リンクURL)**
+**[楽天で今の価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00qdd1m.ycj6k365.g00qdd1m.ycj6lf56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshimamuragakki%2Fmt0125067%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshimamuragakki%2Fi%2F10227787%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天で今の価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00qdd1m.ycj6k365.g00qdd1m.ycj6lf56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshimamuragakki%2Fmt0125067%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshimamuragakki%2Fi%2F10227787%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 
 ## YAMAHA AG06MK2の口コミ調査からの結論
 
-Amazon・楽天のレビューとYouTube・ブログを合わせた約4,840件のデータを調査した。20,800円という価格帯で配信特化の機能がここまでまとまっている配信用オーディオインターフェースは少なく、1年間毎日配信すると1日あたり57円の計算だ。+48V固定のファンタム電源と録音入力2系統というデメリットを事前に把握した上で用途が合うと判断できるなら、後悔する可能性は低い。配信用の機材選びで比較軸に迷ったときは[配信向けマイク選びの基準](リンクURL)を参考にしてほしい。
+Amazon・楽天のレビューとYouTube・ブログを合わせた約4,840件のデータを調査した。20,800円という価格帯で配信特化の機能がここまでまとまっている配信用オーディオインターフェースは少なく、1年間毎日配信すると1日あたり57円の計算だ。+48V固定のファンタム電源と録音入力2系統というデメリットを事前に把握した上で用途が合うと判断できるなら、後悔する可能性は低い。配信用の機材選びで比較軸に迷ったときは[配信向けマイク選びの基準](https://hb.afl.rakuten.co.jp/hgc/g00qdd1m.ycj6k365.g00qdd1m.ycj6lf56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshimamuragakki%2Fmt0125067%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshimamuragakki%2Fi%2F10227787%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)を参考にしてほしい。
 
 迷っている時間より、明日の配信に間に合わせる方が得だ。
 
-**[Amazonで今の価格を確認する →](リンクURL)　[楽天で今の価格を確認する →](リンクURL)**
+**[楽天で今の価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00qdd1m.ycj6k365.g00qdd1m.ycj6lf56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshimamuragakki%2Fmt0125067%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshimamuragakki%2Fi%2F10227787%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天で今の価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00qdd1m.ycj6k365.g00qdd1m.ycj6lf56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshimamuragakki%2Fmt0125067%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshimamuragakki%2Fi%2F10227787%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ## よくある質問
 

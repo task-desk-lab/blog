@@ -15,7 +15,7 @@ review_count: 0
 rating: 0.0
 shop_name: "エルサチ"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tmh8m.ycj6k867.g00tmh8m.ycj6l850/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felsachi%2Fanker-speakerphone%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felsachi%2Fi%2F10000133%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: "https://www.amazon.co.jp/dp/B07YJ2PRT5"
+amazon_url: ""
 product_image: "/img/products/anker-powerconf.jpg"
 keywords: ["Anker PowerConf 口コミ", "Anker PowerConf 評判", "Anker PowerConf デメリット", "Anker PowerConf レビュー", "Anker PowerConf 後悔", "Anker PowerConf", "スピーカーフォン 口コミ", "スピーカーフォン おすすめ"]
 ---
@@ -145,6 +145,6 @@ Amazon 3,200件、楽天450件、YouTube動画28本、ブログ記事65件を調
 
 Anker PowerConfは個人または小規模チームのWeb会議用スピーカーフォンとして、3,743件の口コミが12,980円の妥当性を示している。USB接続の安定性と6マイクの集音力が評価されている一方、大会議室やBluetooth環境では弱点がある。2年使用で1日あたり約18円、1回の会議あたり約9円。自宅デスクでのリモートワークなら選んで後悔しない製品だ。
 
-[→ 詳細スペックと最新価格を確認する](https://www.amazon.co.jp/dp/B07ZSGQQW5)
+[→ 詳細スペックと最新価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tmh8m.ycj6k867.g00tmh8m.ycj6l850/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felsachi%2Fanker-speakerphone%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felsachi%2Fi%2F10000133%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

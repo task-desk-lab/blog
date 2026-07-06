@@ -116,7 +116,7 @@ Amazon・楽天を合わせた5,300件超のデータを確認した。ネガテ
 
 3つ該当するなら、用途と製品がかみ合っている。
 
-**[→ Amazonで在庫と最新価格を確認する（送料無料）](https://www.amazon.co.jp/)**
+**[→ 楽天で在庫と最新価格を確認する（送料無料）](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4977766781367%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12527065%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ---
 

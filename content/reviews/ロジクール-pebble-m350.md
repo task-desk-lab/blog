@@ -59,7 +59,7 @@ Amazonの8,200件、楽天の1,800件という口コミ母数は国内マウス�
 
 電池18ヶ月という仕様については、「1年以上替えていない」という口コミが実際に多く、カタログ値に近い運用ができている人が大半だ。充電式マウスの「うっかり切れ」を嫌う人に刺さる仕様で、単三電池1本なのでコンビニでも調達できる。重量約100gの薄型ボディが移動の多いモバイルワーカーから評価されている点と合わせると、持ち出し用途で選ぶ理由が整う。
 
-▶ [Amazonで今すぐロジクール Pebble M350の価格を確認する（送料無料・最短翌日）](https://www.amazon.co.jp/s?k=ロジクール+Pebble+M350)
+▶ [楽天で今すぐロジクール Pebble M350の価格を確認する（送料無料・最短翌日）](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm350sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000559%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -120,6 +120,6 @@ M350Sは2023年以降の後継モデルで、DPIステップの調整幅が若�
 
 11,000件超の口コミを横断して調べた結果、ロジクール Pebble M350は静音性ひとつで選んでいいマウスだという結論になった。デメリットとして挙がるサイドボタン不在とDPI固定は、製品コンセプトを理解した上で選べば後悔にならない。3,980円という価格で静音環境を手に入れるなら、モバイルワーカーがまず見るべき一択だ。用途が合う人には「大丈夫」、合わない人には「違うものを選んで」の二択で明快だった。
 
-▶ [Amazonで今すぐロジクール Pebble M350の価格を確認する（送料無料・最短翌日）](https://www.amazon.co.jp/s?k=ロジクール+Pebble+M350)
+▶ [楽天で今すぐロジクール Pebble M350の価格を確認する（送料無料・最短翌日）](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm350sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000559%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

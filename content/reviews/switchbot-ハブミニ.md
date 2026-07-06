@@ -63,7 +63,7 @@ SwitchBotのサーバー障害が起きると、スマホからの操作が全�
 
 温度・湿度センサーを使ったトリガー設定など、細かいオートメーションはSwitchBot ハブ2（上位機種）が得意とするところだ。単純なリモコン集約には十分だが、凝った使い方をしたい人には物足りない場面が出てくる。
 
-それでも試す価値があると判断した人はこちら → [Amazonで現在のSwitchBot ハブミニの価格を確認する](https://www.amazon.co.jp/dp/B07TTH5TMW)
+それでも試す価値があると判断した人はこちら → [楽天で現在のSwitchBot ハブミニの価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rwh8m.ycj6k19e.g00rwh8m.ycj6lacf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut-ps%2F521591%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut-ps%2Fi%2F10133728%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## SwitchBot ハブミニのメリット・良い口コミ
 
@@ -107,7 +107,7 @@ AlexaやGoogle Homeとの接続が短時間で完了する。「Alexa、エア�
 
 **→ 一言まとめ：SwitchBot製品を1つでも持っていればハブミニ、クラウドなし運用が必須ならNature Remo。**
 
-→ [Amazonで現在のSwitchBot ハブミニの価格を確認する（今すぐ価格を見る）](https://www.amazon.co.jp/dp/B07TTH5TMW)
+→ [楽天で現在のSwitchBot ハブミニの価格を確認する（今すぐ価格を見る）](https://hb.afl.rakuten.co.jp/hgc/g00rwh8m.ycj6k19e.g00rwh8m.ycj6lacf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut-ps%2F521591%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut-ps%2Fi%2F10133728%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## SwitchBot ハブミニを買って後悔する人 {#who-should-not-buy}
 
@@ -157,6 +157,6 @@ SwitchBot ハブミニの口コミを調べると、特定の使い方をする�
 
 3,480円という価格が、スマートホームへの心理的ハードルを下げている点がこの製品の本質だ。Amazonの1万2,000件超の口コミはその評価を裏付けている。
 
-→ [Amazonで現在のSwitchBot ハブミニの価格を確認する（3,480円・Amazon返品保証対象）](https://www.amazon.co.jp/dp/B07TTH5TMW)
+→ [楽天で現在のSwitchBot ハブミニの価格を確認する（3,480円・楽天返品保証対象）](https://hb.afl.rakuten.co.jp/hgc/g00rwh8m.ycj6k19e.g00rwh8m.ycj6lacf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut-ps%2F521591%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut-ps%2Fi%2F10133728%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

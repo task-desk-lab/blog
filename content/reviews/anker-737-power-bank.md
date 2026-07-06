@@ -104,8 +104,8 @@ USB-C×2＋USB-A×1の構成で、PC・スマホ・ワイヤレスイヤホン�
 
 「とにかく充電が速くないと困る」という人はAnker 737に傾いており、「荷物を減らしたい」という人はCIOを選んでいる。どちらが優れているというより、用途で分かれる。
 
-- 140W急速充電が必要なら → [Anker 737 Power Bankを確認する（Amazon・8,990円・送料無料）](AMAZON_AFFILIATE_URL)
-- 軽さ重視なら → [CIO SMARTCOBY TRIO 67Wを確認する（現在価格はリンク先で確認）](CIO_AFFILIATE_URL)
+- 140W急速充電が必要なら → [Anker 737 Power Bankを確認する（楽天・8,990円・送料無料）](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001221%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+- 軽さ重視なら → CIO SMARTCOBY TRIO 67Wを確認する（現在価格はリンク先で確認）
 
 ## Anker 737 Power Bankを買って後悔する人
 
@@ -129,7 +129,7 @@ USB-C×2＋USB-A×1の構成で、PC・スマホ・ワイヤレスイヤホン�
 **航空機での移動が多いビジネスパーソン**
 機内持ち込み可能な容量設計は、出張族にとって購入判断の大きな軸になる。国際線メインの購入者からのコメントはAmazonでも楽天でも否定的なものがほぼない。
 
-[Amazonで今すぐ在庫を確認する（8,990円・送料無料）](AMAZON_AFFILIATE_URL)
+[楽天で今すぐ在庫を確認する（8,990円・送料無料）](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001221%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 [楽天市場で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001221%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Anker 737 Power Bankの口コミ調査からの結論
@@ -138,7 +138,7 @@ Amazon・楽天・YouTubeを含む1,861件分のデータを調査した総評�
 
 重さ674gというデメリットは本物で、軽量性を求める用途には素直に向かない。実力通りの性能を引き出すには、Anker 765 USB-C to USB-C ケーブル 240W対応（約1,500円）など100W以上対応のケーブルを別途用意する前提で購入を検討するのがいい。
 
-[Amazonで今すぐ在庫を確認する（8,990円・送料無料）](AMAZON_AFFILIATE_URL)
+[楽天で今すぐ在庫を確認する（8,990円・送料無料）](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001221%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 [楽天市場で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001221%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---

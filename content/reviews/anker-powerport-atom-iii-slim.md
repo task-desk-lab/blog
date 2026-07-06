@@ -138,7 +138,7 @@ Amazonと楽天の口コミを調べると、繰り返し出てくるネガテ�
 
 過去に格安充電器でトラブルがあった人や、長く使うことを前提にしている人には、18ヶ月保証と国内サポートが購入理由として成立する。
 
-→[Amazonで最新価格と在庫を確認する](https://www.amazon.co.jp/dp/B08C2GN7BV)
+→[楽天で最新価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00riavm.ycj6k5cf.g00riavm.ycj6lef2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fasahiprocureace%2F634-4134%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fasahiprocureace%2Fi%2F14563722%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## 結論：誰に向いて、誰に向かないか
 
@@ -146,7 +146,7 @@ Amazon・楽天・YouTube・ブログを含む合計3,482件のデータポイ�
 
 デメリットとして明確なのは「MacBook Pro 16インチ以上には使えない」という出力の上限だ。100W超が必要な用途を除けば、荷物を減らしながら安定した充電環境を作りたい人の選択肢として費用対効果は出やすい。自分の使い方がこの充電器の守備範囲に入るかどうか、スペック表と口コミを照合してから決めてほしい。
 
-MacBook AirやiPad Proをメインで持ち歩くなら、現時点で最も薄い選択肢のひとつ。Amazonの最新価格と在庫はこちら→[Anker PowerPort Atom III Slim（Amazon）](https://www.amazon.co.jp/dp/B08C2GN7BV)
+MacBook AirやiPad Proをメインで持ち歩くなら、現時点で最も薄い選択肢のひとつ。Amazonの最新価格と在庫はこちら→[Anker PowerPort Atom III Slim（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00riavm.ycj6k5cf.g00riavm.ycj6lef2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fasahiprocureace%2F634-4134%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fasahiprocureace%2Fi%2F14563722%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ──
 

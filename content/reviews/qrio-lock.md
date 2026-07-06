@@ -62,7 +62,7 @@ Qrio LockはCR123A電池を使う。コンビニではまず売っていない�
 
 ---
 
-それでも買う価値があるか判断する → [Amazonで価格を確認する](QRIO_AMAZON_LINK)
+それでも買う価値があるか判断する → [楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00qk5km.ycj6k6c3.g00qk5km.ycj6l870/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcharmying%2F10000228%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcharmying%2Fi%2F10000228%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -104,7 +104,7 @@ Amazonの総合評価3.9（Amazon調べ）は、デメリットを含めた上�
 
 **ブランド信頼感**: QrioはSonyグループが関与する日本製という安心感を評価するレビューがある。「中国製に不安を感じる」という理由でQrioを選ぶパターンが口コミから読み取れた。
 
-「スマートホーム全体を統合したい（SwitchBot寄り）」か「鍵だけシンプルに快適にしたい（Qrio寄り）」かで選択肢が変わる。どちらが優れているかより、目的に合う方を選ぶのが実態に近い判断だ。SwitchBot ロックの価格は[Amazonで確認できる](SWITCHBOT_AMAZON_LINK)。両製品を並べて検討したい場合は[SwitchBot ロックの詳細レビューはこちら](SWITCHBOT_LOCK_REVIEW_LINK)。
+「スマートホーム全体を統合したい（SwitchBot寄り）」か「鍵だけシンプルに快適にしたい（Qrio寄り）」かで選択肢が変わる。どちらが優れているかより、目的に合う方を選ぶのが実態に近い判断だ。SwitchBot ロックの価格はAmazonで確認できる。両製品を並べて検討したい場合はSwitchBot ロックの詳細レビューはこちら。
 
 ## Qrio Lockを買って後悔する人
 
@@ -154,8 +154,8 @@ CR123Aは入手性が低く、切れたときのリスクが高い。アプリ�
 
 4,500件超のデータを調べた総評として、Qrio Lockは「毎日の鍵の摩擦を取り除く」という目的において効果が出ている製品だ。1日あたり約66円（23,980円÷365日）という計算で見ると、合鍵郵送コスト削減や締め忘れ確認に使う時間・精神的コストを含めれば、コスト回収の見通しは立てやすい。4,500件超の口コミを精査すると、デメリットを事前に把握した上で購入したと書いているレビュアーの評価が、そうでない人と比べて明らかに高い——これが今回の調査で出た一番明確な結論だ。購入前のチェックリストを全部クリアできるなら、買い物として成立する製品だ。
 
-リモート確認もセットで使いたいなら、[Qrio HubとのセットをAmazonで確認する](QRIO_HUB_AMAZON_LINK)のが費用感の把握に近道だ。
+リモート確認もセットで使いたいなら、Qrio HubとのセットをAmazonで確認するのが費用感の把握に近道だ。
 
-[AmazonでQrio Lockを見る](QRIO_AMAZON_LINK) ／ [楽天でQrio Lockを見る](QRIO_RAKUTEN_LINK)
+[楽天でQrio Lockを見る](https://hb.afl.rakuten.co.jp/hgc/g00qk5km.ycj6k6c3.g00qk5km.ycj6l870/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcharmying%2F10000228%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcharmying%2Fi%2F10000228%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

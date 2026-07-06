@@ -28,7 +28,7 @@ keywords: ["SwitchBot スマートロック 口コミ", "SwitchBot スマート�
 Amazon価格：11,980円（税込）｜★4.2（4,200件超）
 賃貸・工事不要で取り付けられるスマートロックの定番。複数人が別々の時間に帰宅する家庭で満足度が安定している。
 
-[▶ Amazonで価格と在庫を確認する](YOUR_AFFILIATE_LINK)
+[▶ 楽天で価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00ukqom.ycj6k3bf.g00ukqom.ycj6lf87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgadgetmarche%2Fset0000000983%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgadgetmarche%2Fi%2F10000204%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -130,7 +130,7 @@ AlexaやGoogle Homeと連携すれば音声で施錠できる。すでにSwitchB
 Amazon価格：11,980円（税込）｜★4.2（4,200件超）
 本体価格差は約2,000円。SwitchBot製品をすでに使っているなら、トータルコストでSwitchBotが有利になりやすい。
 
-[▶ Amazonで価格と在庫を確認する](YOUR_AFFILIATE_LINK)
+[▶ 楽天で価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00ukqom.ycj6k3bf.g00ukqom.ycj6lf87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgadgetmarche%2Fset0000000983%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgadgetmarche%2Fi%2F10000204%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -168,7 +168,7 @@ Amazon価格：11,980円（税込）｜★4.2（4,200件超）
 Amazon価格：11,980円（税込）｜★4.2（4,200件超）
 上の3項目に一つでも当てはまるなら、買って後悔するパターンとはほぼ重ならない。
 
-[▶ Amazonで価格と在庫を確認する](YOUR_AFFILIATE_LINK)
+[▶ 楽天で価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00ukqom.ycj6k3bf.g00ukqom.ycj6lf87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgadgetmarche%2Fset0000000983%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgadgetmarche%2Fi%2F10000204%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -178,7 +178,7 @@ Amazon・楽天合わせて6,000件超の口コミを調べた結果、満足度
 
 確認するのはサムターンの形状と、引き戸かどうかの2点だけ。ドア形状がOKなら、迷う理由はほぼない。
 
-[▶ Amazonで確認する](YOUR_AFFILIATE_LINK)
+[▶ 楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00ukqom.ycj6k3bf.g00ukqom.ycj6lf87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgadgetmarche%2Fset0000000983%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgadgetmarche%2Fi%2F10000204%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 関連記事：[SwitchBotハブの選び方と口コミまとめ](#) ｜ [賃貸向けスマートロック比較2025：後付け対応モデル5選](#)
 

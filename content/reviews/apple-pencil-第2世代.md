@@ -66,7 +66,7 @@ Apple Pencil 第2世代のレビューをAmazonと楽天あわせて1万件超�
 
 それでも毎日使うなら純正一択という評価は変わらない。書き心地と利便性の差は、これらのデメリットを上回ると判断する長期ユーザーが多い。
 
-**[→ 対応機種を確認してから買えば届いた日から即使える（Amazon）](https://www.amazon.co.jp/dp/B07K1WWBJK)**
+**[→ 対応機種を確認してから買えば届いた日から即使える（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00u2c1m.ycj6k3cc.g00u2c1m.ycj6l803/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchisaya%2Fapplepen-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchisaya%2Fi%2F10003387%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ## Apple Pencil 第2世代の良い口コミ・メリット
 
@@ -88,7 +88,7 @@ iPad画面に手のひらを置いたまま書いても誤入力が起きない�
 
 Amazonで8,200件 ★4.6評価
 
-**[→ Amazonで対応機種を確認して購入する](https://www.amazon.co.jp/dp/B07K1WWBJK)**
+**[→ 楽天で対応機種を確認して購入する](https://hb.afl.rakuten.co.jp/hgc/g00u2c1m.ycj6k3cc.g00u2c1m.ycj6l803/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchisaya%2Fapplepen-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchisaya%2Fi%2F10003387%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ## Apple Pencil 第2世代を他社製品と比較した口コミ
 
@@ -126,7 +126,7 @@ USB-CポートのiPad所有者が最もよくやるミスだ。確認を怠る�
 
 磁気吸着充電とペアリング不要の組み合わせは、日常の細かい摩擦が減る。「地味だけど毎日効いてくる」という評判どおり、継続して満足しやすい層だ。
 
-**[→ 対応機種を確認してから買えば届いた日から即使える（Amazon）](https://www.amazon.co.jp/dp/B07K1WWBJK)**
+**[→ 対応機種を確認してから買えば届いた日から即使える（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00u2c1m.ycj6k3cc.g00u2c1m.ycj6l803/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchisaya%2Fapplepen-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchisaya%2Fi%2F10003387%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 ## Apple Pencil 第2世代が毎日使う人に向いている理由
 

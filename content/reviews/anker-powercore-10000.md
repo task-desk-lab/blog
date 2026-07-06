@@ -90,7 +90,7 @@ Amazonの28,000件・楽天3,200件の口コミを横断して調べると、不
 
 口コミを読むと「USB-Cで統一したいならPD対応品、軽さと価格を優先するならAnker」という結論になる。それでもAnkerを選ぶ理由は一つで、3,000円以下でブランド保証・PSE認証・180gを同時に満たす選択肢が他にないからだ。
 
-USB-Cが不要なら、今の価格を確認しておくだけでいい。→ [Amazonで確認する](https://www.amazon.co.jp/dp/B07MNVXJX9)
+USB-Cが不要なら、今の価格を確認しておくだけでいい。→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00rdq6m.ycj6k964.g00rdq6m.ycj6le60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoconial%2Fa1246n11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoconial%2Fi%2F10012152%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -108,7 +108,7 @@ USB-Cが不要なら、今の価格を確認しておくだけでいい。→ [A
 
 LEDインジケーターが4段階のため「あと20%あるかどうか」がわからない。精度の高い残量管理が必要な使い方では不便が出る。
 
-上記に当てはまるなら、USB-C/PD対応の10000mAh製品を先に比較したほうがいい。→ [USB-C対応モバイルバッテリーを探す](https://www.amazon.co.jp/s?k=モバイルバッテリー+10000mAh+USB-C+PD)
+上記に当てはまるなら、USB-C/PD対応の10000mAh製品を先に比較したほうがいい。→ [USB-C対応モバイルバッテリーを探す](https://hb.afl.rakuten.co.jp/hgc/g00rdq6m.ycj6k964.g00rdq6m.ycj6le60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoconial%2Fa1246n11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoconial%2Fi%2F10012152%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -126,7 +126,7 @@ LEDインジケーターが4段階のため「あと20%あるかどうか」が�
 
 2ポートあるため、スマホとワイヤレスイヤホンを同時に充電する使い方と相性がいい。荷物を増やさずに対応できると評価されている。
 
-この3パターンに当てはまるなら、今の価格を確認しておくだけでいい。→ [Amazonで確認する](https://www.amazon.co.jp/dp/B07MNVXJX9)
+この3パターンに当てはまるなら、今の価格を確認しておくだけでいい。→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00rdq6m.ycj6k964.g00rdq6m.ycj6le60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoconial%2Fa1246n11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoconial%2Fi%2F10012152%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 

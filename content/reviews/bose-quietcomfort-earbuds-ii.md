@@ -70,7 +70,7 @@ PCとスマホを同時接続している場合、切り替え時にもたつく
 
 Amazonは返品ポリシーあり。イヤーチップが合わなかった場合の交換方法は公式サポートページで確認できる。
 
-[Amazonは価格変動が早いため、現在の価格を確認してから判断する →](アフィリエイトリンクをここに挿入)
+[楽天は価格変動が早いため、現在の価格を確認してから判断する →](https://hb.afl.rakuten.co.jp/hgc/g00r1fdm.ycj6k633.g00r1fdm.ycj6l479/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flcs-live%2F10012337%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flcs-live%2Fi%2F10012337%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Bose QuietComfort Earbuds IIの良い口コミ・メリット
 
@@ -116,7 +116,7 @@ Amazonは返品ポリシーあり。イヤーチップが合わなかった場�
 
 「静かにすることに特化した1台」としてBoseを選ぶか、バランスを取ってSonyにするか、あるいはAppleデバイスとの連携を軸に置くならAirPods Pro 2という経路が、口コミ上では繰り返し出てくる判断パターンだ。
 
-[Amazonは価格変動が早いため、現在の価格を確認してから判断する →](アフィリエイトリンクをここに挿入)
+[楽天は価格変動が早いため、現在の価格を確認してから判断する →](https://hb.afl.rakuten.co.jp/hgc/g00r1fdm.ycj6k633.g00r1fdm.ycj6l479/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flcs-live%2F10012337%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flcs-live%2Fi%2F10012337%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Bose QuietComfort Earbuds IIを買って後悔する人
 
@@ -154,7 +154,7 @@ ANC使用時6時間のバッテリーは、通勤往復（片道30〜45分）な
 
 2026年5月時点の定価39,600円を1年間使うと、1日あたり108円換算になる。その108円で公共交通・職場・屋外の騒音から解放されることをどう評価するか、判断はそれだけでいい。
 
-[Amazonで現在価格を確認する →](アフィリエイトリンクをここに挿入)
+[楽天で現在価格を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00r1fdm.ycj6k633.g00r1fdm.ycj6l479/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flcs-live%2F10012337%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flcs-live%2Fi%2F10012337%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## よくある質問
 

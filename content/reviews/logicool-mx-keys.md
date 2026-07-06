@@ -14,7 +14,7 @@ review_count: 1
 rating: 4.0
 shop_name: "電子問屋 2号店"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u7o7m.ycj6kfab.g00u7o7m.ycj6l71f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Furiurishop%2F4943765062233%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Furiurishop%2Fi%2F10003063%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: "https://www.amazon.co.jp/dp/B09HQZB9NR"
+amazon_url: ""
 product_image: "/img/products/logicool-mx-keys.jpg"
 
 keywords: ["Logicool MX Keys 口コミ", "Logicool MX Keys 評判", "Logicool MX Keys デメリット", "Logicool MX Keys レビュー", "Logicool MX Keys 後悔", "Logicool MX Keys", "キーボード 口コミ", "キーボード おすすめ"]

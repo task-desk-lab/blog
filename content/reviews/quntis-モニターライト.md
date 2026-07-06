@@ -120,7 +120,7 @@ ScreenBarはビーム角の調整精度と専用コントローラーの操作�
 
 天井照明が明るく手元が十分に確保されている環境にも向かない。モニターライトは暗い・薄暗い環境での補助照明として機能するため、照明が足りている部屋では使わずにしまいこむ可能性が高い。
 
-リモコンなしのモデルを選んだ人にも不満が出やすい。暗い部屋でセンサー位置を手探りしなければならないというレビューはエントリーモデルに頻出する。操作のストレスが気になるなら、最初からリモコン付きのQuntis BasicPlus Proを選ぶほうが後悔が少ない。→ [Quntis BasicPlus Pro リモコン付きモデルを確認する（Amazon）](AMAZON_PRO_AFFILIATE_LINK)
+リモコンなしのモデルを選んだ人にも不満が出やすい。暗い部屋でセンサー位置を手探りしなければならないというレビューはエントリーモデルに頻出する。操作のストレスが気になるなら、最初からリモコン付きのQuntis BasicPlus Proを選ぶほうが後悔が少ない。→ Quntis BasicPlus Pro リモコン付きモデルを確認する（Amazon）
 
 ---
 
@@ -134,7 +134,7 @@ ScreenBarはビーム角の調整精度と専用コントローラーの操作�
 
 ベゼル厚を測って5mm以上あれば、今夜の作業から手元が変わる。
 
-[Amazonで現在価格を確認する（送料無料）](AMAZON_AFFILIATE_LINK)
+[楽天で現在価格を確認する（送料無料）](https://hb.afl.rakuten.co.jp/hgc/g00usuvm.ycj6k790.g00usuvm.ycj6lf45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeikeishop%2Fli-hy-0206-bk-qu-ws-ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeikeishop%2Fi%2F10000086%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -145,7 +145,7 @@ Amazonと楽天を合わせた4,700件近い口コミを調査した結論とし
 ---
 
 **関連記事**
-- [BenQ ScreenBar レビュー｜4,000件超の口コミから分かる実力と価格差の正体](INTERNAL_LINK_SCREENBAR)
-- [在宅デスク環境の照明を見直す｜モニターライト5製品を口コミ横断で比較](INTERNAL_LINK_COMPARISON)
+- BenQ ScreenBar レビュー｜4,000件超の口コミから分かる実力と価格差の正体
+- 在宅デスク環境の照明を見直す｜モニターライト5製品を口コミ横断で比較
 
 また明日、集合知で会おう。

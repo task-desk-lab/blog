@@ -130,7 +130,7 @@ Amazon・楽天の口コミを調査し、繰り返し出てくるネガティ�
 
 **① IP67防水で「濡れても気にしない」運用ができる**
 
-水深1mに30分耐えるIP67は、シャワー・雨・砂浜でも気を使わないレベルだ。「濡れた手でそのまま操作している」という口コミが定番化している。[防水Bluetoothスピーカー比較記事](../waterproof-bluetooth-speakers/)も参考にしてほしい。
+水深1mに30分耐えるIP67は、シャワー・雨・砂浜でも気を使わないレベルだ。「濡れた手でそのまま操作している」という口コミが定番化している。防水Bluetoothスピーカー比較記事も参考にしてほしい。
 
 **② 手のひらサイズなのに低音が出る**
 
@@ -160,7 +160,7 @@ Amazon・楽天の口コミを調査し、繰り返し出てくるネガティ�
 
 ## Sony SRS-XB100 vs JBL GO 4｜ポータブルスピーカー 6,000円台の口コミ比較
 
-同価格帯の競合として最もよく名前が出るのが **JBL GO 4**（実売6,000〜7,000円前後）だ。詳しくは[JBL GO 4 詳細レビュー](../jbl-go4-review/)を参照。
+同価格帯の競合として最もよく名前が出るのが **JBL GO 4**（実売6,000〜7,000円前後）だ。詳しくはJBL GO 4 詳細レビューを参照。
 
 | 項目 | Sony SRS-XB100 | JBL GO 4 |
 |------|----------------|----------|
@@ -173,7 +173,7 @@ Amazon・楽天の口コミを調査し、繰り返し出てくるネガティ�
 充電ケーブルを共通化したい・1泊以上の外出が多い→SRS-XB100。低音の迫力を屋内メインで楽しみたい→JBL GO 4という使い分けが口コミ全体の傾向に合っている。
 
 <div style="display:flex;gap:12px;margin:16px 0;">
-  <a href="https://www.amazon.co.jp/s?k=Sony+SRS-XB100" rel="nofollow" style="display:inline-block;padding:10px 20px;background:#FF9900;color:#000;font-weight:bold;border-radius:4px;text-decoration:none;">Amazonで価格を確認する</a>
+  <a href="https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4548736146075%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12779748%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968" rel="nofollow" style="display:inline-block;padding:10px 20px;background:#FF9900;color:#000;font-weight:bold;border-radius:4px;text-decoration:none;">楽天で価格を確認する</a>
   <a href="https://search.rakuten.co.jp/search/mall/Sony+SRS-XB100/" rel="nofollow" style="display:inline-block;padding:10px 20px;background:#BF0000;color:#fff;font-weight:bold;border-radius:4px;text-decoration:none;">楽天市場で見る</a>
 </div>
 
@@ -201,10 +201,10 @@ Amazon・楽天の口コミを調査し、繰り返し出てくるネガティ�
 
 Amazon3,200件・楽天820件、合計4,470件の口コミを調査すると、モノラルであることを把握したうえで購入した人の満足度が高い。IP67防水という仕様は6,000円台でも珍しくないが、それに最大16時間のバッテリーと280gが同時に揃うモデルは、2026年4月時点でほかに見当たらない。1日あたりに換算すると約18円で使えるスピーカーだ（6,600円÷365日）。音場感やオーディオ品質を重視するなら、最初から上位モデルを検討した方がいい。用途が合えば後悔しない買い物だ。
 
-[ポータブルスピーカー比較まとめ](../portable-speaker-ranking/)もあわせて参考にしてほしい。
+ポータブルスピーカー比較まとめもあわせて参考にしてほしい。
 
 <div style="display:flex;gap:12px;margin:16px 0;">
-  <a href="https://www.amazon.co.jp/s?k=Sony+SRS-XB100" rel="nofollow" style="display:inline-block;padding:10px 20px;background:#FF9900;color:#000;font-weight:bold;border-radius:4px;text-decoration:none;">Amazonで価格を確認する</a>
+  <a href="https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4548736146075%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12779748%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968" rel="nofollow" style="display:inline-block;padding:10px 20px;background:#FF9900;color:#000;font-weight:bold;border-radius:4px;text-decoration:none;">楽天で価格を確認する</a>
   <a href="https://search.rakuten.co.jp/search/mall/Sony+SRS-XB100/" rel="nofollow" style="display:inline-block;padding:10px 20px;background:#BF0000;color:#fff;font-weight:bold;border-radius:4px;text-decoration:none;">楽天市場で見る</a>
 </div>
 

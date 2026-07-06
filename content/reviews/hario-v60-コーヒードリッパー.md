@@ -26,7 +26,7 @@ keywords: ["Hario V60 コーヒードリッパー 口コミ", "Hario V60 コー�
 
 Amazon4,200件超・楽天1,800件を2026年4月に目視スクリーニングで調査した結果、Hario V60 コーヒードリッパーは「味を自分でコントロールしたい人には刺さる、でも手軽さは期待できない」という評判に集約される。1,980円という価格で本格的なハンドドリップが可能な点は評価が高い。一方、注ぎ方次第で味が変わる不安定さを「デメリット」と捉えるか「楽しさ」と捉えるかで、満足度が大きく分かれる商品だ。
 
-▶ [Amazonで現在の価格・在庫を確認する](https://www.amazon.co.jp/dp/B001W7KCEY)
+▶ [楽天で現在の価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00s6nvm.ycj6ka08.g00s6nvm.ycj6l182/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F5701-30064471%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10002387%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Hario V60 コーヒードリッパーの基本スペック
 
@@ -87,7 +87,7 @@ Amazon4,200件・楽天1,800件を横断して調べると、不満の声はだ�
 
 **4人以上の家庭で毎日全員分を淹れたい人**にも向いていない。全員分を毎朝ドリップするのは現実的ではなく、容量の大きい抽出機器を選んだ方が後悔が出にくい。
 
-それでも気になる人は▶ [まず1,980円で試してみる（Amazon）](https://www.amazon.co.jp/dp/B001W7KCEY) ／ [楽天で確認する](https://search.rakuten.co.jp/search/mall/HARIO+V60/)
+それでも気になる人は▶ [まず1,980円で試してみる（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00s6nvm.ycj6ka08.g00s6nvm.ycj6l182/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F5701-30064471%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10002387%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [楽天で確認する](https://search.rakuten.co.jp/search/mall/HARIO+V60/)
 
 ## Hario V60 コーヒードリッパーを買って満足する人
 
@@ -97,7 +97,7 @@ Amazon4,200件・楽天1,800件を横断して調べると、不満の声はだ�
 
 **コスパを重視しながら本格志向の人**にとっては、1日1杯換算で約5.4円のコスト（365日使用時）は、カフェで毎日500円払い続けるコストと比べると差が大きい。道具としての費用対効果を重視するなら、1,980円は納得できる価格帯だ。
 
-▶ [今すぐAmazonで在庫を確認する](https://www.amazon.co.jp/dp/B001W7KCEY) ／ [楽天で最安値を確認する](https://search.rakuten.co.jp/search/mall/HARIO+V60/)
+▶ [今すぐ楽天で在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00s6nvm.ycj6ka08.g00s6nvm.ycj6l182/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F5701-30064471%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10002387%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [楽天で最安値を確認する](https://search.rakuten.co.jp/search/mall/HARIO+V60/)
 
 ## Hario V60 コーヒードリッパーに関するよくある質問
 
@@ -117,6 +117,6 @@ V60専用の円錐形フィルターはAmazon・楽天で入手できる他、�
 
 Amazon・楽天合計6,000件超の口コミを調べた総評として、Hario V60 コーヒードリッパーは毎回の一杯に手をかけられるかどうか、それだけで評価が決まる商品だ。安定性を求めるなら候補から外した方がいい。逆に、変数を自分で動かすことに面白さを感じられるなら、1,980円は元が取れる価格帯だ。ハンドドリップを試行錯誤で追いかけていける人向けで、「手間をかけたくない」人には向いていない。事前にそこだけ確認しておけば、買った後に困る場面はほぼない。
 
-Kalitaとの比較が気になる人は上の比較表へ、価格と在庫の確認はこちら▶ [Amazonで確認](https://www.amazon.co.jp/dp/B001W7KCEY) ／ [楽天で確認する](https://search.rakuten.co.jp/search/mall/HARIO+V60/)
+Kalitaとの比較が気になる人は上の比較表へ、価格と在庫の確認はこちら▶ [楽天で確認](https://hb.afl.rakuten.co.jp/hgc/g00s6nvm.ycj6ka08.g00s6nvm.ycj6l182/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F5701-30064471%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10002387%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [楽天で確認する](https://search.rakuten.co.jp/search/mall/HARIO+V60/)
 
 また明日、集合知で会おう。

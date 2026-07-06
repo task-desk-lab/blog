@@ -67,7 +67,7 @@ Blue Microphones（現Logitech）が提供するコントロールソフトに�
 
 環境音の問題は「マイクの欠陥」ではなく「コンデンサ型の特性」だ。マイクアームを使い、静かな場所で録れば、デメリットの大半は解消する。USB一本で翌日のZoomから声が変わる体験は、この価格帯で他に選択肢が少ない。
 
-→ [Amazonで価格と在庫を確認する（4,500件以上のレビュー商品）→](アフィリエイトリンクをここに挿入)
+→ [楽天で価格と在庫を確認する（4,500件以上のレビュー商品）→](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fbm400bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000174%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Blue Yeti レビュー：音質・使い勝手は実際どう変わるか
 
@@ -93,7 +93,7 @@ USB接続のみでドライバ不要。「繋いだだけで声がクリアに�
 | 主な用途 | 配信・会議・ポッドキャスト | 楽器・歌の収録 |
 | 重量 | 約550g | 約386g |
 
-どちらか迷っているなら、声を録るのがメインならYeti、楽器や歌の本格収録が目的ならAT2020が答えになる。[AT2020USB+の口コミまとめ →](AT2020USB+記事リンク) も合わせて確認しておくといい。
+どちらか迷っているなら、声を録るのがメインならYeti、楽器や歌の本格収録が目的ならAT2020が答えになる。AT2020USB+の口コミまとめ → も合わせて確認しておくといい。
 
 ## Blue Yetiを買って後悔する人
 
@@ -123,7 +123,7 @@ USB接続のみでドライバ不要。「繋いだだけで声がクリアに�
 
 声を録る用途—たとえばインタビューや朗読—では指向性切替が実用になる。音楽制作向けのXLRマイクとは設計が異なるため、声の収録に絞った使い方に向いている。
 
-→ [Amazonで価格と在庫を確認する（4,500件以上のレビュー商品）→](アフィリエイトリンクをここに挿入)
+→ [楽天で価格と在庫を確認する（4,500件以上のレビュー商品）→](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fbm400bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000174%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Blue Yeti 口コミ【2026年最新】：まとめと結論
 
@@ -131,6 +131,6 @@ Amazon・楽天・YouTube・ブログ合計4,500件超の口コミを調べた�
 
 迷っているなら、まずAmazonの返品条件だけ確認しておくといい。30日以内なら試してから決められる。16,980円を365日で割ると1日46円で声が変わる。
 
-[Amazonで価格と在庫を確認する（4,500件以上のレビュー商品）→](アフィリエイトリンクをここに挿入)
+[楽天で価格と在庫を確認する（4,500件以上のレビュー商品）→](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fbm400bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000174%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

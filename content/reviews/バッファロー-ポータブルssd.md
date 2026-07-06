@@ -61,7 +61,7 @@ Samsung T7の最大読み込みが1,050MB/s前後なのに対し、バッファ�
 
 価格差2,000円を許容できるか、今の最安値で判断してほしい。
 
-→ [Amazonでバッファロー ポータブルSSD（SSD-PUT500U3-BKC）の価格・在庫を確認する](AFFILIATE_URL_HERE)
+→ [楽天でバッファロー ポータブルSSD（SSD-PUT500U3-BKC）の価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tit6m.ycj6kaf0.g00tit6m.ycj6l21b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksdenki%2F4981254069554%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksdenki%2Fi%2F10503907%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## バッファロー ポータブルSSD メリット・使って良かった点
 
@@ -104,7 +104,7 @@ Type-Cしかない新しいPCでも、Type-Aしかない古いPCでも、付属�
 
 2,000円の差が気になるなら、今の最安値で両者を比べてから決めるといい。
 
-→ [Amazonでバッファロー ポータブルSSD（SSD-PUT500U3-BKC）の価格・在庫を確認する](AFFILIATE_URL_HERE)
+→ [楽天でバッファロー ポータブルSSD（SSD-PUT500U3-BKC）の価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tit6m.ycj6kaf0.g00tit6m.ycj6l21b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksdenki%2F4981254069554%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksdenki%2Fi%2F10503907%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## バッファロー ポータブルSSDを買って後悔する人
 
@@ -136,13 +136,13 @@ USB-A・C両対応、Mac・Windows両対応のため、異なるPCをまたい�
 
 在庫状況は変動が早い。今の価格と在庫を確認しておくといい。
 
-→ [Amazonでバッファロー ポータブルSSD（SSD-PUT500U3-BKC）の価格・在庫を確認する](AFFILIATE_URL_HERE)
+→ [楽天でバッファロー ポータブルSSD（SSD-PUT500U3-BKC）の価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tit6m.ycj6kaf0.g00tit6m.ycj6l21b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksdenki%2F4981254069554%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksdenki%2Fi%2F10503907%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## バッファロー ポータブルSSDの口コミ調査からの結論
 
 Amazon・楽天・YouTube・ブログ合計1,785件を調査した結果、バッファロー ポータブルSSD（SSD-PUT500U3-BKC）は速さより手軽さを優先する用途向けの製品だった。7,980円÷3年÷365日で1日あたり約22円のコストで、HDDより大幅に速く、30gという持ち運びやすさを手に入れられる。最高速転送が必要なクリエイター用途には向かないが、日常のバックアップや出張先でのデータ持ち運びなら、デメリットを把握した上で選べば後悔のリスクは低い。
 
-→ [Amazonでバッファロー ポータブルSSD（SSD-PUT500U3-BKC）の価格・在庫を確認する](AFFILIATE_URL_HERE)
+→ [楽天でバッファロー ポータブルSSD（SSD-PUT500U3-BKC）の価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tit6m.ycj6kaf0.g00tit6m.ycj6l21b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksdenki%2F4981254069554%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksdenki%2Fi%2F10503907%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 日常バックアップや出張時のデータ持ち運びに絞れば、重さと速度で選べる実用的な一台だ。
 

@@ -25,7 +25,7 @@ keywords: ["Ricoh GR III 口コミ", "Ricoh GR III 評判", "Ricoh GR III デメ
 Ricoh GR IIIは、ポケット級のボディでAPS-Cの画質を実現した街撮り専門機だ。
 
 **チェック：Ricoh GR III 現在価格**  
-[Amazon](https://amazon.co.jp) | [楽天](https://rakuten.co.jp) | [Yahoo!ショッピング](https://shopping.yahoo.co.jp)
+[楽天](https://hb.afl.rakuten.co.jp/hgc/g00rw28m.ycj6keec.g00rw28m.ycj6l659/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeedwagon%2F10013264%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeedwagon%2Fi%2F10013456%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) | [楽天](https://rakuten.co.jp) | [楽天ショッピング](https://hb.afl.rakuten.co.jp/hgc/g00rw28m.ycj6keec.g00rw28m.ycj6l659/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeedwagon%2F10013264%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeedwagon%2Fi%2F10013456%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Ricoh GR IIIの基本スペック
 

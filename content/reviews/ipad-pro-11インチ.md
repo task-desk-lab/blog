@@ -127,6 +127,6 @@ Magic Keyboardを組み合わせ、メール対応、資料作成、オンライ
 
 Amazon約3,200件、Rakuten約820件、計約4,000件の口コミを調査した結果、iPad Pro 11インチの評判は「使い方次第」に尽きます。クリエイターや効率重視の営業・学生にとっては、ノートパソコンの代替機として機能し、本体84,800円÷（3年×365日）≒232円/日のコスト換算なら十分に元が取れるデバイスです。一方、アプリの自由度や総コストの現実を見落とすと、購入後の後悔につながります。購入前に「Apple PencilやMagic Keyboardは本当に必要か」「iPadOSの制約で仕事が成り立つか」をシミュレーションすることが、満足度を分ける大きな分岐点です。
 
-[Amazon商品ページを見る](https://amazon.co.jp/) | [Rakuten商品ページを見る](https://www.rakuten.co.jp/)
+[楽天商品ページを見る](https://hb.afl.rakuten.co.jp/hgc/g00r2mum.ycj6k876.g00r2mum.ycj6l808/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-worldichi%2F4549995616606%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-worldichi%2Fi%2F10031084%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) | [Rakuten商品ページを見る](https://www.rakuten.co.jp/)
 
 また明日、集合知で会おう。

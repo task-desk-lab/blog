@@ -117,7 +117,7 @@ Amazonで1,840件、楽天で120件の口コミを調べた結果、ESR スマ�
 
 ## このスタンドをチェックする
 
-[Amazonで見る](https://amazon.co.jp) | [楽天で最新価格を確認](https://rakuten.co.jp) | [公式ストアで購入](/)
+[楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00tlkxm.ycj6kd23.g00tlkxm.ycj6l234/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoodhammond%2Fes_a_017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoodhammond%2Fi%2F10000335%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) | [楽天で最新価格を確認](https://rakuten.co.jp) | [公式ストアで購入](/)
 
 ※ Amazon標準配送で注文すると明日到着（地域による）
 

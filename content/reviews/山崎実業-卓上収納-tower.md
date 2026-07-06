@@ -64,7 +64,7 @@ towerシリーズはモデルが複数展開されており、仕切りや引き
 
 ### tower ホワイトの黄ばみ対策と対処法
 
-「2〜3年で黄みがかってきた」——ホワイトを選んだ利用者から出る散発的な不満だ。直射日光が当たらない場所に置くことで劣化を遅らせられる。UVカットフィルム（[Amazonで探す](※リンク設定)／[楽天で探す](※リンク設定)、300〜500円台）をパネル面に貼ると黄ばみの進行を抑えられる。ブラックを選べばこの問題はほぼ回避できる。
+「2〜3年で黄みがかってきた」——ホワイトを選んだ利用者から出る散発的な不満だ。直射日光が当たらない場所に置くことで劣化を遅らせられる。UVカットフィルム（Amazonで探す／楽天で探す、300〜500円台）をパネル面に貼ると黄ばみの進行を抑えられる。ブラックを選べばこの問題はほぼ回避できる。
 
 ### 足ゴムが外れやすい問題
 
@@ -72,7 +72,7 @@ towerシリーズはモデルが複数展開されており、仕切りや引き
 
 **コストで見ると**：3,480円÷365日＝**9.5円/日**。2年使い続けると**4.8円/日**になる。5点のデメリットを把握した上で、それでも価値があるかを判断する材料にしてほしい。
 
-それでも買う価値があるか——[Amazonの実際の口コミを確認する（2,400件・★4.5）](※Amazonアフィリエイトリンクを設定) ／ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00qb0lm.ycj6k466.g00qb0lm.ycj6l78d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz24jul19h01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10016779%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+それでも買う価値があるか——[楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00qb0lm.ycj6k466.g00qb0lm.ycj6l78d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz24jul19h01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10016779%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -108,7 +108,7 @@ towerシリーズはモデルが複数展開されており、仕切りや引き
 
 ---
 
-[今すぐ在庫・価格を確認する（Amazon・2,400件）](※Amazonアフィリエイトリンクを設定) ／ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00qb0lm.ycj6k466.g00qb0lm.ycj6l78d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz24jul19h01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10016779%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00qb0lm.ycj6k466.g00qb0lm.ycj6l78d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz24jul19h01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10016779%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -127,7 +127,7 @@ towerシリーズはモデルが複数展開されており、仕切りや引き
 
 3,480円出すなら山崎実業、1,500円以内で済ませるならイノマタ化学。
 
-[山崎実業 卓上収納 tower をAmazonで見る](※Amazonアフィリエイトリンクを設定)
+[山崎実業 卓上収納 tower を楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00qb0lm.ycj6k466.g00qb0lm.ycj6l78d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz24jul19h01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10016779%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -179,7 +179,7 @@ towerシリーズはモデルが複数展開されており、仕切りや引き
 
 **Q: tower 卓上収納のホワイトは黄ばみますか？**
 
-2〜3年以上使うと黄みがかってきたという報告がある。直射日光を避け、UVカットフィルム（[Amazon](※リンク設定)／[楽天](※リンク設定)、300〜500円台）を貼ることでである程度遅らせられる。
+2〜3年以上使うと黄みがかってきたという報告がある。直射日光を避け、UVカットフィルム（Amazon／楽天、300〜500円台）を貼ることでである程度遅らせられる。
 
 **Q: tower 卓上収納のサイズはどれを選べばいい？**
 
@@ -189,7 +189,7 @@ towerシリーズはモデルが複数展開されており、仕切りや引き
 
 貼れる。本体がスチール製のため、マグネット付きの付箋やクリップを直接貼ることができる。
 
-[Amazonで購入前に口コミをすべて確認する（2,400件）](※Amazonアフィリエイトリンクを設定) ／ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00qb0lm.ycj6k466.g00qb0lm.ycj6l78d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz24jul19h01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10016779%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00qb0lm.ycj6k466.g00qb0lm.ycj6l78d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz24jul19h01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10016779%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -199,6 +199,6 @@ Amazonで2,400件のレビューを集め★4.5を維持している山崎実業
 
 3,480円でマグネット付きスチール収納はtower以外にほぼない。それだけで買う理由になる人には勧める。
 
-[Amazonで在庫・最新価格を確認する（2,400件・★4.5）](※Amazonアフィリエイトリンクを設定) ／ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00qb0lm.ycj6k466.g00qb0lm.ycj6l78d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz24jul19h01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10016779%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00qb0lm.ycj6k466.g00qb0lm.ycj6l78d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz24jul19h01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10016779%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

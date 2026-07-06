@@ -67,7 +67,7 @@ MacBook ProでUSB-Cハブを探しているなら、この記事で選択肢が�
 **SDカードとUSB 3.0の帯域共有**
 同時使用時に転送速度が落ちる場合がある。大量の写真取り込み中に外付けSSDも動かす構成では体感差が出ることがある。
 
-[→ Amazonで今日の価格を見る（在庫・価格は変動します）（PR）](アフィリエイトリンクをここに挿入)
+[→ 楽天で今日の価格を見る（在庫・価格は変動します）（PR）](https://hb.afl.rakuten.co.jp/hgc/g00u0fbm.ycj6k004.g00u0fbm.ycj6l855/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fugreen-gear%2F65488%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fugreen-gear%2Fi%2F10001414%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## UGREEN USB-C ドッキングステーション 10-in-1の良い口コミ・メリット
 
@@ -97,7 +97,7 @@ Ankerはブランド信頼度と国内サポートの手厚さで評価が安定
 
 デュアルモニターを組む用途ではUGREENに分があり、「とにかく安定動作」ならAnker、「端子数と価格のバランス」ならUGREENという使い分けだ。
 
-[→ Amazonで今日の価格を見る（在庫・価格は変動します）（PR）](アフィリエイトリンクをここに挿入)
+[→ 楽天で今日の価格を見る（在庫・価格は変動します）（PR）](https://hb.afl.rakuten.co.jp/hgc/g00u0fbm.ycj6k004.g00u0fbm.ycj6l855/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fugreen-gear%2F65488%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fugreen-gear%2Fi%2F10001414%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## UGREEN USB-C ドッキングステーション MacBook Pro 相性：買う人・見送る人
 
@@ -128,7 +128,7 @@ A: デバイスマネージャーを開き、「ユニバーサル シリアル 
 **Q: 発熱で壊れたケースはあるか？**
 A: ★1の中で物理的な故障報告は3件未満。ほぼ全て接続不安定の誤報告で、実際の破損事例は調査範囲では極めて少ない。ただし高負荷での長時間連続使用は避けるのが無難だ。
 
-[→ Amazonで今日の価格を見る（在庫・価格は変動します）（PR）](アフィリエイトリンクをここに挿入)
+[→ 楽天で今日の価格を見る（在庫・価格は変動します）（PR）](https://hb.afl.rakuten.co.jp/hgc/g00u0fbm.ycj6k004.g00u0fbm.ycj6l855/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fugreen-gear%2F65488%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fugreen-gear%2Fi%2F10001414%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## UGREEN USB-C ドッキングステーション 10-in-1のレビュー調査からの結論
 

@@ -15,7 +15,6 @@ rating: 4.8
 shop_name: "楽天ブックス"
 rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B6%25E3%2583%25BC%2520DCP-J926N%2F"
 amazon_url: ""
-product_image: "/img/products/ブラザー-dcp-j926n.jpg"
 
 keywords: ["ブラザー DCP-J926N 口コミ", "ブラザー DCP-J926N 評判", "ブラザー DCP-J926N デメリット", "ブラザー DCP-J926N レビュー", "ブラザー DCP-J926N 後悔", "ブラザー DCP-J926N", "多機能プリンター 口コミ", "多機能プリンター おすすめ"]
 ---

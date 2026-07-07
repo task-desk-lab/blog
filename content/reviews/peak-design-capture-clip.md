@@ -15,7 +15,6 @@ rating: 4.0
 shop_name: "カメラのミツバ"
 rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPeak%2520Design%2520Capture%2520Clip%2F"
 amazon_url: ""
-product_image: "/img/products/peak-design-capture-clip.jpg"
 
 keywords: ["Peak Design Capture Clip 口コミ", "Peak Design Capture Clip 評判", "Peak Design Capture Clip デメリット", "Peak Design Capture Clip レビュー", "Peak Design Capture Clip 後悔", "Peak Design Capture Clip", "カメラクリップマウント 口コミ", "カメラクリップマウント おすすめ"]
 ---

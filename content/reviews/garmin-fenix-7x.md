@@ -15,7 +15,6 @@ rating: 4.21
 shop_name: "TIMOVO"
 rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin%2520Fenix%25207X%2F"
 amazon_url: ""
-product_image: "/img/products/garmin-fenix-7x.jpg"
 
 keywords: ["Garmin Fenix 7X 口コミ", "Garmin Fenix 7X 評判", "Garmin Fenix 7X デメリット", "Garmin Fenix 7X レビュー", "Garmin Fenix 7X 後悔", "Garmin Fenix 7X", "スマートウォッチ 口コミ", "スマートウォッチ おすすめ"]
 ---

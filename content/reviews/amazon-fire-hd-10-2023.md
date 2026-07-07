@@ -15,7 +15,6 @@ rating: 0.0
 shop_name: "PCASTORE"
 rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazon%2520Fire%2520HD%252010%2520%25282023%2529%2F"
 amazon_url: ""
-product_image: "/img/products/amazon-fire-hd-10-2023.jpg"
 
 keywords: ["Amazon Fire HD 10 (2023) 口コミ", "Amazon Fire HD 10 (2023) 評判", "Amazon Fire HD 10 (2023) デメリット", "Amazon Fire HD 10 (2023) レビュー", "Amazon Fire HD 10 (2023) 後悔", "Amazon Fire HD 10 (2023)", "タブレット 口コミ", "タブレット おすすめ"]
 ---

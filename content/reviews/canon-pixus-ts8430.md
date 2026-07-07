@@ -15,7 +15,6 @@ rating: 4.56
 shop_name: "インクのチップス 楽天市場店"
 rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCanon%2520PIXUS%2520TS8430%2F"
 amazon_url: ""
-product_image: "/img/products/canon-pixus-ts8430.jpg"
 
 keywords: ["Canon PIXUS TS8430 口コミ", "Canon PIXUS TS8430 評判", "Canon PIXUS TS8430 デメリット", "Canon PIXUS TS8430 レビュー", "Canon PIXUS TS8430 後悔", "Canon PIXUS TS8430", "インクジェットプリンター 口コミ", "インクジェットプリンター おすすめ"]
 ---

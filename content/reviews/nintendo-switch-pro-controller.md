@@ -15,7 +15,6 @@ rating: 4.46
 shop_name: "楽天ブックス"
 rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNintendo%2520Switch%2520Pro%2520Controller%2F"
 amazon_url: ""
-product_image: "/img/products/nintendo-switch-pro-controller.jpg"
 
 keywords: ["Nintendo Switch Pro Controller 口コミ", "Nintendo Switch Pro Controller 評判", "Nintendo Switch Pro Controller デメリット", "Nintendo Switch Pro Controller レビュー", "Nintendo Switch Pro Controller 後悔", "Nintendo Switch Pro Controller", "ゲームパッド 口コミ", "ゲームパッド おすすめ"]
 ---

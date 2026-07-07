@@ -15,7 +15,6 @@ rating: 5.0
 shop_name: "純正トナーのお店トナー屋サンコー"
 rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBrother%2520MFC-L2750DW%2F"
 amazon_url: ""
-product_image: "/img/products/brother-mfc-l2750dw.jpg"
 
 keywords: ["Brother MFC-L2750DW 口コミ", "Brother MFC-L2750DW 評判", "Brother MFC-L2750DW デメリット", "Brother MFC-L2750DW レビュー", "Brother MFC-L2750DW 後悔", "Brother MFC-L2750DW", "多機能レーザープリンター 口コミ", "多機能レーザープリンター おすすめ"]
 ---

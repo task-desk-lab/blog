@@ -15,7 +15,6 @@ rating: 4.43
 shop_name: "GOOD ITEM"
 rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FiRobot%2520Roomba%2520i3%2F"
 amazon_url: ""
-product_image: "/img/products/irobot-roomba-i3.jpg"
 
 keywords: ["iRobot Roomba i3 口コミ", "iRobot Roomba i3 評判", "iRobot Roomba i3 デメリット", "iRobot Roomba i3 レビュー", "iRobot Roomba i3 後悔", "iRobot Roomba i3", "ロボット掃除機 口コミ", "ロボット掃除機 おすすめ"]
 ---

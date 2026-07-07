@@ -15,7 +15,6 @@ rating: 4.6
 shop_name: "in CRASSO"
 rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FORIGAMI%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%2F"
 amazon_url: ""
-product_image: "/img/products/origami-ドリッパー.jpg"
 
 keywords: ["ORIGAMI ドリッパー 口コミ", "ORIGAMI ドリッパー 評判", "ORIGAMI ドリッパー デメリット", "ORIGAMI ドリッパー レビュー", "ORIGAMI ドリッパー 後悔", "ORIGAMI ドリッパー", "コーヒードリッパー 口コミ", "コーヒードリッパー おすすめ"]
 ---

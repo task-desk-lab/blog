@@ -15,7 +15,6 @@ rating: 0.0
 shop_name: "液晶保護フィルムとカバーケース卸"
 rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520XPS%252013%2520Plus%2F"
 amazon_url: ""
-product_image: "/img/products/dell-xps-13-plus.jpg"
 
 keywords: ["Dell XPS 13 Plus 口コミ", "Dell XPS 13 Plus 評判", "Dell XPS 13 Plus デメリット", "Dell XPS 13 Plus レビュー", "Dell XPS 13 Plus 後悔", "Dell XPS 13 Plus", "ノートPC 口コミ", "ノートPC おすすめ"]
 ---

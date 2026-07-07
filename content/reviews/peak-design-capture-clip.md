@@ -7,13 +7,13 @@ categories: ["カメラクリップマウント"]
 tags: ["カメラクリップマウント", "集合知", "口コミ", "レビュー"]
 verdict: "3秒でカメラが手に来る"
 product_name: "Peak Design Capture Clip"
-price_display: "10,197円"
-price_jpy: 10197
+price_display: ""
+price_jpy: 0
 total_reviews: "585"
 review_count: 1
 rating: 4.0
 shop_name: "カメラのミツバ"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00pashm.ycj6k6b3.g00pashm.ycj6lbbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmitsuba%2Fpeakdesign-cc-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmitsuba%2Fi%2F10015012%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPeak%2520Design%2520Capture%2520Clip%2F"
 amazon_url: ""
 product_image: "/img/products/peak-design-capture-clip.jpg"
 

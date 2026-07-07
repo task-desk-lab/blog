@@ -7,13 +7,13 @@ categories: ["スマートロック"]
 tags: ["スマートロック", "集合知", "口コミ", "レビュー"]
 verdict: "鍵を持たずに家に入れる"
 product_name: "SwitchBot スマートロック"
-price_display: "19,400円"
-price_jpy: 19400
+price_display: "33,999円"
+price_jpy: 33999
 total_reviews: "6,900"
 review_count: 78
 rating: 4.33
-shop_name: "Gadget marche 楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00ukqom.ycj6k3bf.g00ukqom.ycj6lf87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgadgetmarche%2Fset0000000983%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgadgetmarche%2Fi%2F10000204%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+shop_name: "SwitchBot公式店"
+rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00uc4wm.ycj6k588.g00uc4wm.ycj6lfd1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2Flockultra-keypadvision-pro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswitchbot%2Fi%2F10000313%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
 amazon_url: ""
 product_image: "/img/products/switchbot-スマートロック.jpg"
 
@@ -28,7 +28,7 @@ keywords: ["SwitchBot スマートロック 口コミ", "SwitchBot スマート�
 Amazon価格：11,980円（税込）｜★4.2（4,200件超）
 賃貸・工事不要で取り付けられるスマートロックの定番。複数人が別々の時間に帰宅する家庭で満足度が安定している。
 
-[▶ 楽天で価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00ukqom.ycj6k3bf.g00ukqom.ycj6lf87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgadgetmarche%2Fset0000000983%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgadgetmarche%2Fi%2F10000204%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[▶ 楽天で価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00uc4wm.ycj6k588.g00uc4wm.ycj6lfd1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2Flockultra-keypadvision-pro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswitchbot%2Fi%2F10000313%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -130,7 +130,7 @@ AlexaやGoogle Homeと連携すれば音声で施錠できる。すでにSwitchB
 Amazon価格：11,980円（税込）｜★4.2（4,200件超）
 本体価格差は約2,000円。SwitchBot製品をすでに使っているなら、トータルコストでSwitchBotが有利になりやすい。
 
-[▶ 楽天で価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00ukqom.ycj6k3bf.g00ukqom.ycj6lf87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgadgetmarche%2Fset0000000983%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgadgetmarche%2Fi%2F10000204%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[▶ 楽天で価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00uc4wm.ycj6k588.g00uc4wm.ycj6lfd1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2Flockultra-keypadvision-pro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswitchbot%2Fi%2F10000313%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -168,7 +168,7 @@ Amazon価格：11,980円（税込）｜★4.2（4,200件超）
 Amazon価格：11,980円（税込）｜★4.2（4,200件超）
 上の3項目に一つでも当てはまるなら、買って後悔するパターンとはほぼ重ならない。
 
-[▶ 楽天で価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00ukqom.ycj6k3bf.g00ukqom.ycj6lf87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgadgetmarche%2Fset0000000983%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgadgetmarche%2Fi%2F10000204%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[▶ 楽天で価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00uc4wm.ycj6k588.g00uc4wm.ycj6lfd1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2Flockultra-keypadvision-pro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswitchbot%2Fi%2F10000313%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -178,7 +178,7 @@ Amazon・楽天合わせて6,000件超の口コミを調べた結果、満足度
 
 確認するのはサムターンの形状と、引き戸かどうかの2点だけ。ドア形状がOKなら、迷う理由はほぼない。
 
-[▶ 楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00ukqom.ycj6k3bf.g00ukqom.ycj6lf87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgadgetmarche%2Fset0000000983%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgadgetmarche%2Fi%2F10000204%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[▶ 楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00uc4wm.ycj6k588.g00uc4wm.ycj6lfd1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2Flockultra-keypadvision-pro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswitchbot%2Fi%2F10000313%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 関連記事：[SwitchBotハブの選び方と口コミまとめ](#) ｜ [賃貸向けスマートロック比較2025：後付け対応モデル5選](#)
 

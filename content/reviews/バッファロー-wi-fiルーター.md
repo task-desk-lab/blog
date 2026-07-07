@@ -7,8 +7,8 @@ categories: ["Wi-Fiルーター"]
 tags: ["Wi-Fiルーター", "集合知", "口コミ", "レビュー"]
 verdict: "設定5分で家中の電波切れが消える"
 product_name: "バッファロー Wi-Fiルーター"
-price_display: "17,693円"
-price_jpy: 17693
+price_display: "15,350円"
+price_jpy: 15350
 total_reviews: "1,633"
 review_count: 33
 rating: 4.36

@@ -7,13 +7,13 @@ categories: ["外付けSSD"]
 tags: ["外付けSSD", "集合知", "口コミ", "レビュー"]
 verdict: "現場でも落としても1秒で渡せる"
 product_name: "SanDisk Extreme Portable SSD"
-price_display: "50,120円"
-price_jpy: 50120
+price_display: "228,800円"
+price_jpy: 228800
 total_reviews: "5,164"
 review_count: 22
 rating: 4.59
 shop_name: "楽天ビック(ビックカメラ×楽天)"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldm.ycj6k434.g00r7ldm.ycj6l6fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4523052024313%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F13413087%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldm.ycj6k434.g00r7ldm.ycj6l6fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4523052024535%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F13554008%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
 amazon_url: ""
 product_image: "/img/products/sandisk-extreme-portable-ssd.jpg"
 

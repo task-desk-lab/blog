@@ -7,13 +7,13 @@ categories: ["多機能プリンター"]
 tags: ["多機能プリンター", "集合知", "口コミ", "レビュー"]
 verdict: "ランニングコストで5年後に元が取れる"
 product_name: "ブラザー DCP-J926N"
-price_display: "4,363円"
-price_jpy: 4363
+price_display: ""
+price_jpy: 0
 total_reviews: "456"
 review_count: 104
 rating: 4.8
 shop_name: "楽天ブックス"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00q072m.ycj6k6d5.g00q072m.ycj6l289/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16828459%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20494465%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B6%25E3%2583%25BC%2520DCP-J926N%2F"
 amazon_url: ""
 product_image: "/img/products/ブラザー-dcp-j926n.jpg"
 
@@ -105,7 +105,7 @@ LC411シリーズの純正インクはヨドバシやビックカメラだけで
 
 3機種の違いはこの3点に絞られる。予算・写真印刷の頻度・FAXの必要性だ。文書中心で月50枚以上刷るならDCP-J926Nが最も割り切りのいい選択だ。写真も頻繁にプリントするならEW-M630Tを選んで後悔しにくい。FAXが業務フローに入っているならMFC-J739DN一択になる。
 
-**[▶ 楽天でDCP-J926Nの最安値を確認する（在庫状況もチェック）](https://hb.afl.rakuten.co.jp/hgc/g00q072m.ycj6k6d5.g00q072m.ycj6l289/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16828459%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20494465%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**[▶ 楽天でDCP-J926Nの最安値を確認する（在庫状況もチェック）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B6%25E3%2583%25BC%2520DCP-J926N%2F)**
 
 ## DCP-J926Nを買って後悔する人
 
@@ -139,7 +139,7 @@ PDFの契約書、議事録、業務マニュアルなど週に数十枚以上�
 
 456件の口コミで「この価格帯でADF・WiFi・両面印刷が揃う」と評価が一致した機種だ。月50枚以上使う家庭なら、18ヶ月以内に競合比のランニングコスト差を回収できる計算が成り立つ。
 
-**[▶ 楽天で今すぐ価格を確認する（在庫状況もチェック）](https://hb.afl.rakuten.co.jp/hgc/g00q072m.ycj6k6d5.g00q072m.ycj6l289/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16828459%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20494465%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**　　**[▶ 楽天で口コミ評価と価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.ycj6k6d5.g00q072m.ycj6l289/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16828459%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20494465%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**[▶ 楽天で今すぐ価格を確認する（在庫状況もチェック）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B6%25E3%2583%25BC%2520DCP-J926N%2F)**　　**[▶ 楽天で口コミ評価と価格を見る](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B6%25E3%2583%25BC%2520DCP-J926N%2F)**
 
 ---
 

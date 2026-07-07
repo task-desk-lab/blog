@@ -13,7 +13,7 @@ total_reviews: "10,100"
 review_count: 4
 rating: 3.75
 shop_name: "アンカー・ダイレクト楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa3116-ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001061%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa3116%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000614%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
 amazon_url: ""
 product_image: "/img/products/anker-soundcore-motion+.jpg"
 

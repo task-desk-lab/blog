@@ -7,13 +7,13 @@ categories: ["タブレット"]
 tags: ["タブレット", "集合知", "口コミ", "レビュー"]
 verdict: "Prime動画が10インチで寝ながら見放題"
 product_name: "Amazon Fire HD 10 (2023)"
-price_display: "3,278円"
-price_jpy: 3278
+price_display: ""
+price_jpy: 0
 total_reviews: "5,310"
 review_count: 0
 rating: 0.0
 shop_name: "PCASTORE"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rj3dm.ycj6k5c5.g00rj3dm.ycj6ld43/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpcastore%2F10002403%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpcastore%2Fi%2F10004098%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazon%2520Fire%2520HD%252010%2520%25282023%2529%2F"
 amazon_url: ""
 product_image: "/img/products/amazon-fire-hd-10-2023.jpg"
 

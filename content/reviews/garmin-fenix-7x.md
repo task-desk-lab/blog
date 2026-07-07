@@ -7,13 +7,13 @@ categories: ["スマートウォッチ"]
 tags: ["スマートウォッチ", "集合知", "口コミ", "レビュー"]
 verdict: "2週間充電しなくていい"
 product_name: "Garmin Fenix 7X"
-price_display: "1,768円"
-price_jpy: 1768
+price_display: ""
+price_jpy: 0
 total_reviews: "4,940"
 review_count: 33
 rating: 4.21
 shop_name: "TIMOVO"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00txz5m.ycj6keb1.g00txz5m.ycj6le37/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftimovo%2Fchstand%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftimovo%2Fi%2F10000423%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin%2520Fenix%25207X%2F"
 amazon_url: ""
 product_image: "/img/products/garmin-fenix-7x.jpg"
 

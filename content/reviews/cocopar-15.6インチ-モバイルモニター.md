@@ -7,13 +7,13 @@ categories: ["モバイルモニター"]
 tags: ["モバイルモニター", "集合知", "口コミ", "レビュー"]
 verdict: "外出先でデュアルモニター環境が即展開"
 product_name: "cocopar 15.6インチ モバイルモニター"
-price_display: "3,859円"
-price_jpy: 3859
+price_display: "18,807円"
+price_jpy: 18807
 total_reviews: "1,515"
 review_count: 2
 rating: 2.5
-shop_name: "液晶保護フィルムとカバーケース卸"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00s5bqm.ycj6k8e3.g00s5bqm.ycj6l3d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcasemania55%2Ff9h-lsmn15-mc003315%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcasemania55%2Fi%2F10969454%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+shop_name: "VlookupStore 楽天市場店"
+rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u4uxm.ycj6k5d8.g00u4uxm.ycj6l54e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvlookupstore%2Fgr-e9txczafdk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvlookupstore%2Fi%2F10408303%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
 amazon_url: ""
 product_image: "/img/products/cocopar-15.6インチ-モバイルモニター.jpg"
 

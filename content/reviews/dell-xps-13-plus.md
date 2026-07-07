@@ -7,13 +7,13 @@ categories: ["ノートPC"]
 tags: ["ノートPC", "集合知", "口コミ", "レビュー"]
 verdict: "持ち歩くだけで仕事が速く見える"
 product_name: "Dell XPS 13 Plus"
-price_display: "4,400円"
-price_jpy: 4400
+price_display: ""
+price_jpy: 0
 total_reviews: "472"
 review_count: 0
 rating: 0.0
 shop_name: "液晶保護フィルムとカバーケース卸"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00s5bqm.ycj6k8e3.g00s5bqm.ycj6l3d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcasemania55%2Fpvt-180-k0001570290%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcasemania55%2Fi%2F11035487%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520XPS%252013%2520Plus%2F"
 amazon_url: ""
 product_image: "/img/products/dell-xps-13-plus.jpg"
 
@@ -103,7 +103,7 @@ USB-C 2本の制約を「ドングルで解決」は心の負担になり続け�
 
 **購入の判断に迷ったら、まずはこちらから商品を確認してみてください。**
 
-- [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00s5bqm.ycj6k8e3.g00s5bqm.ycj6l3d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcasemania55%2Fpvt-180-k0001570290%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcasemania55%2Fi%2F11035487%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+- [楽天で確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520XPS%252013%2520Plus%2F)
 - [楽天で確認する](https://rakuten.co.jp)
 
 ## Dell XPS 13 Plusの口コミ調査からの結論

@@ -7,13 +7,13 @@ categories: ["インクジェットプリンター"]
 tags: ["インクジェットプリンター", "集合知", "口コミ", "レビュー"]
 verdict: "家族写真がコンビニより安く綺麗に刷れる"
 product_name: "Canon PIXUS TS8430"
-price_display: "5,600円"
-price_jpy: 5600
+price_display: ""
+price_jpy: 0
 total_reviews: "778"
 review_count: 510
 rating: 4.56
 shop_name: "インクのチップス 楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00ri3vm.ycj6kd2b.g00ri3vm.ycj6l6a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchips%2Fbci-381xl-380xl-6mp-2set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchips%2Fi%2F10002778%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCanon%2520PIXUS%2520TS8430%2F"
 amazon_url: ""
 product_image: "/img/products/canon-pixus-ts8430.jpg"
 
@@ -108,7 +108,7 @@ Amazon・楽天600件超の口コミを調査した。ネガティブな評判�
 **置き場所が限られている人**
 幅44cmのサイズを確認せず購入して置けなかったという声が一定数あった。寸法確認は必須だ。
 
-→ 逆に、月50枚以上プリントするなら迷う理由はない。今の価格を確認してみてほしい：[楽天](https://hb.afl.rakuten.co.jp/hgc/g00ri3vm.ycj6kd2b.g00ri3vm.ycj6l6a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchips%2Fbci-381xl-380xl-6mp-2set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchips%2Fi%2F10002778%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [楽天市場](https://search.rakuten.co.jp/search/mall/Canon+PIXUS+TS8430/)
+→ 逆に、月50枚以上プリントするなら迷う理由はない。今の価格を確認してみてほしい：[楽天](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCanon%2520PIXUS%2520TS8430%2F) ／ [楽天市場](https://search.rakuten.co.jp/search/mall/Canon+PIXUS+TS8430/)
 
 ## Canon PIXUS TS8430を買って満足する人
 
@@ -121,7 +121,7 @@ Amazon・楽天600件超の口コミを調査した。ネガティブな評判�
 **家族全員でプリンターを共用したい家庭**
 スマホからのワンタップ印刷と直感的な操作パネルで、家族の誰でも迷わず使える。
 
-→ 月50枚以上プリントするなら、今すぐ価格を確認する：[楽天](https://hb.afl.rakuten.co.jp/hgc/g00ri3vm.ycj6kd2b.g00ri3vm.ycj6l6a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchips%2Fbci-381xl-380xl-6mp-2set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchips%2Fi%2F10002778%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [楽天市場](https://search.rakuten.co.jp/search/mall/Canon+PIXUS+TS8430/)
+→ 月50枚以上プリントするなら、今すぐ価格を確認する：[楽天](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCanon%2520PIXUS%2520TS8430%2F) ／ [楽天市場](https://search.rakuten.co.jp/search/mall/Canon+PIXUS+TS8430/)
 
 ## よくある質問｜Canon PIXUS TS8430インクジェットプリンター
 
@@ -135,6 +135,6 @@ CD/DVDレーベル印刷が必要ならCanon一択。必要ないならEpsonの�
 
 ぼくが780件を調べて出した答えは単純だ。Canon PIXUS TS8430は「写真印刷を月にある程度こなすファミリー層」に合う機種で、インク維持費の高さは実在するが、印刷頻度が高ければ約1年以内に本体代を取り戻せる。逆に印刷頻度が低い・モノクロ中心のユーザーには維持コストが重くなる。買う前にまず自分の月間印刷枚数を確認する——それだけで後悔の大半は防げる。
 
-→ 現在の価格を確認する：[楽天](https://hb.afl.rakuten.co.jp/hgc/g00ri3vm.ycj6kd2b.g00ri3vm.ycj6l6a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchips%2Fbci-381xl-380xl-6mp-2set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchips%2Fi%2F10002778%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [楽天市場](https://search.rakuten.co.jp/search/mall/Canon+PIXUS+TS8430/)
+→ 現在の価格を確認する：[楽天](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCanon%2520PIXUS%2520TS8430%2F) ／ [楽天市場](https://search.rakuten.co.jp/search/mall/Canon+PIXUS+TS8430/)
 
 また明日、集合知で会おう

@@ -7,13 +7,13 @@ categories: ["レーザープリンター"]
 tags: ["レーザープリンター", "集合知", "口コミ", "レビュー"]
 verdict: "月2,000円のインク代が丸ごと消える"
 product_name: "ブラザー HL-L2375DW"
-price_display: "9,890円"
-price_jpy: 9890
+price_display: ""
+price_jpy: 0
 total_reviews: "1,475"
 review_count: 32
 rating: 4.66
 shop_name: "TKI SHOP"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tsb6m.ycj6k633.g00tsb6m.ycj6lf35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftkishop200806%2Ftn29j%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftkishop200806%2Fi%2F10000095%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B6%25E3%2583%25BC%2520HL-L2375DW%2F"
 amazon_url: ""
 product_image: "/img/products/ブラザー-hl-l2375dw.jpg"
 

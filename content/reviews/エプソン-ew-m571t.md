@@ -7,13 +7,13 @@ categories: ["インクジェットプリンター"]
 tags: ["インクジェットプリンター", "集合知", "口コミ", "レビュー"]
 verdict: "インク代が月数十円で済む"
 product_name: "エプソン EW-M571T"
-price_display: "2,160円"
-price_jpy: 2160
+price_display: ""
+price_jpy: 0
 total_reviews: "1,722"
 review_count: 63
 rating: 4.48
 shop_name: "互換インクの専門店 ベルカラー"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00t9oam.ycj6k00e.g00t9oam.ycj6l318/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fniceink%2Fep-yad-har-4cl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fniceink%2Fi%2F10000323%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%2597%25E3%2582%25BD%25E3%2583%25B3%2520EW-M571T%2F"
 amazon_url: ""
 product_image: "/img/products/エプソン-ew-m571t.jpg"
 

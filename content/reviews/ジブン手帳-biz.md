@@ -7,13 +7,13 @@ categories: ["手帳"]
 tags: ["手帳", "集合知", "口コミ", "レビュー"]
 verdict: "1冊で予定・メモ・習慣が全部完結する"
 product_name: "ジブン手帳 Biz"
-price_display: "1,210円"
-price_jpy: 1210
+price_display: "2,070円"
+price_jpy: 2070
 total_reviews: "2,095"
 review_count: 0
 rating: 0.0
-shop_name: "オフィス ユー"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rummm.ycj6k3a7.g00rummm.ycj6le93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficeyu%2Fr5280%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficeyu%2Fi%2F10181747%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+shop_name: "オフィスマーケット"
+rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00q1j7m.ycj6k10d.g00q1j7m.ycj6ld48/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foffima%2Fjbm1db-22%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foffima%2Fi%2F10707309%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
 amazon_url: ""
 product_image: "/img/products/ジブン手帳-biz.jpg"
 

@@ -7,13 +7,13 @@ categories: ["ロボット掃除機"]
 tags: ["ロボット掃除機", "集合知", "口コミ", "レビュー"]
 verdict: "毎日掃除しなくても床がきれいな家になる"
 product_name: "iRobot Roomba i3"
-price_display: "1,530円"
-price_jpy: 1530
+price_display: ""
+price_jpy: 0
 total_reviews: "1,925"
 review_count: 903
 rating: 4.43
 shop_name: "GOOD ITEM"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00smopm.ycj6k405.g00smopm.ycj6l49a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-item%2Fpa-834%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-item%2Fi%2F10001553%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FiRobot%2520Roomba%2520i3%2F"
 amazon_url: ""
 product_image: "/img/products/irobot-roomba-i3.jpg"
 
@@ -46,7 +46,7 @@ Amazon1,240件・楽天380件のRoomba i3 口コミを調べた結果、この�
 
 ### ダストボックスが小さく、手動廃棄の頻度が高い
 
-容量約400mlのダストボックスは、ペット飼育・カーペット多めの環境では1回の稼働で満杯になることがある。同価格帯のDEEBOT N8 Proは420ml、Eufy RoboVac X8は600mlで、i3の400mlは主要競合の中で最小クラスに入る。ゴミ捨てまで自動化したいなら、クリーンベース付きのi3+を先に検討すべきだ。→ [i3+の口コミはこちら](https://hb.afl.rakuten.co.jp/hgc/g00smopm.ycj6k405.g00smopm.ycj6l49a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-item%2Fpa-834%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-item%2Fi%2F10001553%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+容量約400mlのダストボックスは、ペット飼育・カーペット多めの環境では1回の稼働で満杯になることがある。同価格帯のDEEBOT N8 Proは420ml、Eufy RoboVac X8は600mlで、i3の400mlは主要競合の中で最小クラスに入る。ゴミ捨てまで自動化したいなら、クリーンベース付きのi3+を先に検討すべきだ。→ [i3+の口コミはこちら](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FiRobot%2520Roomba%2520i3%2F)
 
 ### コード・靴下・おもちゃを巻き込んで止まる
 
@@ -101,7 +101,7 @@ iRobotアプリはスマホから即時起動・停止・スケジュール管�
 
 スペックだけ見ればi3が劣る項目は複数ある。それでもこの機種が選ばれ続ける根拠は、iRobotが日本市場で10年以上積み上げてきたサポート体制と部品供給の厚さにある。「安い中華製で失敗した後にiRobotにした」という経緯を持つユーザー層からの評価は一貫して高く、機能面の差を承知で選ぶ判断が成立している。1〜2LDKでマッピングが不要な環境なら、この価格帯でアフターサポートが最も手厚い選択肢になる。機能・コスパ重視ならDEEBOT N8 Pro以上を、信頼性重視ならRoomba i3という軸で整理できる。
 
-[楽天で最安値を確認する](https://search.rakuten.co.jp/search/mall/irobot+roomba+i3/) ／ [楽天で最安値を確認する](https://hb.afl.rakuten.co.jp/hgc/g00smopm.ycj6k405.g00smopm.ycj6l49a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-item%2Fpa-834%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-item%2Fi%2F10001553%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天で最安値を確認する](https://search.rakuten.co.jp/search/mall/irobot+roomba+i3/) ／ [楽天で最安値を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FiRobot%2520Roomba%2520i3%2F)
 
 ## iRobot Roomba i3を買って後悔する人
 
@@ -131,7 +131,7 @@ iRobotアプリはスマホから即時起動・停止・スケジュール管�
 
 消耗品を互換品で抑えながら長く使い続けるユーザーからの評価は安定している。サポート体制と部品供給を重視するなら、選択肢として筋が通っている。
 
-→ [今すぐ最安値を確認する](https://hb.afl.rakuten.co.jp/hgc/g00smopm.ycj6k405.g00smopm.ycj6l49a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-item%2Fpa-834%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-item%2Fi%2F10001553%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [今すぐ最安値を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FiRobot%2520Roomba%2520i3%2F)
 
 ## よくある質問
 

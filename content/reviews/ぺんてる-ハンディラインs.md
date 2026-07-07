@@ -7,13 +7,13 @@ categories: ["マーカー"]
 tags: ["マーカー", "集合知", "口コミ", "レビュー"]
 verdict: "インクが手帳の裏に絶対染みない"
 product_name: "ぺんてる ハンディラインS"
-price_display: "99円"
-price_jpy: 99
+price_display: "198円"
+price_jpy: 198
 total_reviews: "1,835"
 review_count: 0
 rating: 0.0
-shop_name: "Clips クリップス"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tk3km.ycj6k083.g00tk3km.ycj6l362/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclipps%2Fgob1csn5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclipps%2Fi%2F10012499%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+shop_name: "ぶんぐる"
+rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00q3ywm.ycj6ke36.g00q3ywm.ycj6lc41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbungle%2Fsxns15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbungle%2Fi%2F10008500%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
 amazon_url: ""
 product_image: "/img/products/ぺんてる-ハンディラインs.jpg"
 

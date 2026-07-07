@@ -7,13 +7,13 @@ categories: ["モバイルバッテリー"]
 tags: ["モバイルバッテリー", "集合知", "口コミ", "レビュー"]
 verdict: "ポケットに入って2回フル充電できる"
 product_name: "Anker PowerCore 10000"
-price_display: "5,490円"
-price_jpy: 5490
+price_display: "5,990円"
+price_jpy: 5990
 total_reviews: "33,420"
 review_count: 0
 rating: 0.0
-shop_name: "家電・便利雑貨のCOCONIAL"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rdq6m.ycj6k964.g00rdq6m.ycj6le60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoconial%2Fa1246n11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoconial%2Fi%2F10012152%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+shop_name: "アンカー・ダイレクト楽天市場店"
+rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1623%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000883%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
 amazon_url: ""
 product_image: "/img/products/anker-powercore-10000.jpg"
 
@@ -90,7 +90,7 @@ Amazonの28,000件・楽天3,200件の口コミを横断して調べると、不
 
 口コミを読むと「USB-Cで統一したいならPD対応品、軽さと価格を優先するならAnker」という結論になる。それでもAnkerを選ぶ理由は一つで、3,000円以下でブランド保証・PSE認証・180gを同時に満たす選択肢が他にないからだ。
 
-USB-Cが不要なら、今の価格を確認しておくだけでいい。→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00rdq6m.ycj6k964.g00rdq6m.ycj6le60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoconial%2Fa1246n11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoconial%2Fi%2F10012152%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+USB-Cが不要なら、今の価格を確認しておくだけでいい。→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1623%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000883%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -108,7 +108,7 @@ USB-Cが不要なら、今の価格を確認しておくだけでいい。→ [�
 
 LEDインジケーターが4段階のため「あと20%あるかどうか」がわからない。精度の高い残量管理が必要な使い方では不便が出る。
 
-上記に当てはまるなら、USB-C/PD対応の10000mAh製品を先に比較したほうがいい。→ [USB-C対応モバイルバッテリーを探す](https://hb.afl.rakuten.co.jp/hgc/g00rdq6m.ycj6k964.g00rdq6m.ycj6le60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoconial%2Fa1246n11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoconial%2Fi%2F10012152%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+上記に当てはまるなら、USB-C/PD対応の10000mAh製品を先に比較したほうがいい。→ [USB-C対応モバイルバッテリーを探す](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1623%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000883%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -126,7 +126,7 @@ LEDインジケーターが4段階のため「あと20%あるかどうか」が�
 
 2ポートあるため、スマホとワイヤレスイヤホンを同時に充電する使い方と相性がいい。荷物を増やさずに対応できると評価されている。
 
-この3パターンに当てはまるなら、今の価格を確認しておくだけでいい。→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00rdq6m.ycj6k964.g00rdq6m.ycj6le60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoconial%2Fa1246n11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoconial%2Fi%2F10012152%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+この3パターンに当てはまるなら、今の価格を確認しておくだけでいい。→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1623%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000883%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 

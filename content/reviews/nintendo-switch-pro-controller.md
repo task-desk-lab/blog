@@ -7,13 +7,13 @@ categories: ["ゲームパッド"]
 tags: ["ゲームパッド", "集合知", "口コミ", "レビュー"]
 verdict: "スティック壊れにくく長く使える"
 product_name: "Nintendo Switch Pro Controller"
-price_display: "7,678円"
-price_jpy: 7678
+price_display: ""
+price_jpy: 0
 total_reviews: "22,390"
 review_count: 851
 rating: 4.46
 shop_name: "楽天ブックス"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00q072m.ycj6k6d5.g00q072m.ycj6l289/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F14647228%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F18350559%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNintendo%2520Switch%2520Pro%2520Controller%2F"
 amazon_url: ""
 product_image: "/img/products/nintendo-switch-pro-controller.jpg"
 

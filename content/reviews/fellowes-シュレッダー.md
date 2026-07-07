@@ -7,13 +7,13 @@ categories: ["シュレッダー"]
 tags: ["シュレッダー", "集合知", "口コミ", "レビュー"]
 verdict: "紙詰まりしらずで10枚一気に断裁"
 product_name: "Fellowes シュレッダー"
-price_display: "17,580円"
-price_jpy: 17580
+price_display: "78,999円"
+price_jpy: 78999
 total_reviews: "1,785"
 review_count: 9
 rating: 4.78
-shop_name: "楽天ビック(ビックカメラ×楽天)"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldm.ycj6k434.g00r7ldm.ycj6l6fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4521576888879%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F11675526%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+shop_name: "オフィスハードウェアエーワン"
+rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00q0rjm.ycj6k650.g00q0rjm.ycj6l844/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fohw%2F125ci-2-fl-r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fohw%2Fi%2F10008532%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
 amazon_url: ""
 product_image: "/img/products/fellowes-シュレッダー.jpg"
 

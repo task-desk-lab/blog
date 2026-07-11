@@ -79,7 +79,7 @@ Mac・Windows PC・iPadをボタン1つで瞬時に切り替え可能。この�
 
 ### USB-C充電で電池交換がゼロ
 
-1回のフル充電で約10日間使用可能。電池の買い置きやゴミが出ないのは実用面で助かる。ケーブル1本で済むのは管理が楽だという口コミも多かった。
+1回のフル充電で約10日間使用可能。電池の買い置きやゴミが出ないのは実用面で助かる。ケーブル1本で済むので管理も楽だ。
 
 ### Mac・Windows両対応のキー印字
 
@@ -121,7 +121,7 @@ MX Keys Miniの競合製品として、以下の選択肢がある：
 
 ### Mac・Windows・タブレットを日常的に切り替える人
 
-複数デバイス運用が前提なら、切替の時間短縮だけで元が取れる。口コミでも「作業効率が上がった」という評判が多かった。
+複数デバイス運用が前提なら、切替の時間短縮だけで元が取れる。実際、作業効率がはっきり上がる。
 
 → [楽天公式ストアで価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fkx700gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000432%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
 → [楽天で価格と在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fkx700gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000432%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)

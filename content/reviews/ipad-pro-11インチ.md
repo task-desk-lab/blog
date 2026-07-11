@@ -43,7 +43,7 @@ Amazon・Rakutenの口コミを調査した結果、良い評価ばかりでは�
 
 **1. 周辺機器込みで予算が跳ね上がる**
 
-iPad Pro 11インチ本体は84,800円ですが、見落とされがちなのが、Apple Pencilとその対応ケース、Magic Keyboardを揃えるとトータルで15万円を超えてしまう点です。本体だけでは"タブレット"ですが、クリエイティブな用途を想定すると周辺機器は必須。この現実を購入前に知らなかった人からの後悔の声が多く見られます。
+iPad Pro 11インチ本体は84,800円ですが、見落とされがちなのが、Apple Pencilとその対応ケース、Magic Keyboardを揃えるとトータルで15万円を超えてしまう点です。本体だけでは"タブレット"ですが、クリエイティブな用途を想定すると周辺機器は必須。この現実を購入前に知らないと、あとから後悔しやすいポイントです。
 
 **2. iPadOSの制約がPC代替を阻む**
 
@@ -71,7 +71,7 @@ Photoshopでの画像編集に対応。After Effectsでのモーショングラ�
 
 **Apple Pencilとの組み合わせでの遅延の少なさ**
 
-120Hz ProMotion対応によるApple Pencilの遅延がほぼ感じられないという評価は、イラストレーターやデザイナーから高く評価されています。「紙に描く感覚に近い」という表現で、創作作業の快適性が上がったという声が多いです。
+120Hz ProMotion対応によるApple Pencilの遅延がほぼ感じられない点は、イラストレーターやデザイナーから高く評価されています。紙に描く感覚に近く、創作作業の快適性がはっきり上がります。
 
 **本体の薄さ・軽さ**
 
@@ -91,7 +91,7 @@ Photoshopでの画像編集に対応。After Effectsでのモーショングラ�
 
 ## iPad Pro 11インチを他社製品と比較した口コミ
 
-競合製品としてはSamsung Galaxy Tab S9 Ultraが挙げられます。口コミで言及されることは、AppleのM4チップとGalaxyのSnapdragon処理能力の比較ですが、実務的には「Photoshop、Final Cut Pro、ProcreateなどのクリエイティブアプリがiPad Pro向けに最適化されている」という点で、iPad Pro 11インチが優位という評価が多いです。ただしAndroidの自由度を求める人にはGalaxy Tabが選ばれる傾向も見られます。
+競合製品としてはSamsung Galaxy Tab S9 Ultraが挙げられます。口コミで言及されることは、AppleのM4チップとGalaxyのSnapdragon処理能力の比較ですが、実務的には「Photoshop、Final Cut Pro、ProcreateなどのクリエイティブアプリがiPad Pro向けに最適化されている」という点で、iPad Pro 11インチが優位です。ただしAndroidの自由度を求める人にはGalaxy Tabが選ばれる傾向も見られます。
 
 価格帯では、iPad Pro 11インチの84,800円に対し、Galaxy Tab S9 Ultraは高めの設定が一般的で、「Apple税」を払うか払わないかの判断が分かれ目です。
 

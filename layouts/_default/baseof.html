@@ -459,9 +459,11 @@
     .affiliate-buttons .rakuten:hover { background: #bf0000; }
     .affiliate-buttons .amazon { border-color: #ff9900; }
     .affiliate-buttons .amazon:hover { background: #ff9900; }
-    /* Primary CTA placed right after the video embed — pre-filled bg so it
-       reads as the action, not just a link. The secondary set after .Content
-       keeps the lighter outlined style as a re-prompt. */
+    @media (max-width: 480px) { .affiliate-buttons { grid-template-columns: 1fr; } }
+    /* Primary CTA injected right after the first 結論 section inside the
+       article body (see single.html) — pre-filled bg so it reads as the
+       action, not just a link. The secondary set after the content keeps
+       the lighter outlined style as a re-prompt. */
     .affiliate-buttons.primary { margin: 18px 0 28px; }
     .affiliate-buttons.primary .rakuten { background: #bf0000; color: #fff; }
     .affiliate-buttons.primary .rakuten:hover { background: #d50000; color: #fff; }

@@ -111,19 +111,41 @@
   </div>
   {{ end }}
 
-  {{ if or .Params.rakuten_url .Params.amazon_url }}
-  <div class="affiliate-buttons primary">
-    {{ with .Params.rakuten_url }}<a href="{{ . }}" class="rakuten" rel="nofollow sponsored" target="_blank">楽天で価格を見る</a>{{ end }}
-  </div>
+  {{/* Affiliate CTA plumbing.
+       $az: use front-matter amazon_url when present (vetted real product URL);
+       otherwise an Amazon search URL from product_name + taskdesklab-22 tag.
+       Never guess ASINs/short URLs here — that caused the 2026-07-07 broken-link
+       incident. */}}
+  {{ $rk := .Params.rakuten_url }}
+  {{ $az := "" }}
+  {{ with .Params.amazon_url }}{{ $az = . }}{{ else }}{{ with .Params.product_name }}{{ $az = printf "https://www.amazon.co.jp/s?k=%s&tag=taskdesklab-22" (. | urlquery) }}{{ end }}{{ end }}
+
+  {{/* Primary CTA goes right AFTER the reader has seen the verdict — end of the
+       first 結論 h2 section (319/401 articles), else just before the second h2,
+       else (no h2 at all) above the content as before. GA4 shows the old
+       pre-content / end-only buttons drew ~0 human clicks. */}}
+  {{ $content := printf "%s" .Content }}
+  {{ if or $rk $az }}
+    {{ $cta := printf "%s" (partial "affiliate_cta.html" (dict
+         "rakuten" $rk "amazon" $az "primary" true
+         "rakutenLabel" "楽天で最新価格を見る" "amazonLabel" "Amazonで在庫を確認")) }}
+    {{ $cta = replace $cta "$" "$$" }}{{/* keep regexp replacement literal */}}
+    {{ $patConclusion := `(?s)(<h2[^>]*>[^<]*結論[^<]*</h2>.*?)(<h2)` }}
+    {{ $patSecondH2 := `(?s)^(.*?<h2[^>]*>.*?)(<h2)` }}
+    {{ if findRE $patConclusion $content 1 }}
+      {{ $content = replaceRE $patConclusion (printf "${1}%s${2}" $cta) $content 1 }}
+    {{ else if findRE $patSecondH2 $content 1 }}
+      {{ $content = replaceRE $patSecondH2 (printf "${1}%s${2}" $cta) $content 1 }}
+    {{ else }}
+      {{ $content = printf "%s%s" $cta $content }}
+    {{ end }}
   {{ end }}
 
-  {{ .Content }}
+  {{ $content | safeHTML }}
 
-  {{ if or .Params.rakuten_url .Params.amazon_url }}
-  <div class="affiliate-buttons">
-    {{ with .Params.rakuten_url }}<a href="{{ . }}" class="rakuten" rel="nofollow sponsored" target="_blank">楽天で見る</a>{{ end }}
-  </div>
-  {{ end }}
+  {{ partial "affiliate_cta.html" (dict
+       "rakuten" $rk "amazon" $az "primary" false
+       "rakutenLabel" "楽天で見る" "amazonLabel" "Amazonで見る") }}
 
   {{/* Legacy text link kept as fallback when only video_url exists (no youtube_id) */}}
   {{ if and (not .Params.youtube_id) .Params.video_url }}

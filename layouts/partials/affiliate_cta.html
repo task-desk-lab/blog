@@ -1,0 +1,12 @@
+{{/* Affiliate CTA button pair: Rakuten (front-matter URL) + Amazon.
+     Amazon never fabricates product URLs — when no vetted amazon_url exists in
+     front matter, it falls back to a search URL built from product_name with
+     the taskdesklab-22 associate tag, which always resolves.
+     ctx: rakuten (url|""), amazon (url|""), primary (bool),
+          rakutenLabel, amazonLabel */}}
+{{ if or .rakuten .amazon }}
+<div class="affiliate-buttons{{ if .primary }} primary{{ end }}">
+  {{ with .rakuten }}<a href="{{ . }}" class="rakuten" rel="nofollow sponsored" target="_blank">{{ $.rakutenLabel }}</a>{{ end }}
+  {{ with .amazon }}<a href="{{ . }}" class="amazon" rel="nofollow sponsored" target="_blank">{{ $.amazonLabel }}</a>{{ end }}
+</div>
+{{ end }}

@@ -43,12 +43,21 @@
   {{ end }}
 
   {{ with .Site.Params.googleAnalyticsId }}
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+  {{/* gtag.js (167KB) is injected after window load so it never competes with
+       the LCP: loaded from <head>, it lands in the pre-LCP dependency graph
+       and inflates mobile LCP by ~2.5s on PSI. Early gtag() calls are queued
+       in dataLayer and flushed when the script arrives — no data loss. */}}
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', '{{ . }}');
+    window.addEventListener('load', function () {
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id={{ . }}';
+      document.head.appendChild(s);
+    });
   </script>
   {{ end }}
 
@@ -346,6 +355,10 @@
       overflow: hidden;
       border: 1px solid var(--border);
       transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+      /* Skip style/layout for offscreen cards (home lists 30). Initial layout
+         was ~420ms on mobile CPU and delayed the text LCP render. */
+      content-visibility: auto;
+      contain-intrinsic-size: auto 340px;
     }
     .article-card:hover {
       transform: translateY(-3px);
@@ -732,6 +745,8 @@
       color: var(--text-dim);
       font-size: 13px;
       margin-top: 60px;
+      content-visibility: auto;
+      contain-intrinsic-size: auto 260px;
     }
     footer.site-footer .closing {
       font-style: italic;

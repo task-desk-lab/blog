@@ -120,7 +120,10 @@
       <article class="article-card">
         <a href="{{ .Permalink }}">
           <div class="thumb">
-            {{ partial "thumb.html" (dict "slug" .Params.slug "alt" .Title "eager" (lt $i 3)) }}
+            {{/* Since the dark-LAB redesign the card grid sits far below the
+                 hero (text LCP); eager/fetchpriority thumbs here competed with
+                 the LCP in the pre-LCP network graph. Lazy-load them all. */}}
+            {{ partial "thumb.html" (dict "slug" .Params.slug "alt" .Title "eager" false) }}
           </div>
           <div class="body">
             {{ with .Params.categories }}{{ range first 1 . }}<span class="cat">{{ . }}</span>{{ end }}{{ end }}

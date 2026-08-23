@@ -92,7 +92,6 @@ Decoアプリを起動して「新しいDecoを追加」を選び、電源を入
 Wi-Fi 6端末をすでに複数持っているなら5,000円差は正当化できる。そうでなければDeco M4で十分だ。
 
 → **[楽天でDeco M4の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00uj9tm.ycj6kb8e.g00uj9tm.ycj6l911/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fb07kj2tdmr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fi%2F10092592%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
-→ **[Wi-Fi 6おすすめルーター比較｜上位モデルを選ぶ基準はこちら](#)**
 
 ---
 

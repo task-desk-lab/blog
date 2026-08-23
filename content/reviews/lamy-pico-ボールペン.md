@@ -22,7 +22,6 @@ keywords: ["LAMY Pico ボールペン 口コミ", "LAMY Pico ボールペン 評
 
 ## LAMY Pico ボールペン | 名刺入れに常備できるドイツ製ペン、満足する人・後悔する人の違い
 
-**関連記事：** [ペン選びの軸：筆記性能 vs 携帯性](#)　｜　[コンパクト文具の選び方](#)
 
 ## 結論
 
@@ -62,7 +61,7 @@ LAMY M22は純正リフィル専用の規格です。汎用のボールペン芯
 
 折りたたみやバネ式ではなく、ノックがそのまま伸びて普通の長さのペンになる設計は独特です。名刺入れやコンパクトなポーチに常に入れておき、実際に書く際には十分な長さが確保できるという、使い手にとって非常に実用的な仕組みになっています。
 
-→ **[Amazonで詳細を見る](#)**　｜　**[楽天で価格を比較](#)**
+→ **[Amazonで詳細を見る](https://www.amazon.co.jp/s?k=LAMY%20Pico%20%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9A%E3%83%B3&tag=taskdesklab-22)**　｜　**[楽天で価格を比較](https://hb.afl.rakuten.co.jp/hgc/g00u0ztm.ycj6k5c2.g00u0ztm.ycj6lff2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskymarketplus%2Fb002b2so8a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskymarketplus%2Fi%2F10301079%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
 
 **触覚的な満足度**
 
@@ -125,8 +124,8 @@ LAMY M22 専用という制約から、交換費用で一般的なボールペ�
 デメリット（リフィル制約、可動部の耐久性）を理解した上で、そのジレンマを感じている人であれば、LAMY Pico を検討してみる価値は十分あります。書き味よりも「ペンとしての在り方」を選ぶ商品だからこそ、評判と自分の生活スタイルがマッチするかどうかが購入の判断基準になります。
 
 **今すぐチェック：**
-- [Amazon ボールペン ドイツ製](#)
-- [楽天 LAMY Pico](#)
+- [Amazon ボールペン ドイツ製](https://www.amazon.co.jp/s?k=LAMY%20Pico%20%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9A%E3%83%B3&tag=taskdesklab-22)
+- [楽天 LAMY Pico](https://hb.afl.rakuten.co.jp/hgc/g00u0ztm.ycj6k5c2.g00u0ztm.ycj6lff2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskymarketplus%2Fb002b2so8a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskymarketplus%2Fi%2F10301079%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 あなたの生活スタイルがミニマルな持ち物志向なら、一度手に取る価値があります。
 

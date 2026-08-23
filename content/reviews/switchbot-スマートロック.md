@@ -180,6 +180,5 @@ Amazon・楽天合わせて6,000件超の口コミを調べた結果、満足度
 
 [▶ 楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00uc4wm.ycj6k588.g00uc4wm.ycj6lfd1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2Flockultra-keypadvision-pro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswitchbot%2Fi%2F10000313%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
-関連記事：[SwitchBotハブの選び方と口コミまとめ](#) ｜ [賃貸向けスマートロック比較2025：後付け対応モデル5選](#)
 
 また明日、集合知で会おう。

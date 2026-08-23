@@ -140,9 +140,8 @@ USB-Cではなく旧規格のLightning端子を使うため、他のデバイス
 
 価格は変動するため、購入前に各ショップを確認したほうがいい。Amazonや楽天ではポイント還元やセール時の割引があるため、タイミング次第で実質的な価格差が生まれる。
 
-→ [Amazonで今すぐ価格を確認する](#)  
-→ [楽天市場で在庫状況を見る](#)  
-→ [Apple公式ストアで購入する（14日間返品保証付き）](#)
+→ [Amazonで今すぐ価格を確認する](https://www.amazon.co.jp/s?k=Apple%20Magic%20Keyboard&tag=taskdesklab-22)  
+→ [楽天市場で在庫状況を見る](https://hb.afl.rakuten.co.jp/hgc/g00trvrm.ycj6k8dc.g00trvrm.ycj6l1b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-amanotori%2F202511200300134549995513981%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshop-amanotori%2Fi%2F10039133%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
 
 ## Apple Magic Keyboardの口コミ調査からの結論
 

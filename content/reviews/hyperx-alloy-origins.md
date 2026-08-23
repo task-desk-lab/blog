@@ -127,7 +127,7 @@ Amazon、楽天の合計1600件超の調査から総合判定すると、**Hyper
 
 約 38 円/日の投資で、ゲーム反応速度と作業品質を両立できます。
 
-- [楽天で最新価格を確認](#)
-- [Amazonで詳細をみる](#)
+- [楽天で最新価格を確認](https://hb.afl.rakuten.co.jp/hgc/g00po8tm.ycj6k4a2.g00po8tm.ycj6l739/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprinceton%2Fhxkb7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprinceton%2Fi%2F10004476%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+- [Amazonで詳細をみる](https://www.amazon.co.jp/s?k=HyperX%20Alloy%20Origins&tag=taskdesklab-22)
 
 また明日、集合知で会おう。

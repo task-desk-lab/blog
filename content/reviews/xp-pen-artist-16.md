@@ -33,7 +33,6 @@ keywords: ["XP-Pen Artist 16 口コミ", "XP-Pen Artist 16 評判", "XP-Pen Arti
 - **重量**: 約1.5kg
 - **電力供給**: USB給電対応
 
-関連ガイド：[液タブの色域についてさらに詳しく知る](#) ｜ [Wacomのフルレンジ液タブとの比較](#)
 
 ## XP-Pen Artist 16の悪い口コミ・デメリット
 
@@ -100,8 +99,7 @@ Wacom One 13は画面13インチでやや小さく、同じ液タブ入門向け
 
 現在、XP-Pen Artist 16の市場価格は30,000～35,000円程度で推移している。以下で最新の価格と在庫を確認できる。
 
-- [現在の価格をAmazonで確認](#)
-- [公式サイトで最新情報を見る](#)
+- [現在の価格をAmazonで確認](https://www.amazon.co.jp/s?k=XP-Pen%20Artist%2016&tag=taskdesklab-22)
 
 ## XP-Pen Artist 16の口コミ調査からの結論
 

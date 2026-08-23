@@ -47,7 +47,6 @@ Amazon Echo Pop の口コミで最も多く挙げられたのが「音楽再生�
 
 早口や方言で話しかけると、聞き返しが増える場面がある。特にこうしたケースで認識精度に課題があり、競合の Google Nest Mini と比較すると一歩譲る。ただし使い方や距離感を工夫すれば、この弱点はかなり回避できる。
 
-[Nest Mini と Echo Pop を比較する](#)
 
 ## 上位モデルから機能が省略されている
 
@@ -107,9 +106,8 @@ Amazon Echo Pop の最大の価値は「家電の音声操作」にある。ス�
 
 ## Amazon Echo Pop をいますぐ確認する
 
-🛒 [Amazon で Echo Pop を確認する](#)
+🛒 [Amazon で Echo Pop を確認する](https://www.amazon.co.jp/s?k=Amazon%20Echo%20Pop&tag=taskdesklab-22)
 
-[他のAlexa対応スピーカーとの比較](#)
 
 ## Amazon Echo Pop の口コミ調査からの結論
 

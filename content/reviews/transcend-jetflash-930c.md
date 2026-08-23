@@ -24,7 +24,6 @@ keywords: ["Transcend JetFlash 930C 口コミ", "Transcend JetFlash 930C 評判"
 
 USB-C と USB-A 両方に対応した JetFlash 930C は、スマホとパソコン両方に差し込みたい人にとって便利。ただしキャップ紛失や発熱トラブルの報告があり、買う前に実際の口コミを確認する価値がある。
 
-関連記事：[スマホの容量不足を解決するガジェット 5 選](#)｜[USB-C 両対応アクセサリーの選び方](#)
 
 ## Transcend JetFlash 930Cの基本スペック
 
@@ -61,7 +60,6 @@ USB-C と USB-A 両方に対応した JetFlash 930C は、スマホとパソコ�
 
 同じ両挿し対応の USBメモリとして **SanDisk Ultra Dual Drive Go** が競合製品。SanDisk も評判は良いが、価格帯では JetFlash 930C のほうが安く、同じ 256GB で比較すると JetFlash 930C が約 500 円安い傾向にある。転送速度も同等レベルなので、コストを重視するなら Transcend に軍配が上がる。
 
-関連記事：[USB-C メモリ選びで失敗しない3つのポイント](#)｜[スマホ・PC両対応ガジェットの実装活用例](#)
 
 ## Transcend JetFlash 930Cの悪い口コミ・デメリット
 
@@ -101,8 +99,7 @@ USB-C と USB-A 両方に対応した JetFlash 930C は、スマホとパソコ�
 
 ## 今すぐ購入
 
-- [Amazon で Transcend JetFlash 930C を見る](#)
-- [楽天 で Transcend JetFlash 930C を見る](#)
-- [Yahoo ショッピング で Transcend JetFlash 930C を見る](#)
+- [Amazon で Transcend JetFlash 930C を見る](https://www.amazon.co.jp/s?k=Transcend%20JetFlash%20930C&tag=taskdesklab-22)
+- [楽天 で Transcend JetFlash 930C を見る](https://hb.afl.rakuten.co.jp/hgc/g00pmmbm.ycj6k8ea.g00pmmbm.ycj6l61a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2Fts512gjf930c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10097621%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

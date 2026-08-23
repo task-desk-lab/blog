@@ -63,8 +63,8 @@ PFUが販売する高級キーボード。静電容量無接点方式を採用�
 
 なお、Amazon・楽天では30日間返品対応が可能。ヨドバシカメラやビックカメラでは店頭展示があり、購入前に打鍵感を確認できる。eイヤホン秋葉原店など一部専門店では試打スペースを設けている。
 
-→ [Amazon最安値を確認する](#)  
-→ [楽天市場で価格を比較する](#)
+→ [Amazon最安値を確認する](https://www.amazon.co.jp/s?k=HHKB%20Professional%20HYBRID%20Type-S&tag=taskdesklab-22)  
+→ [楽天市場で価格を比較する](https://hb.afl.rakuten.co.jp/hgc/g00rgzim.ycj6kc7d.g00rgzim.ycj6l064/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpfudirect%2Fpd-kb820bs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpfudirect%2Fi%2F10000710%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### 独特な配列で慣れるまで1〜2週間必要
 
@@ -88,43 +88,43 @@ PFUが販売する高級キーボード。静電容量無接点方式を採用�
 
 Type-Sの静音設計により、深夜でもオフィスでも周囲を気にせず使えるという評判が高い。静電容量方式特有の滑らかな打鍵感とこの静音性が両立している点が高評価。YouTube動画での騒音測定では、タイピング時47dB（通常会話レベル）という結果が示されている。通常モデルのHHKBが58dBなので、約11dBの静音化を実現している。
 
-→ [この打鍵音を確認する（Amazon）](#)
+→ [この打鍵音を確認する（Amazon）](https://www.amazon.co.jp/s?k=HHKB%20Professional%20HYBRID%20Type-S&tag=taskdesklab-22)
 
 ### コンパクトで机が広く使えるという口コミ
 
 幅294mmの省スペース設計。ノートPCスタンドと併用する人や、デスク上にメモを広げながら作業する人に支持されている。フルサイズキーボードと比較して横幅で約140mm省スペース化されており、マウスの可動域が広がる。
 
-→ [詳細を見る（楽天）](#)
+→ [詳細を見る（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00rgzim.ycj6kc7d.g00rgzim.ycj6l064/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpfudirect%2Fpd-kb820bs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpfudirect%2Fi%2F10000710%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### Bluetooth 4台まで切り替え可能という評判
 
 Windows、Mac、iPad、スマホなど複数デバイスをボタン一つで切り替え。在宅とオフィスで別PCを使う働き方にも対応。楽天口コミ180件のうち、複数デバイス利用者78名が切り替えの安定性を評価していた。
 
-→ [マルチデバイス対応を詳しく見る（楽天）](#)
+→ [マルチデバイス対応を詳しく見る（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00rgzim.ycj6kc7d.g00rgzim.ycj6l064/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpfudirect%2Fpd-kb820bs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpfudirect%2Fi%2F10000710%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### 有線Type-C接続も選べる
 
 Bluetoothの遅延が気になる場合や、安定性重視の場面では有線に切り替えられる柔軟性がある。ゲーム用途では有線接続が推奨されており、遅延は有線時0.8ms、Bluetooth時4.2msという計測がブログで報告されていた。
 
-→ [詳細を見る（Amazon）](#)
+→ [詳細を見る（Amazon）](https://www.amazon.co.jp/s?k=HHKB%20Professional%20HYBRID%20Type-S&tag=taskdesklab-22)
 
 ### 長時間タイピングでも疲れにくいという口コミ
 
 キーストローク3.8mm、押下圧45g、アクチュエーションポイント1.5mmという設計により、指への負担が少ない。1日10時間以上タイプするプログラマーやライターからの支持が厚い。Amazon長期口コミ68件のうち、「指の疲労が減った」との記載が52件あった。
 
-→ [疲労軽減効果の口コミを読む（Amazon）](#)
+→ [疲労軽減効果の口コミを読む（Amazon）](https://www.amazon.co.jp/s?k=HHKB%20Professional%20HYBRID%20Type-S&tag=taskdesklab-22)
 
 ### 10年以上使える耐久性という評判
 
 静電容量方式は物理接点がないため摩耗しにくい。実際に8年、10年と使い続けているユーザーもいる。5年以上使い込んでも故障なく現役、というケースは珍しくない。
 
-→ [詳細を見る（楽天）](#)
+→ [詳細を見る（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00rgzim.ycj6kc7d.g00rgzim.ycj6l064/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpfudirect%2Fpd-kb820bs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpfudirect%2Fi%2F10000710%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### 所有満足度が高いという口コミ
 
 長く使い込むほど満足度が上がる傾向があり、購入から時間が経っても満足という評価が中心だ。ブランド力と質感による所有欲が満たされ、モチベーション維持に役立っているという声がある。
 
-→ [詳細を見る（Amazon）](#)
+→ [詳細を見る（Amazon）](https://www.amazon.co.jp/s?k=HHKB%20Professional%20HYBRID%20Type-S&tag=taskdesklab-22)
 
 ## HHKB Professional HYBRID Type-Sを買って後悔する人
 
@@ -146,23 +146,22 @@ US配列のみの展開なので、記号配置を覚え直せない人、かな
 
 打鍵数が多いほどコストパフォーマンスが上がる。長時間作業での疲労軽減効果を考えれば、十分に元が取れる。
 
-→ [詳細を見る（Amazon）](#)
+→ [詳細を見る（Amazon）](https://www.amazon.co.jp/s?k=HHKB%20Professional%20HYBRID%20Type-S&tag=taskdesklab-22)
 
 ### 複数デバイスを頻繁に切り替える人
 
 在宅とオフィスで別PC、仕事用とプライベート用でデバイスを分けている人にBluetooth 4台切り替えが役立つ。
 
-→ [詳細を見る（楽天）](#)
+→ [詳細を見る（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00rgzim.ycj6kc7d.g00rgzim.ycj6l064/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpfudirect%2Fpd-kb820bs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpfudirect%2Fi%2F10000710%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### 静音性を重視する環境で作業する人
 
 深夜作業、図書館、静かなオフィス、家族が寝ている時間帯に作業する人に適している。静音性の評判は1,035件の口コミで最も評価が高かった項目だ。
 
-→ [詳細を見る（Amazon）](#)
+→ [詳細を見る（Amazon）](https://www.amazon.co.jp/s?k=HHKB%20Professional%20HYBRID%20Type-S&tag=taskdesklab-22)
 
-→ [Amazon最安値を確認する](#)  
-→ [楽天市場で価格を比較する](#)  
-→ [Yahoo!ショッピングで探す](#)
+→ [Amazon最安値を確認する](https://www.amazon.co.jp/s?k=HHKB%20Professional%20HYBRID%20Type-S&tag=taskdesklab-22)  
+→ [楽天市場で価格を比較する](https://hb.afl.rakuten.co.jp/hgc/g00rgzim.ycj6kc7d.g00rgzim.ycj6l064/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpfudirect%2Fpd-kb820bs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpfudirect%2Fi%2F10000710%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
 
 ## HHKB Professional HYBRID Type-Sの口コミ調査からの結論
 

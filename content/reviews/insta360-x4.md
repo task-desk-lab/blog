@@ -129,8 +129,7 @@ Insta360 X4を検討している人の大半は、「撮影時の手軽さと編
 
 **購入を検討する場合は以下から確認できます：**
 
-- [Amazon で確認する](#)
-- [楽天で価格を見る](#)
-- [公式サイトで詳細を見る](#)
+- [Amazon で確認する](https://www.amazon.co.jp/s?k=Insta360%20X4&tag=taskdesklab-22)
+- [楽天で価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00u687m.ycj6k4d9.g00u687m.ycj6l6cc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsta360-shop2%2Finsta360-x4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsta360-shop2%2Fi%2F10000445%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

@@ -1,0 +1,33 @@
+# タスク｜集合知デスクラボ (taskdesklab.com)
+
+> ガジェット・デスク周りアイテムを、Amazon・楽天などの実口コミ数千件を横断集約した「集合知」で検証するレビューサイト。製品ごとに、良い口コミ・悪い口コミ・デメリット・買って後悔する人/満足する人を1ページに整理している。捏造レビューを排除する検出ガードを常設し、引用は実在の口コミに限定している。
+
+## サイト構成
+
+- 記事URL形式: https://taskdesklab.com/reviews/{slug}/
+- 各記事の構成: 結論 → 基本スペック → 悪い口コミ・デメリット → 良い口コミ・メリット → 他製品比較 → 後悔する人/満足する人 → FAQ
+- カテゴリ一覧: https://taskdesklab.com/categories/
+
+## 横断比較・選び方ガイド
+
+- [Jabra Speak2 55と75の違い比較](https://taskdesklab.com/reviews/jabra-speak2-55-vs-75/): 公式データシートと口コミ557件でどっちを買うべきかを判断
+- [オフィスチェアで後悔しない選び方](https://taskdesklab.com/reviews/オフィスチェア-後悔しない選び方/): 約1万円〜15万円の5脚を口コミ9,950件で横断比較
+
+## 代表的な製品レビュー
+
+- [バッファロー Wi-Fiルーター](https://taskdesklab.com/reviews/バッファロー-wi-fiルーター/): 「やめとけ」評判の実態を口コミで検証
+- [Jabra Speak2 55](https://taskdesklab.com/reviews/jabra-speak2-55/): 会議用スピーカーフォンの定番
+- [オカムラ シルフィー](https://taskdesklab.com/reviews/オカムラ-シルフィー/): 前傾チルト搭載の国産オフィスチェア
+- [エルゴヒューマン Pro](https://taskdesklab.com/reviews/エルゴヒューマン-pro/): 腰痛対策特化のメッシュチェア
+- [ほぼ日手帳 オリジナル](https://taskdesklab.com/reviews/ほぼ日手帳-オリジナル/): 手帳の定番の口コミ検証
+- [ライフ ノーブルノート](https://taskdesklab.com/reviews/ライフ-ノーブルノート/): 高級ノートの書き心地検証
+- [ぺんてる エナージェル](https://taskdesklab.com/reviews/ぺんてる-エナージェル/): ゲルインクボールペンの欠点と実力
+- [バッファロー 外付けHDD](https://taskdesklab.com/reviews/バッファロー-外付けhdd/): 故障率の評判を口コミで検証
+- [Keychron K3](https://taskdesklab.com/reviews/keychron-k3/): ロープロファイルメカニカルキーボード
+- [コクヨ ルーズリーフ Campus](https://taskdesklab.com/reviews/コクヨ-ルーズリーフ-campus/): 裏抜け検証とマルマンとの比較
+
+## 運営情報
+
+- 運営者: タスク（個人運営）
+- サイトについて: https://taskdesklab.com/
+- 記事は毎日更新。評価・件数は各記事の調査時点の値。

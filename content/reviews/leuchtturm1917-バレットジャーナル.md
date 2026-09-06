@@ -100,7 +100,7 @@ Amazonの口コミ1,200件、楽天の380件を合わせて確認した。ネガ
 
 ノートにコストをかけたくない人も向いていない。「紙に2,800円」という感覚が合わないと、使うたびにストレスになる。
 
-ただ、すでにバレットジャーナルを半年以上続けているなら話は別だ。→ [Amazonで現在価格と色バリエーションを確認する](https://www.amazon.co.jp/s?k=Leuchtturm1917%20%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB&tag=taskdesklab-22)
+ただ、すでにバレットジャーナルを半年以上続けているなら話は別だ。→ [楽天で現在価格と色バリエーションを確認する](https://hb.afl.rakuten.co.jp/hgc/g00rux4m.ycj6k2b9.g00rux4m.ycj6l538/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frinkydink%2Fleuchtturmmidium%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frinkydink%2Fi%2F10002996%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Leuchtturm1917 バレットジャーナルを買って満足する人・向いている使い方
 
@@ -110,7 +110,7 @@ Amazonの口コミ1,200件、楽天の380件を合わせて確認した。ネガ
 
 万年筆以外をメインにしているライターにも問題ない。水性ペンや一般的なインクを使う人は裏抜けの問題なく両面活用できる。この層のレビューには「次もこれを買う」というリピート言及が目立つ。
 
-[Leuchtturm1917 バレットジャーナルをAmazonで見る（2,800円前後・20色展開）](https://www.amazon.co.jp/s?k=Leuchtturm1917%20%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB&tag=taskdesklab-22)
+[Leuchtturm1917 バレットジャーナルを楽天で見る（2,800円前後・20色展開）](https://hb.afl.rakuten.co.jp/hgc/g00rux4m.ycj6k2b9.g00rux4m.ycj6l538/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frinkydink%2Fleuchtturmmidium%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frinkydink%2Fi%2F10002996%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Leuchtturm1917 バレットジャーナルの口コミ調査からの結論
 

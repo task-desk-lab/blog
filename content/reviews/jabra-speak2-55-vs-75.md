@@ -89,12 +89,10 @@ keywords: ["Jabra Speak2 55 75 違い", "Jabra Speak2 55 vs 75", "Jabra Speak2 �
 
 <div class="affiliate-buttons">
   <a href="https://hb.afl.rakuten.co.jp/hgc/g00u8pqm.ycj6kbf2.g00u8pqm.ycj6l72e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fign-store%2F1724398435%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fign-store%2Fi%2F10001333%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968" class="rakuten" rel="nofollow sponsored" target="_blank">Speak2 55を楽天で見る</a>
-  <a href="https://www.amazon.co.jp/s?k=Jabra%20Speak2%2055&tag=taskdesklab-22" class="amazon" rel="nofollow sponsored" target="_blank">Speak2 55をAmazonで見る</a>
 </div>
 
 <div class="affiliate-buttons">
   <a href="https://hb.afl.rakuten.co.jp/hgc/g00qjagm.ycj6k78a.g00qjagm.ycj6lada/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feccrew%2F5706991026849_rsl_%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feccrew%2Fi%2F10059222%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968" class="rakuten" rel="nofollow sponsored" target="_blank">Speak2 75を楽天で見る</a>
-  <a href="https://www.amazon.co.jp/s?k=Jabra%20Speak2%2075&tag=taskdesklab-22" class="amazon" rel="nofollow sponsored" target="_blank">Speak2 75をAmazonで見る</a>
 </div>
 
 ## よくある質問

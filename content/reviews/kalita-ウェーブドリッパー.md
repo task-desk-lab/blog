@@ -60,7 +60,7 @@ AmazonとRakutenの口コミを合わせて調べると、ネガティブな声�
 
 年間で見ると1,000円前後の差になる。フィルターの維持費を理由にV60を選ぶ人がいるのも、この差ゆえだ。
 
-▶ [Amazonで最安値を見る（在庫あり）→](https://www.amazon.co.jp/s?k=Kalita%20%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC&tag=taskdesklab-22)
+▶ [楽天で最安値を見る（在庫あり）→](https://hb.afl.rakuten.co.jp/hgc/g00pl5fm.ycj6k8f6.g00pl5fm.ycj6l2b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1338%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **フィルター品切れ時の代替手段がない**
 
@@ -68,7 +68,7 @@ AmazonとRakutenの口コミを合わせて調べると、ネガティブな声�
 
 対策は100枚入りまとめ買い一択だ。Amazonで100枚パックを購入すると1枚あたり約6円前後まで下がり、単品購入の上限9円と比べてコストも在庫切れの不安も同時に解消できる。まとめ買いを前提に使う道具だと最初から割り切っておいたほうがいい。
 
-▶ [100枚入りウェーブフィルターをAmazonでまとめ買いする（在庫あり）→](https://www.amazon.co.jp/s?k=Kalita%20%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC&tag=taskdesklab-22)
+▶ [100枚入りウェーブフィルターを楽天でまとめ買いする（在庫あり）→](https://hb.afl.rakuten.co.jp/hgc/g00pl5fm.ycj6k8f6.g00pl5fm.ycj6l2b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1338%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **上級者には物足りない透明感**
 
@@ -82,7 +82,7 @@ V60など円錐系に慣れた上級者には、クリーンカップの透明�
 
 構造上、抽出スピードが速い側に設計されている。もう少しゆっくり落としたい人には気になるかもしれないが、日常使いで不満になる場面は少ない。
 
-▶ [Amazonで最安値を見る（在庫あり）→](https://www.amazon.co.jp/s?k=Kalita%20%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC&tag=taskdesklab-22)　▶ [楽天で最安値を見る→](https://hb.afl.rakuten.co.jp/hgc/g00pl5fm.ycj6k8f6.g00pl5fm.ycj6l2b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1338%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+▶ [楽天で最安値を見る（在庫あり）→](https://hb.afl.rakuten.co.jp/hgc/g00pl5fm.ycj6k8f6.g00pl5fm.ycj6l2b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1338%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　▶ [楽天で最安値を見る→](https://hb.afl.rakuten.co.jp/hgc/g00pl5fm.ycj6k8f6.g00pl5fm.ycj6l2b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1338%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Kalita ウェーブドリッパーのメリットと良い口コミ
 
@@ -128,7 +128,7 @@ V60は円錐型で、注ぎ方次第で抽出をコントロールできる自�
 
 V60から乗り換えると、注ぎ方をあれこれ気にしなくていい楽さで毎朝の味が落ち着く——そんな変化が期待できる。フィルターの維持費を取るか、味の安定を取るか。何を優先するかで答えが変わる比較だ。
 
-▶ [Amazonで最安値を見る（在庫あり）→](https://www.amazon.co.jp/s?k=Kalita%20%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC&tag=taskdesklab-22)　▶ [楽天で最安値を見る→](https://hb.afl.rakuten.co.jp/hgc/g00pl5fm.ycj6k8f6.g00pl5fm.ycj6l2b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1338%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+▶ [楽天で最安値を見る（在庫あり）→](https://hb.afl.rakuten.co.jp/hgc/g00pl5fm.ycj6k8f6.g00pl5fm.ycj6l2b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1338%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　▶ [楽天で最安値を見る→](https://hb.afl.rakuten.co.jp/hgc/g00pl5fm.ycj6k8f6.g00pl5fm.ycj6l2b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1338%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Kalita ウェーブドリッパーを買って後悔する人・満足する人
 
@@ -154,6 +154,6 @@ V60から乗り換えると、注ぎ方をあれこれ気にしなくていい�
 
 1,580人のコーヒー好きが同じ方向を指している。迷っているなら、Amazonのレビューを自分で読むのが早い。
 
-▶ [Amazonでレビューを確認する（在庫あり）→](https://www.amazon.co.jp/s?k=Kalita%20%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC&tag=taskdesklab-22)　▶ [楽天で最安値を見る→](https://hb.afl.rakuten.co.jp/hgc/g00pl5fm.ycj6k8f6.g00pl5fm.ycj6l2b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1338%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+▶ [楽天でレビューを確認する（在庫あり）→](https://hb.afl.rakuten.co.jp/hgc/g00pl5fm.ycj6k8f6.g00pl5fm.ycj6l2b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1338%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　▶ [楽天で最安値を見る→](https://hb.afl.rakuten.co.jp/hgc/g00pl5fm.ycj6k8f6.g00pl5fm.ycj6l2b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1338%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

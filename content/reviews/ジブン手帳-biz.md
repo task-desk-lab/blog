@@ -67,7 +67,7 @@ Amazon 1,200件・楽天380件、計1,580件のレビューを調べた。仕事
 
 デジタルツールと併用していると、結局どちらかに偏りがちだ。アナログとデジタルの線引きが曖昧なまま使い始めると、ジブン手帳 Bizの機能を持て余して終わる。
 
-重さとバーチカル幅は写真で事前確認できる → [Amazonの商品ページへ](https://www.amazon.co.jp/dp/B0DGLC7ZKR?tag=taskdesklab-22)
+重さとバーチカル幅は写真で事前確認できる → [楽天の商品ページへ](https://hb.afl.rakuten.co.jp/hgc/g00q1j7m.ycj6k10d.g00q1j7m.ycj6ld48/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foffima%2Fjbm1db-22%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foffima%2Fi%2F10707309%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -127,7 +127,7 @@ NotionやGoogleカレンダーで予定・タスク・振り返りが回って�
 **字が大きめで、バーチカルを細かく書き込みたい人**
 マス目の細かさへの不満は一定数のレビューに出てくる。書き心地を重視するなら実物を確認してから購入した方がいい。
 
-重さとバーチカル幅は写真で事前確認できる → [Amazonの商品ページへ](https://www.amazon.co.jp/dp/B0DGLC7ZKR?tag=taskdesklab-22)
+重さとバーチカル幅は写真で事前確認できる → [楽天の商品ページへ](https://hb.afl.rakuten.co.jp/hgc/g00q1j7m.ycj6k10d.g00q1j7m.ycj6ld48/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foffima%2Fjbm1db-22%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foffima%2Fi%2F10707309%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -142,7 +142,7 @@ NotionやGoogleカレンダーで予定・タスク・振り返りが回って�
 **紙の質感にこだわりがある人**
 万年筆やゲルインクを使うユーザーにとって、この紙質でこの価格はコスパが良い。書く道具へのこだわりがあるなら、紙質は信頼できる水準だ。
 
-[Amazonでジブン手帳 Bizをチェックする →](https://www.amazon.co.jp/dp/B0DGLC7ZKR?tag=taskdesklab-22)（在庫あり・2026年版）
+[楽天でジブン手帳 Bizをチェックする →](https://hb.afl.rakuten.co.jp/hgc/g00q1j7m.ycj6k10d.g00q1j7m.ycj6ld48/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foffima%2Fjbm1db-22%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foffima%2Fi%2F10707309%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)（在庫あり・2026年版）
 
 ---
 

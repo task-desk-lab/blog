@@ -64,10 +64,10 @@ USB-Aは最大18W（12V/1.5A）で、急速充電規格には非対応。iPhone�
 ## Anker PowerPort III 3-Port 65W Podの良い口コミ・メリット
 
 **3デバイス同時充電の実用性**  
-MacBook Air、iPad、iPhoneを一気に充電できる環境がカフェや出張先で作れる。ケーブル3本と充電器1個で済むため、バッグ内の充電器が1個で完結する。実際にリモートワーカーからの評判が高く、コンセント1口で完結する利便性が支持されていた。→ [この使い方に当てはまるなら在庫を確認](https://www.amazon.co.jp/s?k=Anker%20PowerPort%20III%203-Port%2065W%20Pod&tag=taskdesklab-22)
+MacBook Air、iPad、iPhoneを一気に充電できる環境がカフェや出張先で作れる。ケーブル3本と充電器1個で済むため、バッグ内の充電器が1個で完結する。実際にリモートワーカーからの評判が高く、コンセント1口で完結する利便性が支持されていた。→ [楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001085%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **65W出力でノートPCも急速充電**  
-USB-C1ポート単独使用時は最大65W出力。MacBook Air（M1/M2）は30W推奨だが、65Wあれば余裕を持って充電できる。MacBook Pro 13インチ（61W推奨）もほぼフルスピードで充電に対応する。作業しながらの充電でもバッテリー残量が減りにくい。→ [MacBook Proユーザーは現在価格をチェック](https://www.amazon.co.jp/s?k=Anker%20PowerPort%20III%203-Port%2065W%20Pod&tag=taskdesklab-22)
+USB-C1ポート単独使用時は最大65W出力。MacBook Air（M1/M2）は30W推奨だが、65Wあれば余裕を持って充電できる。MacBook Pro 13インチ（61W推奨）もほぼフルスピードで充電に対応する。作業しながらの充電でもバッテリー残量が減りにくい。→ [楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001085%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **発熱が少ない**  
 GaN II技術により発熱が少なく、3ポート同時使用でも本体が熱くなりすぎない。夏場でも問題なく使える。
@@ -98,13 +98,13 @@ USB-Aで急速充電したいデバイスがメインなら、この充電器の
 ## Anker PowerPort III 3-Port 65W Podを買って満足する人
 
 **MacBookとスマホを持ち歩くリモートワーカー**  
-カフェ・コワーキングスペース・出張先で複数デバイスを充電する機会が多い人。コンセント1口で完結する環境を作りたいなら、この充電器で解決する。この条件に合うなら→[最新価格を見る](https://www.amazon.co.jp/s?k=Anker%20PowerPort%20III%203-Port%2065W%20Pod&tag=taskdesklab-22)
+カフェ・コワーキングスペース・出張先で複数デバイスを充電する機会が多い人。コンセント1口で完結する環境を作りたいなら、この充電器で解決する。この条件に合うなら→[楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001085%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **デスク周りをシンプルにしたいミニマリスト**  
-充電器を複数持つより1台で済ませたい思考の人。ケーブルだけ管理すればよく、電源周りがシンプルになるという評判。心当たりがあるなら→[在庫状況を確認](https://www.amazon.co.jp/s?k=Anker%20PowerPort%20III%203-Port%2065W%20Pod&tag=taskdesklab-22)
+充電器を複数持つより1台で済ませたい思考の人。ケーブルだけ管理すればよく、電源周りがシンプルになるという評判。心当たりがあるなら→[楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001085%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **Apple製品を複数持ちしている人**  
-MacBook・iPad・iPhone・AirPodsなど、充電が必要なデバイスが3つ以上ある環境。純正充電器を揃えるより安く、場所も取らない。当てはまるなら→[各ショップの価格を比較](https://www.amazon.co.jp/s?k=Anker%20PowerPort%20III%203-Port%2065W%20Pod&tag=taskdesklab-22)
+MacBook・iPad・iPhone・AirPodsなど、充電が必要なデバイスが3つ以上ある環境。純正充電器を揃えるより安く、場所も取らない。当てはまるなら→[楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001085%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Anker PowerPort III 3-Port 65W Podの口コミ調査からの結論
 
@@ -118,6 +118,6 @@ Anker PowerPort III 3-Port 65W Podは、「複数デバイスを1台で充電し
 ・Yahoo!ショッピング：5,490円（PayPayポイント付与）  
 ・Anker公式：5,490円（18ヶ月保証）
 
-→ [現在の在庫・価格を確認する](https://www.amazon.co.jp/s?k=Anker%20PowerPort%20III%203-Port%2065W%20Pod&tag=taskdesklab-22)
+→ [楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001085%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

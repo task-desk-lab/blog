@@ -164,7 +164,7 @@ TeamsはPC、急な電話はスマホという切り替えが手間なくでき�
 
 24ヶ月保証付きで、万一の不具合は無償対応。
 
-[**Amazonで現在価格を確認する → 18,000円前後・送料無料（2026年5月時点）**](https://www.amazon.co.jp/s?k=Shokz%20OpenComm2&tag=taskdesklab-22)
+[**楽天で現在価格を確認する → 18,000円前後・送料無料（2026年5月時点）**](https://hb.afl.rakuten.co.jp/hgc/g00tqoum.ycj6k5cf.g00tqoum.ycj6lb82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faftershokz-official%2Fskz-sp-000074%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faftershokz-official%2Fi%2F10000039%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 [楽天で現在価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tqoum.ycj6k5cf.g00tqoum.ycj6lb82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faftershokz-official%2Fskz-sp-000074%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faftershokz-official%2Fi%2F10000039%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 

@@ -26,7 +26,7 @@ keywords: ["cocopar 15.6インチ モバイルモニター 口コミ", "cocopar 
 
 Amazonで1,200件超の口コミを調査した結果、cocopar 15.6インチ モバイルモニターは「2万円以下でデュアルモニター環境を外に持ち出したい人」に向いた製品だった。屋外での視認性とクリエイター向けの発色には明確な限界があるが、カフェやコワーキングでの作業効率化という本来の用途ではコスパと携帯性が評価されている。
 
-この価格帯は在庫状況によって値上がりすることがある。現在の最安値を確認する → [Amazon商品ページ](https://www.amazon.co.jp/s?k=cocopar%2015.6%E3%82%A4%E3%83%B3%E3%83%81%20%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC&tag=taskdesklab-22)
+この価格帯は在庫状況によって値上がりすることがある。現在の最安値を確認する → [楽天商品ページ](https://hb.afl.rakuten.co.jp/hgc/g00u4uxm.ycj6k5d8.g00u4uxm.ycj6l54e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvlookupstore%2Fgr-e9txczafdk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvlookupstore%2Fi%2F10408303%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## cocopar 15.6インチ モバイルモニターの基本スペック
 
@@ -98,7 +98,7 @@ Mini HDMIポートも備えるため、USB-C出力に非対応のPCやNintendo S
 
 GeChicはスタンドの安定感と発色の評判が高いが、価格差が1万円以上ある。Lepowはcocoparと同価格帯で競合するが、口コミ件数の多さとサポート面からcocoparを選んだという判断が出ていた。ASUS ZenScreenはブランド信頼性が高い分、価格も跳ね上がる。「まずモバイルモニターを試したい」「予算を抑えたい」という層にはcocoparを選ぶ合理性が十分にある。
 
-→ 最安値・在庫を確認する [Amazon商品ページ](https://www.amazon.co.jp/s?k=cocopar%2015.6%E3%82%A4%E3%83%B3%E3%83%81%20%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC&tag=taskdesklab-22)
+→ 最安値・在庫を確認する [楽天商品ページ](https://hb.afl.rakuten.co.jp/hgc/g00u4uxm.ycj6k5d8.g00u4uxm.ycj6l54e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvlookupstore%2Fgr-e9txczafdk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvlookupstore%2Fi%2F10408303%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## cocopar 15.6インチ モバイルモニターを買って後悔する人
 
@@ -120,7 +120,7 @@ GeChicはスタンドの安定感と発色の評判が高いが、価格差が1�
 
 ゲーム機のサブ画面を探している人にもコスパが高い。HDMI接続でNintendo Switchや他のゲーム機にも対応し、「テレビを占領せず自分の画面で遊べる」という点が評価されていた。
 
-→ 最安値・在庫を確認する [Amazon商品ページ](https://www.amazon.co.jp/s?k=cocopar%2015.6%E3%82%A4%E3%83%B3%E3%83%81%20%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC&tag=taskdesklab-22)
+→ 最安値・在庫を確認する [楽天商品ページ](https://hb.afl.rakuten.co.jp/hgc/g00u4uxm.ycj6k5d8.g00u4uxm.ycj6l54e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvlookupstore%2Fgr-e9txczafdk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvlookupstore%2Fi%2F10408303%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## よくある質問
 

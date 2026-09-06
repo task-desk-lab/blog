@@ -106,7 +106,7 @@ Amazon Echo Pop の最大の価値は「家電の音声操作」にある。ス�
 
 ## Amazon Echo Pop をいますぐ確認する
 
-🛒 [Amazon で Echo Pop を確認する](https://www.amazon.co.jp/s?k=Amazon%20Echo%20Pop&tag=taskdesklab-22)
+🛒 [楽天で Echo Pop を確認する](https://hb.afl.rakuten.co.jp/hgc/g00u3gvm.ycj6k9c2.g00u3gvm.ycj6ld95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnoah-shopping%2F840268981389%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnoah-shopping%2Fi%2F10001538%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 
 ## Amazon Echo Pop の口コミ調査からの結論

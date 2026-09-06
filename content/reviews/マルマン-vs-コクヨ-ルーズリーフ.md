@@ -76,12 +76,10 @@ Campusの口コミで評価が集中していたのは、細字のゲルイン�
 
 <div class="affiliate-buttons">
   <a href="https://hb.afl.rakuten.co.jp/hgc/g00r3qjm.ycj6kb98.g00r3qjm.ycj6l750/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbellepo%2Fmaruman_fm63%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbellepo%2Fi%2F10021564%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968" class="rakuten" rel="nofollow sponsored" target="_blank">マルマン ルーズリーフを楽天で見る</a>
-  <a href="https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%AB%E3%83%9E%E3%83%B3%20%E3%83%AB%E3%83%BC%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%95&tag=taskdesklab-22" class="amazon" rel="nofollow sponsored" target="_blank">マルマン ルーズリーフをAmazonで見る</a>
 </div>
 
 <div class="affiliate-buttons">
   <a href="https://hb.afl.rakuten.co.jp/hgc/g00uiw2m.ycj6kb13.g00uiw2m.ycj6l1da/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkokuyogst%2F4901480380209-%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkokuyogst%2Fi%2F10000993%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968" class="rakuten" rel="nofollow sponsored" target="_blank">コクヨ Campusを楽天で見る</a>
-  <a href="https://www.amazon.co.jp/s?k=%E3%82%B3%E3%82%AF%E3%83%A8%20%E3%83%AB%E3%83%BC%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%95%20Campus&tag=taskdesklab-22" class="amazon" rel="nofollow sponsored" target="_blank">コクヨ CampusをAmazonで見る</a>
 </div>
 
 ## よくある質問

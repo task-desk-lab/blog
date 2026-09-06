@@ -71,12 +71,11 @@
        Never guess ASINs/short URLs here — that caused the 2026-07-07 broken-link
        incident. */}}
   {{ $rk := .Params.rakuten_url }}
+  {{/* Rakuten only (2026-09-06 decision): no Amazon Associates account is in
+       use, so Amazon buttons sent clicks nowhere that pays. amazon_url in
+       front matter is kept for reference but not rendered. */}}
   {{ $az := "" }}
-  {{ $azDirect := false }}
-  {{ with .Params.amazon_url }}{{ $az = . }}{{ $azDirect = true }}{{ else }}{{ with .Params.product_name }}{{ $az = printf "https://www.amazon.co.jp/s?k=%s&tag=taskdesklab-22" (. | urlquery) }}{{ end }}{{ end }}
-  {{ $azLabelSearch := "Amazonで探す" }}
-  {{ $azLabelDirect := "Amazonで見る" }}
-  {{ $azLabel := cond $azDirect $azLabelDirect $azLabelSearch }}
+  {{ $azLabel := "" }}
 
   {{ if .Params.product_name }}
   <div class="product-card" style="display: grid; grid-template-columns: {{ if .Params.product_image }}160px 1fr{{ else }}1fr{{ end }}; gap: 20px; align-items: center;">

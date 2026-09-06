@@ -63,7 +63,7 @@ Amazon・楽天の口コミを合算して調べたとき、繰り返し登場�
 **ホッパー容量の小ささ**
 容量は100g前後なので、来客対応や大量挽きをする場面では複数回に分ける必要がある。1〜2人の日常使いには問題ないが、まとめて挽くつもりなら注意が必要だ。
 
-→ デメリットを把握した上で選ぶなら → [価格と口コミ件数を確認する（Amazon）](https://www.amazon.co.jp/s?k=Kalita%20%E3%83%8A%E3%82%A4%E3%82%B9%E3%82%AB%E3%83%83%E3%83%88G&tag=taskdesklab-22)
+→ デメリットを把握した上で選ぶなら → [価格と口コミ件数を確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00pxzhm.ycj6k3ed.g00pxzhm.ycj6lb93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsujimoto%2Ftk-61117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsujimoto%2Fi%2F10001280%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## カリタ ナイスカットG 良い口コミ・メリット【静音性・粒度均一性・耐久性】
 
@@ -88,7 +88,7 @@ Amazon・楽天の口コミを合算して調べたとき、繰り返し登場�
 **シンプルなデザイン**
 機能重視の見た目でキッチンに置いても主張しすぎないという投稿がいくつかある。毎日視界に入るものとして気にする人には好評だ。
 
-→ [27,500円の最安値を確認する（Amazon）](https://www.amazon.co.jp/s?k=Kalita%20%E3%83%8A%E3%82%A4%E3%82%B9%E3%82%AB%E3%83%83%E3%83%88G&tag=taskdesklab-22)
+→ [27,500円の最安値を確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00pxzhm.ycj6k3ed.g00pxzhm.ycj6lb93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsujimoto%2Ftk-61117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsujimoto%2Fi%2F10001280%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## カリタ ナイスカットGを他社製品と比較した口コミ【Baratza Encore ESP比較】
 
@@ -104,7 +104,7 @@ Amazon・楽天の口コミを合算して調べたとき、繰り返し登場�
 
 ドリップ専用で使うならナイスカットG、エスプレッソも兼用したいならEncore ESPという使い分けが大まかな結論だ。ただしEncore ESPは並行輸入品のリスク（修理・サポートが受けられない）があるため、その点も含めて判断してほしい。
 
-→ [今すぐ最安値を確認する（Amazon）](https://www.amazon.co.jp/s?k=Kalita%20%E3%83%8A%E3%82%A4%E3%82%B9%E3%82%AB%E3%83%83%E3%83%88G&tag=taskdesklab-22)　30日返品保証あり（Amazonの場合）  
+→ [今すぐ最安値を確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00pxzhm.ycj6k3ed.g00pxzhm.ycj6lb93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsujimoto%2Ftk-61117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsujimoto%2Fi%2F10001280%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　30日返品保証あり（Amazonの場合）  
 → [Baratza Encore ESPの口コミ記事はこちら](/baratza-encore-esp-review/)  
 → [1万円以下おすすめコーヒーミル比較](/coffee-grinder-budget-comparison/)
 
@@ -136,7 +136,7 @@ Amazon・楽天で合計2,000件超の口コミ、YouTubeに320本のレビュ�
 
 デメリットを把握した上で選ぶなら、後悔より満足が先に来るミルだ。
 
-→ [27,500円の最安値を確認する（Amazon）](https://www.amazon.co.jp/s?k=Kalita%20%E3%83%8A%E3%82%A4%E3%82%B9%E3%82%AB%E3%83%83%E3%83%88G&tag=taskdesklab-22)
+→ [27,500円の最安値を確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00pxzhm.ycj6k3ed.g00pxzhm.ycj6lb93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsujimoto%2Ftk-61117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsujimoto%2Fi%2F10001280%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 静電気対策のRDTを知った上で買うなら、後悔より先に安定した一杯が来る。
 

@@ -30,7 +30,7 @@ LPN ストレッチポール EXはAmazon3,200件・楽天1,800件の口コミを
 
 整体3回分のコストで数年使える道具として見れば、置き場所さえ確保できれば後悔する余地は少ない。
 
-→ [Amazonで価格を確認する（送料無料）](https://www.amazon.co.jp/s?k=LPN%20%E3%82%B9%E3%83%88%E3%83%AC%E3%83%83%E3%83%81%E3%83%9D%E3%83%BC%E3%83%AB%20EX&tag=taskdesklab-22) ／ [楽天ポイント還元で買う](https://hb.afl.rakuten.co.jp/hgc/g00sksim.ycj6ke41.g00sksim.ycj6l62c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F100f072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10009916%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [楽天で価格を確認する（送料無料）](https://hb.afl.rakuten.co.jp/hgc/g00sksim.ycj6ke41.g00sksim.ycj6l62c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F100f072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10009916%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [楽天ポイント還元で買う](https://hb.afl.rakuten.co.jp/hgc/g00sksim.ycj6ke41.g00sksim.ycj6l62c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F100f072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10009916%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **こんな人に向いている**
 - 慢性的な肩こり・猫背に悩んでいて、毎日続けられるセルフケアを探している
@@ -56,7 +56,7 @@ LPNは国内メーカーで、ストレッチポール専業に近い会社だ�
 
 大阪府泉佐野市がLPN ストレッチポール EXを返礼品として取り扱っている。ふるさと納税を活用すれば実質負担額は2,000円程度に収まる。8,800円の価格がネックになっている場合は、購入前に確認しておく価値がある。
 
-→ [Amazonで価格を確認する（送料無料）](https://www.amazon.co.jp/s?k=LPN%20%E3%82%B9%E3%83%88%E3%83%AC%E3%83%83%E3%83%81%E3%83%9D%E3%83%BC%E3%83%AB%20EX&tag=taskdesklab-22) ／ [楽天ポイント還元で買う](https://hb.afl.rakuten.co.jp/hgc/g00sksim.ycj6ke41.g00sksim.ycj6l62c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F100f072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10009916%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [楽天で価格を確認する（送料無料）](https://hb.afl.rakuten.co.jp/hgc/g00sksim.ycj6ke41.g00sksim.ycj6l62c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F100f072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10009916%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [楽天ポイント還元で買う](https://hb.afl.rakuten.co.jp/hgc/g00sksim.ycj6ke41.g00sksim.ycj6l62c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F100f072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10009916%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## LPN ストレッチポール EXの効果はいつから出るか
 
@@ -169,6 +169,6 @@ Amazonだけで確認できた範囲で、TOEI LIGHTからLPN EXへの乗り換�
 
 Amazon・楽天合計5,000件超を調べた結果、LPN ストレッチポール EXは総合評価4.4を5,000件超が支えている製品だ。最初の2週間のデメリットは使用上の注意であり、製品の欠陥ではない。整体3回分のコストで数年使える。ふるさと納税を使えば実質2,000円の負担だ。毎日乗る場所さえ確保できれば、後悔する余地は少ない。
 
-→ [Amazonで価格を確認する（送料無料）](https://www.amazon.co.jp/s?k=LPN%20%E3%82%B9%E3%83%88%E3%83%AC%E3%83%83%E3%83%81%E3%83%9D%E3%83%BC%E3%83%AB%20EX&tag=taskdesklab-22) ／ [楽天ポイント還元で買う](https://hb.afl.rakuten.co.jp/hgc/g00sksim.ycj6ke41.g00sksim.ycj6l62c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F100f072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10009916%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [楽天で価格を確認する（送料無料）](https://hb.afl.rakuten.co.jp/hgc/g00sksim.ycj6ke41.g00sksim.ycj6l62c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F100f072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10009916%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [楽天ポイント還元で買う](https://hb.afl.rakuten.co.jp/hgc/g00sksim.ycj6ke41.g00sksim.ycj6l62c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F100f072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10009916%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

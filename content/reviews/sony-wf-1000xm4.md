@@ -39,7 +39,7 @@ Sony WF-1000XM4の口コミをAmazon1万2000件超・楽天3800件、計1万6000
 - **対応機能**: スピーク・トゥ・チャット、外音取り込み、イコライザー（Headphones Connect対応）
 - **参考価格**: 21,900円（1年365日使用換算で1日あたり約60円）
 
-[Amazonで在庫・最安値を確認する →](https://www.amazon.co.jp/s?k=Sony%20WF-1000XM4&tag=taskdesklab-22)　[楽天でポイントを使って購入する →](https://hb.afl.rakuten.co.jp/hgc/g00ty3am.ycj6k44c.g00ty3am.ycj6lfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksk-electronics%2Fsny_xm4-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksk-electronics%2Fi%2F10001110%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天で在庫・最安値を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00ty3am.ycj6k44c.g00ty3am.ycj6lfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksk-electronics%2Fsny_xm4-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksk-electronics%2Fi%2F10001110%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天でポイントを使って購入する →](https://hb.afl.rakuten.co.jp/hgc/g00ty3am.ycj6k44c.g00ty3am.ycj6lfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksk-electronics%2Fsny_xm4-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksk-electronics%2Fi%2F10001110%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 答えはYesだ。LDACとノイキャンを両立するイヤホンでこの価格帯はほぼ存在しない。ただし安さで飛びつくと後悔するケースもある。次のデメリット5選を先に確認してほしい。
 
@@ -69,7 +69,7 @@ XM5が出た現在、装着の安定性でXM4はやや劣ると評価するレ�
 
 ---
 
-[★4以上が78%のモデルをAmazonで確認する →](https://www.amazon.co.jp/s?k=Sony%20WF-1000XM4&tag=taskdesklab-22)　[楽天で確認する →](https://hb.afl.rakuten.co.jp/hgc/g00ty3am.ycj6k44c.g00ty3am.ycj6lfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksk-electronics%2Fsny_xm4-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksk-electronics%2Fi%2F10001110%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[★4以上が78%のモデルを楽天で確認する →](https://hb.afl.rakuten.co.jp/hgc/g00ty3am.ycj6k44c.g00ty3am.ycj6lfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksk-electronics%2Fsny_xm4-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksk-electronics%2Fi%2F10001110%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天で確認する →](https://hb.afl.rakuten.co.jp/hgc/g00ty3am.ycj6k44c.g00ty3am.ycj6lfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksk-electronics%2Fsny_xm4-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksk-electronics%2Fi%2F10001110%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ---
 
@@ -119,7 +119,7 @@ AirPods Pro第2世代との比較でも互角以上と判定されている。�
 
 iPhoneユーザーはAirPods Pro、AndroidユーザーはXM4を選べばいい。1万4000円の差額でLDACとトップクラスのノイキャンを手に入れる計算になる。
 
-[WF-1000XM4をAmazonで確認する →](https://www.amazon.co.jp/s?k=Sony%20WF-1000XM4&tag=taskdesklab-22)　[楽天でポイント還元で購入する →](https://hb.afl.rakuten.co.jp/hgc/g00ty3am.ycj6k44c.g00ty3am.ycj6lfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksk-electronics%2Fsny_xm4-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksk-electronics%2Fi%2F10001110%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[WF-1000XM4を楽天で確認する →](https://hb.afl.rakuten.co.jp/hgc/g00ty3am.ycj6k44c.g00ty3am.ycj6lfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksk-electronics%2Fsny_xm4-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksk-electronics%2Fi%2F10001110%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天でポイント還元で購入する →](https://hb.afl.rakuten.co.jp/hgc/g00ty3am.ycj6k44c.g00ty3am.ycj6lfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksk-electronics%2Fsny_xm4-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksk-electronics%2Fi%2F10001110%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 
 ## WF-1000XM4を買って後悔しやすいケース
@@ -155,7 +155,7 @@ LDACと高精度ドライバーの組み合わせは、ながら聴きだけで�
 
 Amazon1万2000件超・楽天3800件のWF-1000XM4口コミを調査した結果、通勤・在宅ワークのノイキャン用途で今も十分な性能を持つ。ケースの大きさとタッチ誤操作は購入後に解消できない特性だ。自分の使い方がこの製品の強みと一致しているかを確認してから買うのが、後悔を防ぐ最短ルートだ。
 
-[Amazonで在庫・最安値を確認する →](https://www.amazon.co.jp/s?k=Sony%20WF-1000XM4&tag=taskdesklab-22)　[楽天でポイントを使って購入する →](https://hb.afl.rakuten.co.jp/hgc/g00ty3am.ycj6k44c.g00ty3am.ycj6lfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksk-electronics%2Fsny_xm4-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksk-electronics%2Fi%2F10001110%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天で在庫・最安値を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00ty3am.ycj6k44c.g00ty3am.ycj6lfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksk-electronics%2Fsny_xm4-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksk-electronics%2Fi%2F10001110%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天でポイントを使って購入する →](https://hb.afl.rakuten.co.jp/hgc/g00ty3am.ycj6k44c.g00ty3am.ycj6lfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksk-electronics%2Fsny_xm4-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksk-electronics%2Fi%2F10001110%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## よくある質問
 

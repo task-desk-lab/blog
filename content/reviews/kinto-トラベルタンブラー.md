@@ -34,7 +34,7 @@ Kinto トラベルタンブラー の口コミ1,520件を調べた結果──�
 - **形状**: スリム型（多くのバッグのペットボトルポケット対応）
 - **内部構造**: フラット設計（洗いやすい）
 - **参考価格**: 2,860円〜（店舗によって3,300円前後）（2026年4月時点）
-- **カラー展開**: ブラック・ホワイト・ネイビー・グレー・カーキなど（展開色は時期によって異なるため、購入前に[Amazon商品ページで現在の在庫色を確認する](https://www.amazon.co.jp/s?k=Kinto%20%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC&tag=taskdesklab-22)ことを勧める）
+- **カラー展開**: ブラック・ホワイト・ネイビー・グレー・カーキなど（展開色は時期によって異なるため、購入前に[楽天商品ページで現在の在庫色を確認する](https://hb.afl.rakuten.co.jp/hgc/g00sregm.ycj6k00a.g00sregm.ycj6l50a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotcrafts%2Fkinto20931-36%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhotcrafts%2Fi%2F10000920%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)ことを勧める）
 
 ## Kinto トラベルタンブラー 悪い口コミ【1,520件調査】
 
@@ -97,7 +97,7 @@ Kinto トラベルタンブラー の口コミ1,520件を調べた結果──�
 
 全体を見渡すと、見た目はKinto、スペックはサーモス、と整理できる。どちらが上というわけでなく、何を重視するかで選び先が変わる。
 
-[→ Amazonで価格を見る（在庫残りわずかの色あり）](https://www.amazon.co.jp/s?k=Kinto%20%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC&tag=taskdesklab-22)
+[→ 楽天で価格を見る（在庫残りわずかの色あり）](https://hb.afl.rakuten.co.jp/hgc/g00sregm.ycj6k00a.g00sregm.ycj6l50a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotcrafts%2Fkinto20931-36%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhotcrafts%2Fi%2F10000920%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Kinto トラベルタンブラーを買って後悔する人
 
@@ -113,7 +113,7 @@ Kinto トラベルタンブラー の口コミ1,520件を調べた結果──�
 
 毎回分解して洗う習慣が身につかないと、パーツ紛失から密閉性低下につながる。細かいパーツの管理が苦手な人には向かない構造だ。
 
-それ以外の条件なら、Amazonの最安値を確認してから決めれば十分だ。[→ Amazonで価格を見る](https://www.amazon.co.jp/s?k=Kinto%20%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC&tag=taskdesklab-22)
+それ以外の条件なら、Amazonの最安値を確認してから決めれば十分だ。[→ 楽天で価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00sregm.ycj6k00a.g00sregm.ycj6l50a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotcrafts%2Fkinto20931-36%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhotcrafts%2Fi%2F10000920%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Kinto トラベルタンブラーを買って満足する人
 
@@ -129,7 +129,7 @@ Kinto トラベルタンブラー の口コミ1,520件を調べた結果──�
 
 余計な装飾がなくどんな空間にも馴染むデザインは、ワークスペースを整えたい人から安定して好評価が集まっている。
 
-[→ Amazonで現在の価格と在庫色を確認する](https://www.amazon.co.jp/s?k=Kinto%20%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC&tag=taskdesklab-22)
+[→ 楽天で現在の価格と在庫色を確認する](https://hb.afl.rakuten.co.jp/hgc/g00sregm.ycj6k00a.g00sregm.ycj6l50a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotcrafts%2Fkinto20931-36%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhotcrafts%2Fi%2F10000920%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Kinto トラベルタンブラーの口コミ調査からの結論
 

@@ -54,12 +54,12 @@ keywords: ["Anker Nebula Capsule 口コミ", "Anker Nebula Capsule 評判", "Ank
 **バッテリーが約2.5時間で尽きる**
 映画1本がギリギリの持ち時間だ。長編作品や連続視聴は充電しながら使うことが前提になり、屋外での電源確保が必要になる場面も出てくる。「想定より短かった」と楽天・Amazonの双方で書かれていた。
 
-→ それでも用途が合えばこれ一択 → [Amazonで確認する](https://www.amazon.co.jp/s?k=Anker%20Nebula%20Capsule&tag=taskdesklab-22)
+→ それでも用途が合えばこれ一択 → [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fd2426%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001242%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **冷却ファンの音が静寂な環境で気になる**
 約35dBのファン音（公式仕様表記なし・複数レビュー計測値より）は、静かな室内だと存在感を持つ。映画の静かなシーンで耳に入ってくるレベルで、この点を挙げた口コミが複数あった。
 
-→ それでも使い道が合えばこれ一択 → [Amazonで確認する](https://www.amazon.co.jp/s?k=Anker%20Nebula%20Capsule&tag=taskdesklab-22)
+→ それでも使い道が合えばこれ一択 → [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fd2426%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001242%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **同スペック帯の競合より価格が割高**
 同クラスの中国製品と比べると1.5〜2倍の価格設定で、割高感を指摘する声も出ている。Ankerブランドへの信頼感と価格のバランスをどう見るかが購入判断の分岐点だ。
@@ -88,7 +88,7 @@ XGIMI MoGo 2 Proはフル解像度1080pに対応し、輝度も400ルーメン�
 
 調査した口コミを見ると傾向がはっきりしている。キャンプや出張でAnkerを選んだ人の満足コメントは「暗い場所で使えた」という環境の一致に集中し、リビング常設でXGIMIを選んだ人の後悔コメントは「部屋が暗くならない」という環境の不一致に集中していた。用途と環境の一致率が、そのまま満足度になる。スペックを数字で並べて比較したい場合はミニプロジェクターおすすめ比較も参考になる。
 
-→ 携帯性を取るならこちら → [Amazonで確認する](https://www.amazon.co.jp/s?k=Anker%20Nebula%20Capsule&tag=taskdesklab-22)（2026年4月時点）
+→ 携帯性を取るならこちら → [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fd2426%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001242%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)（2026年4月時点）
 
 ## Anker Nebula Capsule キャンプ｜アウトドアで使った口コミまとめ
 
@@ -109,7 +109,7 @@ XGIMI MoGo 2 Proはフル解像度1080pに対応し、輝度も400ルーメン�
 **静かな環境で没入感を求める人**
 約35dB（レビュー計測値）のファン音がある以上、完全な静寂は難しい。このデメリットを事前に把握せずに買うと、期待とのギャップが生まれやすい。
 
-それでも迷うなら → [Amazonの口コミ1,240件を確認してから決めてほしい](https://www.amazon.co.jp/s?k=Anker%20Nebula%20Capsule&tag=taskdesklab-22)
+それでも迷うなら → [楽天の口コミ1,240件を確認してから決めてほしい](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fd2426%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001242%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Anker Nebula Capsule を買って満足する人
 
@@ -122,7 +122,7 @@ XGIMI MoGo 2 Proはフル解像度1080pに対応し、輝度も400ルーメン�
 **寝室で天井に映してベッドシアターにしたい人**
 就寝前の天井投影は、暗い寝室では輝度の低さが逆に目に優しい。無理なく使い続けられる、スマホ動画の延長線上に収まる体験だ。
 
-→ [Amazonで1,240件の口コミを見る](https://www.amazon.co.jp/s?k=Anker%20Nebula%20Capsule&tag=taskdesklab-22)（2026年4月時点）  
+→ [楽天で1,240件の口コミを見る](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fd2426%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001242%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)（2026年4月時点）  
 → [楽天で最安値を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fd2426%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001242%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Anker Nebula Capsule は買いか？2,350件の口コミから出た答え

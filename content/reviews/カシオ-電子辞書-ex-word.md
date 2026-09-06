@@ -57,7 +57,7 @@ Amazon・楽天の口コミを精査した結果、デメリットとして繰�
 
 「インターフェースが古い」「操作が直感的でない」——Amazonレビューでこういった評価が約15件見つかった。設定メニューの階層が深い、フォントが見にくいといった指摘は10代・20代のレビューに集中している。ただし逆の見方もある。操作がシンプルなぶん試験中に余計な操作で集中を乱されない、という受け止め方で、シンプルさを強みとして捉えているユーザーもいる。欠点か強みかは使う場面次第だ。
 
-UIが気になる場合でも、収録量と電池持続で選ぶ価値はある。→ [Amazonで最新価格と仕様を確認する](https://www.amazon.co.jp/s?k=%E3%82%AB%E3%82%B7%E3%82%AA%20%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8%20EX-word&tag=taskdesklab-22)
+UIが気になる場合でも、収録量と電池持続で選ぶ価値はある。→ [楽天で最新価格と仕様を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pssbm.ycj6k6e8.g00pssbm.ycj6l2e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomeshop%2Fs5601-cas-6788-95%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomeshop%2Fi%2F10352672%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### EX-word デメリット：画面解像度がタブレットに及ばない
 
@@ -65,7 +65,7 @@ UIが気になる場合でも、収録量と電池持続で選ぶ価値はある
 
 ### EX-word デメリット：付属ケースの保護力が不足している
 
-薄型ポーチが付属するが、「これだと画面が傷つく」という不満が約12件見つかった。別途ハードケースを購入しているユーザーが多い。ケース問題は500〜1,500円台のハードケースで解決できる。→ [Amazonで本体価格を確認する](https://www.amazon.co.jp/s?k=%E3%82%AB%E3%82%B7%E3%82%AA%20%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8%20EX-word&tag=taskdesklab-22)
+薄型ポーチが付属するが、「これだと画面が傷つく」という不満が約12件見つかった。別途ハードケースを購入しているユーザーが多い。ケース問題は500〜1,500円台のハードケースで解決できる。→ [楽天で本体価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pssbm.ycj6k6e8.g00pssbm.ycj6l2e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomeshop%2Fs5601-cas-6788-95%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomeshop%2Fi%2F10352672%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## カシオ 電子辞書 EX-wordの良い口コミ・メリット
 
@@ -81,7 +81,7 @@ UIが気になる場合でも、収録量と電池持続で選ぶ価値はある
 
 試験会場でコンセントを探す必要がない——これは受験生にとって大きな安心材料だ。約100時間という電池持ちなら、1週間の試験期間を通じて電池切れの心配はまず起きない。楽天の実レビューでも「画面も見やすく、電池だけで使用できるしコンパクトに辞書を持ち運べるのでこれにしてよかったです」（★5）と、電池式と携帯性をセットで評価する声があった。
 
-→ 現在の価格帯と在庫状況は[Amazonで確認できる](https://www.amazon.co.jp/s?k=%E3%82%AB%E3%82%B7%E3%82%AA%20%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8%20EX-word&tag=taskdesklab-22)
+→ 現在の価格帯と在庫状況は[楽天で確認できる](https://hb.afl.rakuten.co.jp/hgc/g00pssbm.ycj6k6e8.g00pssbm.ycj6l2e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomeshop%2Fs5601-cas-6788-95%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomeshop%2Fi%2F10352672%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ### ジャンプ機能で関連語・例文へ即移動できる
 
@@ -113,7 +113,7 @@ UIが気になる場合でも、収録量と電池持続で選ぶ価値はある
 
 **どちらを選ぶか迷ったらこの1問**：「UIよりも収録量を優先するか？」——YESならEX-word、NOならBrainが答えになる。
 
-→ [AmazonでEX-wordの価格を確認する](https://www.amazon.co.jp/s?k=%E3%82%AB%E3%82%B7%E3%82%AA%20%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8%20EX-word&tag=taskdesklab-22)
+→ [楽天でEX-wordの価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pssbm.ycj6k6e8.g00pssbm.ycj6l2e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomeshop%2Fs5601-cas-6788-95%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomeshop%2Fi%2F10352672%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## EX-wordを買って後悔する人
 
@@ -143,7 +143,7 @@ UIが気になる場合でも、収録量と電池持続で選ぶ価値はある
 
 電子辞書として独立した端末を持つことで、「辞書を引こうとしたらSNSを見てしまった」問題を構造的に解決できる。楽天の実レビューにはこうあった——「スマホで調べ物をすると、通知やSNSなどを見て勉強に集中出来なくなるのが気になってたので、購入して良かったです」（★5）。この「集中が切れない」価値こそ、無料アプリとの決定的な差になっている。
 
-→ [Amazonで最新価格を確認する](https://www.amazon.co.jp/s?k=%E3%82%AB%E3%82%B7%E3%82%AA%20%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8%20EX-word&tag=taskdesklab-22)  
+→ [楽天で最新価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pssbm.ycj6k6e8.g00pssbm.ycj6l2e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomeshop%2Fs5601-cas-6788-95%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomeshop%2Fi%2F10352672%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
 → [楽天で口コミをすべて見る](https://hb.afl.rakuten.co.jp/hgc/g00pssbm.ycj6k6e8.g00pssbm.ycj6l2e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomeshop%2Fs5601-cas-6788-95%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomeshop%2Fi%2F10352672%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## EX-word 口コミ調査からの結論

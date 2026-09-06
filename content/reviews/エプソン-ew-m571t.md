@@ -109,7 +109,7 @@ Amazon 1,240件、楽天 380件、ブログ記事74本、YouTube動画28本—�
 
 口コミ上の差異として、EW-M571Tは顔料ブラック採用による文字品質でわずかに有利。G3360は本体価格が低く、カラー写真の自然な発色を重視する層に支持がある。どちらも大容量タンク式で迷ったとき、アプリのUIの使いやすさでエプソンに軍配が上がることも多い。
 
-→ [Amazonで今すぐ価格チェック——在庫切れ前に](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%97%E3%82%BD%E3%83%B3%20EW-M571T&tag=taskdesklab-22)
+→ [楽天で今すぐ価格チェック——在庫切れ前に](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%2597%25E3%2582%25BD%25E3%2583%25B3%2520EW-M571T%2F)
 → [楽天市場で価格・ポイント還元を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%2597%25E3%2582%25BD%25E3%2583%25B3%2520EW-M571T%2F)
 
 ---
@@ -144,7 +144,7 @@ USB接続に切り替えれば動くが、スマホから手軽に使えるメ�
 
 書類印刷からスキャンまで1台で完結するため、機器を減らしたい人からの評判も高い。機能過多にならず使いやすい点が支持されている。
 
-→ [Amazonで今すぐ価格チェック——在庫切れ前に](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%97%E3%82%BD%E3%83%B3%20EW-M571T&tag=taskdesklab-22)
+→ [楽天で今すぐ価格チェック——在庫切れ前に](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%2597%25E3%2582%25BD%25E3%2583%25B3%2520EW-M571T%2F)
 → [楽天市場で価格・ポイント還元を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%2597%25E3%2582%25BD%25E3%2583%25B3%2520EW-M571T%2F)
 
 ---

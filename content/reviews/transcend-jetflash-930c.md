@@ -99,7 +99,7 @@ USB-C と USB-A 両方に対応した JetFlash 930C は、スマホとパソコ�
 
 ## 今すぐ購入
 
-- [Amazon で Transcend JetFlash 930C を見る](https://www.amazon.co.jp/s?k=Transcend%20JetFlash%20930C&tag=taskdesklab-22)
+- [楽天で Transcend JetFlash 930C を見る](https://hb.afl.rakuten.co.jp/hgc/g00pmmbm.ycj6k8ea.g00pmmbm.ycj6l61a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2Fts512gjf930c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10097621%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 - [楽天 で Transcend JetFlash 930C を見る](https://hb.afl.rakuten.co.jp/hgc/g00pmmbm.ycj6k8ea.g00pmmbm.ycj6l61a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2Fts512gjf930c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10097621%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

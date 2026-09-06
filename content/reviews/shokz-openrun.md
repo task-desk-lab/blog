@@ -104,7 +104,7 @@ USB-Cではなく専用の磁気充電ケーブルが必要な点は、地味に
 
 同価格帯の他メーカー骨伝導イヤホンも複数存在するが、レビュー件数の厚さと評価の一貫性ではShokzがリードしている。
 
-▶ [Amazonで今日の最安値を見る](https://www.amazon.co.jp/s?k=Shokz%20OpenRun&tag=taskdesklab-22)
+▶ [楽天で今日の最安値を見る](https://hb.afl.rakuten.co.jp/hgc/g00tqoum.ycj6k5cf.g00tqoum.ycj6lb82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faftershokz-official%2Fskz-sp-000013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faftershokz-official%2Fi%2F10000018%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 ▶ [楽天ポイント還元で購入する](https://hb.afl.rakuten.co.jp/hgc/g00tqoum.ycj6k5cf.g00tqoum.ycj6lb82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faftershokz-official%2Fskz-sp-000013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faftershokz-official%2Fi%2F10000018%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Shokz OpenRunは買いか：後悔する人・満足する人
@@ -121,7 +121,7 @@ USB-Cではなく専用の磁気充電ケーブルが必要な点は、地味に
 - 長時間イヤホンを付けると耳が痛くなる人。耳の中に入れないため、フルマラソンや長距離ライドでも耳への負担が少ない
 - ポッドキャストや通話を耳を塞がずに聴きたい人。トーク系コンテンツや通話なら十分な音質だ
 
-▶ [在庫切れ前にAmazonで価格を確認する](https://www.amazon.co.jp/s?k=Shokz%20OpenRun&tag=taskdesklab-22)
+▶ [在庫切れ前に楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tqoum.ycj6k5cf.g00tqoum.ycj6lb82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faftershokz-official%2Fskz-sp-000013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faftershokz-official%2Fi%2F10000018%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 ▶ [楽天市場でポイントを使って購入する](https://hb.afl.rakuten.co.jp/hgc/g00tqoum.ycj6k5cf.g00tqoum.ycj6lb82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faftershokz-official%2Fskz-sp-000013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faftershokz-official%2Fi%2F10000018%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## Shokz OpenRun レビュー｜6,000件の口コミ調査からの結論
@@ -130,7 +130,7 @@ USB-Cではなく専用の磁気充電ケーブルが必要な点は、地味に
 
 15,950円は決して安くない。ただ、毎日使うスポーツギアとして換算すると1日あたり約43.7円（15,950÷365）になる。買って後悔するケースの多くは用途のミスマッチによるもので、走ったり漕いだりしながら使う前提なら、選択肢として十分に成立する。
 
-▶ [Amazonで今すぐ最安値を確認する](https://www.amazon.co.jp/s?k=Shokz%20OpenRun&tag=taskdesklab-22)
+▶ [楽天で今すぐ最安値を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tqoum.ycj6k5cf.g00tqoum.ycj6lb82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faftershokz-official%2Fskz-sp-000013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faftershokz-official%2Fi%2F10000018%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 ▶ [楽天市場で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00tqoum.ycj6k5cf.g00tqoum.ycj6lb82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faftershokz-official%2Fskz-sp-000013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faftershokz-official%2Fi%2F10000018%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## よくある質問

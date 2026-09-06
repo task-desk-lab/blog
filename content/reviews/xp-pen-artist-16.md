@@ -99,7 +99,7 @@ Wacom One 13は画面13インチでやや小さく、同じ液タブ入門向け
 
 現在、XP-Pen Artist 16の市場価格は30,000～35,000円程度で推移している。以下で最新の価格と在庫を確認できる。
 
-- [現在の価格をAmazonで確認](https://www.amazon.co.jp/s?k=XP-Pen%20Artist%2016&tag=taskdesklab-22)
+- [現在の価格を楽天で確認](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXP-Pen%20Artist%2016%2F)
 
 ## XP-Pen Artist 16の口コミ調査からの結論
 

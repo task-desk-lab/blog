@@ -102,7 +102,7 @@ A4用紙（210×297mm）と比べると横幅185mmはほぼ同等のサイズ感
 
 「カシオは数字キーが大きめで見やすい、シャープは機能キーの配置が直感的」という比較レビューもある。どちらが優れているかではなく、自分の打ち方と用途に合うかどうかで選ぶ製品だ。**速打ちを重視するなら JS-20WK、押した感触を確かめながら打ちたいなら EL-G37** が選択の目安になる。実際に触れる機会があれば手の感覚で決めるのが一番早い。
 
-**カシオ JS-20WK**：[楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[Amazonで価格を確認する](https://www.amazon.co.jp/dp/B082YSL1CZ/?tag=taskdesklab-22)
+**カシオ JS-20WK**：[楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 **シャープ EL-G37**：[楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
@@ -134,7 +134,7 @@ A4用紙（210×297mm）と比べると横幅185mmはほぼ同等のサイズ感
 
 デュアル電源とカシオの品質から、買い替えサイクルを長く取れる製品だ。1日あたり約13円（4,800円÷365日）というコストで業務ツールとして使えると考えると、費用対効果に納得感がある。
 
-[楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[Amazonで価格・在庫を確認する](https://www.amazon.co.jp/dp/B082YSL1CZ/?tag=taskdesklab-22)
+[楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 ## よくある質問
 
@@ -154,6 +154,6 @@ A4用紙（210×297mm）と比べると横幅185mmはほぼ同等のサイズ感
 
 Amazonで1,200件・楽天で320件のレビューを調べた結論は、「毎日使う人には費用対効果が高い、たまにしか使わない人には過剰」という一言に尽きる。悪い口コミの多くはサイズや価格への想定外の感想で、スペック（185×107×34mm・425g）を先に把握すれば回避できるものだ。デメリットを承知のうえで実務電卓として据え置くなら、後悔しにくい製品だとぼくは判断している。1日13円で仕事のミスが減るなら、使用頻度が高い人ほど費用対効果は高い。
 
-[楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[Amazonで価格・在庫を確認する](https://www.amazon.co.jp/dp/B082YSL1CZ/?tag=taskdesklab-22)
+[楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 また明日、集合知で会おう。

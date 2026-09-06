@@ -115,7 +115,7 @@ Amazon・楽天合計1,785件の口コミから、山崎実業 tower マグネ�
 
 翌日配送対象なら、注文から設置まで最短で動ける。在庫が動く前に確認しておくといい。
 
-→ [Amazonで在庫・価格を確認する](https://www.amazon.co.jp/s?k=%E5%B1%B1%E5%B4%8E%E5%AE%9F%E6%A5%AD%20%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E5%8F%8E%E7%B4%8D%20tower&tag=taskdesklab-22)
+→ [楽天で在庫・価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pum9m.ycj6kf34.g00pum9m.ycj6lb15/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falamode%2F3605-c460%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falamode%2Fi%2F10024991%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 楽天はポイント還元率が高い時期やセール価格を狙いやすく、まとめ買いでコスト差が出やすい。
 
@@ -148,7 +148,7 @@ Amazon・楽天合計1,785件を調べた結論は一つ。設置条件を理解
 
 翌日配送対象なら注文から設置まで最短で動ける。
 
-→ [Amazonで価格を確認する](https://www.amazon.co.jp/s?k=%E5%B1%B1%E5%B4%8E%E5%AE%9F%E6%A5%AD%20%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E5%8F%8E%E7%B4%8D%20tower&tag=taskdesklab-22)
+→ [楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pum9m.ycj6kf34.g00pum9m.ycj6lb15/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falamode%2F3605-c460%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falamode%2Fi%2F10024991%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
 楽天はポイント還元やセール価格での購入を狙いたいときに向いている。
 

@@ -33,11 +33,11 @@ keywords: ["Ugreen USB-C ケーブル 2M 口コミ", "Ugreen USB-C ケーブル 
 - 価格：980円前後（Amazon）、1499円（楽天）
 
 → [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00u0fbm.ycj6k004.g00u0fbm.ycj6l855/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fugreen-gear%2F70643%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fugreen-gear%2Fi%2F10000062%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
-→ [楽天で見る](https://rakuten.co.jp/)
+→ [楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00u0fbm.ycj6k004.g00u0fbm.ycj6l855/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fugreen-gear%2F70643%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fugreen-gear%2Fi%2F10000062%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
 
-## ぼくが実際に使ってみた
+## 実際の使い方と作りの特徴
 
-ぼくがこのケーブルを使ってみたのは、過去に3本のUSB-Cケーブルが半年以内に断線してからのこと。Ugreen 2Mを試してみると、まず本体の太さに気づく。編組の密度が高く、手に持つと「これなら長く使えそう」という安心感がある。実際の充電速度は純正と比べてわずかな差で、実用上は問題ない。ノートPCからスマートフォン、外付けSSDのデータ転送まで、一本で対応できる使い勝手が気に入っている。2mの長さのおかげで、ベッドに寝転びながらスマートフォンを充電できるのも地味に便利だ。
+購入動機として想定されるのは、以前のUSB-Cケーブルが短期間で断線した経験だ。本体はナイロン編組で一般的なケーブルより太く、根本の補強もあるため、手に持った時点で作りの違いが分かる仕様になっている。充電速度は純正ケーブルとの差がわずかで、ノートPCからスマートフォン、外付けSSDのデータ転送まで一本で対応できる。2mの長さは、ベッドやソファから離れたコンセントで充電する用途に向く。
 
 ## Ugreen USB-C ケーブル 2Mの悪い口コミ・デメリット
 

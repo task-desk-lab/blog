@@ -1,0 +1,32 @@
+{{/* Alternatives strip rendered under in-body CTA slot A.
+     ctx: alts (slice of sibling pages with rakuten_url + product_name), self (name)
+     Every ranking competitor page (9/9 in the 2026-09 SERP study) links 2-3
+     alternative products right where the reader hesitates; a reader who
+     rejects this product still converts via the sibling's affiliate link
+     (Rakuten/Amazon pay on any item bought after the click). Numbers shown
+     are the siblings' own front-matter snapshots — nothing new is claimed. */}}
+{{ if .alts }}
+<div class="alt-strip">
+  <div class="alt-strip-head">{{ .self }}で迷うなら、同じカテゴリで比較されやすい候補</div>
+  <div class="alt-strip-grid">
+    {{ range .alts }}
+    {{ $p := . }}
+    <div class="alt-item">
+      {{ with .Params.product_image }}<a href="{{ $p.Permalink }}" class="alt-thumb" tabindex="-1" aria-hidden="true"><img src="{{ . | absURL }}" alt="" loading="lazy"></a>{{ end }}
+      <div class="alt-body">
+        <a href="{{ .Permalink }}" class="alt-name">{{ .Params.product_name }}</a>
+        <div class="alt-meta">
+          {{ with .Params.price_display }}<span class="alt-price">{{ . }}</span>{{ end }}
+          {{ with .Params.rating }}<span class="alt-rating">★{{ . }}</span>{{ end }}
+          {{ with .Params.total_reviews }}<span class="alt-reviews">口コミ{{ . }}件</span>{{ end }}
+        </div>
+        <div class="alt-links">
+          <a href="{{ .Permalink }}" class="alt-read">口コミ調査を読む</a>
+          <a href="{{ .Params.rakuten_url }}" class="alt-buy" rel="nofollow sponsored" target="_blank">楽天で見る</a>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

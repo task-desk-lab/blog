@@ -483,6 +483,82 @@
     .affiliate-buttons.primary .amazon { background: #ff9900; color: var(--bg); }
     .affiliate-buttons.primary .amazon:hover { background: #ffad33; color: var(--bg); }
 
+    /* --- 2026-09-06 conversion redesign ------------------------------------ */
+    /* Verdict line inside the hero product card (front-matter `verdict`, which
+       was never rendered before). */
+    .product-card .verdict-line {
+      font-size: 14px; line-height: 1.5; margin: 0 0 10px; color: var(--text);
+    }
+    .product-card .verdict-line span {
+      display: inline-block; font-size: 11px; font-weight: bold; letter-spacing: 0.04em;
+      color: var(--bg); background: var(--accent2); border-radius: 4px;
+      padding: 2px 6px; margin-right: 8px; vertical-align: 1px;
+    }
+    /* Hero CTA row spans the card grid. */
+    .product-card .card-cta { grid-column: 1 / -1; margin-top: 4px; }
+    .product-card .card-cta .affiliate-buttons { margin: 0; }
+    .product-card .card-cta .affiliate-buttons a { padding: 14px 12px; font-size: 15px; }
+    .product-card .card-cta-note {
+      font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);
+      margin-top: 8px; letter-spacing: 0.02em;
+    }
+    @media (max-width: 480px) {
+      .product-card { grid-template-columns: 1fr !important; }
+      .product-card > div:first-child { max-width: 200px; margin: 0 auto; }
+    }
+
+    /* Alternatives strip under in-body CTA slot A. */
+    .alt-strip {
+      margin: 0 0 32px; padding: 14px 16px 12px;
+      background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px;
+    }
+    .alt-strip-head { font-size: 13px; color: var(--text-dim); margin-bottom: 10px; }
+    .alt-strip-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    @media (max-width: 560px) { .alt-strip-grid { grid-template-columns: 1fr; } }
+    .alt-item { display: flex; gap: 12px; align-items: flex-start; min-width: 0; }
+    .alt-thumb {
+      flex: none; width: 64px; height: 64px; background: #fff; border-radius: 6px;
+      padding: 4px; display: block;
+    }
+    .alt-thumb img { width: 100%; height: 100%; object-fit: contain; display: block; }
+    .alt-body { min-width: 0; flex: 1; }
+    .alt-name { display: block; font-weight: bold; font-size: 14px; line-height: 1.4; color: var(--text); }
+    .alt-meta { font-size: 12px; color: var(--text-dim); margin: 4px 0 6px; display: flex; flex-wrap: wrap; gap: 4px 10px; }
+    .alt-meta .alt-price { color: var(--accent); font-weight: bold; }
+    .alt-links { display: flex; gap: 8px; flex-wrap: wrap; }
+    .alt-links a {
+      font-size: 12px; padding: 5px 10px; border-radius: 6px; border: 1px solid var(--border);
+      color: var(--text); white-space: nowrap;
+    }
+    .alt-links .alt-buy { border-color: #bf0000; color: #ff6b6b; }
+    .alt-links a:hover { text-decoration: none; background: var(--border); }
+
+    /* Mobile sticky CTA bar. */
+    .sticky-cta {
+      position: fixed; left: 0; right: 0; bottom: 0; z-index: 50;
+      display: flex; align-items: center; gap: 10px;
+      padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+      background: rgba(11, 30, 63, 0.97); border-top: 1px solid var(--border);
+      backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+    }
+    .sticky-cta[hidden] { display: none; }
+    .sticky-cta-info { flex: 1; min-width: 0; }
+    .sticky-cta-name {
+      font-size: 12px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .sticky-cta-price { font-size: 13px; color: var(--accent); font-weight: bold; }
+    .sticky-cta-price span { font-size: 10px; color: var(--text-dim); font-weight: normal; margin-left: 2px; }
+    .sticky-cta-btn {
+      flex: none; background: #bf0000; color: #fff; font-weight: bold; font-size: 13px;
+      padding: 10px 14px; border-radius: 8px; white-space: nowrap;
+    }
+    .sticky-cta-btn:hover { background: #d50000; color: #fff; text-decoration: none; }
+    .sticky-cta-close {
+      flex: none; background: none; border: 0; color: var(--text-dim); font-size: 20px;
+      line-height: 1; padding: 4px 6px; cursor: pointer;
+    }
+    @media (min-width: 769px) { .sticky-cta { display: none !important; } }
+
     /* YouTube Shorts embed — narrow wrapper so the 9:16 iframe doesn't
        letterbox the article. aspect-ratio prevents CLS on lazy mount. */
     .video-embed {

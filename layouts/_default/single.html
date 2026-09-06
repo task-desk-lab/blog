@@ -65,6 +65,19 @@
     {{ with .Params.categories }} · {{ range . }}<span class="cat">{{ . }}</span>{{ end }}{{ end }}
   </div>
 
+  {{/* Affiliate CTA plumbing.
+       $az: use front-matter amazon_url when present (vetted real product URL);
+       otherwise an Amazon search URL from product_name + taskdesklab-22 tag.
+       Never guess ASINs/short URLs here — that caused the 2026-07-07 broken-link
+       incident. */}}
+  {{ $rk := .Params.rakuten_url }}
+  {{ $az := "" }}
+  {{ $azDirect := false }}
+  {{ with .Params.amazon_url }}{{ $az = . }}{{ $azDirect = true }}{{ else }}{{ with .Params.product_name }}{{ $az = printf "https://www.amazon.co.jp/s?k=%s&tag=taskdesklab-22" (. | urlquery) }}{{ end }}{{ end }}
+  {{ $azLabelSearch := "Amazonで探す" }}
+  {{ $azLabelDirect := "Amazonで見る" }}
+  {{ $azLabel := cond $azDirect $azLabelDirect $azLabelSearch }}
+
   {{ if .Params.product_name }}
   <div class="product-card" style="display: grid; grid-template-columns: {{ if .Params.product_image }}160px 1fr{{ else }}1fr{{ end }}; gap: 20px; align-items: center;">
     {{ with .Params.product_image }}
@@ -74,6 +87,7 @@
     {{ end }}
     <div>
       <h2 style="margin:0 0 8px 0;border:0;padding:0;">{{ .Params.product_name }}</h2>
+      {{ with .Params.verdict }}<div class="verdict-line"><span>集合知の結論</span>{{ . }}</div>{{ end }}
       {{ with .Params.price_display }}<div class="price">{{ . }}</div>{{ end }}
       {{ with .Params.shop_name }}<div style="color: var(--text-dim); font-size: 12px;">{{ . }}</div>{{ end }}
       {{ with .Params.rating }}
@@ -93,6 +107,20 @@
         <span class="km-item">最終更新 {{ .Lastmod.Format "2006.01" }}</span>
       </div>
     </div>
+    {{/* Hero CTA: the first screen is the only place ~99% of readers reach
+         (GA4: 90%-scroll 1.2%, avg engagement 44s). Price shown is the
+         front-matter snapshot, so the label sends readers to check the live
+         listing rather than asserting the price. */}}
+    {{ if or $rk $az }}
+    <div class="card-cta">
+      {{ $rkLabel := "楽天で最新価格を見る" }}
+      {{ with .Params.review_count }}{{ if ge (int .) 30 }}{{ $rkLabel = printf "楽天で口コミ%v件と最新価格を見る" . }}{{ end }}{{ end }}
+      {{ partial "affiliate_cta.html" (dict
+           "rakuten" $rk "amazon" $az "primary" true
+           "rakutenLabel" $rkLabel "amazonLabel" $azLabel) }}
+      <div class="card-cta-note">価格・在庫は{{ .Lastmod.Format "2006年1月" }}時点の楽天出品。最新はストアで確認できる</div>
+    </div>
+    {{ end }}
   </div>
   {{ end }}
 
@@ -111,33 +139,64 @@
   </div>
   {{ end }}
 
-  {{/* Affiliate CTA plumbing.
-       $az: use front-matter amazon_url when present (vetted real product URL);
-       otherwise an Amazon search URL from product_name + taskdesklab-22 tag.
-       Never guess ASINs/short URLs here — that caused the 2026-07-07 broken-link
-       incident. */}}
-  {{ $rk := .Params.rakuten_url }}
-  {{ $az := "" }}
-  {{ with .Params.amazon_url }}{{ $az = . }}{{ else }}{{ with .Params.product_name }}{{ $az = printf "https://www.amazon.co.jp/s?k=%s&tag=taskdesklab-22" (. | urlquery) }}{{ end }}{{ end }}
+  {{/* Same-category siblings (priority pages first). Computed here because the
+       in-body alternatives strip needs it before the content is emitted; the
+       related-articles sections further down reuse the same slice. */}}
+  {{ $related := where (where .Site.RegularPages "Section" "reviews") "Params.categories" "intersect" .Params.categories }}
+  {{ $related = where $related "Permalink" "ne" .Permalink }}
+  {{ $prioSlugs := .Site.Data.seo_priority.slugs }}
+  {{ $prioPages := slice }}
+  {{ $restPages := slice }}
+  {{ range $related }}
+    {{ if in $prioSlugs .Params.slug }}{{ $prioPages = $prioPages | append . }}{{ else }}{{ $restPages = $restPages | append . }}{{ end }}
+  {{ end }}
+  {{ $related = $prioPages | append $restPages }}
 
-  {{/* Primary CTA goes right AFTER the reader has seen the verdict — end of the
-       first 結論 h2 section (319/401 articles), else just before the second h2,
-       else (no h2 at all) above the content as before. GA4 shows the old
-       pre-content / end-only buttons drew ~0 human clicks. */}}
+  {{/* In-body CTA placement (2026-09-06 redesign).
+       Readers average 44s on page and 1.2% reach 90% scroll, so every CTA has
+       to sit in the first half. Three in-body slots:
+         A) after the 結論 section when 結論 is one of the first two h2s,
+            otherwise after the FIRST h2 section (the old rule put it after a
+            trailing 結論 h2 = 70% down the page in e.g. jabra-speak2-55).
+            Slot A also carries the alternatives strip (2 same-category
+            products) because 9/9 ranking competitors cross-sell there.
+         B) after the 「満足する人」section = the moment of self-identification.
+            When 結論 is a late h2 (index > 1) slot B goes after that 結論
+            section instead, which is the same reading moment.
+         C) the outlined re-prompt after the body (unchanged). */}}
   {{ $content := printf "%s" .Content }}
   {{ if or $rk $az }}
-    {{ $cta := printf "%s" (partial "affiliate_cta.html" (dict
+    {{ $h2s := findRE `<h2[^>]*>[^<]*</h2>` $content }}
+    {{ $concIdx := -1 }}
+    {{ range $i, $h := $h2s }}{{ if and (lt $concIdx 0) (in $h "結論") }}{{ $concIdx = $i }}{{ end }}{{ end }}
+
+    {{ $alts := slice }}
+    {{ range $related }}{{ if and (lt (len $alts) 2) .Params.rakuten_url .Params.product_name }}{{ $alts = $alts | append . }}{{ end }}{{ end }}
+    {{ $ctaA := printf "%s%s"
+         (partial "affiliate_cta.html" (dict
+            "rakuten" $rk "amazon" $az "primary" true
+            "rakutenLabel" "楽天で最新価格を見る" "amazonLabel" $azLabel))
+         (partial "alt_products.html" (dict "alts" $alts "self" .Params.product_name)) }}
+    {{ $ctaA = replace $ctaA "$" "$$" }}{{/* keep regexp replacement literal */}}
+    {{ $ctaB := printf "%s" (partial "affiliate_cta.html" (dict
          "rakuten" $rk "amazon" $az "primary" true
-         "rakutenLabel" "楽天で最新価格を見る" "amazonLabel" "Amazonで在庫を確認")) }}
-    {{ $cta = replace $cta "$" "$$" }}{{/* keep regexp replacement literal */}}
+         "rakutenLabel" "楽天で在庫と価格を確認する" "amazonLabel" $azLabel)) }}
+    {{ $ctaB = replace $ctaB "$" "$$" }}
+
     {{ $patConclusion := `(?s)(<h2[^>]*>[^<]*結論[^<]*</h2>.*?)(<h2)` }}
-    {{ $patSecondH2 := `(?s)^(.*?<h2[^>]*>.*?)(<h2)` }}
-    {{ if findRE $patConclusion $content 1 }}
-      {{ $content = replaceRE $patConclusion (printf "${1}%s${2}" $cta) $content 1 }}
-    {{ else if findRE $patSecondH2 $content 1 }}
-      {{ $content = replaceRE $patSecondH2 (printf "${1}%s${2}" $cta) $content 1 }}
-    {{ else }}
-      {{ $content = printf "%s%s" $cta $content }}
+    {{ $patFirstH2 := `(?s)^(.*?<h2[^>]*>.*?)(<h2)` }}
+    {{ $patSatisfied := `(?s)(<h2[^>]*>[^<]*満足する人[^<]*</h2>.*?)(<h2)` }}
+
+    {{ if and (ge $concIdx 0) (le $concIdx 1) (findRE $patConclusion $content 1) }}
+      {{ $content = replaceRE $patConclusion (printf "${1}%s${2}" $ctaA) $content 1 }}
+    {{ else if findRE $patFirstH2 $content 1 }}
+      {{ $content = replaceRE $patFirstH2 (printf "${1}%s${2}" $ctaA) $content 1 }}
+    {{ end }}
+
+    {{ if and (gt $concIdx 1) (findRE $patConclusion $content 1) }}
+      {{ $content = replaceRE $patConclusion (printf "${1}%s${2}" $ctaB) $content 1 }}
+    {{ else if findRE $patSatisfied $content 1 }}
+      {{ $content = replaceRE $patSatisfied (printf "${1}%s${2}" $ctaB) $content 1 }}
     {{ end }}
   {{ end }}
 
@@ -145,7 +204,46 @@
 
   {{ partial "affiliate_cta.html" (dict
        "rakuten" $rk "amazon" $az "primary" false
-       "rakutenLabel" "楽天で見る" "amazonLabel" "Amazonで見る") }}
+       "rakutenLabel" "楽天で見る" "amazonLabel" $azLabel) }}
+
+  {{/* Mobile sticky bar: the one CTA that follows the reader. Hidden while any
+       in-page CTA block is visible, dismissable, session-remembered. */}}
+  {{ if and $rk .Params.product_name }}
+  <div class="sticky-cta" id="sticky-cta" hidden>
+    <div class="sticky-cta-info">
+      <div class="sticky-cta-name">{{ .Params.product_name }}</div>
+      {{ with .Params.price_display }}<div class="sticky-cta-price">{{ . }}<span>〜（{{ $.Lastmod.Format "2006.01" }}時点）</span></div>{{ end }}
+    </div>
+    <a href="{{ $rk }}" class="sticky-cta-btn" rel="nofollow sponsored" target="_blank">楽天で今の価格を見る</a>
+    <button type="button" class="sticky-cta-close" aria-label="閉じる" onclick="try{sessionStorage.setItem('stickyCtaOff','1')}catch(e){}document.getElementById('sticky-cta').hidden=true">×</button>
+  </div>
+  <script>
+    (function () {
+      var bar = document.getElementById('sticky-cta');
+      if (!bar) return;
+      try { if (sessionStorage.getItem('stickyCtaOff')) return; } catch (e) {}
+      var ctas = document.querySelectorAll('.affiliate-buttons, .card-cta');
+      function ctaVisible() {
+        var h = window.innerHeight;
+        for (var i = 0; i < ctas.length; i++) {
+          var r = ctas[i].getBoundingClientRect();
+          if (r.bottom > 0 && r.top < h) return true;
+        }
+        return false;
+      }
+      var ticking = false;
+      function update() {
+        ticking = false;
+        var show = window.scrollY > 600 && !ctaVisible();
+        bar.hidden = !show;
+      }
+      window.addEventListener('scroll', function () {
+        if (!ticking) { ticking = true; window.requestAnimationFrame(update); }
+      }, { passive: true });
+      update();
+    })();
+  </script>
+  {{ end }}
 
   {{/* Legacy text link kept as fallback when only video_url exists (no youtube_id) */}}
   {{ if and (not .Params.youtube_id) .Params.video_url }}
@@ -155,19 +253,8 @@
 </article>
 
 {{ $category := index .Params.categories 0 }}
-{{ $related := where (where .Site.RegularPages "Section" "reviews") "Params.categories" "intersect" .Params.categories }}
-{{ $related = where $related "Permalink" "ne" .Permalink }}
-{{/* Concentrate internal links on near-page-1 / winning articles: pull any
-     same-category page listed in data/seo_priority.yaml to the front, so the
-     6 surfaced links favour the pages most likely to be pushed onto page 1.
-     Falls back to default ordering when no priority pages share the category. */}}
-{{ $prioSlugs := .Site.Data.seo_priority.slugs }}
-{{ $prioPages := slice }}
-{{ $restPages := slice }}
-{{ range $related }}
-  {{ if in $prioSlugs .Params.slug }}{{ $prioPages = $prioPages | append . }}{{ else }}{{ $restPages = $restPages | append . }}{{ end }}
-{{ end }}
-{{ $related = $prioPages | append $restPages }}
+{{/* $related (same-category, seo_priority pages first) is computed above the
+     article body so the in-body alternatives strip can use it. */}}
 {{ if $related }}
 <section style="margin-top: 60px;">
   <h2>同じカテゴリの集合知口コミ</h2>

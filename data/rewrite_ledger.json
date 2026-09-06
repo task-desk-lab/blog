@@ -132,5 +132,107 @@
    "ノーブルノート 万年筆",
    "ライフノート 使い方"
   ]
+ },
+ "sandisk-extreme-portable-ssd": {
+  "date": "2026-09-07",
+  "pos": 14.6,
+  "imp": 16,
+  "intents": [],
+  "section": "SanDisk Extreme Portable SSDの評判は？結論",
+  "queries": [
+   "サンディスク ssd 評判",
+   "sandisk ssd 評判",
+   "サン ディスク ssd 評判"
+  ]
+ },
+ "delonghi-マグニフィカ-スタート": {
+  "date": "2026-09-07",
+  "pos": 19.9,
+  "imp": 14,
+  "intents": [
+   "howto"
+  ],
+  "section": "マグニフィカ スタートの使い方・基本設定",
+  "queries": [
+   "デロンギ マグニフィカ スタート",
+   "マグニフィカスタート",
+   "デロンギ マグニフィカ スタート 使い方",
+   "デロンギ マグニフィカスタート",
+   "デロンギ 全自動コーヒーマシン マグニフィカ スタート"
+  ]
+ },
+ "tp-link-deco-m4": {
+  "date": "2026-09-07",
+  "pos": 19.9,
+  "imp": 12,
+  "intents": [],
+  "section": "TP-Link Deco M4とは｜結論と向く人",
+  "queries": [
+   "deco m4",
+   "tplink mr4"
+  ]
+ },
+ "サンワダイレクト-フットレスト": {
+  "date": "2026-09-07",
+  "pos": 19.2,
+  "imp": 11,
+  "intents": [],
+  "section": "サンワダイレクト フットレストの評判を先に整理",
+  "queries": [
+   "サンワダイレクト フットレスト",
+   "サンワ フットレスト",
+   "サンワサプライ フットレスト",
+   "サンワダイレクト フットレスト 100-fr010 reviews",
+   "サンワダイレクト 評判"
+  ]
+ },
+ "プラス-穴あけパンチ": {
+  "date": "2026-09-07",
+  "pos": 10.6,
+  "imp": 11,
+  "intents": [
+   "howto"
+  ],
+  "section": "プラス穴あけパンチの使い方と設置の注意点",
+  "queries": [
+   "plus 穴あけパンチ 使い方"
+  ]
+ },
+ "パナソニック-ledシーリングライト": {
+  "date": "2026-09-07",
+  "pos": 15.2,
+  "imp": 10,
+  "intents": [],
+  "section": "パナソニック照明の口コミ評価とこの記事の結論",
+  "queries": [
+   "パナソニック 照明 口コミ"
+  ]
+ },
+ "hyperx-alloy-origins": {
+  "date": "2026-09-07",
+  "pos": 18.9,
+  "imp": 10,
+  "intents": [],
+  "section": "HyperX Alloy Originsの評判と結論を先に",
+  "queries": [
+   "alloy hyperx",
+   "hyperx alloy origins",
+   "hyperx allow",
+   "hyperx keyboard alloy",
+   "hyperx origin alloy"
+  ]
+ },
+ "logicool-g304-lightspeed-ワイヤレスゲーミングマウス": {
+  "date": "2026-09-07",
+  "pos": 14.7,
+  "imp": 10,
+  "intents": [],
+  "section": "G304は有線同等？チャタリング・RGB・Unifying",
+  "queries": [
+   "g304 unifying",
+   "g304 有線",
+   "g304 チャタリング",
+   "g304 rgb"
+  ]
  }
 }

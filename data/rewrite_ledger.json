@@ -1,0 +1,136 @@
+{
+ "apple-pencil-第2世代": {
+  "date": "2026-09-06",
+  "pos": 17.3,
+  "imp": 41,
+  "intents": [],
+  "section": "Apple Pencil 第2世代の重さと評判｜向く人",
+  "queries": [
+   "apple pencil 論文 読み 評判",
+   "apple pencil 重さ"
+  ]
+ },
+ "jbl-tune-770nc": {
+  "date": "2026-09-06",
+  "pos": 18.0,
+  "imp": 29,
+  "intents": [],
+  "section": "JBL Tune 770NCの口コミ評判とレビューの結論",
+  "queries": [
+   "jbl tune 770nc",
+   "jbl tune 770nc レビュー",
+   "tune 770nc jbl",
+   "jbl live 770nc レビュー"
+  ]
+ },
+ "fellowes-シュレッダー": {
+  "date": "2026-09-06",
+  "pos": 11.9,
+  "imp": 27,
+  "intents": [],
+  "section": "Fellowesシュレッダーの評判｜結論と向く人",
+  "queries": [
+   "フェローズ シュレッダー 評判",
+   "フェローズ シュレッダー"
+  ]
+ },
+ "ロットリング-800-シャープペン": {
+  "date": "2026-09-06",
+  "pos": 12.5,
+  "imp": 25,
+  "intents": [],
+  "section": "ロットリング800レビュー：重さと評判の結論",
+  "queries": [
+   "ロットリング 800 レビュー",
+   "ロットリング800 レビュー",
+   "ロットリング 800 重さ"
+  ]
+ },
+ "logicool-c920s": {
+  "date": "2026-09-06",
+  "pos": 16.1,
+  "imp": 24,
+  "intents": [],
+  "section": "Logicool C920sの評価は？結論と向いている人",
+  "queries": [
+   "logicool c920s",
+   "c920s",
+   "ロジクール c920s",
+   "c920s c920n 違い"
+  ]
+ },
+ "アイリスオーヤマ-ラミネーター-a4対応": {
+  "date": "2026-09-06",
+  "pos": 17.8,
+  "imp": 23,
+  "intents": [],
+  "section": "ラミネーター評判・口コミが示す結論と向く人",
+  "queries": [
+   "ラミネーター 評判",
+   "ラミネーター 口コミ"
+  ]
+ },
+ "anker-usb-c-ハブ-7-in-1": {
+  "date": "2026-09-06",
+  "pos": 16.9,
+  "imp": 23,
+  "intents": [],
+  "section": "Anker A8346 7-in-1 USB-Cハブの結論",
+  "queries": [
+   "anker a8346",
+   "anker 7 in-1 プレミアム usb-cハブ",
+   "a8346 anker",
+   "anker 7 in 1 usb c hub"
+  ]
+ },
+ "hp-z24-24インチモニター": {
+  "date": "2026-09-06",
+  "pos": 10.8,
+  "imp": 21,
+  "intents": [],
+  "section": "HP Z24とは？結論と向いている人",
+  "queries": [
+   "hp z24",
+   "z24 hp",
+   "hp z display 24"
+  ]
+ },
+ "dell-xps-13-plus": {
+  "date": "2026-09-06",
+  "pos": 18.6,
+  "imp": 19,
+  "intents": [],
+  "section": "Dell XPS 13 Plusレビュー：口コミが示す結論と向く人",
+  "queries": [
+   "xps13 レビュー",
+   "xps 13 レビュー",
+   "dell xps 13 plus",
+   "dell xps 13 レビュー",
+   "xps 13 plus"
+  ]
+ },
+ "バッファロー-ポータブルssd": {
+  "date": "2026-09-06",
+  "pos": 11.8,
+  "imp": 39,
+  "intents": [],
+  "section": "バッファロー外付けSSDの評判、結論から",
+  "queries": [
+   "バッファロー ssd 評判",
+   "バッファロー 外付けssd 評判"
+  ]
+ },
+ "ライフ-ノーブルノート": {
+  "date": "2026-09-06",
+  "pos": 11.0,
+  "imp": 18,
+  "intents": [
+   "howto"
+  ],
+  "section": "ノーブルノートの使い方と万年筆での注意点",
+  "queries": [
+   "ノーブルノート 万年筆",
+   "ライフノート 使い方"
+  ]
+ }
+}

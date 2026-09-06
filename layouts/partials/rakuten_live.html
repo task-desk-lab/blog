@@ -1,0 +1,65 @@
+{{/* First-party Rakuten market box (traffic run #3, 2026-09-06).
+     ctx: the page. Reads data/rakuten_live.json[slug] written nightly by
+     short-video-factory/src/rakuten_live.py from the Rakuten Ichiba Item
+     Search API. Every number here is API-sourced; nothing is estimated.
+     Rendered only when today's (or a kept-stale) entry has listings. */}}
+{{ $d := index .Site.Data.rakuten_live (default "" .Params.slug) }}
+{{ if and $d $d.min_price }}
+{{ $hist := $d.history }}
+{{ $n := len $hist }}
+{{ $lo := $d.min_price }}{{ $hi := $d.min_price }}
+{{ range $hist }}{{ if lt .min $lo }}{{ $lo = .min }}{{ end }}{{ if gt .min $hi }}{{ $hi = .min }}{{ end }}{{ end }}
+<div class="rk-live">
+  <div class="rk-live-head">
+    <span class="rk-live-title">楽天市場のいま</span>
+    <span class="rk-live-upd">{{ $d.updated }} 自動取得 · 楽天市場API</span>
+  </div>
+  <div class="rk-live-grid">
+    <div class="rk-stat">
+      <span class="rk-stat-label">最安値</span>
+      <b class="rk-stat-val mono">{{ lang.FormatNumberCustom 0 $d.min_price }}円</b>
+      <span class="rk-stat-sub">{{ $d.shops }}店舗の出品から</span>
+    </div>
+    {{ if ge $n 2 }}
+    <div class="rk-stat">
+      <span class="rk-stat-label">最安値の推移（{{ $n }}日）</span>
+      <b class="rk-stat-val mono">{{ lang.FormatNumberCustom 0 $lo }}〜{{ lang.FormatNumberCustom 0 $hi }}円</b>
+      {{ if ge $n 3 }}
+      {{ $w := 120 }}{{ $h := 28 }}
+      {{ $span := sub $hi $lo }}
+      <svg class="rk-spark" viewBox="0 0 {{ $w }} {{ $h }}" preserveAspectRatio="none" aria-hidden="true">
+        <polyline fill="none" stroke="currentColor" stroke-width="2" points="{{ range $i, $p := $hist }}{{ $x := div (mul $i $w) (sub $n 1) }}{{ $y := 0 }}{{ if gt $span 0 }}{{ $y = div (mul (sub $hi $p.min) (sub $h 4)) $span }}{{ else }}{{ $y = div (sub $h 4) 2 }}{{ end }}{{ $x }},{{ add $y 2 }} {{ end }}"/>
+      </svg>
+      {{ end }}
+    </div>
+    {{ else }}
+    <div class="rk-stat">
+      <span class="rk-stat-label">価格帯</span>
+      <b class="rk-stat-val mono">{{ lang.FormatNumberCustom 0 $d.min_price }}〜{{ lang.FormatNumberCustom 0 $d.max_price }}円</b>
+      <span class="rk-stat-sub">正規品の出品 {{ $d.listings }}件</span>
+    </div>
+    {{ end }}
+    <div class="rk-stat">
+      <span class="rk-stat-label">楽天レビュー</span>
+      <b class="rk-stat-val mono">{{ lang.FormatNumberCustom 0 $d.review_total }}件</b>
+      {{ if gt $d.review_total 0 }}<span class="rk-stat-sub">平均 ★{{ $d.review_avg }}（出品横断）</span>{{ end }}
+    </div>
+  </div>
+  {{ with $d.top }}
+  <table class="rk-shops">
+    <thead><tr><th>最安ショップ</th><th>価格</th><th>店舗レビュー</th><th></th></tr></thead>
+    <tbody>
+    {{ range . }}
+    <tr>
+      <td class="rk-shop-name">{{ .shop }}</td>
+      <td class="mono">{{ lang.FormatNumberCustom 0 .price }}円</td>
+      <td class="mono">{{ if gt .reviews 0 }}{{ .reviews }}件 ★{{ .avg }}{{ else }}—{{ end }}</td>
+      <td><a href="{{ .url }}" rel="nofollow sponsored" target="_blank" class="rk-shop-link">楽天で見る</a></td>
+    </tr>
+    {{ end }}
+    </tbody>
+  </table>
+  {{ end }}
+  <div class="rk-live-note">「{{ $d.keyword }}」の楽天市場検索結果から、付属品・互換品を除いた正規の出品のみを集計。価格・在庫は日々変わる。</div>
+</div>
+{{ end }}

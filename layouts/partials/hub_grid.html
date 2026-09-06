@@ -1,0 +1,27 @@
+{{/* Product grid for hub articles (traffic run #1). ctx: pages (hub_items as
+     pages), site. Each card = the single review's own front matter + live
+     Rakuten min price when available + that review's Rakuten button, so a hub
+     reader can buy any of the N products without a second click. */}}
+{{ $live := .site.Data.rakuten_live }}
+<div class="hub-grid">
+  {{ range .pages }}
+  {{ $d := index $live (default "" .Params.slug) }}
+  <div class="hub-card">
+    {{ with .Params.product_image }}<a href="{{ $.site.BaseURL }}{{ strings.TrimPrefix "/" $.Permalink }}" class="hub-thumb" tabindex="-1" aria-hidden="true"><img src="{{ . | absURL }}" alt="" loading="lazy"></a>{{ end }}
+    <div class="hub-body">
+      <a href="{{ .Permalink }}" class="hub-name">{{ .Params.product_name }}</a>
+      {{ with .Params.verdict }}<div class="hub-verdict">{{ . }}</div>{{ end }}
+      <div class="hub-meta">
+        {{ if and $d $d.min_price }}<span class="hub-price">{{ lang.FormatNumberCustom 0 $d.min_price }}円〜</span><span class="hub-price-note">楽天最安 {{ $d.updated }}</span>
+        {{ else }}{{ with .Params.price_display }}<span class="hub-price">{{ . }}</span>{{ end }}{{ end }}
+        {{ with .Params.rating }}<span>★{{ . }}</span>{{ end }}
+        {{ with .Params.total_reviews }}<span>口コミ{{ . }}件</span>{{ end }}
+      </div>
+      <div class="hub-links">
+        <a href="{{ .Permalink }}" class="hub-read">口コミ調査を読む</a>
+        {{ with .Params.rakuten_url }}<a href="{{ . }}" class="hub-buy" rel="nofollow sponsored" target="_blank">楽天で最新価格を見る</a>{{ end }}
+      </div>
+    </div>
+  </div>
+  {{ end }}
+</div>

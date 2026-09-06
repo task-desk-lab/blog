@@ -77,7 +77,7 @@
   {{ $az := "" }}
   {{ $azLabel := "" }}
 
-  {{ if .Params.product_name }}
+  {{ if and .Params.product_name (not .Params.hub) }}
   <div class="product-card" style="display: grid; grid-template-columns: {{ if .Params.product_image }}160px 1fr{{ else }}1fr{{ end }}; gap: 20px; align-items: center;">
     {{ with .Params.product_image }}
     <div style="background: white; padding: 10px; border-radius: 8px;">
@@ -87,8 +87,13 @@
     <div>
       <h2 style="margin:0 0 8px 0;border:0;padding:0;">{{ .Params.product_name }}</h2>
       {{ with .Params.verdict }}<div class="verdict-line"><span>集合知の結論</span>{{ . }}</div>{{ end }}
+      {{ $live := index .Site.Data.rakuten_live (default "" .Params.slug) }}
+      {{ if and $live $live.min_price }}
+      <div class="price">{{ lang.FormatNumberCustom 0 $live.min_price }}円<span class="price-sub">〜 楽天最安（{{ $live.updated }}・{{ $live.shops }}店舗）</span></div>
+      {{ else }}
       {{ with .Params.price_display }}<div class="price">{{ . }}</div>{{ end }}
       {{ with .Params.shop_name }}<div style="color: var(--text-dim); font-size: 12px;">{{ . }}</div>{{ end }}
+      {{ end }}
       {{ with .Params.rating }}
       {{ $pct := mul (div . 5.0) 100 }}
       <div class="rating-block">
@@ -117,10 +122,26 @@
       {{ partial "affiliate_cta.html" (dict
            "rakuten" $rk "amazon" $az "primary" true
            "rakutenLabel" $rkLabel "amazonLabel" $azLabel) }}
-      {{ if .Params.price_display }}<div class="card-cta-note">価格・在庫は{{ .Lastmod.Format "2006年1月" }}時点の楽天出品。最新はストアで確認できる</div>{{ else }}<div class="card-cta-note">価格・在庫は各ストアで確認できる</div>{{ end }}
+      {{ $live2 := index .Site.Data.rakuten_live (default "" .Params.slug) }}
+      {{ if and $live2 $live2.min_price }}<div class="card-cta-note">最安値は{{ $live2.updated }}に楽天市場APIから自動取得。在庫・ポイントは出品ページで確認できる</div>
+      {{ else if .Params.price_display }}<div class="card-cta-note">価格・在庫は{{ .Lastmod.Format "2006年1月" }}時点の楽天出品。最新はストアで確認できる</div>{{ else }}<div class="card-cta-note">価格・在庫は各ストアで確認できる</div>{{ end }}
     </div>
     {{ end }}
   </div>
+  {{ end }}
+
+  {{ partial "rakuten_live.html" . }}
+
+  {{/* Category hub link (traffic run #1): single reviews feed the hub that
+       answers 「おすすめ/比較/選び方」 intent, and the hub links back. */}}
+  {{ if not .Params.hub }}
+  {{ $hubs := where (where .Site.RegularPages "Section" "reviews") "Params.hub" true }}
+  {{ $hubs = where $hubs "Params.categories" "intersect" .Params.categories }}
+  {{ with index $hubs 0 }}
+  <a class="hub-link" href="{{ .Permalink }}">
+    <span class="hub-link-tag">比較で選ぶ</span>{{ .Title }}<span class="hub-link-arrow">→</span>
+  </a>
+  {{ end }}
   {{ end }}
 
   {{ with .Params.youtube_id }}
@@ -164,7 +185,22 @@
             section instead, which is the same reading moment.
          C) the outlined re-prompt after the body (unchanged). */}}
   {{ $content := printf "%s" .Content }}
-  {{ if or $rk $az }}
+  {{ $hubGrid := "" }}
+  {{ with .Params.hub_items }}
+    {{ $pages := slice }}
+    {{ range . }}{{ with $.Site.GetPage (printf "/reviews/%s" .) }}{{ $pages = $pages | append . }}{{ end }}{{ end }}
+    {{ $hubGrid = partial "hub_grid.html" (dict "pages" $pages "site" $.Site) }}
+  {{ end }}
+  {{ if $hubGrid }}
+    {{ $hg := replace $hubGrid "$" "$$" }}
+    {{ $patFirstH2 := `(?s)^(.*?<h2[^>]*>.*?)(<h2)` }}
+    {{ if findRE $patFirstH2 $content 1 }}
+      {{ $content = replaceRE $patFirstH2 (printf "${1}%s${2}" $hg) $content 1 }}
+    {{ else }}
+      {{ $content = printf "%s%s" $content $hubGrid }}
+    {{ end }}
+  {{ end }}
+  {{ if and (or $rk $az) (not .Params.hub) }}
     {{ $h2s := findRE `<h2[^>]*>[^<]*</h2>` $content }}
     {{ $concIdx := -1 }}
     {{ range $i, $h := $h2s }}{{ if and (lt $concIdx 0) (in $h "結論") }}{{ $concIdx = $i }}{{ end }}{{ end }}
@@ -201,17 +237,19 @@
 
   {{ $content | safeHTML }}
 
-  {{ partial "affiliate_cta.html" (dict
+  {{ if not .Params.hub }}{{ partial "affiliate_cta.html" (dict
        "rakuten" $rk "amazon" $az "primary" false
-       "rakutenLabel" "楽天で見る" "amazonLabel" $azLabel) }}
+       "rakutenLabel" "楽天で見る" "amazonLabel" $azLabel) }}{{ end }}
 
   {{/* Mobile sticky bar: the one CTA that follows the reader. Hidden while any
        in-page CTA block is visible, dismissable, session-remembered. */}}
-  {{ if and $rk .Params.product_name }}
+  {{ if and $rk .Params.product_name (not .Params.hub) }}
   <div class="sticky-cta" id="sticky-cta" hidden>
     <div class="sticky-cta-info">
       <div class="sticky-cta-name">{{ .Params.product_name }}</div>
-      {{ with .Params.price_display }}<div class="sticky-cta-price">{{ . }}<span>〜（{{ $.Lastmod.Format "2006.01" }}時点）</span></div>{{ end }}
+      {{ $live3 := index .Site.Data.rakuten_live (default "" .Params.slug) }}
+      {{ if and $live3 $live3.min_price }}<div class="sticky-cta-price">{{ lang.FormatNumberCustom 0 $live3.min_price }}円<span>〜 楽天最安 {{ $live3.updated }}</span></div>
+      {{ else }}{{ with .Params.price_display }}<div class="sticky-cta-price">{{ . }}<span>〜（{{ $.Lastmod.Format "2006.01" }}時点）</span></div>{{ end }}{{ end }}
     </div>
     <a href="{{ $rk }}" class="sticky-cta-btn" rel="nofollow sponsored" target="_blank">楽天で今の価格を見る</a>
     <button type="button" class="sticky-cta-close" aria-label="閉じる" onclick="try{sessionStorage.setItem('stickyCtaOff','1')}catch(e){}document.getElementById('sticky-cta').hidden=true">×</button>

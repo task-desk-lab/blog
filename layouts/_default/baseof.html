@@ -473,6 +473,7 @@
     .affiliate-buttons .amazon { border-color: #ff9900; }
     .affiliate-buttons .amazon:hover { background: #ff9900; }
     @media (max-width: 480px) { .affiliate-buttons { grid-template-columns: 1fr; } }
+    .affiliate-buttons a:only-child { grid-column: 1 / -1; }
     /* Primary CTA injected right after the first 結論 section inside the
        article body (see single.html) — pre-filled bg so it reads as the
        action, not just a link. The secondary set after the content keeps
@@ -532,6 +533,53 @@
     }
     .alt-links .alt-buy { border-color: #bf0000; color: #ff6b6b; }
     .alt-links a:hover { text-decoration: none; background: var(--border); }
+
+    /* Rakuten live market box (data/rakuten_live.json, nightly API pull). */
+    .rk-live {
+      margin: 16px 0 24px; padding: 14px 16px 12px;
+      background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px;
+    }
+    .rk-live-head { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
+    .rk-live-title { font-weight: bold; font-size: 14px; }
+    .rk-live-title::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #bf0000; margin-right: 8px; vertical-align: 1px; box-shadow: 0 0 8px rgba(255,80,80,.6); }
+    .rk-live-upd { font-family: var(--font-mono); font-size: 11px; color: var(--text-dim); }
+    .rk-live-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+    @media (max-width: 560px) { .rk-live-grid { grid-template-columns: 1fr 1fr; } }
+    .rk-stat { background: var(--bg); border-radius: 8px; padding: 10px 12px; min-width: 0; }
+    .rk-stat-label { display: block; font-size: 11px; color: var(--text-dim); margin-bottom: 4px; }
+    .rk-stat-val { display: block; font-size: 18px; color: var(--accent); line-height: 1.2; }
+    .rk-stat-sub { display: block; font-size: 11px; color: var(--text-dim); margin-top: 4px; }
+    .rk-spark { display: block; width: 100%; height: 28px; margin-top: 6px; color: var(--accent2); }
+    .rk-shops { width: 100%; border-collapse: collapse; margin-top: 12px; font-size: 13px; }
+    .rk-shops th { text-align: left; font-weight: normal; font-size: 11px; color: var(--text-dim); padding: 4px 6px; border-bottom: 1px solid var(--border); }
+    .rk-shops td { padding: 7px 6px; border-bottom: 1px dashed var(--border); vertical-align: middle; }
+    .rk-shops tr:last-child td { border-bottom: 0; }
+    .rk-shop-name { max-width: 40%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .rk-shop-link { display: inline-block; font-size: 12px; padding: 4px 10px; border-radius: 6px; border: 1px solid #bf0000; color: #ff6b6b; white-space: nowrap; }
+    .rk-shop-link:hover { background: #bf0000; color: #fff; text-decoration: none; }
+    .rk-live-note { font-size: 11px; color: var(--text-dim); margin-top: 10px; line-height: 1.5; }
+    @media (max-width: 560px) { .rk-shops th:nth-child(3), .rk-shops td:nth-child(3) { display: none; } }
+
+    /* Hub articles: product grid + hub link from single reviews. */
+    .hub-grid { display: grid; grid-template-columns: 1fr; gap: 12px; margin: 8px 0 32px; }
+    .hub-card { display: flex; gap: 14px; align-items: flex-start; background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+    .hub-thumb { flex: none; width: 84px; height: 84px; background: #fff; border-radius: 8px; padding: 5px; display: block; }
+    .hub-thumb img { width: 100%; height: 100%; object-fit: contain; display: block; }
+    .hub-body { min-width: 0; flex: 1; }
+    .hub-name { display: block; font-weight: bold; font-size: 16px; line-height: 1.35; color: var(--text); }
+    .hub-verdict { font-size: 13px; color: var(--text-dim); margin: 4px 0 6px; }
+    .hub-meta { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 12px; color: var(--text-dim); margin-bottom: 8px; }
+    .hub-meta .hub-price { color: var(--accent); font-weight: bold; font-size: 14px; }
+    .hub-meta .hub-price-note { font-size: 11px; }
+    .hub-links { display: flex; gap: 8px; flex-wrap: wrap; }
+    .hub-links a { font-size: 13px; padding: 7px 12px; border-radius: 7px; border: 1px solid var(--border); color: var(--text); white-space: nowrap; }
+    .hub-links .hub-buy { background: #bf0000; border-color: #bf0000; color: #fff; font-weight: bold; }
+    .hub-links .hub-buy:hover { background: #d50000; text-decoration: none; }
+    .hub-links .hub-read:hover { background: var(--border); text-decoration: none; }
+    .hub-link { display: flex; align-items: center; gap: 10px; margin: 0 0 20px; padding: 12px 14px; border-radius: 10px; background: var(--bg-card); border: 1px dashed var(--accent2); color: var(--text); font-size: 14px; line-height: 1.4; }
+    .hub-link:hover { text-decoration: none; border-style: solid; }
+    .hub-link-tag { flex: none; font-size: 11px; font-weight: bold; color: var(--bg); background: var(--accent2); border-radius: 4px; padding: 2px 6px; }
+    .hub-link-arrow { margin-left: auto; color: var(--accent2); }
 
     /* Mobile sticky CTA bar. */
     .sticky-cta {
@@ -599,6 +647,7 @@
       margin: 24px 0;
     }
     .product-card .price { font-size: 24px; color: var(--accent); font-weight: bold; }
+    .product-card .price .price-sub { font-size: 12px; color: var(--text-dim); font-weight: normal; margin-left: 6px; }
     .total-reviews {
       display: inline-block; background: var(--accent); color: var(--bg);
       padding: 6px 16px; border-radius: 20px; font-weight: bold; font-size: 14px; margin: 8px 0;

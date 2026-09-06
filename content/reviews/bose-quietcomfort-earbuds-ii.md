@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/bose-quietcomfort-earbuds-ii.jpg"
 
 keywords: ["Bose QuietComfort Earbuds II 口コミ", "Bose QuietComfort Earbuds II 評判", "Bose QuietComfort Earbuds II デメリット", "Bose QuietComfort Earbuds II レビュー", "Bose QuietComfort Earbuds II 後悔", "Bose QuietComfort Earbuds II", "ワイヤレスイヤホン 口コミ", "ワイヤレスイヤホン おすすめ"]
+best_for: "テレワーク業務と飛行機・新幹線での移動の両場面で、ANC性能を最優先にしたい人"
+avoid_if: "ANC使用時に充電を意識せず終日使いたい、またはワイヤレス充電が必須な人"
 ---
 
 ---

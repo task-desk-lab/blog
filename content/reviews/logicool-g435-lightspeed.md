@@ -18,6 +18,8 @@ amazon_url: "https://www.amazon.co.jp/dp/B09FSC1KRN?tag=taskdesklab-22"
 product_image: "/img/products/logicool-g435-lightspeed.jpg"
 
 keywords: ["Logicool G435 LIGHTSPEED 口コミ", "Logicool G435 LIGHTSPEED 評判", "Logicool G435 LIGHTSPEED デメリット", "Logicool G435 LIGHTSPEED レビュー", "Logicool G435 LIGHTSPEED 後悔", "Logicool G435 LIGHTSPEED", "ヘッドセット 口コミ", "ヘッドセット おすすめ"]
+best_for: "165gの軽量設計と複数デバイス対応を兼ね備えたゲーミングヘッドセットを求める人"
+avoid_if: "配信やボイスチャットの高いマイク品質と、ゲーム体験での低音・没入感を譲れない人"
 ---
 
 軽量ワイヤレスヘッドセットを探している人に向けて、Logicool G435 LIGHTSPEED レビューを口コミベースでまとめた。購入前に知っておくべきデメリットから先に書く。

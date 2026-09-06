@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/jackery-ポータブル電源-300-plus.jpg"
 
 keywords: ["Jackery ポータブル電源 300 Plus 口コミ", "Jackery ポータブル電源 300 Plus 評判", "Jackery ポータブル電源 300 Plus デメリット", "Jackery ポータブル電源 300 Plus レビュー", "Jackery ポータブル電源 300 Plus 後悔", "Jackery ポータブル電源 300 Plus", "ポータブル電源 口コミ", "ポータブル電源 おすすめ"]
+best_for: "月1回以上ソロ〜2人でキャンプ・車中泊をし、スマホやノートPC・照明程度の小〜中程度の電力ニーズがある人"
+avoid_if: "屋外でドライヤーや電気ケトルを使う必要があったり、4人以上のグループキャンプがメインなら別の選択肢"
 ---
 
 3,000回充電できるのに3.2kg。ただし1口しかないコンセントで損した人が後を絶たない。

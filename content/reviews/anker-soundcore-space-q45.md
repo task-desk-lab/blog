@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/anker-soundcore-space-q45.jpg"
 
 keywords: ["Anker Soundcore Space Q45 口コミ", "Anker Soundcore Space Q45 評判", "Anker Soundcore Space Q45 デメリット", "Anker Soundcore Space Q45 レビュー", "Anker Soundcore Space Q45 後悔", "Anker Soundcore Space Q45", "ヘッドホン 口コミ", "ヘッドホン おすすめ"]
+best_for: "テレワークの集中環境を1万円以下で構築し、複数デバイス間での接続切り替えと50時間バッテリー運用をする人"
+avoid_if: "Zoom等の業務通話を毎日行う環境で、マイク性能の高さと通話相手への音声品質を重視する人"
 ---
 
 ## 結論

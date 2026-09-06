@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/nikon-z30.jpg"
 
 keywords: ["Nikon Z30 口コミ", "Nikon Z30 評判", "Nikon Z30 デメリット", "Nikon Z30 レビュー", "Nikon Z30 後悔", "Nikon Z30", "ミラーレスカメラ 口コミ", "ミラーレスカメラ おすすめ"]
+best_for: "自撮りVlogや動画配信を始めたい初心者で、シンプルな操作性と優秀なAFを第一に重視する人"
+avoid_if: "手ぶれ補正が必須なスポーツ撮影や屋外での手持ち撮影、30分超の長時間撮影をメインにする人"
 ---
 
 ## 結論

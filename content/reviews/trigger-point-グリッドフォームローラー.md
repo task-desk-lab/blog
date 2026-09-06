@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/trigger-point-グリッドフォームローラー.jpg"
 
 keywords: ["Trigger Point グリッドフォームローラー 口コミ", "Trigger Point グリッドフォームローラー 評判", "Trigger Point グリッドフォームローラー デメリット", "Trigger Point グリッドフォームローラー レビュー", "Trigger Point グリッドフォームローラー 後悔", "Trigger Point グリッドフォームローラー", "マッサージロール 口コミ", "マッサージロール おすすめ"]
+best_for: "週3回以上の運動習慣で疲労回復に悩む20〜40代で、マッサージ代わりにしたい人"
+avoid_if: "フォームローラー初体験で痛みに敏感、気持ちよさ重視、背中全体ケア希望なら別の選択肢を検討すべき"
 ---
 
 ## 結論

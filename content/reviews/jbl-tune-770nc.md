@@ -19,6 +19,8 @@ product_image: "/img/products/jbl-tune-770nc.jpg"
 
 keywords: ["JBL Tune 770NC 口コミ", "JBL Tune 770NC 評判", "JBL Tune 770NC デメリット", "JBL Tune 770NC レビュー", "JBL Tune 770NC 後悔", "JBL Tune 770NC", "ヘッドホン 口コミ", "ヘッドホン おすすめ"]
 lastmod: 2026-09-06T12:19:13+09:00
+best_for: "毎日電車で通勤・通学してANCの効きを重視し、充電管理の手間なく使える製品を求める人"
+avoid_if: "クラシックやジャズをはじめとした音楽をニュートラルな音響でバランスよく楽しみたい人"
 ---
 
 ## 結論

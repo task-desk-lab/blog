@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/anker-737-power-bank.jpg"
 
 keywords: ["Anker 737 Power Bank 口コミ", "Anker 737 Power Bank 評判", "Anker 737 Power Bank デメリット", "Anker 737 Power Bank レビュー", "Anker 737 Power Bank 後悔", "Anker 737 Power Bank", "モバイルバッテリー 口コミ", "モバイルバッテリー おすすめ"]
+best_for: "出張先でノートPCとスマホをまとめて充電でき、機内持込可能な24000mAhで充電ケーブルを減らしたい人"
+avoid_if: "軽さ最優先で、日帰り外出中心、スマホのみ充電で十分、674gが気になるなら別の選択肢"
 ---
 
 Anker 737 Power Bankを買う前に、674gという重さと140Wという出力が自分の使い方に合っているか確認しておいてほしい。この記事では、Amazon・楽天・YouTubeの口コミを合計1,861件調査して見えてきた実態を整理する。

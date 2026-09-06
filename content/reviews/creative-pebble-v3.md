@@ -13,6 +13,8 @@ rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl
 amazon_url: ""
 
 keywords: ["Creative Pebble V3 口コミ", "Creative Pebble V3 評判", "Creative Pebble V3 デメリット", "Creative Pebble V3 レビュー", "Creative Pebble V3 後悔", "Creative Pebble V3", "PCスピーカー 口コミ", "PCスピーカー おすすめ"]
+best_for: "PC作業専用デスクの音環境を改善したいユーザーで、有線接続とシンプルな操作を重視する在宅ワーカー"
+avoid_if: "スマホやタブレットをメイン機器として活用する人で、毎度のケーブル接続が日々の課題になる人"
 ---
 
 ## 結論｜Creative Pebble V3は「有線PC専用」なら買い

@@ -12,6 +12,8 @@ rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl
 amazon_url: "https://www.amazon.co.jp/dp/B001GSQZ5Y?tag=taskdesklab-22"
 
 keywords: ["コクヨ ルーズリーフ Campus 口コミ", "コクヨ ルーズリーフ Campus 評判", "コクヨ ルーズリーフ Campus デメリット", "コクヨ ルーズリーフ Campus レビュー", "コクヨ ルーズリーフ Campus 後悔", "コクヨ ルーズリーフ Campus", "ルーズリーフ 口コミ", "ルーズリーフ おすすめ"]
+best_for: "自分の用途に合わせた筆記具選びができ、ルーズリーフの実用性や基本的な使用感を重視できる人"
+avoid_if: "自分の用途や日々の筆記習慣、使用する筆記具との相性を確認してから選びたくないなら別の選択肢を検討すべき"
 ---
 
 ## 結論

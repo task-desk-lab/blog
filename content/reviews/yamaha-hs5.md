@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/yamaha-hs5.jpg"
 
 keywords: ["Yamaha HS5 口コミ", "Yamaha HS5 評判", "Yamaha HS5 デメリット", "Yamaha HS5 レビュー", "Yamaha HS5 後悔", "Yamaha HS5", "パワードスピーカー 口コミ", "パワードスピーカー おすすめ"]
+best_for: "ホームスタジオでミックスの精度と音源の粗さを正確に捉えたいDTM・音声制作をしている人"
+avoid_if: "HS5だけでサブ80Hz帯の表現を活かす音楽制作や鑑賞をメインにしたいなら別の選択肢"
 ---
 
 ## 結論

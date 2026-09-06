@@ -12,6 +12,8 @@ rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl
 amazon_url: "https://www.amazon.co.jp/dp/B06XCQ2K1K?tag=taskdesklab-22"
 
 keywords: ["山崎実業 ペン立て tower 口コミ", "山崎実業 ペン立て tower 評判", "山崎実業 ペン立て tower デメリット", "山崎実業 ペン立て tower レビュー", "山崎実業 ペン立て tower 後悔", "山崎実業 ペン立て tower", "ペン立て 口コミ", "ペン立て おすすめ"]
+best_for: "デスクの見た目にこだわり、日常使いのペンが5〜10本程度の少数精鋭な人"
+avoid_if: "ペン30本以上の大量収納が必要か、コスパ第一、または鏡面デスク使用なら別の選択肢"
 ---
 
 ## 山崎実業 ペン立て tower レビュー｜デメリットと口コミ1,000件の結論

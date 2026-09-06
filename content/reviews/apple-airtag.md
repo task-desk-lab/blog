@@ -12,6 +12,8 @@ rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl
 amazon_url: ""
 
 keywords: ["Apple AirTag 口コミ", "Apple AirTag 評判", "Apple AirTag デメリット", "Apple AirTag レビュー", "Apple AirTag 後悔", "Apple AirTag", "スマートトラッカー 口コミ", "スマートトラッカー おすすめ"]
+best_for: "都市部在住のiPhoneユーザーで、鍵や財布を定期的に探す習慣があるか出張・旅行でスーツケースを追跡したい人"
+avoid_if: "Androidユーザーが家族にいるか地方・過疎地在住で、ネットワーク密度に左右されない追跡精度を期待する人"
 ---
 
 ## 結論

@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/anker-nebula-capsule.jpg"
 
 keywords: ["Anker Nebula Capsule 口コミ", "Anker Nebula Capsule 評判", "Anker Nebula Capsule デメリット", "Anker Nebula Capsule レビュー", "Anker Nebula Capsule 後悔", "Anker Nebula Capsule", "ポータブルプロジェクター 口コミ", "ポータブルプロジェクター おすすめ"]
+best_for: "キャンプやホテルなど暗い環境での映像鑑賞が目的で、重量350gの携帯性を活かしたい人"
+avoid_if: "照明下の常設利用やバッテリー2.5時間では不足する長時間視聴が目的なら別の選択肢を検討すべき"
 ---
 
 ## 結論

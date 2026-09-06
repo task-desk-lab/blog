@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/pfu-scansnap-ix1300.jpg"
 
 keywords: ["PFU ScanSnap iX1300 口コミ", "PFU ScanSnap iX1300 評判", "PFU ScanSnap iX1300 デメリット", "PFU ScanSnap iX1300 レビュー", "PFU ScanSnap iX1300 後悔", "PFU ScanSnap iX1300", "スキャナ 口コミ", "スキャナ おすすめ"]
+best_for: "狭いデスクで領収書・契約書などを週複数回デジタル化する必要のある個人・フリーランスな人"
+avoid_if: "1日100枚超の処理か月数回のスキャン、またはChromebook・Linux環境メインなら別の選択肢を検討すべき"
 ---
 
 ## PFU ScanSnap iX1300 口コミ・評判まとめ【4,500件調査】

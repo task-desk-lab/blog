@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/sony-wh-ch720n.jpg"
 
 keywords: ["Sony WH-CH720N 口コミ", "Sony WH-CH720N 評判", "Sony WH-CH720N デメリット", "Sony WH-CH720N レビュー", "Sony WH-CH720N 後悔", "Sony WH-CH720N", "ヘッドホン 口コミ", "ヘッドホン おすすめ"]
+best_for: "在宅ワークで毎日長時間のヘッドホン装着が必要で、192gの軽さと35時間駆動を求める人"
+avoid_if: "低音・重低音の豊かさや飛行機・新幹線での完全な遮音が必要なら別の機種を検討したほうがいい"
 ---
 
 ## 結論

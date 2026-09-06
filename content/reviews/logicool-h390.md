@@ -19,6 +19,8 @@ amazon_url: ""
 product_image: "/img/products/logicool-h390.jpg"
 
 keywords: ["Logicool H390 口コミ", "Logicool H390 評判", "Logicool H390 デメリット", "Logicool H390 レビュー", "Logicool H390 後悔", "Logicool H390", "ヘッドセット 口コミ", "ヘッドセット おすすめ"]
+best_for: "挿すだけで高いマイク品質が得られることを優先事項として、週3回以上のWeb会議をこなす人"
+avoid_if: "音楽・動画などのエンタメ用途で音質や低音の迫力を求めるか、ノートPCを持ち歩いて使いたい環境なら別の選択肢"
 ---
 
 ## 結論｜ロジクール（Logicool）H390は買いか見送りか

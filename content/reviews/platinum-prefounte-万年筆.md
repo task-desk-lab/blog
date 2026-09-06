@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/platinum-prefounte-万年筆.jpg"
 
 keywords: ["Platinum Prefounte 万年筆 口コミ", "Platinum Prefounte 万年筆 評判", "Platinum Prefounte 万年筆 デメリット", "Platinum Prefounte 万年筆 レビュー", "Platinum Prefounte 万年筆 後悔", "Platinum Prefounte 万年筆", "エントリー万年筆 口コミ", "エントリー万年筆 おすすめ"]
+best_for: "万年筆初心者で、カジュアルなデザイン豊富さと安定した書き味、キャップ忘れの不安なく毎日使いたいと考える人"
+avoid_if: "既に他社の柔らかい書き味の万年筆に慣れており、軸の質感や汎用インク互換性を重視するなら別の選択肢"
 ---
 
 ## Platinum Prefounte 万年筆は本当に初心者向け？「後悔しない買い方」を555件の口コミから読み解く

@@ -12,6 +12,8 @@ rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl
 amazon_url: ""
 
 keywords: ["UGREEN Nexode 100W 口コミ", "UGREEN Nexode 100W 評判", "UGREEN Nexode 100W デメリット", "UGREEN Nexode 100W レビュー", "UGREEN Nexode 100W 後悔", "UGREEN Nexode 100W", "充電器 口コミ", "充電器 おすすめ"]
+best_for: "複数デバイスを1台でまとめたい、3～5年の長期使用を前提に充電器に投資する人"
+avoid_if: "スマホ1台の充電だけで足りるなら、複数デバイス対応は不要なので別の選択肢"
 ---
 
 UGREEN Nexode 100Wで後悔したくない人へ。口コミ4,000件を集計し、デメリットと向いている人・向いていない人を整理した。

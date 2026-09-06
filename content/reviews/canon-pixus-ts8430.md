@@ -17,6 +17,8 @@ rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl
 amazon_url: ""
 
 keywords: ["Canon PIXUS TS8430 口コミ", "Canon PIXUS TS8430 評判", "Canon PIXUS TS8430 デメリット", "Canon PIXUS TS8430 レビュー", "Canon PIXUS TS8430 後悔", "Canon PIXUS TS8430", "インクジェットプリンター 口コミ", "インクジェットプリンター おすすめ"]
+best_for: "月50枚以上の写真をプリントし、スマホからのワンタップ印刷と直感的な操作で家族全員が使える人"
+avoid_if: "年間100枚未満のモノクロ文書印刷や、自動ヘッドクリーニングの無駄を避けたい、あるいは置き場所に幅44cm以上確保できない人"
 ---
 
 ## 結論

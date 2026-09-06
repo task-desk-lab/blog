@@ -19,6 +19,8 @@ product_image: "/img/products/logicool-c920s.jpg"
 
 keywords: ["Logicool C920s 口コミ", "Logicool C920s 評判", "Logicool C920s デメリット", "Logicool C920s レビュー", "Logicool C920s 後悔", "Logicool C920s", "Webカメラ 口コミ", "Webカメラ おすすめ"]
 lastmod: 2026-09-06T12:21:11+09:00
+best_for: "内蔵カメラから乗り換えて、週3回以上のテレワーク会議での映り方を改善したいが設定は避けたい人"
+avoid_if: "4K対応やゲーム配信など高画質が必須、広角が不可欠、照明なしでの利用が前提なら別の選択肢"
 ---
 
 ## 結論

@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/timemore-c3.jpg"
 
 keywords: ["Timemore C3 口コミ", "Timemore C3 評判", "Timemore C3 デメリット", "Timemore C3 レビュー", "Timemore C3 後悔", "Timemore C3", "コーヒーミル 口コミ", "コーヒーミル おすすめ"]
+best_for: "週末のコーヒータイムを楽しむ、初心者が品質重視で選ぶ、またはアウトドアでも使いたい人"
+avoid_if: "エスプレッソマシンでの抽出を考えているか、朝に時間をかけずに素早く挽きたいという人"
 ---
 
 Timemore C3の口コミを「正直なところ」知りたい人向けに、Amazon・楽天1,580件超のレビューを実際に調査した。手動コーヒーミル5,000円台おすすめを探している人が最後に行き着くのはこの価格帯で、C3はその中で最も比較対象として名前が挙がる製品だ。

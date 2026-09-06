@@ -19,6 +19,8 @@ amazon_url: ""
 product_image: "/img/products/stanley-タンブラー.jpg"
 
 keywords: ["STANLEY タンブラー 口コミ", "STANLEY タンブラー 評判", "STANLEY タンブラー デメリット", "STANLEY タンブラー レビュー", "STANLEY タンブラー 後悔", "STANLEY タンブラー", "タンブラー 口コミ", "タンブラー おすすめ"]
+best_for: "キャンプや在宅ワークで、保冷力と耐久性を重視して3年以上使い続ける投資ができる人"
+avoid_if: "毎日バッグに持ち歩く通勤・通学で、320gの重さとシンプルなデザインを優先する人"
 ---
 
 ## 結論｜スタンレー タンブラーの評判は用途で分かれる

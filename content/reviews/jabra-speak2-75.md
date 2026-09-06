@@ -19,6 +19,8 @@ amazon_url: "https://www.amazon.co.jp/dp/B0BWKT3CYM?tag=taskdesklab-22"
 product_image: "/img/products/jabra-speak2-75.jpg"
 
 keywords: ["Jabra Speak2 75 口コミ", "Jabra Speak2 75 評判", "Jabra Speak2 75 デメリット", "Jabra Speak2 75 レビュー", "Jabra Speak2 75 後悔", "Jabra Speak2 75", "スピーカーフォン 口コミ", "スピーカーフォン おすすめ"]
+best_for: "週に複数回のリモート会議があり複数拠点で働く在宅ワーカーや、会議室共用端末を探している人"
+avoid_if: "一人での通話がメイン、予算1万円台の範囲、音楽再生が主目的のいずれかに該当する人"
 ---
 
 ## 結論｜Jabra Speak2 75は買いか見送りか

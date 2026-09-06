@@ -19,6 +19,8 @@ amazon_url: ""
 product_image: "/img/products/apple-ipad-air.jpg"
 
 keywords: ["Apple iPad Air 口コミ", "Apple iPad Air 評判", "Apple iPad Air デメリット", "Apple iPad Air レビュー", "Apple iPad Air 後悔", "Apple iPad Air", "タブレット 口コミ", "タブレット おすすめ"]
+best_for: "Apple Pencil Proの精度とM2チップが活躍する、イラスト・動画編集といった創作用途に限定する人"
+avoid_if: "ペンとキーボード込みで総額17万円超が難しい、またはパソコン代替を求めるなら別の選択肢"
 ---
 
 ## 結論｜iPad Airは買いか見送りか

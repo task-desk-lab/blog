@@ -18,6 +18,8 @@ rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tmh8m.ycj6k867.g00tmh8m.ycj6l8
 amazon_url: "https://www.amazon.co.jp/dp/B07ZSDXHJZ?tag=taskdesklab-22"
 product_image: "/img/products/anker-powerconf.jpg"
 keywords: ["Anker PowerConf 口コミ", "Anker PowerConf 評判", "Anker PowerConf デメリット", "Anker PowerConf レビュー", "Anker PowerConf 後悔", "Anker PowerConf", "スピーカーフォン 口コミ", "スピーカーフォン おすすめ"]
+best_for: "セットアップの簡単さと音質を求める個人でリモートワークする人や、1〜3人規模のWeb会議でUSB接続の安定性を重視する人"
+avoid_if: "10名以上の大会議室やブルートゥース接続メイン、細かい音質設定を必要とする場面での利用を想定している人"
 ---
 
 # Anker PowerConfの口コミを3,743件調査──個人のリモートワークなら買い、大会議室は音量不足で避けろ

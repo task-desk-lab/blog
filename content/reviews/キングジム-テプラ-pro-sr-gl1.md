@@ -17,6 +17,8 @@ rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tupxm.ycj6k327.g00tupxm.ycj6l6
 amazon_url: ""
 product_image: "/img/products/キングジム-テプラ-pro-sr-gl1.jpg"
 keywords: ["キングジム テプラ PRO SR-GL1 口コミ", "キングジム テプラ PRO SR-GL1 評判", "キングジム テプラ PRO SR-GL1 デメリット", "キングジム テプラ PRO SR-GL1 レビュー", "キングジム テプラ PRO SR-GL1 後悔", "キングジム テプラ PRO SR-GL1", "ラベルライター 口コミ", "ラベルライター おすすめ"]
+best_for: "スマホから手軽にデザイン性の高いラベルを作成でき、見た目にこだわって整理収納を整えたい人"
+avoid_if: "1日50枚以上の業務用途で大量印刷するか、月5枚以下の低頻度利用でランニングコスト重視の人"
 ---
 
 # キングジム テプラ PRO SR-GL1 口コミ｜885件調査でわかった本音評価

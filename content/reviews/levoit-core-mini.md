@@ -18,6 +18,8 @@ amazon_url: "https://www.amazon.co.jp/dp/B09FDX1T82?tag=taskdesklab-22"
 product_image: "/img/products/levoit-core-mini.jpg"
 
 keywords: ["LEVOIT Core Mini 口コミ", "LEVOIT Core Mini 評判", "LEVOIT Core Mini デメリット", "LEVOIT Core Mini レビュー", "LEVOIT Core Mini 後悔", "LEVOIT Core Mini", "空気清浄機 口コミ", "空気清浄機 おすすめ"]
+best_for: "ワンルームから6畳程度までの小さな空間で、4,990円と静音性を兼ね備えた清浄機を求める人"
+avoid_if: "6畳を超えるリビングやLDKでの使用や、喫煙環境やペット臭といったニオイ対策を求める人"
 ---
 
 ## 結論

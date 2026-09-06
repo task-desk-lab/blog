@@ -19,6 +19,8 @@ amazon_url: ""
 product_image: "/img/products/sony-srs-xb100.jpg"
 
 keywords: ["Sony SRS-XB100 口コミ", "Sony SRS-XB100 評判", "Sony SRS-XB100 デメリット", "Sony SRS-XB100 レビュー", "Sony SRS-XB100 後悔", "Sony SRS-XB100", "Bluetoothスピーカー 口コミ", "Bluetoothスピーカー おすすめ"]
+best_for: "防水性と持ち運び性を両立させたい、アウトドアや移動中での利用を想定する人"
+avoid_if: "ステレオ再生の高音質や据え置きスピーカー、有線接続が必要なら別の選択肢"
 ---
 
 <!-- meta description: Sony SRS-XB100の口コミ3,200件を横断調査。IP67防水・16時間バッテリー・280gの実力をメリット・デメリット別に整理。買って後悔する人・満足する人を明確に解説。（118字） -->

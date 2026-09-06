@@ -19,6 +19,8 @@ rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00uqaxm.ycj6kfe4.g00uqaxm.ycj6l1
 amazon_url: ""
 product_image: "/img/products/keychron-k3.jpg"
 keywords: ["Keychron K3 口コミ", "Keychron K3 評判", "Keychron K3 デメリット", "Keychron K3 レビュー", "Keychron K3 後悔", "Keychron K3", "キーボード 口コミ", "キーボード おすすめ"]
+best_for: "複数台のデバイスを日常的に切り替えながら持ち運んで作業し、US配列に対応できる人。"
+avoid_if: "JIS配列が必須か、メカニカルキーボード初心者か、初期不良対応に時間をかけたくない人。"
 ---
 
 # Keychron K3の口コミ・評判｜1,395件の集合知で判明した本当の評価

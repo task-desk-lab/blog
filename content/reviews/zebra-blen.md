@@ -12,6 +12,8 @@ rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl
 amazon_url: ""
 
 keywords: ["Zebra bLen 口コミ", "Zebra bLen 評判", "Zebra bLen デメリット", "Zebra bLen レビュー", "Zebra bLen 後悔", "Zebra bLen", "ボールペン 口コミ", "ボールペン おすすめ"]
+best_for: "手ブレを減らしながら長時間筆記しても疲れが少ないペンを探す学生や営業・事務職のような人"
+avoid_if: "細軸ペンに慣れている、ゲルインクの書き味を求める、胸ポケット収納を重視するいずれかなら別の選択肢"
 ---
 
 ## 結論

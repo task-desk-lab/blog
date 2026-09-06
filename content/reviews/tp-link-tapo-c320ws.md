@@ -13,6 +13,8 @@ rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl
 amazon_url: ""
 
 keywords: ["TP-Link Tapo C320WS 口コミ", "TP-Link Tapo C320WS 評判", "TP-Link Tapo C320WS デメリット", "TP-Link Tapo C320WS レビュー", "TP-Link Tapo C320WS 後悔", "TP-Link Tapo C320WS", "スマートカメラ 口コミ", "スマートカメラ おすすめ"]
+best_for: "AC電源と2.4GHz Wi-Fi環境を備えた場所に、4MP解像度の防犯カメラが必要な人"
+avoid_if: "5GHzのみのWi-Fi環境か、電源工事なしで屋外に設置する必要があるなら別の選択肢"
 ---
 
 ## 結論｜Tapo C320WSは買いか見送りか

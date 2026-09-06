@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/logicool-c922n.jpg"
 
 keywords: ["Logicool C922n 口コミ", "Logicool C922n 評判", "Logicool C922n デメリット", "Logicool C922n レビュー", "Logicool C922n 後悔", "Logicool C922n", "Webカメラ 口コミ", "Webカメラ おすすめ"]
+best_for: "照明と外付けマイクをセットで予算化して購入し、配信やテレワークの映像品質を上げたい人"
+avoid_if: "照明なしで購入するか、内蔵マイクを配信のメインとして使おうとするか、グリーンバックを使う予定がない人"
 ---
 
 ## Logicool C922n レビュー：6,900件を調べて分かった買うべき人・やめるべき人

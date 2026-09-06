@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/wacom-intuos-small.jpg"
 
 keywords: ["Wacom Intuos Small 口コミ", "Wacom Intuos Small 評判", "Wacom Intuos Small デメリット", "Wacom Intuos Small レビュー", "Wacom Intuos Small 後悔", "Wacom Intuos Small", "ペンタブレット 口コミ", "ペンタブレット おすすめ"]
+best_for: "初めてペンタブを買い、Clip Studio Paint同梱で即座に描け、SNSやアイコン制作を中心とする人"
+avoid_if: "A4原稿制作、ショートカットをフルに使う、USB-C環境統一のいずれかが必要なら別の選択肢"
 ---
 
 **Wacom Intuos Small レビュー｜4,690件の口コミから分かった買うべき人・やめるべき人**

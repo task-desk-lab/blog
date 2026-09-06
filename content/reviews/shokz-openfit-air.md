@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/shokz-openfit-air.jpg"
 
 keywords: ["Shokz OpenFit Air 口コミ", "Shokz OpenFit Air 評判", "Shokz OpenFit Air デメリット", "Shokz OpenFit Air レビュー", "Shokz OpenFit Air 後悔", "Shokz OpenFit Air", "骨伝導イヤホン 口コミ", "骨伝導イヤホン おすすめ"]
+best_for: "耳を塞がないイヤホンの開放的な装着感が何より好きで、長時間の装着快適さも重視する人"
+avoid_if: "音漏れや低音不足が避けられない特性のため、こうした限界が許容できない用途で使う人"
 ---
 
 Shokz OpenFit Airについて、AmazonとRakutenの口コミ計1,430件を調査した。**テレワーク向けオープンイヤーイヤホン**の選択肢として検索されることが多い製品だが、実態はどうか。**Shokz OpenFit Air レビュー**として、装着感から音質、競合との比較まで、データをもとに整理する。

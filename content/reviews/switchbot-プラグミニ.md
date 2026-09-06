@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/switchbot-プラグミニ.jpg"
 
 keywords: ["SwitchBot プラグミニ 口コミ", "SwitchBot プラグミニ 評判", "SwitchBot プラグミニ デメリット", "SwitchBot プラグミニ レビュー", "SwitchBot プラグミニ 後悔", "SwitchBot プラグミニ", "スマートプラグ 口コミ", "スマートプラグ おすすめ"]
+best_for: "電力モニタリング機能を活用して年間節約を図りたく、2.4GHz Wi-Fi対応が可能な人"
+avoid_if: "2.4GHz Wi-Fi帯域への対応ができない、またはWi-Fi設定の変更が難しい人"
 ---
 
 ## 結論 ― 2.4GHz問題の解決策つき

@@ -18,6 +18,8 @@ amazon_url: ""
 product_image: "/img/products/anker-eufy-smart-scale-c1.jpg"
 
 keywords: ["Anker Eufy Smart Scale C1 口コミ", "Anker Eufy Smart Scale C1 評判", "Anker Eufy Smart Scale C1 デメリット", "Anker Eufy Smart Scale C1 レビュー", "Anker Eufy Smart Scale C1 後悔", "Anker Eufy Smart Scale C1", "スマート体重計 口コミ", "スマート体重計 おすすめ"]
+best_for: "毎朝の体組成記録を習慣化したい、Apple Healthで一元管理したい、または16ユーザー対応で家族共有を望む人"
+avoid_if: "Wi-Fi自動同期を前提としている、または医療用途で体脂肪率の医学的精度が必要なら別の選択肢"
 ---
 
 ## 結論

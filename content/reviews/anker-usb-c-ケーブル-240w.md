@@ -18,6 +18,8 @@ amazon_url: "https://www.amazon.co.jp/dp/B09SB6LSWR?tag=taskdesklab-22"
 product_image: "/img/products/anker-usb-c-ケーブル-240w.jpg"
 
 keywords: ["Anker USB-C ケーブル 240W 口コミ", "Anker USB-C ケーブル 240W 評判", "Anker USB-C ケーブル 240W デメリット", "Anker USB-C ケーブル 240W レビュー", "Anker USB-C ケーブル 240W 後悔", "Anker USB-C ケーブル 240W", "ケーブル 口コミ", "ケーブル おすすめ"]
+best_for: "複数のACアダプタをUSB-C 1本で集約し、耐久性重視のMacBook Proユーザー"
+avoid_if: "240W対応のUSB PD 3.1充電器をセット購入しない、ケーブルのみ購入を検討する人"
 ---
 
 ## Anker USB-C ケーブル 240W レビュー：1,240件の口コミから分かったこと

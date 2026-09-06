@@ -19,6 +19,8 @@ amazon_url: ""
 product_image: "/img/products/tp-link-tapo-c110.jpg"
 
 keywords: ["TP-Link Tapo C110 口コミ", "TP-Link Tapo C110 評判", "TP-Link Tapo C110 デメリット", "TP-Link Tapo C110 レビュー", "TP-Link Tapo C110 後悔", "TP-Link Tapo C110", "スマートカメラ 口コミ", "スマートカメラ おすすめ"]
+best_for: "ペットや赤ちゃん、高齢の親を室内で見守りたい家庭、あるいは初めてスマートカメラを試したい人"
+avoid_if: "屋外監視が必要な人、クラウド無料録画を望む人、中国製品のデータ管理に懸念がある人"
 ---
 
 ## TP-Link Tapo C110 口コミ・レビュー：5,000件超の本音まとめ

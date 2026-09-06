@@ -18,6 +18,8 @@ rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00trvrm.ycj6k8dc.g00trvrm.ycj6l1
 amazon_url: ""
 product_image: "/img/products/apple-magic-keyboard.jpg"
 keywords: ["Apple Magic Keyboard 口コミ", "Apple Magic Keyboard 評判", "Apple Magic Keyboard デメリット", "Apple Magic Keyboard レビュー", "Apple Magic Keyboard 後悔", "Apple Magic Keyboard", "キーボード 口コミ", "キーボード おすすめ"]
+best_for: "MacとiPadの両方を使っており、静音性を確保しつつデスク周りをミニマルに保ちたい人"
+avoid_if: "Windowsをメインで使用するか、打鍵感を重視する場合は別のキーボードを検討する人"
 ---
 
 # Apple Magic Keyboardの口コミ・評判｜1,770件でわかった本音と弱点

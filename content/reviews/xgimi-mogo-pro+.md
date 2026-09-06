@@ -7,15 +7,9 @@ categories: ["ミニプロジェクター"]
 tags: ["ミニプロジェクター", "集合知", "口コミ", "レビュー"]
 verdict: "置くだけで壁が映画館になる"
 product_name: "XGIMI Mogo Pro+"
-price_display: "25,960円"
-price_jpy: 25960
 total_reviews: "605"
-review_count: 0
-rating: 0.0
-shop_name: "2nd STREET 楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00r3cem.ycj6ka34.g00r3cem.ycj6l241/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjumblestore%2F2343316910495%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjumblestore%2Fi%2F38050477%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXGIMI%2520Mogo%2520Pro%252B%2F"
 amazon_url: ""
-product_image: "/img/products/xgimi-mogo-pro+.jpg"
 
 keywords: ["XGIMI Mogo Pro+ 口コミ", "XGIMI Mogo Pro+ 評判", "XGIMI Mogo Pro+ デメリット", "XGIMI Mogo Pro+ レビュー", "XGIMI Mogo Pro+ 後悔", "XGIMI Mogo Pro+", "ミニプロジェクター 口コミ", "ミニプロジェクター おすすめ"]
 noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old

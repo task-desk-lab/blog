@@ -12,8 +12,7 @@ price_jpy: 4818
 total_reviews: "1,322"
 review_count: 1
 rating: 5.0
-shop_name: "ケーズデンキ 楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tit6m.ycj6kaf0.g00tit6m.ycj6l21b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksdenki%2F4589406028406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksdenki%2Fi%2F10506974%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCIO%2520SMARTCOBY%2520Pro%252030W%2F"
 amazon_url: ""
 product_image: "/img/products/cio-smartcoby-pro-30w.jpg"
 
@@ -122,7 +121,7 @@ iPadやSurfaceを1回でフル充電したい用途には容量が足りない�
 
 LEDの4段階では出発前の確認が大雑把になる。残量を数字で正確に把握したい人には合わない。
 
-**[楽天で現在の価格を確認する（在庫・価格は変動します）→](https://hb.afl.rakuten.co.jp/hgc/g00tit6m.ycj6kaf0.g00tit6m.ycj6l21b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksdenki%2F4589406028406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksdenki%2Fi%2F10506974%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**[楽天で現在の価格を確認する（在庫・価格は変動します）→](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCIO%2520SMARTCOBY%2520Pro%252030W%2F)**
 
 ## CIO SMARTCOBY Pro 30Wを買って満足する人
 
@@ -138,13 +137,13 @@ LEDの4段階では出発前の確認が大雑把になる。残量を数字で�
 
 PSE認証・日本語対応のブランドに安心感を求める人には、Ankerとの990円の差額を払う根拠がある。
 
-**[楽天で現在の価格を確認する（在庫・価格は変動します）→](https://hb.afl.rakuten.co.jp/hgc/g00tit6m.ycj6kaf0.g00tit6m.ycj6l21b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksdenki%2F4589406028406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksdenki%2Fi%2F10506974%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**[楽天で現在の価格を確認する（在庫・価格は変動します）→](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCIO%2520SMARTCOBY%2520Pro%252030W%2F)**
 
 ## CIO SMARTCOBY Pro 30W 口コミ調査まとめ
 
 Amazon・楽天・YouTube・ブログ合計1,322件のデータを調査した総評として、CIO SMARTCOBY Pro 30Wは「充電器をカバンから追放したい人」への答えが明確な製品だ。4,980円÷365日で計算すると1日あたり約14円で充電器とバッテリーの2役をカバーできる。それでも高いと感じるなら、プラグ内蔵なしのAnker PowerCore 10000 PD Reduxが990円安い選択肢になる。デメリットは容量の上限と発熱の2点に絞られており、用途が合えばネガティブな口コミで迷う必要はない。「本当に買って大丈夫か」への答えは、荷物を減らしたいビジネスパーソンなら「問題なし」、タブレット充電がメインなら「合わない」、この2択だ。
 
-**[楽天で現在の価格を確認する（在庫・価格は変動します）→](https://hb.afl.rakuten.co.jp/hgc/g00tit6m.ycj6kaf0.g00tit6m.ycj6l21b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksdenki%2F4589406028406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksdenki%2Fi%2F10506974%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**[楽天で現在の価格を確認する（在庫・価格は変動します）→](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCIO%2520SMARTCOBY%2520Pro%252030W%2F)**
 
 ---
 

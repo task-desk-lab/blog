@@ -7,15 +7,9 @@ categories: ["タブレット"]
 tags: ["タブレット", "集合知", "口コミ", "レビュー"]
 verdict: "USB-Cで繋いで仕事も動画も一台で完結"
 product_name: "iPad 第10世代"
-price_display: "51,800円"
-price_jpy: 51800
 total_reviews: "13,000"
-review_count: 57
-rating: 4.77
-shop_name: "WORLDMOBILE"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tx2xm.ycj6kadc.g00tx2xm.ycj6l23b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworldmobile%2Fipad-10-abc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworldmobile%2Fi%2F10017782%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FiPad%2520%25E7%25AC%25AC10%25E4%25B8%2596%25E4%25BB%25A3%2F"
 amazon_url: ""
-product_image: "/img/products/ipad-第10世代.jpg"
 
 keywords: ["iPad 第10世代 口コミ", "iPad 第10世代 評判", "iPad 第10世代 デメリット", "iPad 第10世代 レビュー", "iPad 第10世代 後悔", "iPad 第10世代", "タブレット 口コミ", "タブレット おすすめ"]
 ---

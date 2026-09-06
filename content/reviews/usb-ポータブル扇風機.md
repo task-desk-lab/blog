@@ -7,15 +7,9 @@ categories: ["扇風機"]
 tags: ["扇風機", "集合知", "口コミ", "レビュー"]
 verdict: "デスクの熱気がその場で消える"
 product_name: "USBポータブル扇風機"
-price_display: "3,860円"
-price_jpy: 3860
 total_reviews: "4,110"
-review_count: 110
-rating: 4.3
-shop_name: "Katu"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u5pkm.ycj6k226.g00u5pkm.ycj6l815/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkatushop%2Fxfs01-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkatushop%2Fi%2F10000089%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUSB%25E3%2583%259D%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2596%25E3%2583%25AB%25E6%2589%2587%25E9%25A2%25A8%25E6%25A9%259F%2F"
 amazon_url: ""
-product_image: "/img/products/usb-ポータブル扇風機.jpg"
 
 keywords: ["USBポータブル扇風機 口コミ", "USBポータブル扇風機 評判", "USBポータブル扇風機 デメリット", "USBポータブル扇風機 レビュー", "USBポータブル扇風機 後悔", "USBポータブル扇風機", "扇風機 口コミ", "扇風機 おすすめ"]
 ---

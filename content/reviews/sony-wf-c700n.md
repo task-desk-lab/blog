@@ -7,15 +7,9 @@ categories: ["ワイヤレスイヤホン"]
 tags: ["ワイヤレスイヤホン", "集合知", "口コミ", "レビュー"]
 verdict: "通勤ノイキャンをこの値段で完結させる"
 product_name: "Sony WF-C700N"
-price_display: "4,999円"
-price_jpy: 4999
 total_reviews: "4,800"
-review_count: 0
-rating: 0.0
-shop_name: "コーリン楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tlkzm.ycj6kc6e.g00tlkzm.ycj6l554/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkohrin%2F220%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkohrin%2Fi%2F10001910%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSony%2520WF-C700N%2F"
 amazon_url: ""
-product_image: "/img/products/sony-wf-c700n.jpg"
 
 keywords: ["Sony WF-C700N 口コミ", "Sony WF-C700N 評判", "Sony WF-C700N デメリット", "Sony WF-C700N レビュー", "Sony WF-C700N 後悔", "Sony WF-C700N", "ワイヤレスイヤホン 口コミ", "ワイヤレスイヤホン おすすめ"]
 ---

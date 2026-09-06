@@ -13,8 +13,7 @@ price_jpy: 63800
 total_reviews: "2,695"
 review_count: 275
 rating: 4.64
-shop_name: "FlexiSpot楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00t68zm.ycj6k7e7.g00t68zm.ycj6l377/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floctek%2Fe7h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Floctek%2Fi%2F10000396%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFlexiSpot%2520E7%2F"
 amazon_url: ""
 product_image: "/img/products/flexispot-e7.jpg"
 keywords: ["FlexiSpot E7 口コミ", "FlexiSpot E7 評判", "FlexiSpot E7 デメリット", "FlexiSpot E7 レビュー", "FlexiSpot E7 後悔", "FlexiSpot E7", "電動昇降デスク 口コミ", "電動昇降デスク おすすめ"]

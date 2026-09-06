@@ -7,15 +7,9 @@ categories: ["三脚"]
 tags: ["三脚", "集合知", "口コミ", "レビュー"]
 verdict: "ポケットに入るのに、机上撮影が一発で決まる"
 product_name: "Manfrotto PIXI ミニ三脚"
-price_display: "3,600円"
-price_jpy: 3600
 total_reviews: "1,815"
-review_count: 16
-rating: 4.56
-shop_name: "Manfrotto Outlet Store"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00s4phm.ycj6k5ee.g00s4phm.ycj6l78f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmd-kk%2F8024221643640-56e-ol%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmd-kk%2Fi%2F10004791%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FManfrotto%2520PIXI%2520%25E3%2583%259F%25E3%2583%258B%25E4%25B8%2589%25E8%2584%259A%2F"
 amazon_url: ""
-product_image: "/img/products/manfrotto-pixi-ミニ三脚.jpg"
 
 keywords: ["Manfrotto PIXI ミニ三脚 口コミ", "Manfrotto PIXI ミニ三脚 評判", "Manfrotto PIXI ミニ三脚 デメリット", "Manfrotto PIXI ミニ三脚 レビュー", "Manfrotto PIXI ミニ三脚 後悔", "Manfrotto PIXI ミニ三脚", "三脚 口コミ", "三脚 おすすめ"]
 ---
@@ -118,7 +112,7 @@ ECサイト用商品写真を月50枚撮るようなライターがPIXIを導入
 - Vlog・ライブ配信でさっと固定台を出したい人（収納・展開のストレスが少ない）
 - デスク上の機材の見た目を揃えたい人（金属ボディがプロ機材と並んでも浮かない）
 
-[→ 3,480円で今すぐ試す](https://hb.afl.rakuten.co.jp/hgc/g00s4phm.ycj6k5ee.g00s4phm.ycj6l78f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmd-kk%2F8024221643640-56e-ol%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmd-kk%2Fi%2F10004791%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[→ 3,480円で今すぐ試す](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FManfrotto%2520PIXI%2520%25E3%2583%259F%25E3%2583%258B%25E4%25B8%2589%25E8%2584%259A%2F)
 
 ▶ [ミニ三脚の選び方まとめはこちら](/guide/mini-tripod-how-to-choose)
 

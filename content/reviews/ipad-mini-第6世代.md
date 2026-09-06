@@ -7,15 +7,9 @@ categories: ["タブレット"]
 tags: ["タブレット", "集合知", "口コミ", "レビュー"]
 verdict: "どこでも持ち出せる「本物のPC代替」"
 product_name: "iPad mini 第6世代"
-price_display: "43,800円"
-price_jpy: 43800
 total_reviews: "13,000"
-review_count: 442
-rating: 4.65
-shop_name: "WORLDMOBILE"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tx2xm.ycj6kadc.g00tx2xm.ycj6l23b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworldmobile%2Fipad-mini-6-abc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworldmobile%2Fi%2F10017286%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FiPad%2520mini%2520%25E7%25AC%25AC6%25E4%25B8%2596%25E4%25BB%25A3%2F"
 amazon_url: ""
-product_image: "/img/products/ipad-mini-第6世代.jpg"
 
 keywords: ["iPad mini 第6世代 口コミ", "iPad mini 第6世代 評判", "iPad mini 第6世代 デメリット", "iPad mini 第6世代 レビュー", "iPad mini 第6世代 後悔", "iPad mini 第6世代", "タブレット 口コミ", "タブレット おすすめ"]
 ---
@@ -66,7 +60,7 @@ iPad mini 第6世代はUSB PDに対応しているが、Apple純正20W充電器�
 
 競合のGalaxy Tab S9 FEが8GB RAMを搭載している点と比較すると、スペック上の見劣り感を指摘するレビューがある。ただしiPadOSのメモリ管理効率が高く、重いアプリを複数起動しても落ちにくく、実使用上の体感差については評価が分かれている。
 
-→ [中古43,800円〜の在庫をいま確認する（WORLDMOBILE / 評価4.65）](https://hb.afl.rakuten.co.jp/hgc/g00tx2xm.ycj6kadc.g00tx2xm.ycj6l23b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworldmobile%2Fipad-mini-6-abc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworldmobile%2Fi%2F10017286%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [中古43,800円〜の在庫をいま確認する（WORLDMOBILE / 評価4.65）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FiPad%2520mini%2520%25E7%25AC%25AC6%25E4%25B8%2596%25E4%25BB%25A3%2F)
 
 ## iPad mini 第6世代の良い口コミ・メリット
 
@@ -113,7 +107,7 @@ USBメモリや外付けSSDを直挿しして動画ファイルを扱えるの�
 
 重量で選ぶならiPad mini一択だ。293gに対してGalaxy Tab S9 FEは523g、電車で1時間持てば差がわかる。Galaxy Tab S9 FEはRAM 8GBとAndroidアプリの豊富さが強みで、動画配信・ゲームのカスタマイズ自由度を重視するユーザーから支持されている。Apple Pencilのマグネット吸着充電はAndroid陣営に同等品がなく、手書きメモ運用で一歩リードできる。iPhoneをすでに使っている人は、そのままエコシステムの恩恵がiPad miniに乗っかる。逆に、Androidアプリに慣れている人やRAMを重視する人はGalaxy Tab S9 FEを選ぶ傾向があり、移行を後悔したレビューも少数ながら確認できた。どちらを選ぶかは、すでに使っているスマホのOSで8割方決まる。
 
-→ [価格推移を見る（WORLDMOBILE）](https://hb.afl.rakuten.co.jp/hgc/g00tx2xm.ycj6kadc.g00tx2xm.ycj6l23b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworldmobile%2Fipad-mini-6-abc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworldmobile%2Fi%2F10017286%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [価格推移を見る（WORLDMOBILE）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FiPad%2520mini%2520%25E7%25AC%25AC6%25E4%25B8%2596%25E4%25BB%25A3%2F)
 
 ## iPad mini 第6世代を買って後悔する人
 
@@ -149,7 +143,7 @@ Amazonで3,200件、楽天で1,800件の口コミを調べて見えてくるの�
 
 新品74,800円、中古なら43,800円前後。ストレージは迷うなら256GBを選ぶのが後悔が少ない。1日あたり約20円の換算で、3年間の作業が1台に収まる計算だ。執筆時点でWORLDMOBILEには在庫が確認できたが、状態のいい個体は流れが速い。
 
-→ [購入する（WORLDMOBILE / 評価4.65 / 442件）](https://hb.afl.rakuten.co.jp/hgc/g00tx2xm.ycj6kadc.g00tx2xm.ycj6l23b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworldmobile%2Fipad-mini-6-abc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworldmobile%2Fi%2F10017286%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [購入する（WORLDMOBILE / 評価4.65 / 442件）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FiPad%2520mini%2520%25E7%25AC%25AC6%25E4%25B8%2596%25E4%25BB%25A3%2F)
 
 中古を探すならパープルの流通量が多い傾向がある（複数の中古ECサイトを横断して確認した際の体感で、時期や在庫状況によって変動する）。用途が合致するかどうかで、購入の判断はほぼ決まる。
 

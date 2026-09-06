@@ -7,15 +7,9 @@ categories: ["SATA SSD"]
 tags: ["SATA SSD", "集合知", "口コミ", "レビュー"]
 verdict: "10年保証で数字が安心材料になる"
 product_name: "Samsung 870 EVO"
-price_display: "168,159円"
-price_jpy: 168159
 total_reviews: "9,772"
-review_count: 0
-rating: 0.0
-shop_name: "ネコサン商店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00uf4rm.ycj6k4fd.g00uf4rm.ycj6lbdc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnekosansyouten%2F202312060011444560441096759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnekosansyouten%2Fi%2F10018365%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSamsung%2520870%2520EVO%2F"
 amazon_url: ""
-product_image: "/img/products/samsung-870-evo.jpg"
 
 keywords: ["Samsung 870 EVO 口コミ", "Samsung 870 EVO 評判", "Samsung 870 EVO デメリット", "Samsung 870 EVO レビュー", "Samsung 870 EVO 後悔", "Samsung 870 EVO", "SATA SSD 口コミ", "SATA SSD おすすめ"]
 ---
@@ -84,9 +78,9 @@ Samsung Magicianというメーカー純正ツールで健康状態をリアル�
 
 ## Samsung 870 EVOを他社製品と比較した口コミ
 
-競合の[WD Blue SA510](https://hb.afl.rakuten.co.jp/hgc/g00uf4rm.ycj6k4fd.g00uf4rm.ycj6lbdc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnekosansyouten%2F202312060011444560441096759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnekosansyouten%2Fi%2F10018365%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)と並べると、同じSATA SSDでもSamsung 870 EVOのほうが保証期間が長く、付属ツールが充実している。ただし価格帯ではほぼ同等か、むしろWD Blueがセール時に安いこともある。
+競合の[WD Blue SA510](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSamsung%2520870%2520EVO%2F)と並べると、同じSATA SSDでもSamsung 870 EVOのほうが保証期間が長く、付属ツールが充実している。ただし価格帯ではほぼ同等か、むしろWD Blueがセール時に安いこともある。
 
-[NVMe SSD](https://hb.afl.rakuten.co.jp/hgc/g00uf4rm.ycj6k4fd.g00uf4rm.ycj6lbdc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnekosansyouten%2F202312060011444560441096759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnekosansyouten%2Fi%2F10018365%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)の主流化で、SATA SSDは低価格帯に追いやられている現状がある。「安さ重視」で選ぶならSATA系は理にかなっているが、「速度最優先」なら迷わずNVMeを選ぶべき。
+[NVMe SSD](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSamsung%2520870%2520EVO%2F)の主流化で、SATA SSDは低価格帯に追いやられている現状がある。「安さ重視」で選ぶならSATA系は理にかなっているが、「速度最優先」なら迷わずNVMeを選ぶべき。
 
 ## Samsung 870 EVOの口コミ調査からの結論
 

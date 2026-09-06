@@ -7,15 +7,9 @@ categories: ["スマートトラッカー"]
 tags: ["スマートトラッカー", "集合知", "口コミ", "レビュー"]
 verdict: "鍵・財布がスマホから即座に鳴らせる"
 product_name: "Tile Mate"
-price_display: "12,800円"
-price_jpy: 12800
 total_reviews: "5,425"
-review_count: 2
-rating: 5.0
-shop_name: "トレテク!SoftBank SELECTION"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00uiobm.ycj6k4a6.g00uiobm.ycj6lad4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrend-tech%2F0819039025089%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrend-tech%2Fi%2F10009951%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTile%2520Mate%2F"
 amazon_url: ""
-product_image: "/img/products/tile-mate.jpg"
 
 keywords: ["Tile Mate 口コミ", "Tile Mate 評判", "Tile Mate デメリット", "Tile Mate レビュー", "Tile Mate 後悔", "Tile Mate", "スマートトラッカー 口コミ", "スマートトラッカー おすすめ"]
 ---

@@ -7,15 +7,9 @@ categories: ["Wi-Fiルーター"]
 tags: ["Wi-Fiルーター", "集合知", "口コミ", "レビュー"]
 verdict: "死角なくWi-Fiが届く家に変わる"
 product_name: "TP-Link Deco M4"
-price_display: "18,560円"
-price_jpy: 18560
 total_reviews: "4,045"
-review_count: 0
-rating: 0.0
-shop_name: "雑貨便利くいしんぼう"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00uj9tm.ycj6kb8e.g00uj9tm.ycj6l911/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fb07kj2tdmr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fi%2F10092592%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTP-Link%2520Deco%2520M4%2F"
 amazon_url: ""
-product_image: "/img/products/tp-link-deco-m4.jpg"
 
 keywords: ["TP-Link Deco M4 口コミ", "TP-Link Deco M4 評判", "TP-Link Deco M4 デメリット", "TP-Link Deco M4 レビュー", "TP-Link Deco M4 後悔", "TP-Link Deco M4", "Wi-Fiルーター 口コミ", "Wi-Fiルーター おすすめ"]
 ---
@@ -91,7 +85,7 @@ Decoアプリを起動して「新しいDecoを追加」を選び、電源を入
 
 Wi-Fi 6端末をすでに複数持っているなら5,000円差は正当化できる。そうでなければDeco M4で十分だ。
 
-→ **[楽天でDeco M4の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00uj9tm.ycj6kb8e.g00uj9tm.ycj6l911/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fb07kj2tdmr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fi%2F10092592%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+→ **[楽天でDeco M4の価格を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTP-Link%2520Deco%2520M4%2F)**
 
 ---
 
@@ -106,7 +100,7 @@ Wi-Fi 6端末をすでに複数持っているなら5,000円差は正当化で�
 
 9,980円を3年使えば1日あたり約9円。その9円で届かない部屋をなくせるなら、費用対効果は高い。
 
-→ **[今すぐ楽天で価格を確認する（在庫あり）](https://hb.afl.rakuten.co.jp/hgc/g00uj9tm.ycj6kb8e.g00uj9tm.ycj6l911/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fb07kj2tdmr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fi%2F10092592%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+→ **[今すぐ楽天で価格を確認する（在庫あり）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTP-Link%2520Deco%2520M4%2F)**
 → **[楽天市場でTP-Link Deco M4を探す](https://search.rakuten.co.jp/search/mall/TP-Link+Deco+M4/)**
 
 ---
@@ -117,25 +111,25 @@ Wi-Fi 6端末をすでに複数持っているなら5,000円差は正当化で�
 
 使える。ただしマンションは壁の構造や隣室の電波干渉が戸建てより多い。1〜2LDKなら1台で足りるケースが多く、2台セットを買うと設置場所に悩むことになる。まず1台で様子を見て、死角があれば追加する順番で問題ない。
 
-→ **[まず1台から試したい場合は楽天単体販売を確認する](https://hb.afl.rakuten.co.jp/hgc/g00uj9tm.ycj6kb8e.g00uj9tm.ycj6l911/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fb07kj2tdmr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fi%2F10092592%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+→ **[まず1台から試したい場合は楽天単体販売を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTP-Link%2520Deco%2520M4%2F)**
 
 **Q. Deco M4とM5の違いは何？**
 
 M5はAC1300でM4より若干スペックが高く、USBポートが1つ付いている。価格差は数千円程度。ただし実使用では体感差がほぼ出ないため、価格重視ならM4で十分だ。M4で出発して性能不足を感じたときに上位機種を検討すれば十分だ。
 
-→ **[M4とM5の現在の価格差を楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00uj9tm.ycj6kb8e.g00uj9tm.ycj6l911/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fb07kj2tdmr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fi%2F10092592%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+→ **[M4とM5の現在の価格差を楽天で確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTP-Link%2520Deco%2520M4%2F)**
 
 **Q. Deco M4は何台まで増設できる？**
 
 公式には最大10ノードまで拡張できる。ただし実際の口コミでは3〜4台で運用しているケースがほとんどで、それ以上になると管理アプリの動作が不安定になったという報告がいくつかあった。広い戸建てや二世帯住宅でWi-Fi届かない問題を解消したい場合、3台構成が現実的な上限と見ておくといい。
 
-→ **[3台構成の価格を楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00uj9tm.ycj6kb8e.g00uj9tm.ycj6l911/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fb07kj2tdmr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fi%2F10092592%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+→ **[3台構成の価格を楽天で確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTP-Link%2520Deco%2520M4%2F)**
 
 ---
 
 TP-Link Deco M4は「Wi-Fiが届かない部屋をなくす」という1点に特化したメッシュWi-Fiで、Amazonと楽天の4,000件超の口コミはその目的においては機能すると示している。Wi-Fi 6非対応・AC1200の速度上限は仕様として存在する。「届かない部屋がある」を解決したいのか、「もっと速くしたい」を解決したいのか——そこを整理してから選べば、後悔は少ない。
 
-→ **[今すぐ楽天で価格を確認する（在庫あり）](https://hb.afl.rakuten.co.jp/hgc/g00uj9tm.ycj6kb8e.g00uj9tm.ycj6l911/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fb07kj2tdmr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fi%2F10092592%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+→ **[今すぐ楽天で価格を確認する（在庫あり）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTP-Link%2520Deco%2520M4%2F)**
 → **[楽天市場でTP-Link Deco M4を探す](https://search.rakuten.co.jp/search/mall/TP-Link+Deco+M4/)**
 
 また明日、集合知で会おう。

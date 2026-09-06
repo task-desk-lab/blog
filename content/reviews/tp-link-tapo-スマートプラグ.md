@@ -7,15 +7,9 @@ categories: ["スマートプラグ"]
 tags: ["スマートプラグ", "集合知", "口コミ", "レビュー"]
 verdict: "帰宅前にエアコンが起動している生活"
 product_name: "TP-Link Tapo スマートプラグ"
-price_display: "6,047円"
-price_jpy: 6047
 total_reviews: "14,020"
-review_count: 0
-rating: 0.0
-shop_name: "cloudstore"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u3i9m.ycj6kc0d.g00u3i9m.ycj6l5cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcloudstore%2F202208262007074897098683972%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcloudstore%2Fi%2F10002646%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTP-Link%2520Tapo%2520%25E3%2582%25B9%25E3%2583%259E%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%2F"
 amazon_url: ""
-product_image: "/img/products/tp-link-tapo-スマートプラグ.jpg"
 
 keywords: ["TP-Link Tapo スマートプラグ 口コミ", "TP-Link Tapo スマートプラグ 評判", "TP-Link Tapo スマートプラグ デメリット", "TP-Link Tapo スマートプラグ レビュー", "TP-Link Tapo スマートプラグ 後悔", "TP-Link Tapo スマートプラグ", "スマートプラグ 口コミ", "スマートプラグ おすすめ"]
 ---

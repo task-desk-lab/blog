@@ -7,15 +7,9 @@ categories: ["コンパクトボールペン"]
 tags: ["コンパクトボールペン", "集合知", "口コミ", "レビュー"]
 verdict: "「ノックがそのまま伸びて普通のペンになる」"
 product_name: "LAMY Pico ボールペン"
-price_display: "12,800円"
-price_jpy: 12800
 total_reviews: "1,053"
-review_count: 0
-rating: 0.0
-shop_name: "スカイマーケットプラス"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u0ztm.ycj6k5c2.g00u0ztm.ycj6lff2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskymarketplus%2Fb002b2so8a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskymarketplus%2Fi%2F10301079%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLAMY%2520Pico%2520%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%259A%25E3%2583%25B3%2F"
 amazon_url: ""
-product_image: "/img/products/lamy-pico-ボールペン.jpg"
 
 keywords: ["LAMY Pico ボールペン 口コミ", "LAMY Pico ボールペン 評判", "LAMY Pico ボールペン デメリット", "LAMY Pico ボールペン レビュー", "LAMY Pico ボールペン 後悔", "LAMY Pico ボールペン", "コンパクトボールペン 口コミ", "コンパクトボールペン おすすめ"]
 ---
@@ -61,7 +55,7 @@ LAMY M22は純正リフィル専用の規格です。汎用のボールペン芯
 
 折りたたみやバネ式ではなく、ノックがそのまま伸びて普通の長さのペンになる設計は独特です。名刺入れやコンパクトなポーチに常に入れておき、実際に書く際には十分な長さが確保できるという、使い手にとって非常に実用的な仕組みになっています。
 
-→ **[楽天で詳細を見る](https://hb.afl.rakuten.co.jp/hgc/g00u0ztm.ycj6k5c2.g00u0ztm.ycj6lff2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskymarketplus%2Fb002b2so8a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskymarketplus%2Fi%2F10301079%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**　｜　**[楽天で価格を比較](https://hb.afl.rakuten.co.jp/hgc/g00u0ztm.ycj6k5c2.g00u0ztm.ycj6lff2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskymarketplus%2Fb002b2so8a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskymarketplus%2Fi%2F10301079%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+→ **[楽天で詳細を見る](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLAMY%2520Pico%2520%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%259A%25E3%2583%25B3%2F)**　｜　**[楽天で価格を比較](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLAMY%2520Pico%2520%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%259A%25E3%2583%25B3%2F)**
 
 **触覚的な満足度**
 
@@ -124,8 +118,8 @@ LAMY M22 専用という制約から、交換費用で一般的なボールペ�
 デメリット（リフィル制約、可動部の耐久性）を理解した上で、そのジレンマを感じている人であれば、LAMY Pico を検討してみる価値は十分あります。書き味よりも「ペンとしての在り方」を選ぶ商品だからこそ、評判と自分の生活スタイルがマッチするかどうかが購入の判断基準になります。
 
 **今すぐチェック：**
-- [楽天ボールペン ドイツ製](https://hb.afl.rakuten.co.jp/hgc/g00u0ztm.ycj6k5c2.g00u0ztm.ycj6lff2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskymarketplus%2Fb002b2so8a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskymarketplus%2Fi%2F10301079%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
-- [楽天 LAMY Pico](https://hb.afl.rakuten.co.jp/hgc/g00u0ztm.ycj6k5c2.g00u0ztm.ycj6lff2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskymarketplus%2Fb002b2so8a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskymarketplus%2Fi%2F10301079%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+- [楽天ボールペン ドイツ製](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLAMY%2520Pico%2520%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%259A%25E3%2583%25B3%2F)
+- [楽天 LAMY Pico](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLAMY%2520Pico%2520%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%259A%25E3%2583%25B3%2F)
 
 あなたの生活スタイルがミニマルな持ち物志向なら、一度手に取る価値があります。
 

@@ -7,15 +7,9 @@ categories: ["ノートPC"]
 tags: ["ノートPC", "集合知", "口コミ", "レビュー"]
 verdict: "電源切ってもファンが回らない静けさ"
 product_name: "Apple MacBook Pro 14インチ"
-price_display: "159,800円"
-price_jpy: 159800
 total_reviews: "3,290"
-review_count: 34
-rating: 4.88
-shop_name: "ショップ・インバース楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00r3khm.ycj6k15a.g00r3khm.ycj6l90c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-inverse%2Fsku-macbookpro-14-2023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshop-inverse%2Fi%2F10065228%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520MacBook%2520Pro%252014%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2581%2F"
 amazon_url: ""
-product_image: "/img/products/apple-macbook-pro-14インチ.jpg"
 
 keywords: ["Apple MacBook Pro 14インチ 口コミ", "Apple MacBook Pro 14インチ 評判", "Apple MacBook Pro 14インチ デメリット", "Apple MacBook Pro 14インチ レビュー", "Apple MacBook Pro 14インチ 後悔", "Apple MacBook Pro 14インチ", "ノートPC 口コミ", "ノートPC おすすめ"]
 ---

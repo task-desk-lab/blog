@@ -7,15 +7,9 @@ categories: ["プレミアムスマートスピーカー"]
 tags: ["プレミアムスマートスピーカー", "集合知", "口コミ", "レビュー"]
 verdict: "ギターアンプの見た目で部屋の主役になる"
 product_name: "Marshall Acton II Home"
-price_display: "39,980円"
-price_jpy: 39980
 total_reviews: "310"
-review_count: 178
-rating: 4.89
-shop_name: "Marshall公式ストア"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u54tm.ycj6kace.g00u54tm.ycj6l127/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarshall-official%2F7340055384940%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarshall-official%2Fi%2F10000022%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMarshall%2520Acton%2520II%2520Home%2F"
 amazon_url: ""
-product_image: "/img/products/marshall-acton-ii-home.jpg"
 
 keywords: ["Marshall Acton II Home 口コミ", "Marshall Acton II Home 評判", "Marshall Acton II Home デメリット", "Marshall Acton II Home レビュー", "Marshall Acton II Home 後悔", "Marshall Acton II Home", "プレミアムスマートスピーカー 口コミ", "プレミアムスマートスピーカー おすすめ"]
 ---

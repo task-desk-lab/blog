@@ -7,15 +7,9 @@ categories: ["ルーズリーフ"]
 tags: ["ルーズリーフ", "集合知", "比較", "口コミ"]
 verdict: "書き応えのマルマン、価格と大量筆記のCampus"
 product_name: "マルマン / コクヨCampus ルーズリーフ"
-price_display: ""
-price_jpy: 0
 total_reviews: "7,350"
-review_count: 0
-rating: 0.0
-shop_name: ""
-rakuten_url: ""
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25AB%25E3%2583%259E%25E3%2583%25B3%2520%2F%2520%25E3%2582%25B3%25E3%2582%25AF%25E3%2583%25A8Campus%2520%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25BA%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2595%2F"
 amazon_url: ""
-product_image: ""
 
 keywords: ["マルマン コクヨ ルーズリーフ 比較", "マルマン コクヨ ルーズリーフ 違い", "ルーズリーフ マルマン コクヨ どっち", "マルマン ルーズリーフ 口コミ", "コクヨ ルーズリーフ Campus 口コミ", "ルーズリーフ 比較", "ルーズリーフ おすすめ"]
 ---

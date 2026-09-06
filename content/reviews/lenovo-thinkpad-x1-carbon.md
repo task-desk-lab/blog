@@ -7,15 +7,9 @@ categories: ["ノートPC"]
 tags: ["ノートPC", "集合知", "口コミ", "レビュー"]
 verdict: "膝の上で1日打っても疲れない軽さ"
 product_name: "Lenovo ThinkPad X1 Carbon"
-price_display: "50,990円"
-price_jpy: 50990
 total_reviews: "1,255"
-review_count: 30
-rating: 4.7
-shop_name: "PCONE"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00sk4xm.ycj6k71c.g00sk4xm.ycj6lcb5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-one%2Flenovo15-xxx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-one%2Fi%2F10015025%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLenovo%2520ThinkPad%2520X1%2520Carbon%2F"
 amazon_url: ""
-product_image: "/img/products/lenovo-thinkpad-x1-carbon.jpg"
 
 keywords: ["Lenovo ThinkPad X1 Carbon 口コミ", "Lenovo ThinkPad X1 Carbon 評判", "Lenovo ThinkPad X1 Carbon デメリット", "Lenovo ThinkPad X1 Carbon レビュー", "Lenovo ThinkPad X1 Carbon 後悔", "Lenovo ThinkPad X1 Carbon", "ノートPC 口コミ", "ノートPC おすすめ"]
 ---

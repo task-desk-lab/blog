@@ -12,8 +12,7 @@ price_jpy: 18528
 total_reviews: "4,510"
 review_count: 1323
 rating: 4.55
-shop_name: "Kudos21 楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00umjem.ycj6kd6d.g00umjem.ycj6ld4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkudos21r%2Fxy6x74r5vfihvk45c27gzd7p6y%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkudos21r%2Fi%2F10173878%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FQrio%2520Lock%2F"
 amazon_url: ""
 product_image: "/img/products/qrio-lock.jpg"
 
@@ -46,7 +45,7 @@ Amazon・楽天・YouTubeを合わせた4,500件超の口コミを調べた。Qr
 
 ### 電池切れで締め出されるリスク
 
-Qrio LockはCR123A電池を使う。コンビニではまず売っていないため、切れたときに即対応できない。「旅行から帰ったら入れなかった」——実際にそう書いた声がいくつか目についた。アプリで残量は確認できるが、通知を見落とす人には無視できないリスクだ。電池の予備を常備することが実質必須になる。CR123Aはコンビニでの入手が難しいため、[楽天でまとめ買い](https://hb.afl.rakuten.co.jp/hgc/g00umjem.ycj6kd6d.g00umjem.ycj6ld4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkudos21r%2Fxy6x74r5vfihvk45c27gzd7p6y%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkudos21r%2Fi%2F10173878%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)して手元に置いておくのが現実的な対策だ。
+Qrio LockはCR123A電池を使う。コンビニではまず売っていないため、切れたときに即対応できない。「旅行から帰ったら入れなかった」——実際にそう書いた声がいくつか目についた。アプリで残量は確認できるが、通知を見落とす人には無視できないリスクだ。電池の予備を常備することが実質必須になる。CR123Aはコンビニでの入手が難しいため、[楽天でまとめ買い](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FQrio%2520Lock%2F)して手元に置いておくのが現実的な対策だ。
 
 ### リモート操作にQrio Hubが別売り
 
@@ -62,7 +61,7 @@ Qrio LockはCR123A電池を使う。コンビニではまず売っていない�
 
 ---
 
-それでも買う価値があるか判断する → [楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00umjem.ycj6kd6d.g00umjem.ycj6ld4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkudos21r%2Fxy6x74r5vfihvk45c27gzd7p6y%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkudos21r%2Fi%2F10173878%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+それでも買う価値があるか判断する → [楽天で価格を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FQrio%2520Lock%2F)
 
 ---
 
@@ -156,6 +155,6 @@ CR123Aは入手性が低く、切れたときのリスクが高い。アプリ�
 
 リモート確認もセットで使いたいなら、Qrio HubとのセットをAmazonで確認するのが費用感の把握に近道だ。
 
-[楽天でQrio Lockを見る](https://hb.afl.rakuten.co.jp/hgc/g00umjem.ycj6kd6d.g00umjem.ycj6ld4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkudos21r%2Fxy6x74r5vfihvk45c27gzd7p6y%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkudos21r%2Fi%2F10173878%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天でQrio Lockを見る](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FQrio%2520Lock%2F)
 
 また明日、集合知で会おう。

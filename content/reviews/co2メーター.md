@@ -7,15 +7,9 @@ categories: ["環境モニター"]
 tags: ["環境モニター", "集合知", "口コミ", "レビュー"]
 verdict: "換気タイミングが数字でわかる"
 product_name: "CO2メーター"
-price_display: "39,930円"
-price_jpy: 39930
 total_reviews: "2,275"
-review_count: 1
-rating: 2.0
-shop_name: "DIY FACTORY ONLINE SHOP"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00powom.ycj6k1d8.g00powom.ycj6ldfc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftuzukiya%2Ft04-7132%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftuzukiya%2Fi%2F21127385%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCO2%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%2F"
 amazon_url: ""
-product_image: "/img/products/co2メーター.jpg"
 
 keywords: ["CO2メーター 口コミ", "CO2メーター 評判", "CO2メーター デメリット", "CO2メーター レビュー", "CO2メーター 後悔", "CO2メーター", "環境モニター 口コミ", "環境モニター おすすめ"]
 ---

@@ -8,15 +8,9 @@ categories: ["スマートカメラ"]
 tags: ["スマートカメラ", "集合知", "口コミ", "レビュー"]
 verdict: "月額ゼロで玄関を24時間監視できる"
 product_name: "TP-Link Tapo C320WS"
-price_display: "6,300円"
-price_jpy: 6300
 total_reviews: "5,550"
-review_count: 564
-rating: 4.49
-shop_name: "TP-Linkダイレクト 楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00sbb0m.ycj6k76d.g00sbb0m.ycj6le5b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftplinkdirect%2F4897098687031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftplinkdirect%2Fi%2F10001192%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTP-Link%2520Tapo%2520C320WS%2F"
 amazon_url: ""
-product_image: "/img/products/tp-link-tapo-c320ws.jpg"
 
 keywords: ["TP-Link Tapo C320WS 口コミ", "TP-Link Tapo C320WS 評判", "TP-Link Tapo C320WS デメリット", "TP-Link Tapo C320WS レビュー", "TP-Link Tapo C320WS 後悔", "TP-Link Tapo C320WS", "スマートカメラ 口コミ", "スマートカメラ おすすめ"]
 ---

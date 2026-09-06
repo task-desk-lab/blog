@@ -12,8 +12,7 @@ price_jpy: 19500
 total_reviews: "2,127"
 review_count: 5
 rating: 4.0
-shop_name: "Apple専門店 キットカット"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00puugm.ycj6k2e0.g00puugm.ycj6lc61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut%2F50395540381%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut%2Fi%2F10123553%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBelkin%2520Boost%2520Charge%2520Pro%2F"
 amazon_url: ""
 product_image: "/img/products/belkin-boost-charge-pro.jpg"
 
@@ -146,7 +145,7 @@ Amazonで集めた1,340件の口コミと楽天の280件のレビューから見
 
 ---
 
-📱 [楽天で最新価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00puugm.ycj6k2e0.g00puugm.ycj6lc61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut%2F50395540381%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut%2Fi%2F10123553%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+📱 [楽天で最新価格を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBelkin%2520Boost%2520Charge%2520Pro%2F)
 
 🔗 [Belkin公式サイト](https://www.belkin.com)
 

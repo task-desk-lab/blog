@@ -12,8 +12,7 @@ price_jpy: 8090
 total_reviews: "1,583"
 review_count: 26
 rating: 4.65
-shop_name: "イーベストPC・家電館"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2582%25B7%25E3%2582%25AA%2520%25E9%259B%25BB%25E5%258D%2593%2520JS-20WK%2F"
 amazon_url: ""
 product_image: "/img/products/カシオ-電卓-js-20wk.jpg"
 
@@ -103,9 +102,9 @@ A4用紙（210×297mm）と比べると横幅185mmはほぼ同等のサイズ感
 
 「カシオは数字キーが大きめで見やすい、シャープは機能キーの配置が直感的」という比較レビューもある。どちらが優れているかではなく、自分の打ち方と用途に合うかどうかで選ぶ製品だ。**速打ちを重視するなら JS-20WK、押した感触を確かめながら打ちたいなら EL-G37** が選択の目安になる。実際に触れる機会があれば手の感覚で決めるのが一番早い。
 
-**カシオ JS-20WK**：[楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+**カシオ JS-20WK**：[楽天で価格を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2582%25B7%25E3%2582%25AA%2520%25E9%259B%25BB%25E5%258D%2593%2520JS-20WK%2F)　[楽天で価格を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2582%25B7%25E3%2582%25AA%2520%25E9%259B%25BB%25E5%258D%2593%2520JS-20WK%2F)
 
-**シャープ EL-G37**：[楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天で価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+**シャープ EL-G37**：[楽天で価格を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2582%25B7%25E3%2582%25AA%2520%25E9%259B%25BB%25E5%258D%2593%2520JS-20WK%2F)　[楽天で価格を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2582%25B7%25E3%2582%25AA%2520%25E9%259B%25BB%25E5%258D%2593%2520JS-20WK%2F)
 
 ## カシオ 電卓 JS-20WKを買って後悔する人
 
@@ -135,7 +134,7 @@ A4用紙（210×297mm）と比べると横幅185mmはほぼ同等のサイズ感
 
 デュアル電源とカシオの品質から、買い替えサイクルを長く取れる製品だ。1日あたり約13円（4,800円÷365日）というコストで業務ツールとして使えると考えると、費用対効果に納得感がある。
 
-[楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天で価格・在庫を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2582%25B7%25E3%2582%25AA%2520%25E9%259B%25BB%25E5%258D%2593%2520JS-20WK%2F)　[楽天で価格・在庫を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2582%25B7%25E3%2582%25AA%2520%25E9%259B%25BB%25E5%258D%2593%2520JS-20WK%2F)
 
 ## よくある質問
 
@@ -155,6 +154,6 @@ A4用紙（210×297mm）と比べると横幅185mmはほぼ同等のサイズ感
 
 Amazonで1,200件・楽天で320件のレビューを調べた結論は、「毎日使う人には費用対効果が高い、たまにしか使わない人には過剰」という一言に尽きる。悪い口コミの多くはサイズや価格への想定外の感想で、スペック（185×107×34mm・425g）を先に把握すれば回避できるものだ。デメリットを承知のうえで実務電卓として据え置くなら、後悔しにくい製品だとぼくは判断している。1日13円で仕事のミスが減るなら、使用頻度が高い人ほど費用対効果は高い。
 
-[楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　[楽天で価格・在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4549526613289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12704410%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[楽天で価格・在庫を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2582%25B7%25E3%2582%25AA%2520%25E9%259B%25BB%25E5%258D%2593%2520JS-20WK%2F)　[楽天で価格・在庫を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2582%25B7%25E3%2582%25AA%2520%25E9%259B%25BB%25E5%258D%2593%2520JS-20WK%2F)
 
 また明日、集合知で会おう。

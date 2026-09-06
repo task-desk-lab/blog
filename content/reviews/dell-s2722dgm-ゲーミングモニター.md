@@ -7,15 +7,9 @@ categories: ["ゲーミングモニター"]
 tags: ["ゲーミングモニター", "集合知", "口コミ", "レビュー"]
 verdict: "黒がしっかり沈むから暗所FPSが有利になる"
 product_name: "Dell S2722DGM ゲーミングモニター"
-price_display: "22,000円"
-price_jpy: 22000
 total_reviews: "2,163"
-review_count: 58
-rating: 4.57
-shop_name: "BTOパソコン専門店のPC-MAX"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-max-shop%2Flam-94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-max-shop%2Fi%2F10005605%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520S2722DGM%2520%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2F"
 amazon_url: ""
-product_image: "/img/products/dell-s2722dgm-ゲーミングモニター.jpg"
 
 keywords: ["Dell S2722DGM ゲーミングモニター 口コミ", "Dell S2722DGM ゲーミングモニター 評判", "Dell S2722DGM ゲーミングモニター デメリット", "Dell S2722DGM ゲーミングモニター レビュー", "Dell S2722DGM ゲーミングモニター 後悔", "Dell S2722DGM ゲーミングモニター", "ゲーミングモニター 口コミ", "ゲーミングモニター おすすめ"]
 ---
@@ -49,10 +43,10 @@ VAパネルの弱点である黒つぶれと色反転は、この商品でも変
 1msという応答速度も、実際には残像が見えたり、TN型の高級機種に比べると遅く感じたりする場面がある。FPS初心者には気にならないレベルだが、プロゲーマー志向や極限の反応速度を求める人には物足りない。
 
 **スピーカー非搭載で別途用意が必須**
-初期状態ではスピーカーがないため、ゲーミングヘッドセットやスピーカーを別途購入する必要がある。[→おすすめゲーミングヘッドセット3選](https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-max-shop%2Flam-94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-max-shop%2Fi%2F10005605%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)ケーブル配置が増えるデメリットもあり、セッティングコストが余分にかかる。
+初期状態ではスピーカーがないため、ゲーミングヘッドセットやスピーカーを別途購入する必要がある。[→おすすめゲーミングヘッドセット3選](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520S2722DGM%2520%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2F)ケーブル配置が増えるデメリットもあり、セッティングコストが余分にかかる。
 
 **初期不良が一定数報告されている**
-ドット抜けや輝度ムラの訴えが数件見られ、購入時は初期不良確認を念入りにすべき。大手販売元の保証期間を確認してから買うことが推奨されている。[→不良時の対応ガイド](https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-max-shop%2Flam-94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-max-shop%2Fi%2F10005605%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+ドット抜けや輝度ムラの訴えが数件見られ、購入時は初期不良確認を念入りにすべき。大手販売元の保証期間を確認してから買うことが推奨されている。[→不良時の対応ガイド](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520S2722DGM%2520%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2F)
 
 **スタンドの脚部が大きく場所を取る**
 素のスタンドは机上スペースをそれなりに圧迫する。デスクが小さい場合は、VESAマウント対応を活かしてアームで浮かせるセッティングが必須になるケースもある。
@@ -62,29 +56,29 @@ VAパネルの弱点である黒つぶれと色反転は、この商品でも変
 一方、メリット面の口コミはとても多い。
 
 **黒の締まりで暗所敵が見えやすい**
-VAパネルの高コントラスト比が武器。FPS/TPSで暗い室内や夜間マップで敵キャラクターが浮かび上がるように見え、IPS型より視認性が有利だ。ゲーム適性を考えると、この特性は実質的なパフォーマンス向上につながる。[→詳細スペックを確認](https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-max-shop%2Flam-94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-max-shop%2Fi%2F10005605%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+VAパネルの高コントラスト比が武器。FPS/TPSで暗い室内や夜間マップで敵キャラクターが浮かび上がるように見え、IPS型より視認性が有利だ。ゲーム適性を考えると、この特性は実質的なパフォーマンス向上につながる。[→詳細スペックを確認](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520S2722DGM%2520%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2F)
 
 **165Hzの滑らかな動き**
-165Hz駆動により画面のカクつきが減ってゲームプレイが快適になるという口コミが大多数。IPS型の60Hzから乗り換えた人からは「世界が変わった」という高評価が多い。[→レビューをさらに読む](https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-max-shop%2Flam-94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-max-shop%2Fi%2F10005605%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+165Hz駆動により画面のカクつきが減ってゲームプレイが快適になるという口コミが大多数。IPS型の60Hzから乗り換えた人からは「世界が変わった」という高評価が多い。[→レビューをさらに読む](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520S2722DGM%2520%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2F)
 
 **QHD解像度で4万円台という価格**
-スペックシートだけ見ると同格品は50,000円以上することが多い中、45,800円での販売は破格。この性能でこの価格は奇跡と言っていい水準だ。予算限度が決まっている学生や新社会人にとって現実的な選択肢になっている。[→価格比較を確認](https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-max-shop%2Flam-94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-max-shop%2Fi%2F10005605%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+スペックシートだけ見ると同格品は50,000円以上することが多い中、45,800円での販売は破格。この性能でこの価格は奇跡と言っていい水準だ。予算限度が決まっている学生や新社会人にとって現実的な選択肢になっている。[→価格比較を確認](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520S2722DGM%2520%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2F)
 
 **スタンド調整が豊富で長時間快適**
-高さ調整、傾き、スイベル対応により、デスク環境に合わせたポジショニングが可能。正しい高さに設定すれば首への負担が減り、長時間ゲームプレイでも疲れにくい。[→スタンド調整ガイド](https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-max-shop%2Flam-94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-max-shop%2Fi%2F10005605%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+高さ調整、傾き、スイベル対応により、デスク環境に合わせたポジショニングが可能。正しい高さに設定すれば首への負担が減り、長時間ゲームプレイでも疲れにくい。[→スタンド調整ガイド](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520S2722DGM%2520%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2F)
 
 **VESAマウント対応でセッティングの自由度が高い**
-モニターアームに取り付けやすく、スタンドのスペース問題をクリアできる。アーム設置後のレビュー満足度は高い。[→おすすめモニターアーム](https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-max-shop%2Flam-94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-max-shop%2Fi%2F10005605%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+モニターアームに取り付けやすく、スタンドのスペース問題をクリアできる。アーム設置後のレビュー満足度は高い。[→おすすめモニターアーム](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520S2722DGM%2520%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2F)
 
 **AMD FreeSync Premiumでティアリングが軽減**
-対応ゲーム環境ではティアリング現象が減り、映像の安定性が向上する。競争力のある高リフレッシュレートと組み合わさると、ゲーム体験がかなり洗練される。[→FreeSync対応ゲーム一覧](https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-max-shop%2Flam-94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-max-shop%2Fi%2F10005605%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+対応ゲーム環境ではティアリング現象が減り、映像の安定性が向上する。競争力のある高リフレッシュレートと組み合わさると、ゲーム体験がかなり洗練される。[→FreeSync対応ゲーム一覧](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520S2722DGM%2520%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2F)
 
 **初期設定のままでも作業用途に使える**
 ゲーミング特化の製品にしては色再現が破綻しておらず、テレワークや動画編集にも流用できるという評判。さらに専用の色校正は不要だが、厳密な色再現が必須の仕事には向かない。
 
 ## Dell S2722DGM ゲーミングモニターを他社製品と比較した口コミ
 
-同価格帯の主な競合は [LG ウルトラギア 27GP850](https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-max-shop%2Flam-94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-max-shop%2Fi%2F10005605%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)。IPS パネルを採用した LG は広視野角と色再現が強みだが、コントラスト比では Dell S2722DGM が優位。FPS/TPS ゲーマーの間では黒の見え方で Dell が有利になる一方、クリエイティブ制作者にとっては LG の色表現のほうが信頼できる。
+同価格帯の主な競合は [LG ウルトラギア 27GP850](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520S2722DGM%2520%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2F)。IPS パネルを採用した LG は広視野角と色再現が強みだが、コントラスト比では Dell S2722DGM が優位。FPS/TPS ゲーマーの間では黒の見え方で Dell が有利になる一方、クリエイティブ制作者にとっては LG の色表現のほうが信頼できる。
 
 予算が5万円以下に限定されるなら、Dell S2722DGM はコスパの観点で競合に勝ることが多い。とはいえ「色精度が必要な副業をしている」という人は LG を選ぶケースが目立つ。
 
@@ -116,7 +110,7 @@ VAパネルの高コントラスト比が武器。FPS/TPSで暗い室内や夜�
 
 ただし、個人デスクでの利用が前提で、スピーカーを別途用意でき、色精度の優先度が低いなら、検討してみる価値がある。視野角の狭さは欠点だが、ゲーマー個人の正面利用なら許容範囲というのが、多くの口コミから読み取れる実際のところ。
 
-[詳細スペックを楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-max-shop%2Flam-94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-max-shop%2Fi%2F10005605%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
-[レビューページを見る](https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-max-shop%2Flam-94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-max-shop%2Fi%2F10005605%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[詳細スペックを楽天で確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520S2722DGM%2520%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2F)
+[レビューページを見る](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDell%2520S2722DGM%2520%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2F)
 
 また明日、集合知で会おう。

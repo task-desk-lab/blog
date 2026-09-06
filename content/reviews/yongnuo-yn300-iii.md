@@ -7,15 +7,9 @@ categories: ["LEDライト"]
 tags: ["LEDライト", "集合知", "口コミ", "レビュー"]
 verdict: "肌色を選ばず配信映えする"
 product_name: "Yongnuo YN300 III"
-price_display: "44,229円"
-price_jpy: 44229
 total_reviews: "465"
-review_count: 0
-rating: 0.0
-shop_name: "スカイマーケットプラス"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u0ztm.ycj6k5c2.g00u0ztm.ycj6lff2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskymarketplus%2Fb00rjstj6c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskymarketplus%2Fi%2F10813093%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYongnuo%2520YN300%2520III%2F"
 amazon_url: ""
-product_image: "/img/products/yongnuo-yn300-iii.jpg"
 
 keywords: ["Yongnuo YN300 III 口コミ", "Yongnuo YN300 III 評判", "Yongnuo YN300 III デメリット", "Yongnuo YN300 III レビュー", "Yongnuo YN300 III 後悔", "Yongnuo YN300 III", "LEDライト 口コミ", "LEDライト おすすめ"]
 ---
@@ -89,7 +83,7 @@ keywords: ["Yongnuo YN300 III 口コミ", "Yongnuo YN300 III 評判", "Yongnuo Y
 
 ### このライトを今すぐ確認する
 
-- [楽天 で確認する](https://hb.afl.rakuten.co.jp/hgc/g00u0ztm.ycj6k5c2.g00u0ztm.ycj6lff2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskymarketplus%2Fb00rjstj6c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskymarketplus%2Fi%2F10813093%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+- [楽天 で確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYongnuo%2520YN300%2520III%2F)
 - [楽天で確認する](https://search.rakuten.co.jp/search/mall/Yongnuo+YN300+III/)
 - [メルカリで確認する](https://jp.mercari.com/search?keyword=Yongnuo+YN300+III)
 

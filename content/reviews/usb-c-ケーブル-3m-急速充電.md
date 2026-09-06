@@ -7,15 +7,9 @@ categories: ["ケーブル"]
 tags: ["ケーブル", "集合知", "口コミ", "レビュー"]
 verdict: "ベッドから起き上がらず充電できる"
 product_name: "USB-C ケーブル 3m 急速充電"
-price_display: "1,000円"
-price_jpy: 1000
 total_reviews: "3,717"
-review_count: 320
-rating: 4.44
-shop_name: "QISI楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u00bm.ycj6k0f7.g00u00bm.ycj6l16c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fqisi%2F45715524251471-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fqisi%2Fi%2F10000303%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUSB-C%2520%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%2596%25E3%2583%25AB%25203m%2520%25E6%2580%25A5%25E9%2580%259F%25E5%2585%2585%25E9%259B%25BB%2F"
 amazon_url: ""
-product_image: "/img/products/usb-c-ケーブル-3m-急速充電.jpg"
 
 keywords: ["USB-C ケーブル 3m 急速充電 口コミ", "USB-C ケーブル 3m 急速充電 評判", "USB-C ケーブル 3m 急速充電 デメリット", "USB-C ケーブル 3m 急速充電 レビュー", "USB-C ケーブル 3m 急速充電 後悔", "USB-C ケーブル 3m 急速充電", "ケーブル 口コミ", "ケーブル おすすめ"]
 ---

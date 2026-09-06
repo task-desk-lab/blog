@@ -7,15 +7,9 @@ categories: ["ノート"]
 tags: ["ノート", "集合知", "口コミ", "レビュー"]
 verdict: "ページ番号とインデックスで迷子ゼロ"
 product_name: "Leuchtturm1917 バレットジャーナル"
-price_display: "4,290円"
-price_jpy: 4290
 total_reviews: "7,780"
-review_count: 233
-rating: 4.68
-shop_name: "RINKY DINK 楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rux4m.ycj6k2b9.g00rux4m.ycj6l538/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frinkydink%2Fleuchtturmmidium%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frinkydink%2Fi%2F10002996%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLeuchtturm1917%2520%25E3%2583%2590%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%258A%25E3%2583%25AB%2F"
 amazon_url: ""
-product_image: "/img/products/leuchtturm1917-バレットジャーナル.jpg"
 
 keywords: ["Leuchtturm1917 バレットジャーナル 口コミ", "Leuchtturm1917 バレットジャーナル 評判", "Leuchtturm1917 バレットジャーナル デメリット", "Leuchtturm1917 バレットジャーナル レビュー", "Leuchtturm1917 バレットジャーナル 後悔", "Leuchtturm1917 バレットジャーナル", "ノート 口コミ", "ノート おすすめ"]
 noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
@@ -101,7 +95,7 @@ Amazonの口コミ1,200件、楽天の380件を合わせて確認した。ネガ
 
 ノートにコストをかけたくない人も向いていない。「紙に2,800円」という感覚が合わないと、使うたびにストレスになる。
 
-ただ、すでにバレットジャーナルを半年以上続けているなら話は別だ。→ [楽天で現在価格と色バリエーションを確認する](https://hb.afl.rakuten.co.jp/hgc/g00rux4m.ycj6k2b9.g00rux4m.ycj6l538/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frinkydink%2Fleuchtturmmidium%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frinkydink%2Fi%2F10002996%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+ただ、すでにバレットジャーナルを半年以上続けているなら話は別だ。→ [楽天で現在価格と色バリエーションを確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLeuchtturm1917%2520%25E3%2583%2590%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%258A%25E3%2583%25AB%2F)
 
 ## Leuchtturm1917 バレットジャーナルを買って満足する人・向いている使い方
 
@@ -111,7 +105,7 @@ Amazonの口コミ1,200件、楽天の380件を合わせて確認した。ネガ
 
 万年筆以外をメインにしているライターにも問題ない。水性ペンや一般的なインクを使う人は裏抜けの問題なく両面活用できる。この層のレビューには「次もこれを買う」というリピート言及が目立つ。
 
-[Leuchtturm1917 バレットジャーナルを楽天で見る（2,800円前後・20色展開）](https://hb.afl.rakuten.co.jp/hgc/g00rux4m.ycj6k2b9.g00rux4m.ycj6l538/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frinkydink%2Fleuchtturmmidium%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frinkydink%2Fi%2F10002996%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[Leuchtturm1917 バレットジャーナルを楽天で見る（2,800円前後・20色展開）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLeuchtturm1917%2520%25E3%2583%2590%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%258A%25E3%2583%25AB%2F)
 
 ## Leuchtturm1917 バレットジャーナルの口コミ調査からの結論
 

@@ -12,8 +12,7 @@ price_jpy: 8980
 total_reviews: "1,925"
 review_count: 0
 rating: 0.0
-shop_name: "コジマ楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00r8mvm.ycj6k2b9.g00r8mvm.ycj6l3d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F8720169399808%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11519533%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2520Hue%2520%25E3%2583%259B%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2F"
 amazon_url: ""
 product_image: "/img/products/philips-hue-ホワイトグラデーション.jpg"
 
@@ -108,7 +107,7 @@ Wi-Fi機器が多いスマートホーム環境でも通信干渉が起きにく
 
 KL130は1灯あたり2,000〜2,500円でBridge不要のWi-Fi直接接続が強みだ。SwitchBot電球はさらに安価で、SwitchBotハブとまとめて管理したいユーザー向けの選択肢になる。ただし多灯時の通信安定性ではZigbee方式のHueが上回る。最初はTP-Linkで試してからHueに移行する、というパターンも現実的な選択肢だ。
 
-多灯で使い込む前提なら、機能の網羅性でHueが頭一つ抜ける。**[現在の価格と在庫を確認する →](https://hb.afl.rakuten.co.jp/hgc/g00r8mvm.ycj6k2b9.g00r8mvm.ycj6l3d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F8720169399808%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11519533%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+多灯で使い込む前提なら、機能の網羅性でHueが頭一つ抜ける。**[現在の価格と在庫を確認する →](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2520Hue%2520%25E3%2583%259B%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2F)**
 
 ## Philips Hue ホワイトグラデーションを買って後悔する人
 
@@ -146,9 +145,9 @@ Amazon・楽天・YouTube・ブログ合計1,925件のデータを調べた。E1
 
 Amazonは30日返品対応。スペックが合わなければ返品できる。
 
-**[楽天で今すぐ確認する →](https://hb.afl.rakuten.co.jp/hgc/g00r8mvm.ycj6k2b9.g00r8mvm.ycj6l3d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F8720169399808%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11519533%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**[楽天で今すぐ確認する →](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2520Hue%2520%25E3%2583%259B%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2F)**
 
-**[楽天市場で確認する →](https://hb.afl.rakuten.co.jp/hgc/g00r8mvm.ycj6k2b9.g00r8mvm.ycj6l3d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F8720169399808%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11519533%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**[楽天市場で確認する →](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2520Hue%2520%25E3%2583%259B%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2F)**
 
 ---
 

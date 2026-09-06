@@ -7,15 +7,9 @@ categories: ["ヨガマット"]
 tags: ["ヨガマット", "集合知", "口コミ", "レビュー"]
 verdict: "膝が痛くならず床の冷たさも感じない"
 product_name: "YOGAMAT ヨガマット 6mm"
-price_display: "25,300円"
-price_jpy: 25300
 total_reviews: "2,552"
-review_count: 497
-rating: 4.67
-shop_name: "Puravida-プラヴィダ"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00q08tm.ycj6k9c6.g00q08tm.ycj6l977/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpuravida%2F401105004-03%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpuravida%2Fi%2F10002609%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYOGAMAT%2520%25E3%2583%25A8%25E3%2582%25AC%25E3%2583%259E%25E3%2583%2583%25E3%2583%2588%25206mm%2F"
 amazon_url: ""
-product_image: "/img/products/yogamat-ヨガマット-6mm.jpg"
 
 keywords: ["YOGAMAT ヨガマット 6mm 口コミ", "YOGAMAT ヨガマット 6mm 評判", "YOGAMAT ヨガマット 6mm デメリット", "YOGAMAT ヨガマット 6mm レビュー", "YOGAMAT ヨガマット 6mm 後悔", "YOGAMAT ヨガマット 6mm", "ヨガマット 口コミ", "ヨガマット おすすめ"]
 ---

@@ -7,15 +7,9 @@ categories: ["ソーラーパネル"]
 tags: ["ソーラーパネル", "集合知", "口コミ", "レビュー"]
 verdict: "曇りの日でも粘って充電が止まらない"
 product_name: "Jackery SolarSaga 100W"
-price_display: "92,600円"
-price_jpy: 92600
 total_reviews: "2,275"
-review_count: 0
-rating: 0.0
-shop_name: "Jackery Japan 楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tgrom.ycj6k7cb.g00tgrom.ycj6l0a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjackery-japan%2F60-050010-jp00248%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjackery-japan%2Fi%2F10000209%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJackery%2520SolarSaga%2520100W%2F"
 amazon_url: ""
-product_image: "/img/products/jackery-solarsaga-100w.jpg"
 
 keywords: ["Jackery SolarSaga 100W 口コミ", "Jackery SolarSaga 100W 評判", "Jackery SolarSaga 100W デメリット", "Jackery SolarSaga 100W レビュー", "Jackery SolarSaga 100W 後悔", "Jackery SolarSaga 100W", "ソーラーパネル 口コミ", "ソーラーパネル おすすめ"]
 ---

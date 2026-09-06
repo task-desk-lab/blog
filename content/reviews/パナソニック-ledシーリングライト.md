@@ -7,15 +7,9 @@ categories: ["シーリングライト"]
 tags: ["シーリングライト", "集合知", "口コミ", "レビュー"]
 verdict: "10年交換不要で電気代が月300円台に落ちる"
 product_name: "パナソニック LEDシーリングライト"
-price_display: "14,986円"
-price_jpy: 14986
 total_reviews: "4,595"
-review_count: 12
-rating: 4.83
-shop_name: "Panasonic Store Plus 楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00ubhym.ycj6kb5c.g00ubhym.ycj6lb2d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpanasonic-store%2Fhh-ck0625ca%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpanasonic-store%2Fi%2F10000589%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%258A%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%2520LED%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2588%2F"
 amazon_url: ""
-product_image: "/img/products/パナソニック-ledシーリングライト.jpg"
 
 keywords: ["パナソニック LEDシーリングライト 口コミ", "パナソニック LEDシーリングライト 評判", "パナソニック LEDシーリングライト デメリット", "パナソニック LEDシーリングライト レビュー", "パナソニック LEDシーリングライト 後悔", "パナソニック LEDシーリングライト", "シーリングライト 口コミ", "シーリングライト おすすめ"]
 ---
@@ -69,7 +63,7 @@ Amazonの3,200件・楽天の1,100件を中心に、YouTube85本・ブログ210�
 
 ポジティブ評価全体の約3割で、切り替え後の電気代変化への言及があった。白熱灯100WをLED32Wに置き換えると消費電力は約68%落ちる。1日2.2円という数字は、長時間点灯する部屋ほど節約効果が大きくなる。年間約4,000円・約2年での初期費用回収という計算は、自宅の利用時間と現在の電気代をもとに試算するとより実感が持てる。
 
-▶ **[楽天で価格を見る（現在の価格で何年で元が取れるか計算できます）](https://hb.afl.rakuten.co.jp/hgc/g00ubhym.ycj6kb5c.g00ubhym.ycj6lb2d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpanasonic-store%2Fhh-ck0625ca%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpanasonic-store%2Fi%2F10000589%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+▶ **[楽天で価格を見る（現在の価格で何年で元が取れるか計算できます）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%258A%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%2520LED%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2588%2F)**
 
 ### 【朝は昼光色、夜は電球色】調光・調色で一日中使い分けができる
 
@@ -95,7 +89,7 @@ Amazonの3,200件・楽天の1,100件を中心に、YouTube85本・ブログ210�
 
 「消灯のために起き上がらなくていい」という使い方が寝室用途のレビューで登場した。スイッチを入れた瞬間に安定した光が出る即時点灯も、旧来の蛍光灯からの切り替えで好評だった部分だ。
 
-▶ **[最新の口コミ件数を確認する](https://hb.afl.rakuten.co.jp/hgc/g00ubhym.ycj6kb5c.g00ubhym.ycj6lb2d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpanasonic-store%2Fhh-ck0625ca%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpanasonic-store%2Fi%2F10000589%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+▶ **[最新の口コミ件数を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%258A%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%2520LED%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2588%2F)**
 
 ## パナソニック vs アイリスオーヤマ：LEDシーリングライト 比較
 
@@ -136,7 +130,7 @@ Amazonの3,200件・楽天の1,100件を中心に、YouTube85本・ブログ210�
 
 上記3つに当てはまるなら、型番HH-CF0820Aをそのまま検索すれば迷わない。Amazonのタイムセール対象になりやすい型番でもある。
 
-▶ **[ポイント還元・クーポンを確認する](https://hb.afl.rakuten.co.jp/hgc/g00ubhym.ycj6kb5c.g00ubhym.ycj6lb2d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpanasonic-store%2Fhh-ck0625ca%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpanasonic-store%2Fi%2F10000589%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+▶ **[ポイント還元・クーポンを確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%258A%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%2520LED%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2588%2F)**
 
 ## 口コミ調査のまとめ：電気代・比較・買うべき人
 

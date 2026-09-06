@@ -7,15 +7,9 @@ categories: ["スマートボタン"]
 tags: ["スマートボタン", "集合知", "口コミ", "レビュー"]
 verdict: "朝、布団から出ずに照明を消せる"
 product_name: "SwitchBot Bot"
-price_display: "43,379円"
-price_jpy: 43379
 total_reviews: "9,350"
-review_count: 4
-rating: 3.5
-shop_name: "楽天ビック(ビックカメラ×楽天)"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldm.ycj6k434.g00r7ldm.ycj6l6fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F0810150544824%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F15169260%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSwitchBot%2520Bot%2F"
 amazon_url: ""
-product_image: "/img/products/switchbot-bot.jpg"
 
 keywords: ["SwitchBot Bot 口コミ", "SwitchBot Bot 評判", "SwitchBot Bot デメリット", "SwitchBot Bot レビュー", "SwitchBot Bot 後悔", "SwitchBot Bot", "スマートボタン 口コミ", "スマートボタン おすすめ"]
 ---

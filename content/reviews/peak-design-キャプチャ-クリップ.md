@@ -7,15 +7,9 @@ categories: ["カメラクリップ"]
 tags: ["カメラクリップ", "集合知", "口コミ", "レビュー"]
 verdict: "カメラをたすき掛けで首から下げなくていい"
 product_name: "Peak Design キャプチャ クリップ"
-price_display: "11,980円"
-price_jpy: 11980
 total_reviews: "1,107"
-review_count: 99
-rating: 4.67
-shop_name: "美雑貨屋"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00umgam.ycj6kc87.g00umgam.ycj6l6e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbizakkaya%2Fcp-bk-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbizakkaya%2Fi%2F10000015%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPeak%2520Design%2520%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2583%2581%25E3%2583%25A3%2520%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2F"
 amazon_url: ""
-product_image: "/img/products/peak-design-キャプチャ-クリップ.jpg"
 
 keywords: ["Peak Design キャプチャ クリップ 口コミ", "Peak Design キャプチャ クリップ 評判", "Peak Design キャプチャ クリップ デメリット", "Peak Design キャプチャ クリップ レビュー", "Peak Design キャプチャ クリップ 後悔", "Peak Design キャプチャ クリップ", "カメラクリップ 口コミ", "カメラクリップ おすすめ"]
 ---

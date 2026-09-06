@@ -7,15 +7,9 @@ categories: ["水漏れセンサー"]
 tags: ["水漏れセンサー", "集合知", "口コミ", "レビュー"]
 verdict: "洗濯機下の悲劇を通知一発で防ぐ"
 product_name: "Eve Water Guard"
-price_display: "10,250円"
-price_jpy: 10250
 total_reviews: "359"
-review_count: 0
-rating: 0.0
-shop_name: "MAZA FIGHT 楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rzdtm.ycj6kaf7.g00rzdtm.ycj6lf34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-mazafight%2Fvenum-05160-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-mazafight%2Fi%2F10002507%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEve%2520Water%2520Guard%2F"
 amazon_url: ""
-product_image: "/img/products/eve-water-guard.jpg"
 
 keywords: ["Eve Water Guard 口コミ", "Eve Water Guard 評判", "Eve Water Guard デメリット", "Eve Water Guard レビュー", "Eve Water Guard 後悔", "Eve Water Guard", "水漏れセンサー 口コミ", "水漏れセンサー おすすめ"]
 ---

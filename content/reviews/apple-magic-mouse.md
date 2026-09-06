@@ -12,8 +12,7 @@ price_jpy: 6980
 total_reviews: "6,520"
 review_count: 0
 rating: 0.0
-shop_name: "Mac専門の秋葉館楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00q37gm.ycj6ke29.g00q37gm.ycj6l1b1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakibakan%2F10166357%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakibakan%2Fi%2F10166357%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520Magic%2520Mouse%2F"
 amazon_url: ""
 product_image: "/img/products/apple-magic-mouse.jpg"
 
@@ -51,7 +50,7 @@ Amazon3,200件の口コミを調べて最初に目に入るのが、充電口の
 
 Windows環境での評判も厳しい。ジェスチャー機能の大部分がmacOS専用のため、Windowsで使うとただのワイヤレスマウスになる。購入前に確認しておくべき点だ。
 
-▶ [それでも買うなら→現在の最安値を楽天で確認](https://hb.afl.rakuten.co.jp/hgc/g00q37gm.ycj6ke29.g00q37gm.ycj6l1b1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakibakan%2F10166357%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakibakan%2Fi%2F10166357%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+▶ [それでも買うなら→現在の最安値を楽天で確認](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520Magic%2520Mouse%2F)
 
 ## Apple Magic Mouse 良い口コミ・ジェスチャー操作が評価されるメリット
 
@@ -115,7 +114,7 @@ Bluetoothペアリングの即応性も好評だ。電源を入れると自動�
 
 口コミを横断すると、長時間作業をする人はほぼMX Master 3Sを選んでいる。一方「Macのトラックパッドのような操作感をマウスで実現したい」という目的には、MX Master 3Sでは代替できない体験がMagic Mouseにある。ジェスチャー最優先ならトラックパッド、予算を抑えたいならM750も現実的だ。「デザイン統一したいだけならMagic Mouse、長時間作業ならMX Master 3S、コスパ重視ならM750」——調べた中でこの整理がもっとも的確だった。
 
-▶ [比較して選ぶなら→現在の最安値を楽天で確認](https://hb.afl.rakuten.co.jp/hgc/g00q37gm.ycj6ke29.g00q37gm.ycj6l1b1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakibakan%2F10166357%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakibakan%2Fi%2F10166357%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+▶ [比較して選ぶなら→現在の最安値を楽天で確認](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520Magic%2520Mouse%2F)
 
 ## Apple Magic Mouseを買って後悔する人
 
@@ -174,6 +173,6 @@ Bluetooth接続自体は可能だが、スワイプ・慣性スクロール・�
 
 Macとの連携とデザインを最優先するならあり、それ以外は他の選択肢が現実的だ。
 
-▶ [現在の最安値を楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00q37gm.ycj6ke29.g00q37gm.ycj6l1b1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakibakan%2F10166357%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakibakan%2Fi%2F10166357%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+▶ [現在の最安値を楽天で確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520Magic%2520Mouse%2F)
 
 また明日、集合知で会おう。

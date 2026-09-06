@@ -7,15 +7,9 @@ categories: ["スマートスピーカー"]
 tags: ["スマートスピーカー", "集合知", "口コミ", "レビュー"]
 verdict: "「アレクサ」より先に家族が使いこなす"
 product_name: "Google Home Mini"
-price_display: "4,980円"
-price_jpy: 4980
 total_reviews: "10,550"
-review_count: 2
-rating: 5.0
-shop_name: "ASUKA Records 〜アスカレコード〜"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rk31m.ycj6k015.g00rk31m.ycj6le06/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-happylife%2F842776102461%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-happylife%2Fi%2F10003134%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGoogle%2520Home%2520Mini%2F"
 amazon_url: ""
-product_image: "/img/products/google-home-mini.jpg"
 
 keywords: ["Google Home Mini 口コミ", "Google Home Mini 評判", "Google Home Mini デメリット", "Google Home Mini レビュー", "Google Home Mini 後悔", "Google Home Mini", "スマートスピーカー 口コミ", "スマートスピーカー おすすめ"]
 ---
@@ -120,7 +114,7 @@ Amazonの8,200件レビューと楽天の評判から調査した結果、ひと
 
 **買って満足する人に当てはまるなら、今すぐチェックしてみる。**
 
-- [楽天でチェック](https://hb.afl.rakuten.co.jp/hgc/g00rk31m.ycj6k015.g00rk31m.ycj6le06/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-happylife%2F842776102461%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-happylife%2Fi%2F10003134%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+- [楽天でチェック](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGoogle%2520Home%2520Mini%2F)
 - [楽天でチェック](https://rakuten.co.jp)
 
 また明日、集合知で会おう。

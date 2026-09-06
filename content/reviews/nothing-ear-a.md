@@ -12,8 +12,7 @@ price_jpy: 13980
 total_reviews: "2,525"
 review_count: 0
 rating: 0.0
-shop_name: "楽天モバイル公式 楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tof9m.ycj6k29c.g00tof9m.ycj6l653/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenmobile-store%2Fnothing-ear-a_02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenmobile-store%2Fi%2F10001772%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNothing%2520Ear%2520%2528a%2529%2F"
 amazon_url: ""
 product_image: "/img/products/nothing-ear-a.jpg"
 
@@ -32,7 +31,7 @@ keywords: ["Nothing Ear (a) 口コミ", "Nothing Ear (a) 評判", "Nothing Ear (
 - **機能**: アクティブノイズキャンセリング（ANC）、低遅延モード
 - **カスタマイズ**: 専用アプリでイコライザー調整可能
 - **付属品**: 複数サイズのイヤーチップ、充電ケース
-- **価格**: 11,899円（[楽天](https://hb.afl.rakuten.co.jp/hgc/g00tof9m.ycj6k29c.g00tof9m.ycj6l653/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenmobile-store%2Fnothing-ear-a_02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenmobile-store%2Fi%2F10001772%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)など一般販売価格）
+- **価格**: 11,899円（[楽天](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNothing%2520Ear%2520%2528a%2529%2F)など一般販売価格）
 
 ## Nothing Ear (a)の悪い口コミ・デメリット
 

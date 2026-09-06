@@ -12,8 +12,7 @@ price_jpy: 31573
 total_reviews: "361"
 review_count: 0
 rating: 0.0
-shop_name: "エブリデイ・ダイレクト"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00ukv7m.ycj6ke6c.g00ukv7m.ycj6l026/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feverydaydirect%2Fraku88c74fb8cf%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feverydaydirect%2Fi%2F10046756%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRealforce%2520R3%252030g%2F"
 amazon_url: ""
 product_image: "/img/products/realforce-r3-30g.jpg"
 

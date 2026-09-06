@@ -12,8 +12,7 @@ price_jpy: 32452
 total_reviews: "6,520"
 review_count: 1
 rating: 4.0
-shop_name: "Outlet Plaza"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00pm32m.ycj6k594.g00pm32m.ycj6l1a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foutletplaza%2F40001098364%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foutletplaza%2Fi%2F11424684%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520Watch%2520SE%2520%25E7%25AC%25AC2%25E4%25B8%2596%25E4%25BB%25A3%2F"
 amazon_url: ""
 product_image: "/img/products/apple-watch-se-第2世代.jpg"
 

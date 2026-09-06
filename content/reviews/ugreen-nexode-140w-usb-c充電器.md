@@ -7,15 +7,9 @@ categories: ["USB-C充電器"]
 tags: ["USB-C充電器", "集合知", "口コミ", "レビュー"]
 verdict: "ACアダプター1個で鞄が軽くなる"
 product_name: "UGREEN Nexode 140W USB-C充電器"
-price_display: "23,980円"
-price_jpy: 23980
 total_reviews: "2,275"
-review_count: 91
-rating: 4.6
-shop_name: "UGREEN公式楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u0fbm.ycj6k004.g00u0fbm.ycj6l855/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fugreen-gear%2F15853%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fugreen-gear%2Fi%2F10000545%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUGREEN%2520Nexode%2520140W%2520USB-C%25E5%2585%2585%25E9%259B%25BB%25E5%2599%25A8%2F"
 amazon_url: ""
-product_image: "/img/products/ugreen-nexode-140w-usb-c充電器.jpg"
 
 keywords: ["UGREEN Nexode 140W USB-C充電器 口コミ", "UGREEN Nexode 140W USB-C充電器 評判", "UGREEN Nexode 140W USB-C充電器 デメリット", "UGREEN Nexode 140W USB-C充電器 レビュー", "UGREEN Nexode 140W USB-C充電器 後悔", "UGREEN Nexode 140W USB-C充電器", "USB-C充電器 口コミ", "USB-C充電器 おすすめ"]
 ---

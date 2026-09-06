@@ -8,15 +8,9 @@ categories: ["PCスピーカー"]
 tags: ["PCスピーカー", "集合知", "口コミ", "レビュー"]
 verdict: "4,000円でデスクの音が別物になる"
 product_name: "Creative Pebble V3"
-price_display: "11,508円"
-price_jpy: 11508
 total_reviews: "1,515"
-review_count: 0
-rating: 0.0
-shop_name: "お取り寄せ本舗 KOBACO"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tjy8m.ycj6kb7f.g00tjy8m.ycj6lb67/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobaco-003%2Fhb09dyd2bb9%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkobaco-003%2Fi%2F10995212%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCreative%2520Pebble%2520V3%2F"
 amazon_url: ""
-product_image: "/img/products/creative-pebble-v3.jpg"
 
 keywords: ["Creative Pebble V3 口コミ", "Creative Pebble V3 評判", "Creative Pebble V3 デメリット", "Creative Pebble V3 レビュー", "Creative Pebble V3 後悔", "Creative Pebble V3", "PCスピーカー 口コミ", "PCスピーカー おすすめ"]
 ---

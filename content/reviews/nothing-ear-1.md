@@ -7,15 +7,9 @@ categories: ["透明設計ワイヤレスイヤホン"]
 tags: ["透明設計ワイヤレスイヤホン", "集合知", "口コミ", "レビュー"]
 verdict: "デスクに置いた瞬間、話しかけられる"
 product_name: "Nothing Ear (1)"
-price_display: "12,800円"
-price_jpy: 12800
 total_reviews: "2,405"
-review_count: 69
-rating: 4.42
-shop_name: "Nothing Japan"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u2zlm.ycj6k929.g00u2zlm.ycj6l36c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnothingagent%2Fnothing_ear_a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnothingagent%2Fi%2F10000057%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNothing%2520Ear%2520%25281%2529%2F"
 amazon_url: ""
-product_image: "/img/products/nothing-ear-1.jpg"
 
 keywords: ["Nothing Ear (1) 口コミ", "Nothing Ear (1) 評判", "Nothing Ear (1) デメリット", "Nothing Ear (1) レビュー", "Nothing Ear (1) 後悔", "Nothing Ear (1)", "透明設計ワイヤレスイヤホン 口コミ", "透明設計ワイヤレスイヤホン おすすめ"]
 noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old

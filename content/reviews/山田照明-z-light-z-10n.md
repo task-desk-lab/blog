@@ -7,15 +7,9 @@ slug: "山田照明-z-light-z-10n"
 categories: ["デスクライト"]
 product_name: "山田照明 Z-Light Z-10N"
 verdict: "どの角度でも光が逃げない"
-price_display: "39,800円"
-price_jpy: 39800
 total_reviews: "472"
-review_count: 0
-rating: 0.0
-shop_name: "バリューコネクト"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u578m.ycj6kcfe.g00u578m.ycj6l85c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrmt-1%2Fb010sjbpew%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrmt-1%2Fi%2F10094529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E7%2594%25B0%25E7%2585%25A7%25E6%2598%258E%2520Z-Light%2520Z-10N%2F"
 amazon_url: ""
-product_image: "/img/products/山田照明-z-light-z-10n.jpg"
 keywords: ["山田照明 Z-Light Z-10N 口コミ", "山田照明 Z-Light Z-10N 評判", "山田照明 Z-Light Z-10N デメリット", "山田照明 Z-Light Z-10N レビュー", "山田照明 Z-Light Z-10N 後悔", "山田照明 Z-Light Z-10N", "デスクライト 口コミ", "デスクライト おすすめ"]
 ---
 
@@ -29,7 +23,7 @@ keywords: ["山田照明 Z-Light Z-10N 口コミ", "山田照明 Z-Light Z-10N �
 
 山田照明 Z-Light Z-10Nは、Amazon 312件・楽天178件の口コミとYouTube動画23本を調査した結果、12,800円で買える日本製の本格派デスクライトだった。口コミ全体では耐久性と可動域の評判が突出しているが、LED交換不可で本体ごと買い替えになる点は要注意。10年使える前提なら1日3.5円（12,800円÷10年÷365日）、長く使う人向けの選択だ。
 
-→ [最新の価格と在庫を確認する（楽天/ 楽天市場）](https://hb.afl.rakuten.co.jp/hgc/g00u578m.ycj6kcfe.g00u578m.ycj6l85c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrmt-1%2Fb010sjbpew%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrmt-1%2Fi%2F10094529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [最新の価格と在庫を確認する（楽天/ 楽天市場）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E7%2594%25B0%25E7%2585%25A7%25E6%2598%258E%2520Z-Light%2520Z-10N%2F)
 
 ## 山田照明 Z-Light Z-10Nの基本スペック
 
@@ -48,7 +42,7 @@ keywords: ["山田照明 Z-Light Z-10N 口コミ", "山田照明 Z-Light Z-10N �
 
 山田照明は業務用照明も手がけるメーカーで、Z-Lightシリーズは建築士や設計者の現場でも使われている。LED寿命40,000時間はメーカー理論値で、1日8時間使用の計算では約13年。だが実際の口コミ調査では10〜15年の使用報告があり、環境や使い方次第で前後する。
 
-天板厚5cm以下ならクランプ対応、取付可否の詳細仕様は[楽天の商品ページ](https://hb.afl.rakuten.co.jp/hgc/g00u578m.ycj6kcfe.g00u578m.ycj6l85c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrmt-1%2Fb010sjbpew%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrmt-1%2Fi%2F10094529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)で確認できる。
+天板厚5cm以下ならクランプ対応、取付可否の詳細仕様は[楽天の商品ページ](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E7%2594%25B0%25E7%2585%25A7%25E6%2598%258E%2520Z-Light%2520Z-10N%2F)で確認できる。
 
 ## 山田照明 Z-Light Z-10Nの悪い口コミ・デメリット
 
@@ -98,7 +92,7 @@ USB充電ポート、色温度切替、タイマー機能など、最近のデ�
 
 余計な装飾がなく、オフィスでも自宅でも違和感なく使える外観。10年使っても古臭く見えないデザインで、長期使用を前提にした選択に向いている。
 
-価格比較をしたい場合は[楽天市場の最安値ショップ](https://hb.afl.rakuten.co.jp/hgc/g00u578m.ycj6kcfe.g00u578m.ycj6l85c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrmt-1%2Fb010sjbpew%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrmt-1%2Fi%2F10094529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)も確認するといい。
+価格比較をしたい場合は[楽天市場の最安値ショップ](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E7%2594%25B0%25E7%2585%25A7%25E6%2598%258E%2520Z-Light%2520Z-10N%2F)も確認するといい。
 
 ## 山田照明 Z-Light Z-10Nを買って後悔する人
 
@@ -114,7 +108,7 @@ USB充電ポート、色温度切替、タイマー機能など、最近のデ�
 
 照明機能のみで、付加機能は一切ない。スマホ充電や色温度切替を同時に求める人には物足りない。「最近のデスクライトとしては機能が少ない」という評判もあった。
 
-配送日を急ぐなら[楽天Prime対応ショップ](https://hb.afl.rakuten.co.jp/hgc/g00u578m.ycj6kcfe.g00u578m.ycj6l85c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrmt-1%2Fb010sjbpew%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrmt-1%2Fi%2F10094529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)を確認するといい。
+配送日を急ぐなら[楽天Prime対応ショップ](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E7%2594%25B0%25E7%2585%25A7%25E6%2598%258E%2520Z-Light%2520Z-10N%2F)を確認するといい。
 
 ## 山田照明 Z-Light Z-10Nを買って満足する人
 
@@ -144,6 +138,6 @@ USB充電ポート、色温度切替、タイマー機能など、最近のデ�
 | 可動域 | A | 水平63cm・垂直180度の調整幅 |
 | 作り | A | 日本製の精度、塗装・組立の丁寧さ |
 
-在庫状況は変動するので[楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00u578m.ycj6kcfe.g00u578m.ycj6l85c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrmt-1%2Fb010sjbpew%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrmt-1%2Fi%2F10094529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)は早めにしておくといい。
+在庫状況は変動するので[楽天で見る](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E7%2594%25B0%25E7%2585%25A7%25E6%2598%258E%2520Z-Light%2520Z-10N%2F)は早めにしておくといい。
 
 また明日、集合知で会おう。

@@ -12,8 +12,7 @@ price_jpy: 21980
 total_reviews: "5,190"
 review_count: 6
 rating: 4.83
-shop_name: "GAMING CENTER by GRAPHT"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tys6m.ycj6kb05.g00tys6m.ycj6l7ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgcgr%2F516381%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgcgr%2Fi%2F10000608%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRazer%2520Basilisk%2520V3%2F"
 amazon_url: ""
 product_image: "/img/products/razer-basilisk-v3.jpg"
 

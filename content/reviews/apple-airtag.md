@@ -7,15 +7,9 @@ categories: ["スマートトラッカー"]
 tags: ["スマートトラッカー", "集合知", "口コミ", "レビュー"]
 verdict: "財布・鍵が二度と迷子にならない"
 product_name: "Apple AirTag"
-price_display: "11,630円"
-price_jpy: 11630
 total_reviews: "36,400"
-review_count: 16
-rating: 4.69
-shop_name: "電子問屋ワールドいち"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00r2mum.ycj6k876.g00r2mum.ycj6l808/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-worldichi%2F4549995106596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-worldichi%2Fi%2F10011790%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520AirTag%2F"
 amazon_url: ""
-product_image: "/img/products/apple-airtag.jpg"
 
 keywords: ["Apple AirTag 口コミ", "Apple AirTag 評判", "Apple AirTag デメリット", "Apple AirTag レビュー", "Apple AirTag 後悔", "Apple AirTag", "スマートトラッカー 口コミ", "スマートトラッカー おすすめ"]
 ---
@@ -44,7 +38,7 @@ Amazon 18,400件の口コミを調査したApple AirTag レビュー、総合評
 - **対応アプリ**: Apple「探す」アプリ（ペアリング所要時間約1分）
 - **注意**: 本体にストラップ穴なし。AirTag ホルダー おすすめは300〜800円帯、別途必要
 
-[→ 楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00r2mum.ycj6k876.g00r2mum.ycj6l808/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-worldichi%2F4549995106596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-worldichi%2Fi%2F10011790%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[→ 楽天で現在の価格を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520AirTag%2F)
 
 ## Apple AirTag 悪い口コミ：買って後悔した3つの理由
 
@@ -105,7 +99,7 @@ U1チップ搭載のiPhone（11以降）ならARカメラで方向と距離をcm
 
 家族構成で選び方は決まる。全員がiPhoneならAirTag、AndroidユーザーがひとりでもいるならTile Mateが現実的な選択だ。ネットワーク規模と精密検索の体験差は大きいが、その差はiOS環境でしか享受できない。
 
-[→ Tile Mateを楽天で検索する](https://hb.afl.rakuten.co.jp/hgc/g00r2mum.ycj6k876.g00r2mum.ycj6l808/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-worldichi%2F4549995106596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-worldichi%2Fi%2F10011790%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[→ Tile Mateを楽天で検索する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520AirTag%2F)
 
 ## Apple AirTag口コミで見えた「後悔する人」
 
@@ -115,7 +109,7 @@ Androidユーザーが家族にいる家庭では、ネットワークのリレ�
 
 都市部在住のiPhoneユーザーで、鍵や財布を定期的に探す習慣がある人の満足度は高い。1個4,578円を365日で割ると1日あたり約12.5円の運用コストになる。鍵師への依頼費用は状況によっては数万円になるため、1日12.5円でその出費リスクを消せる計算だ。出張・旅行でスーツケースを追跡したい人にも満足度が高く、IP67防水でどこに入れておいても動作する点が旅行用途では効いてくる。
 
-[→ 都市部・iPhoneユーザーなら楽天で在庫を確認する](https://hb.afl.rakuten.co.jp/hgc/g00r2mum.ycj6k876.g00r2mum.ycj6l808/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-worldichi%2F4549995106596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-worldichi%2Fi%2F10011790%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[→ 都市部・iPhoneユーザーなら楽天で在庫を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520AirTag%2F)
 
 ## Apple AirTag 口コミ調査の結論
 

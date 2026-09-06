@@ -12,8 +12,7 @@ price_jpy: 55980
 total_reviews: "975"
 review_count: 0
 rating: 0.0
-shop_name: "Joshin web 家電とPCの大型専門店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00pukwm.ycj6kb97.g00pukwm.ycj6l9a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F7340055385121-35-20168-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F13890585%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMarshall%2520Stanmore%2520III%2F"
 amazon_url: ""
 product_image: "/img/products/marshall-stanmore-iii.jpg"
 
@@ -146,7 +145,7 @@ Amazonのレビューと楽天の口コミを合わせて見ると、Marshall St
 
 ただしコンセント位置と「動かさない運用」を想定できるかが分岐点だ。バッテリーの自由度やWi-Fiの機能追加への対応よりも「見た目と低音」を優先する人であれば、この製品は答えの1つになり得る。
 
-関連して、前モデルの[Marshall Stanmore II](https://www.marshall.com/)や、同価格帯の[Bluetoothスピーカー](https://hb.afl.rakuten.co.jp/hgc/g00pukwm.ycj6kb97.g00pukwm.ycj6l9a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F7340055385121-35-20168-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F13890585%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)、[低音スピーカー](https://hb.afl.rakuten.co.jp/hgc/g00pukwm.ycj6kb97.g00pukwm.ycj6l9a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F7340055385121-35-20168-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F13890585%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)、[据え置きスピーカー](https://hb.afl.rakuten.co.jp/hgc/g00pukwm.ycj6kb97.g00pukwm.ycj6l9a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F7340055385121-35-20168-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F13890585%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)の記事も読む価値がある。
+関連して、前モデルの[Marshall Stanmore II](https://www.marshall.com/)や、同価格帯の[Bluetoothスピーカー](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMarshall%2520Stanmore%2520III%2F)、[低音スピーカー](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMarshall%2520Stanmore%2520III%2F)、[据え置きスピーカー](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMarshall%2520Stanmore%2520III%2F)の記事も読む価値がある。
 
 **Amazonで現在の価格を確認する**  
 **楽天で在庫をチェックする**

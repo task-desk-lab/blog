@@ -12,8 +12,7 @@ price_jpy: 23500
 total_reviews: "2,015"
 review_count: 17
 rating: 4.65
-shop_name: "Premium Selection 楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rwh8m.ycj6k19e.g00rwh8m.ycj6lacf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut-ps%2F504413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut-ps%2Fi%2F10123870%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPFU%2520ScanSnap%2520iX100%2F"
 amazon_url: ""
 product_image: "/img/products/pfu-scansnap-ix100.jpg"
 
@@ -46,7 +45,7 @@ Amazon・楽天で合わせて1,500件超の口コミを調べた。iX100は「�
 | アプリ | ScanSnap Home（PDF化・名刺認識・クラウド振り分け） |
 | クラウド連携 | Dropbox・Evernote・Google Drive |
 
-▶ [楽天でスペックと最新価格を今すぐ見る](https://hb.afl.rakuten.co.jp/hgc/g00rwh8m.ycj6k19e.g00rwh8m.ycj6lacf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut-ps%2F504413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut-ps%2Fi%2F10123870%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+▶ [楽天でスペックと最新価格を今すぐ見る](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPFU%2520ScanSnap%2520iX100%2F)
 
 ## PFU ScanSnap iX100の悪い口コミ・デメリット
 
@@ -90,7 +89,7 @@ DropboxやGoogle Driveへの自動送信設定を組んでおくと、スキャ�
 
 バッテリー内蔵でカフェや車内でも動く。読み取り速度5.2秒はモバイル機最速クラスだ。名刺・レシート・A4を選ばない差し込み方式は、サイズの違う書類を次々と通しても詰まらない。電源のない環境を主戦場にするユーザーには、この三点が揃うことの意味が大きい。
 
-▶ [楽天で在庫限り特価を確認する（残りわずか）](https://hb.afl.rakuten.co.jp/hgc/g00rwh8m.ycj6k19e.g00rwh8m.ycj6lacf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut-ps%2F504413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut-ps%2Fi%2F10123870%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+▶ [楽天で在庫限り特価を確認する（残りわずか）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPFU%2520ScanSnap%2520iX100%2F)
 
 ## ScanSnap iX100 vs Canon R10比較【価格・携帯性・用途別おすすめ】
 
@@ -108,7 +107,7 @@ iX100は395g。R10はADFと両面ユニットを搭載する分だけ重く、�
 
 R10はADF搭載で複数枚の一括処理が可能、両面スキャンにも対応しており、自宅での大量デジタル化ではR10が優位だ。自宅固定ならR10、外出先がメインならiX100——この使い分けが実用上の落としどころで、両製品を比較するとこの結論に行き着く。
 
-▶ [外出先用ならiX100を選ぶ→楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00rwh8m.ycj6k19e.g00rwh8m.ycj6lacf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut-ps%2F504413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut-ps%2Fi%2F10123870%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+▶ [外出先用ならiX100を選ぶ→楽天で確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPFU%2520ScanSnap%2520iX100%2F)
 
 ## PFU ScanSnap iX100を買って後悔する人
 
@@ -123,7 +122,7 @@ ADF非搭載のため、100枚・200枚をまとめて処理したいニーズ�
 
 Amazonなら30日返品保証があるため、用途が合わなかった場合でもリスクなく返品できる。「使ってみて違う」と判断した場合の損切りができる点は、購入障壁を下げる最大の材料だ。
 
-▶ [楽天で返品保証付きで試す](https://hb.afl.rakuten.co.jp/hgc/g00rwh8m.ycj6k19e.g00rwh8m.ycj6lacf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut-ps%2F504413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut-ps%2Fi%2F10123870%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+▶ [楽天で返品保証付きで試す](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPFU%2520ScanSnap%2520iX100%2F)
 
 ## PFU ScanSnap iX100を買って満足する人
 
@@ -144,7 +143,7 @@ Amazon・楽天で合わせて1,500件超の口コミを調査した結論は明
 
 外出先での紙処理を習慣化したい人には、現時点でこのサイズ感と動作の組み合わせを実現できる代替品がない。あなたの主戦場は外出先か、デスクか。
 
-▶ [楽天で返品保証付きで試す](https://hb.afl.rakuten.co.jp/hgc/g00rwh8m.ycj6k19e.g00rwh8m.ycj6lacf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut-ps%2F504413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut-ps%2Fi%2F10123870%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
-▶ [楽天で在庫を見る（在庫限り特価あり）](https://hb.afl.rakuten.co.jp/hgc/g00rwh8m.ycj6k19e.g00rwh8m.ycj6lacf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut-ps%2F504413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut-ps%2Fi%2F10123870%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+▶ [楽天で返品保証付きで試す](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPFU%2520ScanSnap%2520iX100%2F)
+▶ [楽天で在庫を見る（在庫限り特価あり）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPFU%2520ScanSnap%2520iX100%2F)
 
 また明日、集合知で会おう。

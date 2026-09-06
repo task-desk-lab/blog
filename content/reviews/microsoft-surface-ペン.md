@@ -7,15 +7,9 @@ categories: ["スタイラス"]
 tags: ["スタイラス", "集合知", "口コミ", "レビュー"]
 verdict: "Surface買ったなら迷わず純正一択"
 product_name: "Microsoft Surface ペン"
-price_display: "34,980円"
-price_jpy: 34980
 total_reviews: "3,250"
-review_count: 138
-rating: 4.61
-shop_name: "中古パソコン販売のワットファン"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00syqxm.ycj6k8c0.g00syqxm.ycj6l2d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhatfun-pc%2Fsp5-i5-256-dock%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhatfun-pc%2Fi%2F10003264%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMicrosoft%2520Surface%2520%25E3%2583%259A%25E3%2583%25B3%2F"
 amazon_url: ""
-product_image: "/img/products/microsoft-surface-ペン.jpg"
 
 keywords: ["Microsoft Surface ペン 口コミ", "Microsoft Surface ペン 評判", "Microsoft Surface ペン デメリット", "Microsoft Surface ペン レビュー", "Microsoft Surface ペン 後悔", "Microsoft Surface ペン", "スタイラス 口コミ", "スタイラス おすすめ"]
 ---

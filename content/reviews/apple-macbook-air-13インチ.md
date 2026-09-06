@@ -7,15 +7,9 @@ categories: ["ノートPC"]
 tags: ["ノートPC", "集合知", "口コミ", "レビュー"]
 verdict: "ファンレスなのに一日中静かに動き続ける"
 product_name: "Apple MacBook Air 13インチ"
-price_display: "99,800円"
-price_jpy: 99800
 total_reviews: "6,070"
-review_count: 30
-rating: 4.63
-shop_name: "ショップ・インバース楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00r3khm.ycj6k15a.g00r3khm.ycj6l90c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-inverse%2Fsku-macbookair-13-2022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshop-inverse%2Fi%2F10065103%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520MacBook%2520Air%252013%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2581%2F"
 amazon_url: ""
-product_image: "/img/products/apple-macbook-air-13インチ.jpg"
 
 keywords: ["Apple MacBook Air 13インチ 口コミ", "Apple MacBook Air 13インチ 評判", "Apple MacBook Air 13インチ デメリット", "Apple MacBook Air 13インチ レビュー", "Apple MacBook Air 13インチ 後悔", "Apple MacBook Air 13インチ", "ノートPC 口コミ", "ノートPC おすすめ"]
 ---

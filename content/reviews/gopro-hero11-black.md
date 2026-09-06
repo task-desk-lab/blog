@@ -7,15 +7,9 @@ categories: ["アクションカメラ"]
 tags: ["アクションカメラ", "集合知", "口コミ", "レビュー"]
 verdict: "転倒・水没・砂塵でも映像が止まらない"
 product_name: "GoPro HERO11 Black"
-price_display: "23,770円"
-price_jpy: 23770
 total_reviews: "9,760"
-review_count: 3
-rating: 5.0
-shop_name: "ディーライズ2号店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rd00m.ycj6k72e.g00rd00m.ycj6ld4e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-cutestyle%2Fp000000807626%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-cutestyle%2Fi%2F19766299%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGoPro%2520HERO11%2520Black%2F"
 amazon_url: ""
-product_image: "/img/products/gopro-hero11-black.jpg"
 
 keywords: ["GoPro HERO11 Black 口コミ", "GoPro HERO11 Black 評判", "GoPro HERO11 Black デメリット", "GoPro HERO11 Black レビュー", "GoPro HERO11 Black 後悔", "GoPro HERO11 Black", "アクションカメラ 口コミ", "アクションカメラ おすすめ"]
 ---

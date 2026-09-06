@@ -7,15 +7,9 @@ categories: ["スタイラス"]
 tags: ["スタイラス", "集合知", "口コミ", "レビュー"]
 verdict: "紙に書く感覚がそのままiPadに宿る"
 product_name: "Apple Pencil 第2世代"
-price_display: "13,980円"
-price_jpy: 13980
 total_reviews: "28,100"
-review_count: 86
-rating: 4.41
-shop_name: "Select Opus"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u2c1m.ycj6k3cc.g00u2c1m.ycj6l803/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchisaya%2Fapplepen-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchisaya%2Fi%2F10003387%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520Pencil%2520%25E7%25AC%25AC2%25E4%25B8%2596%25E4%25BB%25A3%2F"
 amazon_url: ""
-product_image: "/img/products/apple-pencil-第2世代.jpg"
 
 keywords: ["Apple Pencil 第2世代 口コミ", "Apple Pencil 第2世代 評判", "Apple Pencil 第2世代 デメリット", "Apple Pencil 第2世代 レビュー", "Apple Pencil 第2世代 後悔", "Apple Pencil 第2世代", "スタイラス 口コミ", "スタイラス おすすめ"]
 ---
@@ -66,7 +60,7 @@ Apple Pencil 第2世代のレビューをAmazonと楽天あわせて1万件超�
 
 それでも毎日使うなら純正一択という評価は変わらない。書き心地と利便性の差は、これらのデメリットを上回ると判断する長期ユーザーが多い。
 
-**[→ 対応機種を確認してから買えば届いた日から即使える（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00u2c1m.ycj6k3cc.g00u2c1m.ycj6l803/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchisaya%2Fapplepen-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchisaya%2Fi%2F10003387%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**[→ 対応機種を確認してから買えば届いた日から即使える（楽天）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520Pencil%2520%25E7%25AC%25AC2%25E4%25B8%2596%25E4%25BB%25A3%2F)**
 
 ## Apple Pencil 第2世代の良い口コミ・メリット
 
@@ -88,7 +82,7 @@ iPad画面に手のひらを置いたまま書いても誤入力が起きない�
 
 Amazonで8,200件 ★4.6評価
 
-**[→ 楽天で対応機種を確認して購入する](https://hb.afl.rakuten.co.jp/hgc/g00u2c1m.ycj6k3cc.g00u2c1m.ycj6l803/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchisaya%2Fapplepen-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchisaya%2Fi%2F10003387%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**[→ 楽天で対応機種を確認して購入する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520Pencil%2520%25E7%25AC%25AC2%25E4%25B8%2596%25E4%25BB%25A3%2F)**
 
 ## Apple Pencil 第2世代を他社製品と比較した口コミ
 
@@ -126,7 +120,7 @@ USB-CポートのiPad所有者が最もよくやるミスだ。確認を怠る�
 
 磁気吸着充電とペアリング不要の組み合わせは、日常の細かい摩擦が減る。「地味だけど毎日効いてくる」という評判どおり、継続して満足しやすい層だ。
 
-**[→ 対応機種を確認してから買えば届いた日から即使える（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00u2c1m.ycj6k3cc.g00u2c1m.ycj6l803/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchisaya%2Fapplepen-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchisaya%2Fi%2F10003387%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**[→ 対応機種を確認してから買えば届いた日から即使える（楽天）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520Pencil%2520%25E7%25AC%25AC2%25E4%25B8%2596%25E4%25BB%25A3%2F)**
 
 ## Apple Pencil 第2世代が毎日使う人に向いている理由
 

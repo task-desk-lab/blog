@@ -7,15 +7,9 @@ categories: ["充電器"]
 tags: ["充電器", "集合知", "口コミ", "レビュー"]
 verdict: "ノートPCとスマホが1つのアダプターで同時フル充電"
 product_name: "UGREEN Nexode 100W"
-price_display: "7,999円"
-price_jpy: 7999
 total_reviews: "3,985"
-review_count: 961
-rating: 4.68
-shop_name: "UGREEN公式楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u0fbm.ycj6k004.g00u0fbm.ycj6l855/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fugreen-gear%2F40737%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fugreen-gear%2Fi%2F10000222%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUGREEN%2520Nexode%2520100W%2F"
 amazon_url: ""
-product_image: "/img/products/ugreen-nexode-100w.jpg"
 
 keywords: ["UGREEN Nexode 100W 口コミ", "UGREEN Nexode 100W 評判", "UGREEN Nexode 100W デメリット", "UGREEN Nexode 100W レビュー", "UGREEN Nexode 100W 後悔", "UGREEN Nexode 100W", "充電器 口コミ", "充電器 おすすめ"]
 ---

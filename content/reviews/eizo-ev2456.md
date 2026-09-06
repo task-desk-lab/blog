@@ -7,15 +7,9 @@ categories: ["デスクトップモニター 24型"]
 tags: ["デスクトップモニター 24型", "集合知", "口コミ", "レビュー"]
 verdict: "夜遅くまで作業しても目が痛くならない"
 product_name: "EIZO EV2456"
-price_display: "128,708円"
-price_jpy: 128708
 total_reviews: "1,640"
-review_count: 0
-rating: 0.0
-shop_name: "GoodLifeStore"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tp86m.ycj6kcfd.g00tp86m.ycj6l6dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoodlifestore%2Fhb01m671fex%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoodlifestore%2Fi%2F10439713%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEIZO%2520EV2456%2F"
 amazon_url: ""
-product_image: "/img/products/eizo-ev2456.jpg"
 
 keywords: ["EIZO EV2456 口コミ", "EIZO EV2456 評判", "EIZO EV2456 デメリット", "EIZO EV2456 レビュー", "EIZO EV2456 後悔", "EIZO EV2456", "デスクトップモニター 24型 口コミ", "デスクトップモニター 24型 おすすめ"]
 ---

@@ -12,8 +12,7 @@ price_jpy: 11480
 total_reviews: "15,370"
 review_count: 24
 rating: 4.67
-shop_name: "ワンホエールホーム"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00uflem.ycj6k94c.g00uflem.ycj6l838/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonewhlalehome%2F0840268922726%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonewhlalehome%2Fi%2F10011972%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFire%2520TV%2520Stick%25204K%2520Max%2F"
 amazon_url: ""
 product_image: "/img/products/fire-tv-stick-4k-max.jpg"
 

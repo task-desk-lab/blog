@@ -7,15 +7,9 @@ categories: ["スピーカーフォン"]
 tags: ["スピーカーフォン", "集合知", "比較", "口コミ"]
 verdict: "在宅中心なら55、会議室併用なら75"
 product_name: "Jabra Speak2シリーズ"
-price_display: ""
-price_jpy: 0
 total_reviews: "557"
-review_count: 0
-rating: 0.0
-shop_name: ""
-rakuten_url: ""
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJabra%2520Speak2%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%2F"
 amazon_url: ""
-product_image: ""
 
 keywords: ["Jabra Speak2 55 75 違い", "Jabra Speak2 55 vs 75", "Jabra Speak2 どっち", "Jabra Speak2 比較", "Jabra Speak2 55 口コミ", "Jabra Speak2 75 口コミ", "スピーカーフォン 比較", "スピーカーフォン おすすめ"]
 ---

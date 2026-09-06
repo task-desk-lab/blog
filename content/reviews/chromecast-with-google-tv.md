@@ -7,15 +7,9 @@ categories: ["ストリーミング端末"]
 tags: ["ストリーミング端末", "集合知", "口コミ", "レビュー"]
 verdict: "スマホの続きがテレビで始まる"
 product_name: "Chromecast with Google TV"
-price_display: "15,980円"
-price_jpy: 15980
 total_reviews: "6,970"
-review_count: 37
-rating: 4.76
-shop_name: "悠々くらし館"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00upzam.ycj6k244.g00upzam.ycj6lec6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuyukurasikan%2Ft-0193575007465%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuyukurasikan%2Fi%2F10000022%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChromecast%2520with%2520Google%2520TV%2F"
 amazon_url: ""
-product_image: "/img/products/chromecast-with-google-tv.jpg"
 
 keywords: ["Chromecast with Google TV 口コミ", "Chromecast with Google TV 評判", "Chromecast with Google TV デメリット", "Chromecast with Google TV レビュー", "Chromecast with Google TV 後悔", "Chromecast with Google TV", "ストリーミング端末 口コミ", "ストリーミング端末 おすすめ"]
 ---

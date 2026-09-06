@@ -7,15 +7,9 @@ categories: ["カメラクリップマウント"]
 tags: ["カメラクリップマウント", "集合知", "口コミ", "レビュー"]
 verdict: "肩からカメラをぶら下げなくなる"
 product_name: "Peak Design Capture Clip V3"
-price_display: "11,980円"
-price_jpy: 11980
 total_reviews: "2,375"
-review_count: 98
-rating: 4.66
-shop_name: "美雑貨屋"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00umgam.ycj6kc87.g00umgam.ycj6l6e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbizakkaya%2Fcp-bk-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbizakkaya%2Fi%2F10000015%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPeak%2520Design%2520Capture%2520Clip%2520V3%2F"
 amazon_url: ""
-product_image: "/img/products/peak-design-capture-clip-v3.jpg"
 
 keywords: ["Peak Design Capture Clip V3 口コミ", "Peak Design Capture Clip V3 評判", "Peak Design Capture Clip V3 デメリット", "Peak Design Capture Clip V3 レビュー", "Peak Design Capture Clip V3 後悔", "Peak Design Capture Clip V3", "カメラクリップマウント 口コミ", "カメラクリップマウント おすすめ"]
 ---

@@ -7,15 +7,9 @@ categories: ["オフィスチェア"]
 tags: ["オフィスチェア", "集合知", "口コミ", "レビュー"]
 verdict: "「2万円台で腰が痛くならない」"
 product_name: "Nitori ハイバック オフィスチェア"
-price_display: "19,990円"
-price_jpy: 19990
 total_reviews: "262"
-review_count: 10
-rating: 4.6
-shop_name: "ニトリ"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00py47m.ycj6kef9.g00py47m.ycj6l8e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnitori%2F6620847%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnitori%2Fi%2F10278026%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNitori%2520%25E3%2583%258F%25E3%2582%25A4%25E3%2583%2590%25E3%2583%2583%25E3%2582%25AF%2520%25E3%2582%25AA%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25B9%25E3%2583%2581%25E3%2582%25A7%25E3%2582%25A2%2F"
 amazon_url: ""
-product_image: "/img/products/nitori-ハイバック-オフィスチェア.jpg"
 
 keywords: ["Nitori ハイバック オフィスチェア 口コミ", "Nitori ハイバック オフィスチェア 評判", "Nitori ハイバック オフィスチェア デメリット", "Nitori ハイバック オフィスチェア レビュー", "Nitori ハイバック オフィスチェア 後悔", "Nitori ハイバック オフィスチェア", "オフィスチェア 口コミ", "オフィスチェア おすすめ"]
 ---

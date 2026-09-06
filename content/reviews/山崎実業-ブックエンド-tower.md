@@ -7,15 +7,9 @@ categories: ["デスク収納"]
 tags: ["デスク収納", "集合知", "口コミ", "レビュー"]
 verdict: "本が自立して机が片付く"
 product_name: "山崎実業 ブックエンド tower"
-price_display: "13,750円"
-price_jpy: 13750
 total_reviews: "2,593"
-review_count: 6
-rating: 3.83
-shop_name: "家具のソムリエ"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00sl3em.ycj6k026.g00sl3em.ycj6l04b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsommelier%2Fymj-01416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsommelier%2Fi%2F10012433%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2520tower%2F"
 amazon_url: ""
-product_image: "/img/products/山崎実業-ブックエンド-tower.jpg"
 
 keywords: ["山崎実業 ブックエンド tower 口コミ", "山崎実業 ブックエンド tower 評判", "山崎実業 ブックエンド tower デメリット", "山崎実業 ブックエンド tower レビュー", "山崎実業 ブックエンド tower 後悔", "山崎実業 ブックエンド tower", "デスク収納 口コミ", "デスク収納 おすすめ"]
 ---
@@ -63,9 +57,9 @@ A4用紙の高さは297mm。本製品の高さ約125mmはA4ファイルの半分
 
 これらの不満の大半は「本が少なすぎる」「デスク素材との相性」というミスマッチに起因している。前提が合っていれば評価が一転する製品だ。
 
-→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00sl3em.ycj6k026.g00sl3em.ycj6l04b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsommelier%2Fymj-01416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsommelier%2Fi%2F10012433%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [楽天で確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2520tower%2F)
 → [楽天で確認する](https://search.rakuten.co.jp/search/mall/山崎実業+ブックエンド+tower/)
-→ [楽天ショッピングで確認する](https://hb.afl.rakuten.co.jp/hgc/g00sl3em.ycj6k026.g00sl3em.ycj6l04b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsommelier%2Fymj-01416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsommelier%2Fi%2F10012433%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [楽天ショッピングで確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2520tower%2F)
 
 ## 山崎実業 ブックエンド towerの良い口コミ・メリット
 
@@ -93,9 +87,9 @@ A4ファイルやムック本、雑誌も立てられる。書類が取り出し
 
 山崎実業のtowerシリーズを他にも使っているなら、デスク周りが揃って見える。他のtower製品をすでに持っている人には、迷わず候補に入る製品だ。
 
-→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00sl3em.ycj6k026.g00sl3em.ycj6l04b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsommelier%2Fymj-01416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsommelier%2Fi%2F10012433%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [楽天で確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2520tower%2F)
 → [楽天で確認する](https://search.rakuten.co.jp/search/mall/山崎実業+ブックエンド+tower/)
-→ [楽天ショッピングで確認する](https://hb.afl.rakuten.co.jp/hgc/g00sl3em.ycj6k026.g00sl3em.ycj6l04b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsommelier%2Fymj-01416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsommelier%2Fi%2F10012433%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [楽天ショッピングで確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2520tower%2F)
 
 ## 山崎実業 ブックエンド towerを他社製品と比較した口コミ
 
@@ -111,9 +105,9 @@ A4ファイルやムック本、雑誌も立てられる。書類が取り出し
 
 高さはほぼ同水準で、どちらもA4書類の全面サポートには届かない。決定的な差は底面の設計だ。コクヨBC-31はゴム脚で滑りにくく、ツルツルした机でも安定しやすい。一方で仕上げは無塗装シルバーのオフィス向き。山崎実業はマット塗装で部屋に馴染むが、フェルト系パッドは滑りやすい面では補強が必要になる。約1,000円の価格差をデザインと質感に払えるかどうかが分岐点で、在宅ワーカーなら山崎実業を選ぶ価値がある。
 
-→ [楽天で確認する](https://hb.afl.rakuten.co.jp/hgc/g00sl3em.ycj6k026.g00sl3em.ycj6l04b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsommelier%2Fymj-01416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsommelier%2Fi%2F10012433%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [楽天で確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2520tower%2F)
 → [楽天で確認する](https://search.rakuten.co.jp/search/mall/山崎実業+ブックエンド+tower/)
-→ [楽天ショッピングで確認する](https://hb.afl.rakuten.co.jp/hgc/g00sl3em.ycj6k026.g00sl3em.ycj6l04b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsommelier%2Fymj-01416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsommelier%2Fi%2F10012433%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [楽天ショッピングで確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2520tower%2F)
 
 ## 山崎実業 ブックエンド towerを買って後悔する人
 
@@ -151,12 +145,12 @@ A4ファイルやムック本、雑誌も立てられる。書類が取り出し
 
 本が少ない・A4書類をメインで管理したいという人には、高さのあるファイルボックスか、底面のゴム脚が強いコクヨBC-31の方が向いている。滑り止めだけ先に手配したいなら、デスク用の耐震マットや滑り止めシートを購入前に用意しておくと、設置後の手間が省ける。
 
-→ [楽天で山崎実業 ブックエンド towerを確認する](https://hb.afl.rakuten.co.jp/hgc/g00sl3em.ycj6k026.g00sl3em.ycj6l04b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsommelier%2Fymj-01416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsommelier%2Fi%2F10012433%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [楽天で山崎実業 ブックエンド towerを確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2520tower%2F)
 → [楽天で山崎実業 ブックエンド towerを確認する](https://search.rakuten.co.jp/search/mall/山崎実業+ブックエンド+tower/)
-→ [楽天ショッピングで山崎実業 ブックエンド towerを確認する](https://hb.afl.rakuten.co.jp/hgc/g00sl3em.ycj6k026.g00sl3em.ycj6l04b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsommelier%2Fymj-01416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsommelier%2Fi%2F10012433%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [楽天ショッピングで山崎実業 ブックエンド towerを確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2520tower%2F)
 
-→ [楽天でデスク用滑り止めシートを確認する](https://hb.afl.rakuten.co.jp/hgc/g00sl3em.ycj6k026.g00sl3em.ycj6l04b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsommelier%2Fymj-01416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsommelier%2Fi%2F10012433%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
-→ [楽天でA4対応ファイルボックスを確認する](https://hb.afl.rakuten.co.jp/hgc/g00sl3em.ycj6k026.g00sl3em.ycj6l04b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsommelier%2Fymj-01416%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsommelier%2Fi%2F10012433%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [楽天でデスク用滑り止めシートを確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2520tower%2F)
+→ [楽天でA4対応ファイルボックスを確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2520tower%2F)
 
 総合：★★★★☆ 4.4 / 5.0
 

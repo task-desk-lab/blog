@@ -1,0 +1,723 @@
+[
+ {
+  "file": "3dペン.md",
+  "status": "MISMATCH",
+  "reason": "リンク先は3Dペン本体ではなくフィラメント5m×40個の詰め替えパック",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00ufmvm.ycj6k81a.g00ufmvm.ycj6l949/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "anker-735-charger-ganprime-65w.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00rw28m.ycj6keec.g00rw28m.ycj6l659/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "anker-powerwave-stand.md",
+  "status": "MISMATCH",
+  "reason": "リンク先はビンゴ景品40点セット（PowerWave Standは景品の一部）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00qnmbm.ycj6k695.g00qnmbm.ycj6l7e2/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "apple-airtag.md",
+  "status": "MISMATCH",
+  "reason": "4個入りパック（記事は単体・¥11,630）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00r2mum.ycj6k876.g00r2mum.ycj6l808/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "apple-macbook-air-13インチ.md",
+  "status": "MISMATCH",
+  "reason": "中古品リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00r3khm.ycj6k15a.g00r3khm.ycj6l90c/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "apple-macbook-pro-14インチ.md",
+  "status": "MISMATCH",
+  "reason": "中古品リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00r3khm.ycj6k15a.g00r3khm.ycj6l90c/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "apple-magic-mouse.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00q37gm.ycj6ke29.g00q37gm.ycj6l1b1/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "apple-pencil-第2世代.md",
+  "status": "MISMATCH",
+  "reason": "整備済み品（新品同様品）リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u2c1m.ycj6k3cc.g00u2c1m.ycj6l803/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "apple-watch-se-第2世代.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00pm32m.ycj6k594.g00pm32m.ycj6l1a5/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "belkin-boost-charge-pro.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00puugm.ycj6k2e0.g00puugm.ycj6lc61/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "boyata-ノートpcスタンド.md",
+  "status": "MISMATCH",
+  "reason": "BoYata タブレットスタンド ミニ N-31（ノートPCスタンドではない）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00rzshm.ycj6kd61.g00rzshm.ycj6lb5d/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "chromecast-with-google-tv.md",
+  "status": "MISMATCH",
+  "reason": "後継機 Google TV Streamer GA05662-JP（記事はGA03131-JP）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00upzam.ycj6k244.g00upzam.ycj6lec6/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "cio-smartcoby-pro-30w.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tit6m.ycj6kaf0.g00tit6m.ycj6l21b/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "co2メーター.md",
+  "status": "SUSPECT",
+  "reason": "タスコ TA470WA 法人専用品 ¥39,930。一般向け記事とズレ",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00powom.ycj6k1d8.g00powom.ycj6ldfc/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "creative-pebble-v3.md",
+  "status": "MISMATCH",
+  "reason": "中古品リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tjy8m.ycj6kb7f.g00tjy8m.ycj6lb67/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "dell-s2722dgm-ゲーミングモニター.md",
+  "status": "MISMATCH",
+  "reason": "中古ディスプレイ",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "eizo-ev2456.md",
+  "status": "MISMATCH",
+  "reason": "中古品リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tp86m.ycj6kcfd.g00tp86m.ycj6l6dc/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "eve-water-guard.md",
+  "status": "MISMATCH",
+  "reason": "全くの別商品: VENUM ラッシュガード（格闘技ウェア）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00rzdtm.ycj6kaf7.g00rzdtm.ycj6lf34/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "fire-tv-stick-4k-max.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00uflem.ycj6k94c.g00uflem.ycj6l838/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "flexispot-e1-電動昇降デスク.md",
+  "status": "MISMATCH",
+  "reason": "Sanodesk E150（FLEXISPOT E1ではない）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00t68zm.ycj6k7e7.g00t68zm.ycj6l377/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "flexispot-e7.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00t68zm.ycj6k7e7.g00t68zm.ycj6l377/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "flexispot-e7p.md",
+  "status": "MISMATCH",
+  "reason": "FlexiSpot E7（E7Pではない）・価格も¥73,700 vs ¥51,590",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00t68zm.ycj6k7e7.g00t68zm.ycj6l377/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "google-home-mini.md",
+  "status": "SUSPECT",
+  "reason": "アウトレット・第1世代",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00rk31m.ycj6k015.g00rk31m.ycj6le06/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "gopro-hero11-black.md",
+  "status": "MISMATCH",
+  "reason": "GoPro HERO11 BLACK Mini（別モデル）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00rd00m.ycj6k72e.g00rd00m.ycj6ld4e/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "herman-miller-aeron-chair.md",
+  "status": "MISMATCH",
+  "reason": "中古オフィス家具リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00sbumm.ycj6k181.g00sbumm.ycj6la40/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "hp-z24-24インチモニター.md",
+  "status": "MISMATCH",
+  "reason": "中古ディスプレイ Z24n G2",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00rye7m.ycj6k7f9.g00rye7m.ycj6l754/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "ipad-mini-第6世代.md",
+  "status": "MISMATCH",
+  "reason": "中古品リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tx2xm.ycj6kadc.g00tx2xm.ycj6l23b/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "ipad-第10世代.md",
+  "status": "MISMATCH",
+  "reason": "中古品リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tx2xm.ycj6kadc.g00tx2xm.ycj6l23b/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "jabra-speak2-55-vs-75.md",
+  "status": "NOLINK",
+  "reason": "rakuten_url empty",
+  "old": "",
+  "body_links": 0
+ },
+ {
+  "file": "jackery-solarsaga-100w.md",
+  "status": "MISMATCH",
+  "reason": "Solar Generator 500 セット（ポータブル電源＋パネル）。記事はパネル単体",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tgrom.ycj6k7cb.g00tgrom.ycj6l0a5/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "lamy-pico-ボールペン.md",
+  "status": "MISMATCH",
+  "reason": "LAMY Refills（替芯）・中古/輸入品。ボールペン本体ではない",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u0ztm.ycj6k5c2.g00u0ztm.ycj6lff2/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "lenovo-thinkpad-x1-carbon.md",
+  "status": "MISMATCH",
+  "reason": "中古美品リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00sk4xm.ycj6k71c.g00sk4xm.ycj6lcb5/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "leuchtturm1917-バレットジャーナル.md",
+  "status": "SUSPECT",
+  "reason": "ミディアムA5ノートブック（バレットジャーナル版かは不明）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00rux4m.ycj6k2b9.g00rux4m.ycj6l538/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "manfrotto-pixi-ミニ三脚.md",
+  "status": "SUSPECT",
+  "reason": "PIXI EVO（無印PIXIとは別モデル）・OUTLET品",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00s4phm.ycj6k5ee.g00s4phm.ycj6l78f/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "marshall-acton-home.md",
+  "status": "MISMATCH",
+  "reason": "ACTON III（第3世代）。記事は初代Acton",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u54tm.ycj6kace.g00u54tm.ycj6l127/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "marshall-acton-ii-home.md",
+  "status": "MISMATCH",
+  "reason": "ACTON III（第3世代）。記事はActon II",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u54tm.ycj6kace.g00u54tm.ycj6l127/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "marshall-stanmore-iii.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00pukwm.ycj6kb97.g00pukwm.ycj6l9a8/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "microsoft-surface-ペン.md",
+  "status": "MISMATCH",
+  "reason": "Surface Pro5 中古タブレット本体（ペンではない）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00syqxm.ycj6k8c0.g00syqxm.ycj6l2d7/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "moft-snap-on.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u220m.ycj6k133.g00u220m.ycj6lf49/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "nitori-ハイバック-オフィスチェア.md",
+  "status": "SUSPECT",
+  "reason": "ニトリ OC505。「ハイバック」の記載なし",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00py47m.ycj6kef9.g00py47m.ycj6l8e4/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "nothing-ear-1.md",
+  "status": "MISMATCH",
+  "reason": "Nothing ear(a)（Ear (1)ではない）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u2zlm.ycj6k929.g00u2zlm.ycj6l36c/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "nothing-ear-a.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tof9m.ycj6k29c.g00tof9m.ycj6l653/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "nothing-ear-c.md",
+  "status": "MISMATCH",
+  "reason": "Nothing ear(a)（Ear (c)ではない）・ear-1と同一URL",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u2zlm.ycj6k929.g00u2zlm.ycj6l36c/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "peak-design-capture-clip-v3.md",
+  "status": "MISMATCH",
+  "reason": "ノーブランドのカメラホルスター¥1,880（記事¥11,980）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00umgam.ycj6kc87.g00umgam.ycj6l6e4/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "peak-design-キャプチャ-クリップ.md",
+  "status": "MISMATCH",
+  "reason": "ノーブランドのカメラホルスター¥1,880（記事¥11,980）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00umgam.ycj6kc87.g00umgam.ycj6l6e4/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "pfu-scansnap-ix100.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00rwh8m.ycj6k19e.g00rwh8m.ycj6lacf/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "philips-hue-ホワイトグラデーション.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00r8mvm.ycj6k2b9.g00r8mvm.ycj6l3d0/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "qrio-lock.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00umjem.ycj6kd6d.g00umjem.ycj6ld4c/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "razer-basilisk-v3.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tys6m.ycj6kb05.g00tys6m.ycj6l7ef/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "razer-deathadder-v3.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tys6m.ycj6kb05.g00tys6m.ycj6l7ef/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "realforce-r3-30g.md",
+  "status": "DEAD",
+  "reason": "店舗閉鎖。item URLが www.rakuten.co.jp/everydaydirect/kaiso.html にリダイレクト",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00ukv7m.ycj6ke6c.g00ukv7m.ycj6l026/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "samsung-870-evo.md",
+  "status": "SUSPECT",
+  "reason": "2TB ¥168,159表示・出品¥184,171。870 EVOの実勢価格から大きく乖離",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00uf4rm.ycj6k4fd.g00uf4rm.ycj6lbdc/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "sandisk-extreme-portable-ssd.md",
+  "status": "SUSPECT",
+  "reason": "4TBモデル ¥148,000（記事表示¥228,800）。容量/価格が記事とズレ",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldm.ycj6k434.g00r7ldm.ycj6l6fb/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "sony-wf-c700n.md",
+  "status": "MISMATCH",
+  "reason": "中古品リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tlkzm.ycj6kc6e.g00tlkzm.ycj6l554/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "switchbot-bot.md",
+  "status": "MISMATCH",
+  "reason": "SwitchBot ロボット掃除機K11+ ¥39,800（Bot=指ロボットではない）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldm.ycj6k434.g00r7ldm.ycj6l6fb/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "switchbot-スマート電球-e26.md",
+  "status": "MISMATCH",
+  "reason": "4個セット（記事は単体想定）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00puugm.ycj6k2e0.g00puugm.ycj6lc61/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "tile-mate.md",
+  "status": "MISMATCH",
+  "reason": "4個パック ¥11,218（記事は単体想定）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00uiobm.ycj6k4a6.g00uiobm.ycj6lad4/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "tp-link-deco-m4.md",
+  "status": "SUSPECT",
+  "reason": "AC1200 2ユニット（記事本文のAX1800と不一致）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00uj9tm.ycj6kb8e.g00uj9tm.ycj6l911/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "tp-link-tapo-c310.md",
+  "status": "MISMATCH",
+  "reason": "型番C310がタイトルに無い汎用Tapoカメラ。C320WS記事と同一URL",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00sbb0m.ycj6k76d.g00sbb0m.ycj6le5b/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "tp-link-tapo-c320ws.md",
+  "status": "MISMATCH",
+  "reason": "型番C320WSがタイトルに無い汎用Tapoカメラ。C310記事と同一URL",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00sbb0m.ycj6k76d.g00sbb0m.ycj6le5b/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "tp-link-tapo-スマートプラグ.md",
+  "status": "MISMATCH",
+  "reason": "Tapo P105 4個セット（記事は単体想定）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u3i9m.ycj6kc0d.g00u3i9m.ycj6l5cb/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "ugreen-nexode-100w.md",
+  "status": "SUSPECT",
+  "reason": "タイトルにNexodeの記載なし（UGREEN PD充電器100W）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u0fbm.ycj6k004.g00u0fbm.ycj6l855/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "ugreen-nexode-140w-usb-c充電器.md",
+  "status": "MISMATCH",
+  "reason": "UGREEN Nexode 300W（140Wではない）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u0fbm.ycj6k004.g00u0fbm.ycj6l855/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "usb-c-ケーブル-3m-急速充電.md",
+  "status": "SUSPECT",
+  "reason": "2本セット",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u00bm.ycj6k0f7.g00u00bm.ycj6l16c/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "usb-ポータブル扇風機.md",
+  "status": "SUSPECT",
+  "reason": "汎用ハンディファン（記事名も汎用）。ブランド特定不可",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u5pkm.ycj6k226.g00u5pkm.ycj6l815/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "xgimi-mogo-pro+.md",
+  "status": "MISMATCH",
+  "reason": "中古品リスティング（セカスト）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00r3cem.ycj6ka34.g00r3cem.ycj6l241/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "yogamat-ヨガマット-6mm.md",
+  "status": "SUSPECT",
+  "reason": "Manduka PRO 6mm。記事名は汎用だがブランド品にリンク",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00q08tm.ycj6k9c6.g00q08tm.ycj6l977/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "yongnuo-yn300-iii.md",
+  "status": "MISMATCH",
+  "reason": "中古/輸入品リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u0ztm.ycj6k5c2.g00u0ztm.ycj6lff2/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "zebra-blen.md",
+  "status": "SUSPECT",
+  "reason": "bLen 4+S 多機能ペン・名入れ品（単色bLenではない）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u205m.ycj6ke80.g00u205m.ycj6l614/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "アイリスオーヤマ-パソコンデスク.md",
+  "status": "SUSPECT",
+  "reason": "UDD-1000（記事本文の型番SDH-1000と不一致）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00qvevm.ycj6k603.g00qvevm.ycj6lda7/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "アイリスオーヤマ-フットレスト.md",
+  "status": "MISMATCH",
+  "reason": "ふるさと納税の収納スツール FAC-OT（フットレストではない）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00t9yzm.ycj6kf3f.g00t9yzm.ycj6l1ba/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "エレコム-テンキー.md",
+  "status": "SUSPECT",
+  "reason": "TK-TBP020BK（記事本文の型番TCM011BKと不一致）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00up0zm.ycj6kae1.g00up0zm.ycj6l845/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "エレコム-電源タップ-雷ガード.md",
+  "status": "MISMATCH",
+  "reason": "2個セット（記事は1個¥5,360想定）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00t81xm.ycj6k0cf.g00t81xm.ycj6l694/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "オフィスチェア-後悔しない選び方.md",
+  "status": "NOLINK",
+  "reason": "rakuten_url empty",
+  "old": "",
+  "body_links": 0
+ },
+ {
+  "file": "カシオ-電卓-js-20wk.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00pkshm.ycj6k672.g00pkshm.ycj6le4a/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "カール-ペーパーカッター.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00pw3qm.ycj6k322.g00pw3qm.ycj6l1f1/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "コクヨ-キャンパスダイアリー-ウィークリー.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00sc6ym.ycj6k520.g00sc6ym.ycj6l520/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "コクヨ-クリップボード-a4.md",
+  "status": "SUSPECT",
+  "reason": "プリントファイル<Campus>（クリップボード兼用）。記事型番HB741と不一致",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00uiw2m.ycj6kb13.g00uiw2m.ycj6l1da/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "コクヨ-テープカッター-カルカット.md",
+  "status": "SUSPECT",
+  "reason": "T-SM300（記事本文の型番TC-220Sと不一致）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00q656m.ycj6kdd7.g00q656m.ycj6l4c7/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "コクヨ-個別フォルダー.md",
+  "status": "SUSPECT",
+  "reason": "50枚パック（記事が単体前提なら不一致）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00qsftm.ycj6kfde.g00qsftm.ycj6l8df/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "サンワサプライ-テンキー.md",
+  "status": "MISMATCH",
+  "reason": "テンキーマウスセット NT-WL23SETBK・訳あり品（記事の型番NUM22Uと不一致）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00pw4ym.ycj6k1f2.g00pw4ym.ycj6l7e5/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "サンワサプライ-書見台.md",
+  "status": "MISMATCH",
+  "reason": "データホルダー DH-316 3個セット（記事の型番DH-360と不一致・書見台ではない）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00s4o6m.ycj6k0a7.g00s4o6m.ycj6lf29/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "シチズン-目覚まし時計.md",
+  "status": "SUSPECT",
+  "reason": "パルデジットワイド DL-03（記事本文の型番と不一致・記事名は汎用）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00pukwm.ycj6kb97.g00pukwm.ycj6l9a8/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "シックスパッド-フットフィット.md",
+  "status": "MISMATCH",
+  "reason": "シックスパッド フットフィットプラス2（後継別モデル）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00r20gm.ycj6k77a.g00r20gm.ycj6l641/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "セイコー-目覚まし時計.md",
+  "status": "SUSPECT",
+  "reason": "NR523W（記事本文はNR438W）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldm.ycj6k434.g00r7ldm.ycj6l6fb/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "セラバンド-エクササイズバンド.md",
+  "status": "DEAD",
+  "reason": "HTTP 404 (listing removed)",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tqw3m.ycj6k3c8.g00tqw3m.ycj6lb84/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "デロンギ-セラミックファンヒーター.md",
+  "status": "MISMATCH",
+  "reason": "中古品リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tp86m.ycj6kcfd.g00tp86m.ycj6l6dc/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "ニトリ-ゲーミングチェア.md",
+  "status": "SUSPECT",
+  "reason": "GM707（記事本文の型番GCH-001と不一致）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00py47m.ycj6kef9.g00py47m.ycj6l8e4/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "ニトリ-シェルフメタル.md",
+  "status": "SUSPECT",
+  "reason": "ニトリ スチールラック CUSTOM。商品名と表記が一致しない",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00py47m.ycj6kef9.g00py47m.ycj6l8e4/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "バルミューダ-ザ・ポット.md",
+  "status": "SUSPECT",
+  "reason": "KPT03JP（本体は正しいが記事本文の型番と不一致）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00pzd8m.ycj6kb60.g00pzd8m.ycj6l4ef/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "パナソニック-ledシーリングライト.md",
+  "status": "SUSPECT",
+  "reason": "HH-CK0625CA（記事本文はCF0820A）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00ubhym.ycj6kb5c.g00ubhym.ycj6lb2d/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "パナソニック-電源タップ.md",
+  "status": "SUSPECT",
+  "reason": "WHS25249WP（記事本文はWHS25149WP）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldm.ycj6k434.g00r7ldm.ycj6l6fb/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "プラス-クリップボード.md",
+  "status": "MISMATCH",
+  "reason": "ノーブランドのバインダー2枚セット（PLUS製ではない）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u8l8m.ycj6k702.g00u8l8m.ycj6l52e/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "マルマン-vs-コクヨ-ルーズリーフ.md",
+  "status": "NOLINK",
+  "reason": "rakuten_url empty",
+  "old": "",
+  "body_links": 0
+ },
+ {
+  "file": "モレスキン-クラシック.md",
+  "status": "MISMATCH",
+  "reason": "モレスキン ビジネスリュック（ノートではない）¥31,570",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tzlwm.ycj6kac1.g00tzlwm.ycj6l103/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "ライトニングケーブル-3m-高耐久.md",
+  "status": "MISMATCH",
+  "reason": "5本セット（記事は1本¥1,280想定）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00simtm.ycj6k335.g00simtm.ycj6l6b5/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "三菱鉛筆-クルトガ-アドバンス.md",
+  "status": "SUSPECT",
+  "reason": "名入れ+替芯セット商品。本体単体ではない可能性",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00qbsym.ycj6k22c.g00qbsym.ycj6l54b/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "三菱鉛筆-ユニボール-ワン.md",
+  "status": "SUSPECT",
+  "reason": "ユニボールワン F（無印ユニボールワンとは別ライン）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00rh3tm.ycj6k0e2.g00rh3tm.ycj6la22/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "山崎実業-ブックエンド-tower.md",
+  "status": "MISMATCH",
+  "reason": "tower 隠せるコミックラック（ブックエンドではない）¥13,750",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00sl3em.ycj6k026.g00sl3em.ycj6l04b/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "山田照明-z-light-z-10n.md",
+  "status": "MISMATCH",
+  "reason": "中古品リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00u578m.ycj6kcfe.g00u578m.ycj6l85c/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "左手用ゲーミングマウス.md",
+  "status": "SUSPECT",
+  "reason": "キーボード+マウス2点セット。マウス単体ではない",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00tjhmm.ycj6k789.g00tjhmm.ycj6l21d/?pc=https%3",
+  "body_links": 1
+ },
+ {
+  "file": "無印良品-アロマディフューザー-超音波.md",
+  "status": "MISMATCH",
+  "reason": "中古品リスティング",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00txgvm.ycj6kee9.g00txgvm.ycj6lcb6/?pc=https%3",
+  "body_links": 0
+ },
+ {
+  "file": "赤外線温度計.md",
+  "status": "SUSPECT",
+  "reason": "A&D AD-5611A（記事本文の型番MC-720と不一致）",
+  "old": "https://hb.afl.rakuten.co.jp/hgc/g00qct7m.ycj6k35a.g00qct7m.ycj6l158/?pc=https%3",
+  "body_links": 0
+ }
+]

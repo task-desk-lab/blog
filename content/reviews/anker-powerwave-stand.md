@@ -7,15 +7,9 @@ categories: ["ワイヤレス充電スタンド"]
 tags: ["ワイヤレス充電スタンド", "集合知", "口コミ", "レビュー"]
 verdict: "置くだけで通知が見える定位置"
 product_name: "Anker PowerWave Stand"
-price_display: "95,000円"
-price_jpy: 95000
 total_reviews: "3,445"
-review_count: 0
-rating: 0.0
-shop_name: "景品キング"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00qnmbm.ycj6k695.g00qnmbm.ycj6l7e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frk-king%2Fkb451%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frk-king%2Fi%2F10023454%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2520PowerWave%2520Stand%2F"
 amazon_url: ""
-product_image: "/img/products/anker-powerwave-stand.jpg"
 
 keywords: ["Anker PowerWave Stand 口コミ", "Anker PowerWave Stand 評判", "Anker PowerWave Stand デメリット", "Anker PowerWave Stand レビュー", "Anker PowerWave Stand 後悔", "Anker PowerWave Stand", "ワイヤレス充電スタンド 口コミ", "ワイヤレス充電スタンド おすすめ"]
 ---

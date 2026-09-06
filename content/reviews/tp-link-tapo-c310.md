@@ -7,15 +7,9 @@ categories: ["屋外スマートカメラ"]
 tags: ["屋外スマートカメラ", "集合知", "口コミ", "レビュー"]
 verdict: "宅配便の置き配トラブルが証拠付きで終わる"
 product_name: "TP-Link Tapo C310"
-price_display: "6,300円"
-price_jpy: 6300
 total_reviews: "19,245"
-review_count: 599
-rating: 4.5
-shop_name: "TP-Linkダイレクト 楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00sbb0m.ycj6k76d.g00sbb0m.ycj6le5b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftplinkdirect%2F4897098687031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftplinkdirect%2Fi%2F10001192%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTP-Link%2520Tapo%2520C310%2F"
 amazon_url: ""
-product_image: "/img/products/tp-link-tapo-c310.jpg"
 
 keywords: ["TP-Link Tapo C310 口コミ", "TP-Link Tapo C310 評判", "TP-Link Tapo C310 デメリット", "TP-Link Tapo C310 レビュー", "TP-Link Tapo C310 後悔", "TP-Link Tapo C310", "屋外スマートカメラ 口コミ", "屋外スマートカメラ おすすめ"]
 ---
@@ -116,7 +110,7 @@ microSDカードの容量に不安があり、クラウド保存ありきで考�
 TP-Link Tapo C310の現在価格と詳細スペックは以下のリンクから確認できる：
 
 - [TP-Link公式ストア](https://www.tp-link.com/jp/) で最新情報を見る
-- [楽天](https://hb.afl.rakuten.co.jp/hgc/g00sbb0m.ycj6k76d.g00sbb0m.ycj6le5b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftplinkdirect%2F4897098687031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftplinkdirect%2Fi%2F10001192%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) で現在の価格を比較
+- [楽天](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTP-Link%2520Tapo%2520C310%2F) で現在の価格を比較
 - [楽天](https://www.rakuten.co.jp/) でレビューを確認
 
 また明日、集合知で会おう。

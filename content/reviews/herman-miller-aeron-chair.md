@@ -7,15 +7,9 @@ categories: ["ハイエンドオフィスチェア"]
 tags: ["ハイエンドオフィスチェア", "集合知", "口コミ", "レビュー"]
 verdict: "8時間座り続けても腰が限界を迎えない"
 product_name: "Herman Miller Aeron Chair"
-price_display: "181,500円"
-price_jpy: 181500
 total_reviews: "3,090"
-review_count: 3
-rating: 5.0
-shop_name: "Office idea"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00sbumm.ycj6k181.g00sbumm.ycj6la40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpacific618%2Fa000003032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpacific618%2Fi%2F10002538%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHerman%2520Miller%2520Aeron%2520Chair%2F"
 amazon_url: ""
-product_image: "/img/products/herman-miller-aeron-chair.jpg"
 
 keywords: ["Herman Miller Aeron Chair 口コミ", "Herman Miller Aeron Chair 評判", "Herman Miller Aeron Chair デメリット", "Herman Miller Aeron Chair レビュー", "Herman Miller Aeron Chair 後悔", "Herman Miller Aeron Chair", "ハイエンドオフィスチェア 口コミ", "ハイエンドオフィスチェア おすすめ"]
 ---

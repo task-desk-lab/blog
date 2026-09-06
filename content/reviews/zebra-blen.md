@@ -7,15 +7,9 @@ categories: ["ボールペン"]
 tags: ["ボールペン", "集合知", "口コミ", "レビュー"]
 verdict: "手が震えても字がブレない"
 product_name: "Zebra bLen"
-price_display: "1,100円"
-price_jpy: 1100
 total_reviews: "5,505"
-review_count: 7
-rating: 5.0
-shop_name: "プリントドッグ"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u205m.ycj6ke80.g00u205m.ycj6l614/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprintdog%2Fb4sas88%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprintdog%2Fi%2F10001165%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZebra%2520bLen%2F"
 amazon_url: ""
-product_image: "/img/products/zebra-blen.jpg"
 
 keywords: ["Zebra bLen 口コミ", "Zebra bLen 評判", "Zebra bLen デメリット", "Zebra bLen レビュー", "Zebra bLen 後悔", "Zebra bLen", "ボールペン 口コミ", "ボールペン おすすめ"]
 ---

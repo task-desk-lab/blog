@@ -7,15 +7,9 @@ categories: ["電動昇降デスク"]
 tags: ["電動昇降デスク", "集合知", "口コミ", "レビュー"]
 verdict: "座りっぱなしの腰痛がボタン一つで消える"
 product_name: "FLEXISPOT E1 電動昇降デスク"
-price_display: "27,500円"
-price_jpy: 27500
 total_reviews: "4,840"
-review_count: 138
-rating: 4.62
-shop_name: "FlexiSpot楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00t68zm.ycj6k7e7.g00t68zm.ycj6l377/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floctek%2Fe150%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Floctek%2Fi%2F10000317%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFLEXISPOT%2520E1%2520%25E9%259B%25BB%25E5%258B%2595%25E6%2598%2587%25E9%2599%258D%25E3%2583%2587%25E3%2582%25B9%25E3%2582%25AF%2F"
 amazon_url: ""
-product_image: "/img/products/flexispot-e1-電動昇降デスク.jpg"
 
 keywords: ["FLEXISPOT E1 電動昇降デスク 口コミ", "FLEXISPOT E1 電動昇降デスク 評判", "FLEXISPOT E1 電動昇降デスク デメリット", "FLEXISPOT E1 電動昇降デスク レビュー", "FLEXISPOT E1 電動昇降デスク 後悔", "FLEXISPOT E1 電動昇降デスク", "電動昇降デスク 口コミ", "電動昇降デスク おすすめ"]
 ---
@@ -38,7 +32,7 @@ keywords: ["FLEXISPOT E1 電動昇降デスク 口コミ", "FLEXISPOT E1 電動�
 - **昇降速度**: 約40mm/秒
 - **付属品**: コントローラー、ケーブル（ケーブルカバーは別売り）
 
-🛒 [楽天で詳細・購入する](https://hb.afl.rakuten.co.jp/hgc/g00t68zm.ycj6k7e7.g00t68zm.ycj6l377/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floctek%2Fe150%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Floctek%2Fi%2F10000317%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
+🛒 [楽天で詳細・購入する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFLEXISPOT%2520E1%2520%25E9%259B%25BB%25E5%258B%2595%25E6%2598%2587%25E9%2599%258D%25E3%2583%2587%25E3%2582%25B9%25E3%2582%25AF%2F)  
 🛒 [楽天で詳細・購入する](https://search.rakuten.co.jp/search/mall/FLEXISPOT+E1/)
 
 ## FLEXISPOT E1 電動昇降デスクの悪い口コミ・デメリット
@@ -152,7 +146,7 @@ Amazonとその他口コミサイトの合計4000件超の評価データを見�
 
 ぼくが4000件超の口コミを調べた結果、FLEXISPOT E1 電動昇降デスクの評判は「座り続ける腰痛をどうにかしたい」という課題に直結している人と、そうでない人で明確に分かれていた。組み立てやセットアップの手間、移動の難しさといったデメリットも実在するが、座り続ける生活から脱出したいというもどかしさがある人には、検討してみる価値がある。在宅勤務が定着している今、この課題を抱えているなら以下のリンクから詳細を確認し、購入を検討してください。
 
-🛒 [楽天で詳細・購入する](https://hb.afl.rakuten.co.jp/hgc/g00t68zm.ycj6k7e7.g00t68zm.ycj6l377/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floctek%2Fe150%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Floctek%2Fi%2F10000317%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)  
+🛒 [楽天で詳細・購入する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFLEXISPOT%2520E1%2520%25E9%259B%25BB%25E5%258B%2595%25E6%2598%2587%25E9%2599%258D%25E3%2583%2587%25E3%2582%25B9%25E3%2582%25AF%2F)  
 🛒 [楽天で詳細・購入する](https://search.rakuten.co.jp/search/mall/FLEXISPOT+E1/)
 
 また明日、集合知で会おう。

@@ -7,15 +7,9 @@ categories: ["PCスタンド"]
 tags: ["PCスタンド", "集合知", "口コミ", "レビュー"]
 verdict: "首こりが消えて残業が苦じゃなくなる"
 product_name: "Boyata ノートPCスタンド"
-price_display: "4,099円"
-price_jpy: 4099
 total_reviews: "14,605"
-review_count: 371
-rating: 4.74
-shop_name: "select shop crea"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rzshm.ycj6kd61.g00rzshm.ycj6lb5d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fselectshopcrea%2Fboyata13%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fselectshopcrea%2Fi%2F10000102%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBoyata%2520%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588PC%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589%2F"
 amazon_url: ""
-product_image: "/img/products/boyata-ノートpcスタンド.jpg"
 
 keywords: ["Boyata ノートPCスタンド 口コミ", "Boyata ノートPCスタンド 評判", "Boyata ノートPCスタンド デメリット", "Boyata ノートPCスタンド レビュー", "Boyata ノートPCスタンド 後悔", "Boyata ノートPCスタンド", "PCスタンド 口コミ", "PCスタンド おすすめ"]
 ---
@@ -85,7 +79,7 @@ Amazon・楽天合計で1万4000件超の口コミを調べた結果、Boyata �
 
 この値段でこのクオリティか、と良い意味で裏切られる価格設定だ。同カテゴリの上位製品と比べても遜色なく、コスパ面での評判は高い。
 
-**在宅勤務の首こり改善を試したい人 → [楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rzshm.ycj6kd61.g00rzshm.ycj6lb5d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fselectshopcrea%2Fboyata13%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fselectshopcrea%2Fi%2F10000102%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**在宅勤務の首こり改善を試したい人 → [楽天で現在の価格を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBoyata%2520%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588PC%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589%2F)**
 
 ---
 
@@ -104,7 +98,7 @@ Amazon・楽天合計で1万4000件超の口コミを調べた結果、Boyata �
 
 安定感と見た目ではBoyataが上、価格ではNulaxyが有利——という関係だ。ライトユースならNulaxyでも十分だが、毎日8時間以上使うならBoyataを選ぶ価値がある。
 
-**毎日8時間使うならBoyata一択。→ [楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rzshm.ycj6kd61.g00rzshm.ycj6lb5d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fselectshopcrea%2Fboyata13%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fselectshopcrea%2Fi%2F10000102%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**毎日8時間使うならBoyata一択。→ [楽天で現在の価格を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBoyata%2520%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588PC%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589%2F)**
 
 ---
 
@@ -128,7 +122,7 @@ Amazon・楽天合計で1万4000件超の口コミを調べた結果、Boyata �
 
 Amazon・楽天合計で1万4000件以上のデータ（Amazon約12,400件＋楽天371件）を調べた結果、Boyata ノートPCスタンドは「買って後悔した」より「買ってよかった」が圧倒的に優勢な商品だった。デメリットはほぼ「外付けキーボードが必要になる」の一点に集約されており、それを事前に知っているかどうかで評価が決まる構造だ。1日換算で約14円の出費（4,999円÷365日）でこれだけの姿勢改善が得られるなら、費用対効果の観点からも検討に値する。
 
-外付けキーボードをすでに持っているなら迷う必要はない。まだ持っていない場合は、予算1万円前後でスタンドとキーボードをセットで揃えることを勧める。→ [楽天で現在の価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00rzshm.ycj6kd61.g00rzshm.ycj6lb5d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fselectshopcrea%2Fboyata13%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fselectshopcrea%2Fi%2F10000102%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968) ／ [楽天で確認する](https://search.rakuten.co.jp/search/mall/Boyata+%E3%83%8E%E3%83%BC%E3%83%88PC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/)
+外付けキーボードをすでに持っているなら迷う必要はない。まだ持っていない場合は、予算1万円前後でスタンドとキーボードをセットで揃えることを勧める。→ [楽天で現在の価格を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBoyata%2520%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588PC%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589%2F) ／ [楽天で確認する](https://search.rakuten.co.jp/search/mall/Boyata+%E3%83%8E%E3%83%BC%E3%83%88PC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/)
 
 ※「集合知で会おう」の意味が気になった人は[こちら](https://task-desk-lab.com/about)へ。
 

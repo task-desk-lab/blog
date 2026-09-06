@@ -12,8 +12,7 @@ price_jpy: 19980
 total_reviews: "3,260"
 review_count: 12
 rating: 4.58
-shop_name: "GAMING CENTER by GRAPHT"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tys6m.ycj6kb05.g00tys6m.ycj6l7ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgcgr%2F50957793001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgcgr%2Fi%2F10000529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRazer%2520DeathAdder%2520V3%2F"
 amazon_url: ""
 product_image: "/img/products/razer-deathadder-v3.jpg"
 
@@ -98,7 +97,7 @@ V3無印はRGB非搭載。デスクのライティング環境に統一感を求
 
 価格重視ならDeathAdder V3で十分、左右対称の形状が必要ならSuperlight 2——構図はシンプルだ。重量はほぼ同等で、価格差は約8,500円。価格面での優位はDeathAdder V3にあり、右手専用形状をどう評価するかが選択の分かれ目になる。
 
-[DeathAdder V3の最安値を見る（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00tys6m.ycj6kb05.g00tys6m.ycj6l7ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgcgr%2F50957793001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgcgr%2Fi%2F10000529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[DeathAdder V3の最安値を見る（楽天）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRazer%2520DeathAdder%2520V3%2F)
 
 ## Razer DeathAdder V3を買って後悔する人・満足する人
 
@@ -114,13 +113,13 @@ V3無印はRGB非搭載。デスクのライティング環境に統一感を求
 - **重いマウスから乗り換えたい人**: 100g超から59gへの移行はプレイ感を大きく変える。乗り換えを迷っている時間がもったいないレベルの体感差だ。
 - **予算10,000円以内で超軽量マウスを探している人**: 競合のSuperlight 2より約8,500円安く、同等クラスの性能を求めるなら価格面での優位が明確だ。口コミ件数を横断した範囲では、9,980円という価格帯で得られる性能として上位に入る。
 
-[在庫切れ前に価格を確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00tys6m.ycj6kb05.g00tys6m.ycj6l7ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgcgr%2F50957793001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgcgr%2Fi%2F10000529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+[在庫切れ前に価格を確認する（楽天）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRazer%2520DeathAdder%2520V3%2F)
 
 ## Razer DeathAdder V3 レビューまとめ：買うべきか
 
 Amazon・楽天・YouTube・ブログ合わせて3,260件のデータをもとに書いた。Razer DeathAdder V3はターゲットが明確な商品で、右利きのFPS/TPSプレイヤーに刺さるスペックだ。デメリットは「左利き」「RGBなし」「手が小さい」の3点に絞られる。1日換算で約27円、365日使えば元を取れるコストの商品だ。3年使えばSuperlight 2より合計コストが2万円以上安くなる計算で、用途と右手専用形状が合致するなら選びやすい選択肢だ。合わないパターンも口コミから読み取れるため、デメリットの確認を先にやっておくことが後悔しない選択の近道になる。
 
-→ [今すぐDeathAdder V3を注文する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00tys6m.ycj6kb05.g00tys6m.ycj6l7ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgcgr%2F50957793001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgcgr%2Fi%2F10000529%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)
+→ [今すぐDeathAdder V3を注文する（楽天）](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRazer%2520DeathAdder%2520V3%2F)
 
 ## よくある質問
 

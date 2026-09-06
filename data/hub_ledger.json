@@ -110,5 +110,54 @@
    "garmin-venu-3s"
   ],
   "date": "2026-09-06"
+ },
+ "USBメモリ": {
+  "slug": "usbメモリ-おすすめ",
+  "items": [
+   "sandisk-ultra-fit",
+   "sandisk-ultra-usbメモリ",
+   "transcend-jetflash-790-128gb",
+   "transcend-jetflash-930c"
+  ],
+  "date": "2026-09-07"
+ },
+ "空気清浄機": {
+  "slug": "空気清浄機-おすすめ",
+  "items": [
+   "levoit-core-mini",
+   "levoit-core-300s",
+   "シャープ-プラズマクラスター-空気清浄機",
+   "ダイキン-空気清浄機",
+   "日立-空気清浄機"
+  ],
+  "date": "2026-09-07"
+ },
+ "コーヒーミル": {
+  "slug": "コーヒーミル-おすすめ",
+  "items": [
+   "ハリオ-コーヒーミル-スマートg",
+   "kalita-ナイスカットg",
+   "timemore-c3"
+  ],
+  "date": "2026-09-07"
+ },
+ "スキャナ": {
+  "slug": "スキャナ-おすすめ",
+  "items": [
+   "pfu-scansnap-ix1600",
+   "pfu-scansnap-ix1300",
+   "pfu-scansnap-ix100"
+  ],
+  "date": "2026-09-07"
+ },
+ "スピーカーフォン": {
+  "slug": "スピーカーフォン-おすすめ",
+  "items": [
+   "anker-powerconf",
+   "jabra-speak2-55-vs-75",
+   "jabra-speak2-55",
+   "jabra-speak2-75"
+  ],
+  "date": "2026-09-07"
  }
 }

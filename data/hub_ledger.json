@@ -1,0 +1,114 @@
+{
+ "ノートPC": {
+  "slug": "ノートpc-おすすめ",
+  "items": [
+   "apple-macbook-air-13インチ",
+   "apple-macbook-pro-14インチ",
+   "lenovo-thinkpad-x1-carbon",
+   "asus-vivobook-16",
+   "hp-pavilion-15",
+   "dell-xps-13-plus"
+  ],
+  "date": "2026-09-06"
+ },
+ "チェア": {
+  "slug": "チェア-おすすめ",
+  "items": [
+   "エルゴヒューマン-pro",
+   "アイリスオーヤマ-メッシュチェア",
+   "ニトリ-ゲーミングチェア",
+   "herman-miller-sayl",
+   "イトーキ-サリダyl9",
+   "オカムラ-シルフィー",
+   "akracing-pro-x-v2"
+  ],
+  "date": "2026-09-06"
+ },
+ "タブレット": {
+  "slug": "タブレット-おすすめ",
+  "items": [
+   "ipad-pro-11インチ",
+   "ipad-mini-第6世代",
+   "ipad-第10世代",
+   "apple-ipad-air",
+   "amazon-fire-hd-10-2023",
+   "ipad-第11世代",
+   "lenovo-tab-m11-pro"
+  ],
+  "date": "2026-09-06"
+ },
+ "充電器": {
+  "slug": "充電器-おすすめ",
+  "items": [
+   "anker-nano-ii-65w",
+   "ugreen-nexode-100w",
+   "anker-735-charger-ganprime-65w",
+   "anker-powerport-atom-iii-slim",
+   "ugreen-nexode-140w-usb-c充電器"
+  ],
+  "date": "2026-09-06"
+ },
+ "アクションカメラ": {
+  "slug": "アクションカメラ-おすすめ",
+  "items": [
+   "gopro-hero11-black",
+   "gopro-hero12-black",
+   "gopro-hero13-black"
+  ],
+  "date": "2026-09-06"
+ },
+ "電動昇降デスク": {
+  "slug": "電動昇降デスク-おすすめ",
+  "items": [
+   "flexispot-e1-電動昇降デスク",
+   "flexispot-e7",
+   "flexispot-e9",
+   "flexispot-e8",
+   "flexispot-ef1",
+   "手動式昇降スタンディングデスク"
+  ],
+  "date": "2026-09-06"
+ },
+ "ストレッチグッズ": {
+  "slug": "ストレッチグッズ-おすすめ",
+  "items": [
+   "シックスパッド-フットフィット",
+   "lpn-ストレッチポール-ex",
+   "セラバンド-エクササイズバンド"
+  ],
+  "date": "2026-09-06"
+ },
+ "コードレス掃除機": {
+  "slug": "コードレス掃除機-おすすめ",
+  "items": [
+   "ダイソン-cyclone-v10-fluffy",
+   "マキタ-充電式クリーナー-cl107fd",
+   "パナソニック-スティック掃除機"
+  ],
+  "date": "2026-09-06"
+ },
+ "Bluetoothスピーカー": {
+  "slug": "bluetoothスピーカー-おすすめ",
+  "items": [
+   "anker-soundcore-motion+",
+   "bose-soundlink-flex",
+   "jbl-flip6",
+   "sony-srs-xb100",
+   "marshall-acton-iii-bluetooth-スピーカー",
+   "marshall-stanmore-iii",
+   "marshall-acton-home"
+  ],
+  "date": "2026-09-06"
+ },
+ "スマートウォッチ": {
+  "slug": "スマートウォッチ-おすすめ",
+  "items": [
+   "apple-watch-se-第2世代",
+   "garmin-fenix-7x",
+   "cmf-by-nothing-watch-pro",
+   "garmin-lily",
+   "garmin-venu-3s"
+  ],
+  "date": "2026-09-06"
+ }
+}

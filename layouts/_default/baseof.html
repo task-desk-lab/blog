@@ -534,6 +534,12 @@
     .alt-links .alt-buy { border-color: #bf0000; color: #ff6b6b; }
     .alt-links a:hover { text-decoration: none; background: var(--border); }
 
+    /* LLMO summary block. */
+    .llmo-box { margin: 12px 0 20px; padding: 12px 14px; border-radius: 10px; background: var(--bg-card); border-left: 4px solid var(--accent2); display: grid; gap: 6px; }
+    .llmo-box > div { display: grid; grid-template-columns: 52px 1fr; gap: 10px; align-items: baseline; }
+    .llmo-box dt { font-size: 11px; font-weight: bold; color: var(--accent2); letter-spacing: 0.04em; }
+    .llmo-box dd { margin: 0; font-size: 14px; line-height: 1.55; }
+
     /* Rakuten live market box (data/rakuten_live.json, nightly API pull). */
     .rk-live {
       margin: 16px 0 24px; padding: 14px 16px 12px;

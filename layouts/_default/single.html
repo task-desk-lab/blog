@@ -130,6 +130,20 @@
   </div>
   {{ end }}
 
+  {{/* LLMO summary (traffic run #5): a fixed 誰に/理由/価格/見送り block so
+       assistants and skimmers get the verdict in one glance. Fields are
+       restatements of the article's own sections (llmo_backfill.py). */}}
+  {{ if and (not .Params.hub) (or .Params.best_for .Params.avoid_if) }}
+  <dl class="llmo-box">
+    {{ with .Params.best_for }}<div><dt>誰に</dt><dd>{{ . }}</dd></div>{{ end }}
+    {{ with .Params.verdict }}<div><dt>理由</dt><dd>{{ . }}</dd></div>{{ end }}
+    {{ $lp := index .Site.Data.rakuten_live (default "" .Params.slug) }}
+    {{ if and $lp $lp.min_price }}<div><dt>価格</dt><dd>楽天最安 {{ lang.FormatNumberCustom 0 $lp.min_price }}円〜（{{ $lp.updated }}）</dd></div>
+    {{ else }}{{ with .Params.price_display }}<div><dt>価格</dt><dd>{{ . }}前後</dd></div>{{ end }}{{ end }}
+    {{ with .Params.avoid_if }}<div><dt>見送り</dt><dd>{{ . }}</dd></div>{{ end }}
+  </dl>
+  {{ end }}
+
   {{ partial "rakuten_live.html" . }}
 
   {{/* Category hub link (traffic run #1): single reviews feed the hub that

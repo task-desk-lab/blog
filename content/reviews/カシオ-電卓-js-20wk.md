@@ -18,6 +18,7 @@ amazon_url: ""
 product_image: "/img/products/カシオ-電卓-js-20wk.jpg"
 
 keywords: ["カシオ 電卓 JS-20WK 口コミ", "カシオ 電卓 JS-20WK 評判", "カシオ 電卓 JS-20WK デメリット", "カシオ 電卓 JS-20WK レビュー", "カシオ 電卓 JS-20WK 後悔", "カシオ 電卓 JS-20WK", "電卓 口コミ", "電卓 おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 ## カシオ 電卓 JS-20WK レビュー：結論

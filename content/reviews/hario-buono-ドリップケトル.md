@@ -18,6 +18,7 @@ amazon_url: ""
 product_image: "/img/products/hario-buono-ドリップケトル.jpg"
 
 keywords: ["Hario Buono ドリップケトル 口コミ", "Hario Buono ドリップケトル 評判", "Hario Buono ドリップケトル デメリット", "Hario Buono ドリップケトル レビュー", "Hario Buono ドリップケトル 後悔", "Hario Buono ドリップケトル", "ドリップケトル 口コミ", "ドリップケトル おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 ## 結論

@@ -18,6 +18,7 @@ amazon_url: ""
 product_image: "/img/products/switchbot-温湿度計.jpg"
 
 keywords: ["SwitchBot 温湿度計 口コミ", "SwitchBot 温湿度計 評判", "SwitchBot 温湿度計 デメリット", "SwitchBot 温湿度計 レビュー", "SwitchBot 温湿度計 後悔", "SwitchBot 温湿度計", "温湿度計 口コミ", "温湿度計 おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 <!-- metaタイトル候補: SwitchBot 温湿度計レビュー｜ハブなしで使える機能と18,400件の口コミまとめ【2026年】 -->

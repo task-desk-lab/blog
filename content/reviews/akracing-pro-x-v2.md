@@ -18,6 +18,7 @@ amazon_url: ""
 product_image: "/img/products/akracing-pro-x-v2.jpg"
 
 keywords: ["AKRacing Pro-X V2 口コミ", "AKRacing Pro-X V2 評判", "AKRacing Pro-X V2 デメリット", "AKRacing Pro-X V2 レビュー", "AKRacing Pro-X V2 後悔", "AKRacing Pro-X V2", "ゲーミングチェア 口コミ", "ゲーミングチェア おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 AKRacing Pro-X V2の口コミ・評判をAmazon320件・楽天180件にわたって調査した。在宅ワークや長時間のゲームプレイによる腰痛に悩んでいる人が、ゲーミングチェアとして実際に使えるのかを確かめるのが目的だ。結論を先に言う。腰痛持ちの長時間作業者には口コミで実績が出ているチェアだが、体型・予算・住環境のどれかがミスマッチなら58,000円を出すより先に候補から外したほうがいい。

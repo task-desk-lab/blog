@@ -18,6 +18,7 @@ amazon_url: ""
 product_image: "/img/products/logicool-mx-ergo.jpg"
 
 keywords: ["Logicool MX Ergo 口コミ", "Logicool MX Ergo 評判", "Logicool MX Ergo デメリット", "Logicool MX Ergo レビュー", "Logicool MX Ergo 後悔", "Logicool MX Ergo", "トラックボール 口コミ", "トラックボール おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 ## Logicool MX Ergo レビュー：肩こり・腱鞘炎に効くか？5,510件の口コミを検証

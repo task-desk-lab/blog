@@ -18,6 +18,7 @@ amazon_url: ""
 product_image: "/img/products/nothing-ear-1.jpg"
 
 keywords: ["Nothing Ear (1) 口コミ", "Nothing Ear (1) 評判", "Nothing Ear (1) デメリット", "Nothing Ear (1) レビュー", "Nothing Ear (1) 後悔", "Nothing Ear (1)", "透明設計ワイヤレスイヤホン 口コミ", "透明設計ワイヤレスイヤホン おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 ## 結論

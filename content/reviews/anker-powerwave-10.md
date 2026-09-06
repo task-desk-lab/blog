@@ -18,6 +18,7 @@ rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la
 amazon_url: ""
 product_image: "/img/products/anker-powerwave-10.jpg"
 keywords: ["Anker PowerWave 10 口コミ", "Anker PowerWave 10 評判", "Anker PowerWave 10 デメリット", "Anker PowerWave 10 レビュー", "Anker PowerWave 10 後悔", "Anker PowerWave 10", "ワイヤレス充電器 口コミ", "ワイヤレス充電器 おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 # Anker PowerWave 10 口コミ｜1万件超の評判調査でわかった発熱と充電速度の実態

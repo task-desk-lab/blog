@@ -18,6 +18,7 @@ amazon_url: ""
 product_image: "/img/products/sony-rx100-vii.jpg"
 
 keywords: ["Sony RX100 VII 口コミ", "Sony RX100 VII 評判", "Sony RX100 VII デメリット", "Sony RX100 VII レビュー", "Sony RX100 VII 後悔", "Sony RX100 VII", "コンパクトカメラ 口コミ", "コンパクトカメラ おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 ## 結論

@@ -18,6 +18,7 @@ amazon_url: ""
 product_image: "/img/products/xgimi-mogo-pro+.jpg"
 
 keywords: ["XGIMI Mogo Pro+ 口コミ", "XGIMI Mogo Pro+ 評判", "XGIMI Mogo Pro+ デメリット", "XGIMI Mogo Pro+ レビュー", "XGIMI Mogo Pro+ 後悔", "XGIMI Mogo Pro+", "ミニプロジェクター 口コミ", "ミニプロジェクター おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 ## 結論

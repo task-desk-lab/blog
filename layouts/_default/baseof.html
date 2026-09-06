@@ -10,7 +10,7 @@
 
   {{/* Taxonomy pages (tags/categories) are thin → noindex,follow.
        Keeps Google focused on the home + /reviews/ list + individual review pages. */}}
-  {{ if or (eq .Kind "term") (eq .Kind "taxonomy") }}
+  {{ if or (eq .Kind "term") (eq .Kind "taxonomy") .Params.noindex }}
   <meta name="robots" content="noindex,follow">
   {{ end }}
 

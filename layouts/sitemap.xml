@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   {{- range .Data.Pages -}}
     {{- /* Skip thin/noindex'd taxonomy pages so Googlebot focuses on home + /reviews/ + individual articles. */ -}}
-    {{- if or (eq .Kind "term") (eq .Kind "taxonomy") -}}
+    {{- if or (eq .Kind "term") (eq .Kind "taxonomy") .Params.noindex -}}
       {{- continue -}}
     {{- end -}}
     <url>

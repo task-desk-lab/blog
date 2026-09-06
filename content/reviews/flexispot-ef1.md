@@ -18,6 +18,7 @@ rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00t68zm.ycj6k7e7.g00t68zm.ycj6l3
 amazon_url: ""
 product_image: "/img/products/flexispot-ef1.jpg"
 keywords: ["FlexiSpot EF1 口コミ", "FlexiSpot EF1 評判", "FlexiSpot EF1 デメリット", "FlexiSpot EF1 レビュー", "FlexiSpot EF1 後悔", "FlexiSpot EF1", "電動昇降デスク 口コミ", "電動昇降デスク おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 # FlexiSpot EF1の口コミ評判｜1,395件調査でわかったデメリットと最安値

@@ -17,6 +17,7 @@ rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00s4o6m.ycj6k0a7.g00s4o6m.ycj6lf
 amazon_url: ""
 product_image: "/img/products/エレコム-リストレスト-fittio-moh-ftrbk.jpg"
 keywords: ["エレコム リストレスト FITTIO MOH-FTRBK 口コミ", "エレコム リストレスト FITTIO MOH-FTRBK 評判", "エレコム リストレスト FITTIO MOH-FTRBK デメリット", "エレコム リストレスト FITTIO MOH-FTRBK レビュー", "エレコム リストレスト FITTIO MOH-FTRBK 後悔", "エレコム リストレスト FITTIO MOH-FTRBK", "リストレスト 口コミ", "リストレスト おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 ## 結論

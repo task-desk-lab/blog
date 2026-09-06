@@ -18,6 +18,7 @@ amazon_url: ""
 product_image: "/img/products/leuchtturm1917-バレットジャーナル.jpg"
 
 keywords: ["Leuchtturm1917 バレットジャーナル 口コミ", "Leuchtturm1917 バレットジャーナル 評判", "Leuchtturm1917 バレットジャーナル デメリット", "Leuchtturm1917 バレットジャーナル レビュー", "Leuchtturm1917 バレットジャーナル 後悔", "Leuchtturm1917 バレットジャーナル", "ノート 口コミ", "ノート おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 ## 結論

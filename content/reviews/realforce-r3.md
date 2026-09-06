@@ -18,6 +18,7 @@ rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u1z7m.ycj6k6ef.g00u1z7m.ycj6lc
 amazon_url: ""
 product_image: "/img/products/realforce-r3.jpg"
 keywords: ["REALFORCE R3 口コミ", "REALFORCE R3 評判", "REALFORCE R3 デメリット", "REALFORCE R3 レビュー", "REALFORCE R3 後悔", "REALFORCE R3", "キーボード 口コミ", "キーボード おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 # REALFORCE R3の口コミ812件を分析｜疲れない評判の裏にある3つのデメリット

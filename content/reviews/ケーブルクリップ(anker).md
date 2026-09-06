@@ -16,6 +16,7 @@ shop_name: ""
 rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%28Anker%29%2F"
 amazon_url: ""
 keywords: ["ケーブルクリップ(Anker) 口コミ", "ケーブルクリップ(Anker) 評判", "ケーブルクリップ(Anker) デメリット", "ケーブルクリップ(Anker) レビュー", "ケーブルクリップ(Anker) 後悔", "ケーブルクリップ(Anker)", "デスク整理 口コミ", "デスク整理 おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 # ケーブルクリップ(Anker)の口コミは？3,715件調査してわかった評判

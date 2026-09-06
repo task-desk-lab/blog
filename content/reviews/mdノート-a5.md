@@ -17,6 +17,7 @@ rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rd6om.ycj6k98a.g00rd6om.ycj6l1
 amazon_url: ""
 product_image: "/img/products/mdノート-a5.jpg"
 keywords: ["MDノート A5 口コミ", "MDノート A5 評判", "MDノート A5 デメリット", "MDノート A5 レビュー", "MDノート A5 後悔", "MDノート A5", "ノート 口コミ", "ノート おすすめ"]
+noindex: true  # 2026-09-06 index hygiene: 0 impressions in 90d, >=60d old
 ---
 
 # MDノート A5の口コミ｜2270件で判明した万年筆向け880円ノートの評判

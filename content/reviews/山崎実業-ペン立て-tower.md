@@ -7,15 +7,9 @@ categories: ["ペン立て"]
 tags: ["ペン立て", "集合知", "口コミ", "レビュー"]
 verdict: "出しっぱなしが絵になる机上整理"
 product_name: "山崎実業 ペン立て tower"
-price_display: "990円"
-price_jpy: 990
 total_reviews: "1,088"
-review_count: 80
-rating: 4.5
-shop_name: "インテリアショップ roomy"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00qb0lm.ycj6k466.g00qb0lm.ycj6l78d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz20jan28h30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10011244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: ""
-product_image: "/img/products/山崎実業-ペン立て-tower.jpg"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%259A%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2582%25BF%25E3%2583%25AF%25E3%2583%25BC%25203319%2F"
+amazon_url: "https://www.amazon.co.jp/dp/B06XCQ2K1K?tag=taskdesklab-22"
 
 keywords: ["山崎実業 ペン立て tower 口コミ", "山崎実業 ペン立て tower 評判", "山崎実業 ペン立て tower デメリット", "山崎実業 ペン立て tower レビュー", "山崎実業 ペン立て tower 後悔", "山崎実業 ペン立て tower", "ペン立て 口コミ", "ペン立て おすすめ"]
 ---
@@ -24,7 +18,7 @@ keywords: ["山崎実業 ペン立て tower 口コミ", "山崎実業 ペン立�
 
 Amazonで720件、楽天で190件、合計1,000件超の口コミを調査した。山崎実業 ペン立て tower のデメリットと評判を整理すると、結論はシンプルに分かれる。「見た目の満足度は高く、収納量を求める人には不向き」だ。スチール製のシンプルなデザインは在宅ワークデスクによく馴染むが、ペンを大量に持つ人にはハッキリ向かない。買って後悔するかどうかは、使い方次第だ。
 
-**[→ 楽天で山崎実業 ペン立て towerの価格を確認する（口コミ720件）→ 在庫・納期もここで見られる](https://hb.afl.rakuten.co.jp/hgc/g00qb0lm.ycj6k466.g00qb0lm.ycj6l78d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz20jan28h30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10011244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**[→ 楽天で山崎実業 ペン立て towerの価格を確認する（口コミ720件）→ 在庫・納期もここで見られる](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%259A%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2582%25BF%25E3%2583%25AF%25E3%2583%25BC%25203319%2F)**
 
 ## 山崎実業 ペン立て towerの基本スペック
 
@@ -142,9 +136,9 @@ Amazonは返品対応がある。試してサイズが合わなければ返送�
 
 ---
 
-**[→ 楽天で山崎実業 ペン立て towerの価格を確認する（口コミ720件）→ 在庫・納期もここで見られる](https://hb.afl.rakuten.co.jp/hgc/g00qb0lm.ycj6k466.g00qb0lm.ycj6l78d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz20jan28h30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10011244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**[→ 楽天で山崎実業 ペン立て towerの価格を確認する（口コミ720件）→ 在庫・納期もここで見られる](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%259A%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2582%25BF%25E3%2583%25AF%25E3%2583%25BC%25203319%2F)**
 
-**[→ 楽天で山崎実業 ペン立て towerの価格を確認する](https://hb.afl.rakuten.co.jp/hgc/g00qb0lm.ycj6k466.g00qb0lm.ycj6l78d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz20jan28h30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10011244%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)**
+**[→ 楽天で山崎実業 ペン立て towerの価格を確認する](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B1%25B1%25E5%25B4%258E%25E5%25AE%259F%25E6%25A5%25AD%2520%25E3%2583%259A%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2582%25BF%25E3%2583%25AF%25E3%2583%25BC%25203319%2F)**
 
 楽天スーパーSALEや楽天お買い物マラソン期間はポイント還元が上がりやすい。購入タイミングを合わせると実質コストを下げられる。
 

@@ -14,7 +14,7 @@ review_count: 33
 rating: 4.36
 shop_name: "楽天ビック(ビックカメラ×楽天)"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldm.ycj6k434.g00r7ldm.ycj6l6fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4981254068281%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F14353425%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: ""
+amazon_url: "https://www.amazon.co.jp/dp/B0CB8N3K8C?tag=taskdesklab-22"
 product_image: "/img/products/バッファロー-wi-fiルーター.jpg"
 
 keywords: ["バッファロー Wi-Fiルーター 口コミ", "バッファロー Wi-Fiルーター 評判", "バッファロー Wi-Fiルーター デメリット", "バッファロー Wi-Fiルーター レビュー", "バッファロー Wi-Fiルーター 後悔", "バッファロー Wi-Fiルーター", "Wi-Fiルーター 口コミ", "Wi-Fiルーター おすすめ"]

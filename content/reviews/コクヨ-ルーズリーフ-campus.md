@@ -7,15 +7,9 @@ categories: ["ルーズリーフ"]
 tags: ["ルーズリーフ", "集合知", "口コミ", "レビュー"]
 verdict: "滲まず裏抜けせず、ノートとして使い切れる"
 product_name: "コクヨ ルーズリーフ Campus"
-price_display: "598円"
-price_jpy: 598
 total_reviews: "5,515"
-review_count: 224
-rating: 4.71
-shop_name: "コクヨステーショナリー楽天市場店"
-rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00uiw2m.ycj6kb13.g00uiw2m.ycj6l1da/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkokuyogst%2F4901480380209-%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkokuyogst%2Fi%2F10000993%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: ""
-product_image: "/img/products/コクヨ-ルーズリーフ-campus.jpg"
+rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2582%25AF%25E3%2583%25A8%2520%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25B9%2520%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25BA%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2595%2520B5%2520B%25E7%25BD%25AB%2F"
+amazon_url: "https://www.amazon.co.jp/dp/B001GSQZ5Y?tag=taskdesklab-22"
 
 keywords: ["コクヨ ルーズリーフ Campus 口コミ", "コクヨ ルーズリーフ Campus 評判", "コクヨ ルーズリーフ Campus デメリット", "コクヨ ルーズリーフ Campus レビュー", "コクヨ ルーズリーフ Campus 後悔", "コクヨ ルーズリーフ Campus", "ルーズリーフ 口コミ", "ルーズリーフ おすすめ"]
 ---

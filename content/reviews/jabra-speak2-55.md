@@ -14,7 +14,7 @@ review_count: 20
 rating: 4.8
 shop_name: "IGN楽天市場店"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u8pqm.ycj6kbf2.g00u8pqm.ycj6l72e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fign-store%2F1724398435%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fign-store%2Fi%2F10001333%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: ""
+amazon_url: "https://www.amazon.co.jp/dp/B0BWKDDXTR?tag=taskdesklab-22"
 product_image: "/img/products/jabra-speak2-55.jpg"
 
 keywords: ["Jabra Speak2 55 口コミ", "Jabra Speak2 55 評判", "Jabra Speak2 55 デメリット", "Jabra Speak2 55 レビュー", "Jabra Speak2 55 後悔", "Jabra Speak2 55", "スピーカーフォン 口コミ", "スピーカーフォン おすすめ"]

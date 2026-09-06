@@ -14,7 +14,7 @@ review_count: 0
 rating: 0.0
 shop_name: "ISダイレクト楽天市場店"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u02km.ycj6k9e7.g00u02km.ycj6l66c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fis-direct%2F9999-0178688%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fis-direct%2Fi%2F10173587%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: ""
+amazon_url: "https://www.amazon.co.jp/dp/B0859YLK5X?tag=taskdesklab-22"
 product_image: "/img/products/logicool-c920s.jpg"
 
 keywords: ["Logicool C920s 口コミ", "Logicool C920s 評判", "Logicool C920s デメリット", "Logicool C920s レビュー", "Logicool C920s 後悔", "Logicool C920s", "Webカメラ 口コミ", "Webカメラ おすすめ"]

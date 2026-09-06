@@ -14,7 +14,7 @@ review_count: 288
 rating: 4.57
 shop_name: "Vesync公式 楽天市場店"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00u8ebm.ycj6ka5b.g00u8ebm.ycj6l044/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvesync%2Fheapaplvnjp0112y%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvesync%2Fi%2F10000003%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: ""
+amazon_url: "https://www.amazon.co.jp/dp/B09FDX1T82?tag=taskdesklab-22"
 product_image: "/img/products/levoit-core-mini.jpg"
 
 keywords: ["LEVOIT Core Mini 口コミ", "LEVOIT Core Mini 評判", "LEVOIT Core Mini デメリット", "LEVOIT Core Mini レビュー", "LEVOIT Core Mini 後悔", "LEVOIT Core Mini", "空気清浄機 口コミ", "空気清浄機 おすすめ"]

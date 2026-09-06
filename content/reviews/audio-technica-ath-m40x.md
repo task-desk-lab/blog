@@ -14,7 +14,7 @@ review_count: 3
 rating: 4.33
 shop_name: "Rock oN Line 楽天市場店"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00ry2pm.ycj6kaa9.g00ry2pm.ycj6ld84/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frockonline%2F32123%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frockonline%2Fi%2F10000191%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: ""
+amazon_url: "https://www.amazon.co.jp/dp/B00HVLUR54?tag=taskdesklab-22"
 product_image: "/img/products/audio-technica-ath-m40x.jpg"
 
 keywords: ["Audio-Technica ATH-M40x 口コミ", "Audio-Technica ATH-M40x 評判", "Audio-Technica ATH-M40x デメリット", "Audio-Technica ATH-M40x レビュー", "Audio-Technica ATH-M40x 後悔", "Audio-Technica ATH-M40x", "ヘッドホン 口コミ", "ヘッドホン おすすめ"]

@@ -15,7 +15,7 @@ review_count: 0
 rating: 0.0
 shop_name: "ECクルー楽天市場店"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00qjagm.ycj6k78a.g00qjagm.ycj6lada/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feccrew%2F5706991026849_rsl_%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feccrew%2Fi%2F10059222%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: ""
+amazon_url: "https://www.amazon.co.jp/dp/B0BWKT3CYM?tag=taskdesklab-22"
 product_image: "/img/products/jabra-speak2-75.jpg"
 
 keywords: ["Jabra Speak2 75 口コミ", "Jabra Speak2 75 評判", "Jabra Speak2 75 デメリット", "Jabra Speak2 75 レビュー", "Jabra Speak2 75 後悔", "Jabra Speak2 75", "スピーカーフォン 口コミ", "スピーカーフォン おすすめ"]

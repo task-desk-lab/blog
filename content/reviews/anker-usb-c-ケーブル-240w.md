@@ -14,7 +14,7 @@ review_count: 14
 rating: 4.57
 shop_name: "アンカー・ダイレクト楽天市場店"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00rr09m.ycj6k00f.g00rr09m.ycj6la32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8866%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001166%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: ""
+amazon_url: "https://www.amazon.co.jp/dp/B09SB6LSWR?tag=taskdesklab-22"
 product_image: "/img/products/anker-usb-c-ケーブル-240w.jpg"
 
 keywords: ["Anker USB-C ケーブル 240W 口コミ", "Anker USB-C ケーブル 240W 評判", "Anker USB-C ケーブル 240W デメリット", "Anker USB-C ケーブル 240W レビュー", "Anker USB-C ケーブル 240W 後悔", "Anker USB-C ケーブル 240W", "ケーブル 口コミ", "ケーブル おすすめ"]

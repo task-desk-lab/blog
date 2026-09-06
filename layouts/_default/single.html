@@ -118,7 +118,7 @@
       {{ partial "affiliate_cta.html" (dict
            "rakuten" $rk "amazon" $az "primary" true
            "rakutenLabel" $rkLabel "amazonLabel" $azLabel) }}
-      <div class="card-cta-note">価格・在庫は{{ .Lastmod.Format "2006年1月" }}時点の楽天出品。最新はストアで確認できる</div>
+      {{ if .Params.price_display }}<div class="card-cta-note">価格・在庫は{{ .Lastmod.Format "2006年1月" }}時点の楽天出品。最新はストアで確認できる</div>{{ else }}<div class="card-cta-note">価格・在庫は各ストアで確認できる</div>{{ end }}
     </div>
     {{ end }}
   </div>

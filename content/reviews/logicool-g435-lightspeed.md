@@ -14,7 +14,7 @@ review_count: 207
 rating: 4.25
 shop_name: "ロジクール 公式ストア"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tpxdm.ycj6k2a9.g00tpxdm.ycj6l117/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fg435bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000427%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: ""
+amazon_url: "https://www.amazon.co.jp/dp/B09FSC1KRN?tag=taskdesklab-22"
 product_image: "/img/products/logicool-g435-lightspeed.jpg"
 
 keywords: ["Logicool G435 LIGHTSPEED 口コミ", "Logicool G435 LIGHTSPEED 評判", "Logicool G435 LIGHTSPEED デメリット", "Logicool G435 LIGHTSPEED レビュー", "Logicool G435 LIGHTSPEED 後悔", "Logicool G435 LIGHTSPEED", "ヘッドセット 口コミ", "ヘッドセット おすすめ"]

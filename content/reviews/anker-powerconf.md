@@ -15,7 +15,7 @@ review_count: 0
 rating: 0.0
 shop_name: "エルサチ"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00tmh8m.ycj6k867.g00tmh8m.ycj6l850/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felsachi%2Fanker-speakerphone%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felsachi%2Fi%2F10000133%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: ""
+amazon_url: "https://www.amazon.co.jp/dp/B07ZSDXHJZ?tag=taskdesklab-22"
 product_image: "/img/products/anker-powerconf.jpg"
 keywords: ["Anker PowerConf 口コミ", "Anker PowerConf 評判", "Anker PowerConf デメリット", "Anker PowerConf レビュー", "Anker PowerConf 後悔", "Anker PowerConf", "スピーカーフォン 口コミ", "スピーカーフォン おすすめ"]
 ---

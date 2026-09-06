@@ -14,7 +14,7 @@ review_count: 0
 rating: 0.0
 shop_name: "ぶんぐる"
 rakuten_url: "https://hb.afl.rakuten.co.jp/hgc/g00q3ywm.ycj6ke36.g00q3ywm.ycj6lc41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbungle%2Fsxns15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbungle%2Fi%2F10008500%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968"
-amazon_url: ""
+amazon_url: "https://www.amazon.co.jp/dp/B007QAIH4S?tag=taskdesklab-22"
 product_image: "/img/products/ぺんてる-ハンディラインs.jpg"
 
 keywords: ["ぺんてる ハンディラインS 口コミ", "ぺんてる ハンディラインS 評判", "ぺんてる ハンディラインS デメリット", "ぺんてる ハンディラインS レビュー", "ぺんてる ハンディラインS 後悔", "ぺんてる ハンディラインS", "マーカー 口コミ", "マーカー おすすめ"]

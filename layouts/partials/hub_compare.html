@@ -1,0 +1,67 @@
+{{/* Comparison table for hub articles (2026-09-09 quality pass, patterned on
+     my-best/picky-s: product cell with image + rating, price column, verdict,
+     in-table buy button, sticky first column under horizontal scroll).
+     Rendered from each hub item's own front matter + live Rakuten prices and
+     swapped in for the generated markdown table, whose cells were 不明/—.
+     Items without a product image or any price (series-comparison articles)
+     stay out of the table — the hub card grid below still lists them.
+     Returns nothing when fewer than 2 rows survive, so the caller keeps the
+     styled markdown table as fallback. */}}
+{{ $live := .site.Data.rakuten_live }}
+{{ $rows := slice }}
+{{ range .pages }}
+  {{ $d := index $live (default "" .Params.slug) }}
+  {{ $hasPrice := or (and $d $d.min_price) .Params.price_display }}
+  {{ if and .Params.product_image .Params.product_name $hasPrice }}
+    {{ $rows = $rows | append (dict "page" . "live" $d) }}
+  {{ end }}
+{{ end }}
+{{ if ge (len $rows) 2 }}
+<div class="cmp-wrap">
+  <div class="cmp-scroll">
+    <table class="cmp">
+      <thead>
+        <tr>
+          <th class="c-product">商品</th>
+          <th class="c-price">楽天最安</th>
+          <th class="c-verdict">結論と向く人</th>
+          <th class="c-buy">リンク</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $i, $r := $rows }}
+        {{ $p := $r.page }}{{ $d := $r.live }}
+        <tr>
+          <td class="c-product">
+            <span class="cmp-rank mono">{{ printf "%02d" (add $i 1) }}</span>
+            <a href="{{ $p.Permalink }}" class="cmp-thumb" tabindex="-1" aria-hidden="true"><img src="{{ $p.Params.product_image | absURL }}" alt="" loading="lazy" width="72" height="72"></a>
+            <a href="{{ $p.Permalink }}" class="cmp-name">{{ $p.Params.product_name }}</a>
+            {{ if gt (float (default 0 $p.Params.rating)) 0 }}<span class="cmp-stars">★{{ $p.Params.rating }}<i>楽天{{ $p.Params.review_count }}件</i></span>{{ end }}
+            {{ with $p.Params.total_reviews }}<span class="cmp-ki mono">集合知 {{ . }}件</span>{{ end }}
+          </td>
+          <td class="c-price">
+            {{ if and $d $d.min_price }}
+            <span class="cmp-price mono">{{ lang.FormatNumberCustom 0 $d.min_price }}円〜</span>
+            <span class="cmp-price-note">{{ $d.updated }} 自動取得</span>
+            {{ else }}
+            <span class="cmp-price mono">{{ $p.Params.price_display }}</span>
+            <span class="cmp-price-note">{{ $p.Lastmod.Format "2006.01" }}時点</span>
+            {{ end }}
+          </td>
+          <td class="c-verdict">
+            <span class="cmp-verdict">{{ $p.Params.verdict }}</span>
+            {{ with $p.Params.best_for }}<span class="cmp-fit"><b>向く人</b>{{ . }}</span>{{ end }}
+          </td>
+          <td class="c-buy">
+            {{ with $p.Params.rakuten_url }}<a class="cmp-rakuten" href="{{ . }}" rel="nofollow sponsored" target="_blank">楽天で見る</a>{{ end }}
+            <a class="cmp-read" href="{{ $p.Permalink }}">口コミ調査</a>
+          </td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+  <div class="cmp-hint mono">→ 横にスクロールで全項目</div>
+  <div class="cmp-note">最安値は楽天市場APIから毎晩自動取得した掲載時点の価格。★は楽天レビュー平均、集合知件数は横断集約した口コミ総数</div>
+</div>
+{{ end }}

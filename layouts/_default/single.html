@@ -200,10 +200,23 @@
          C) the outlined re-prompt after the body (unchanged). */}}
   {{ $content := printf "%s" .Content }}
   {{ $hubGrid := "" }}
+  {{ $hubPages := slice }}
   {{ with .Params.hub_items }}
-    {{ $pages := slice }}
-    {{ range . }}{{ with $.Site.GetPage (printf "/reviews/%s" .) }}{{ $pages = $pages | append . }}{{ end }}{{ end }}
-    {{ $hubGrid = partial "hub_grid.html" (dict "pages" $pages "site" $.Site) }}
+    {{ range . }}{{ with $.Site.GetPage (printf "/reviews/%s" .) }}{{ $hubPages = $hubPages | append . }}{{ end }}{{ end }}
+    {{ $hubGrid = partial "hub_grid.html" (dict "pages" $hubPages "site" $.Site) }}
+  {{ end }}
+  {{/* Hub comparison table (2026-09-09): the generated markdown table has
+       不明/— cells and no images or CTAs, so swap the first content table for
+       the front-matter-driven hub_compare partial. The markdown source stays
+       untouched (defab_gate scans it); if the partial yields no rows the
+       styled markdown table remains as fallback. */}}
+  {{ if and .Params.hub $hubPages }}
+    {{ $cmp := partial "hub_compare.html" (dict "pages" $hubPages "site" .Site) }}
+    {{ $patTable := `(?s)<div class="table-scroll">.*?</table>\s*</div>` }}
+    {{ if and $cmp (findRE $patTable $content 1) }}
+      {{ $cmpEsc := replace $cmp "$" "$$" }}
+      {{ $content = replaceRE $patTable $cmpEsc $content 1 }}
+    {{ end }}
   {{ end }}
   {{ if $hubGrid }}
     {{ $hg := replace $hubGrid "$" "$$" }}

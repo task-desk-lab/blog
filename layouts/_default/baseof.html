@@ -582,6 +582,58 @@
     .hub-links .hub-buy { background: #bf0000; border-color: #bf0000; color: #fff; font-weight: bold; }
     .hub-links .hub-buy:hover { background: #d50000; text-decoration: none; }
     .hub-links .hub-read:hover { background: var(--border); text-decoration: none; }
+    /* ≤480px the nowrap buy button overflowed the card edge — stack the links
+       full-width under the body instead (2026-09-09). */
+    @media (max-width: 480px) {
+      .hub-card { flex-wrap: wrap; }
+      .hub-links { width: 100%; }
+      .hub-links a { flex: 1 1 auto; text-align: center; }
+    }
+    /* Markdown content tables (render-table.html hook). Until 2026-09-09 these
+       fell through to browser defaults — invisible borders on the dark bg. */
+    .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 20px 0 24px; border: 1px solid var(--border); border-radius: 10px; background: var(--bg-card); }
+    .md-table { width: 100%; min-width: 560px; border-collapse: collapse; font-size: 13.5px; line-height: 1.6; margin: 0; }
+    .md-table th { background: var(--bg-card2); color: var(--text); font-size: 12px; font-weight: bold; letter-spacing: 0.03em; text-align: left; padding: 10px 14px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+    .md-table td { padding: 10px 14px; border-bottom: 1px dashed var(--border); vertical-align: top; }
+    .md-table tbody tr:last-child td { border-bottom: 0; }
+    .md-table tbody tr:nth-child(even) { background: rgba(255, 255, 255, 0.02); }
+    .md-table td:first-child { font-weight: bold; white-space: nowrap; }
+
+    /* Hub comparison table (hub_compare.html): my-best-style product rows —
+       image + rating in a sticky product cell, live price, verdict, in-table
+       buy button. Scrolls horizontally on mobile. */
+    .cmp-wrap { margin: 8px 0 28px; }
+    .cmp-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid var(--border); border-radius: 12px; background: var(--bg-card); }
+    .cmp { width: 100%; min-width: 680px; border-collapse: separate; border-spacing: 0; font-size: 13px; line-height: 1.55; }
+    .cmp th { background: var(--bg-card2); color: var(--text-dim); font-size: 11px; font-weight: bold; letter-spacing: 0.06em; text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+    .cmp td { padding: 14px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+    .cmp tbody tr:last-child td { border-bottom: 0; }
+    .cmp th.c-product, .cmp td.c-product { position: sticky; left: 0; z-index: 1; border-right: 1px solid var(--border); }
+    .cmp th.c-product { background: var(--bg-card2); z-index: 2; }
+    .cmp td.c-product { background: var(--bg-card); width: 172px; min-width: 172px; max-width: 172px; }
+    .cmp-rank { display: inline-block; font-size: 10px; color: var(--accent); letter-spacing: 0.12em; margin-bottom: 6px; }
+    .cmp-thumb { display: block; width: 72px; height: 72px; background: #fff; border-radius: 8px; padding: 4px; margin-bottom: 8px; }
+    .cmp-thumb img { width: 100%; height: 100%; object-fit: contain; display: block; }
+    .cmp-name { display: block; font-weight: bold; font-size: 14px; line-height: 1.4; color: var(--text); margin-bottom: 4px; }
+    .cmp-stars { display: block; font-size: 13px; color: var(--accent); font-weight: bold; }
+    .cmp-stars i { font-style: normal; font-weight: normal; font-size: 10px; color: var(--text-dim); margin-left: 4px; }
+    .cmp-ki { display: block; font-size: 10px; color: var(--text-dim); margin-top: 3px; letter-spacing: 0.02em; }
+    .cmp td.c-price { min-width: 108px; }
+    .cmp-price { display: block; font-size: 15px; font-weight: bold; color: var(--accent); letter-spacing: -0.01em; }
+    .cmp-price-note { display: block; font-family: var(--font-mono); font-size: 10px; color: var(--text-dim); margin-top: 4px; }
+    .cmp td.c-verdict { min-width: 220px; }
+    .cmp-verdict { display: block; font-size: 13.5px; font-weight: bold; line-height: 1.5; }
+    .cmp-fit { display: block; font-size: 12px; color: var(--text-dim); margin-top: 6px; }
+    .cmp-fit b { display: inline-block; font-size: 10px; font-weight: bold; color: var(--bg); background: var(--accent2); border-radius: 4px; padding: 1px 5px; margin-right: 6px; vertical-align: 1px; }
+    .cmp td.c-buy { min-width: 108px; }
+    .cmp-rakuten { display: block; background: #bf0000; color: #fff; font-weight: bold; font-size: 12px; text-align: center; padding: 8px 10px; border-radius: 6px; white-space: nowrap; }
+    .cmp-rakuten:hover { background: #d50000; color: #fff; text-decoration: none; }
+    .cmp-read { display: block; font-size: 11px; text-align: center; color: var(--text); border: 1px solid var(--border); border-radius: 6px; padding: 6px 10px; margin-top: 8px; white-space: nowrap; }
+    .cmp-read:hover { background: var(--border); text-decoration: none; }
+    .cmp-hint { display: none; font-size: 10px; color: var(--text-dim); text-align: right; margin-top: 6px; letter-spacing: 0.04em; }
+    @media (max-width: 768px) { .cmp-hint { display: block; } }
+    .cmp-note { font-size: 11px; color: var(--text-dim); margin-top: 6px; line-height: 1.5; }
+
     .hub-link { display: flex; align-items: center; gap: 10px; margin: 0 0 20px; padding: 12px 14px; border-radius: 10px; background: var(--bg-card); border: 1px dashed var(--accent2); color: var(--text); font-size: 14px; line-height: 1.4; }
     .hub-link:hover { text-decoration: none; border-style: solid; }
     .hub-link-tag { flex: none; font-size: 11px; font-weight: bold; color: var(--bg); background: var(--accent2); border-radius: 4px; padding: 2px 6px; }

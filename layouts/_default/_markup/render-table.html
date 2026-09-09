@@ -1,0 +1,26 @@
+{{- /* Markdown tables render unstyled by default (browser default table on a
+     dark bg — the 2026-09-09 hub-table quality complaint). Wrap every content
+     table in a horizontal-scroll container so wide tables never break the
+     mobile layout, and give the CSS a hook (.md-table). */ -}}
+<div class="table-scroll">
+  <table class="md-table">
+    <thead>
+      {{- range .THead }}
+      <tr>
+        {{- range . }}
+        <th{{ with .Alignment }} style="text-align: {{ . }}"{{ end }}>{{ .Text }}</th>
+        {{- end }}
+      </tr>
+      {{- end }}
+    </thead>
+    <tbody>
+      {{- range .TBody }}
+      <tr>
+        {{- range . }}
+        <td{{ with .Alignment }} style="text-align: {{ . }}"{{ end }}>{{ .Text }}</td>
+        {{- end }}
+      </tr>
+      {{- end }}
+    </tbody>
+  </table>
+</div>

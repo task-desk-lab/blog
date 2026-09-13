@@ -159,5 +159,60 @@
    "jabra-speak2-75"
   ],
   "date": "2026-09-07"
+ },
+ "イヤホン": {
+  "slug": "イヤホン-おすすめ",
+  "items": [
+   "apple-airpods-pro",
+   "final-e500",
+   "shure-aonic-215"
+  ],
+  "date": "2026-09-14"
+ },
+ "USBハブ": {
+  "slug": "usbハブ-おすすめ",
+  "items": [
+   "anker-usb-c-ハブ-7-in-1",
+   "anker-usb-c-ドッキングステーション",
+   "usb-3.0-ハブ-4ポート-セルフパワー"
+  ],
+  "date": "2026-09-14"
+ },
+ "ワイヤレスイヤホン": {
+  "slug": "ワイヤレスイヤホン-おすすめ",
+  "items": [
+   "apple-airpods-第3世代",
+   "sony-wf-1000xm4",
+   "bose-quietcomfort-earbuds-ii",
+   "sony-wf-1000xm5",
+   "sony-wf-c700n",
+   "nothing-ear-a",
+   "jbl-tour-pro+-ワイヤレスイヤホン"
+  ],
+  "date": "2026-09-14"
+ },
+ "キーボード": {
+  "slug": "キーボード-おすすめ",
+  "items": [
+   "logicool-k380",
+   "logicool-mx-keys",
+   "bluetooth-キーボード-テンキー付き-ワイヤレス",
+   "hyperx-alloy-origins",
+   "apple-magic-keyboard",
+   "logicool-mx-mechanical",
+   "keychron-k3"
+  ],
+  "date": "2026-09-14"
+ },
+ "ヘッドホン": {
+  "slug": "ヘッドホン-おすすめ",
+  "items": [
+   "audio-technica-ath-m50x",
+   "sony-wh-ch720n",
+   "ソニー-ワイヤレスノイズキャンセリングヘッドホン-wh-1000xm5",
+   "anker-soundcore-space-q45",
+   "jbl-tune-770nc"
+  ],
+  "date": "2026-09-14"
  }
 }

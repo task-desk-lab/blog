@@ -1,5 +1,33 @@
-public/
-resources/_gen/
-.hugo_build.lock
-.DS_Store
+# Credentials & secrets
+.env
+*.pickle
+credentials.json
+token.pickle
+credentials/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Node
 node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp

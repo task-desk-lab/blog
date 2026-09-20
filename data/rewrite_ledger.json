@@ -273,5 +273,81 @@
    "lamicall スマホスタンド",
    "lamicall スマホスタンド レビュー"
   ]
+ },
+ "jabra-speak2-55-vs-75": {
+  "date": "2026-09-21",
+  "pos": 16.3,
+  "imp": 21,
+  "intents": [],
+  "section": "Jabra Speak2 55と75の違いと選び方",
+  "queries": [
+   "jabra speak2 55 75 違い",
+   "jabra speak2 75",
+   "jabra speak2 55 / 75",
+   "jabra speak2 75 55 違い",
+   "speak2 55 vs 75"
+  ]
+ },
+ "yamaha-hs5": {
+  "date": "2026-09-21",
+  "pos": 20.5,
+  "imp": 21,
+  "intents": [],
+  "section": "Yamaha HS5の口コミ評判｜結論と向く人",
+  "queries": [
+   "yamaha hs5",
+   "hs5",
+   "yamaha hs5 レビュー"
+  ]
+ },
+ "オムロン-体組成計-hbf-227t": {
+  "date": "2026-09-21",
+  "pos": 11.9,
+  "imp": 17,
+  "intents": [],
+  "section": "オムロン HBF-227T｜口コミの結論と向く人",
+  "queries": [
+   "オムロン hbf227t 口コミ",
+   "227t",
+   "hbf-227t",
+   "hbf-227t hbf-228t 違い"
+  ]
+ },
+ "プラチナ万年筆-プレジール": {
+  "date": "2026-09-21",
+  "pos": 18.7,
+  "imp": 15,
+  "intents": [],
+  "section": "プレジールの評判・レビューの結論と向く人",
+  "queries": [
+   "プラチナ 万年筆 プレジール 評判",
+   "プレジール 万年筆 レビュー",
+   "プラチナ 万年筆 評判",
+   "プレジール レビュー"
+  ]
+ },
+ "三菱鉛筆-ユニボール-ワン": {
+  "date": "2026-09-21",
+  "pos": 15.9,
+  "imp": 10,
+  "intents": [],
+  "section": "ユニボール ワンの口コミ・評判・レビューまとめ",
+  "queries": [
+   "ユニボールワン 口コミ",
+   "ユニボールワン 0.38 0.5 どっち",
+   "ユニボールワン 0.7",
+   "ユニボールワン レビュー",
+   "ユニボールワン 耐水性"
+  ]
+ },
+ "ugreen-usb-c-ケーブル-2m": {
+  "date": "2026-09-21",
+  "pos": 10.8,
+  "imp": 10,
+  "intents": [],
+  "section": "Ugreen USBケーブル2Mの評判｜結論と向き不向き",
+  "queries": [
+   "ugreen usbケーブル 評判"
+  ]
  }
 }

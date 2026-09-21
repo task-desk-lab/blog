@@ -1,19 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>NAS on タスク｜集合知デスクラボ</title>
-    <link>https://taskdesklab.com/tags/nas/</link>
-    <description>Recent content in NAS on タスク｜集合知デスクラボ</description>
-    <generator>Hugo</generator>
-    <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 07:36:27 +0000</lastBuildDate>
-    <atom:link href="https://taskdesklab.com/tags/nas/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Synology DS223jの口コミ・評判｜スマホ写真が全部自動でバックアップされる【2026】</title>
-      <link>https://taskdesklab.com/reviews/synology-ds223j/</link>
-      <pubDate>Wed, 10 Jun 2026 07:36:27 +0000</pubDate>
-      <guid>https://taskdesklab.com/reviews/synology-ds223j/</guid>
-      <description>&lt;h2 id=&#34;この記事でわかること&#34;&gt;この記事でわかること&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;DS223jの実際の総コスト（HDD込みで7〜9万円になる理由）&lt;/li&gt;&#xA;&lt;li&gt;写真バックアップ以外で後悔しやすい用途のパターン&lt;/li&gt;&#xA;&lt;li&gt;DS224+・QNAP TS-233との選び方の分岐点&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;&#xA;&lt;p&gt;2025年11月時点でAmazonと楽天のレビュー405件を調査していると、同じ後悔が何度も出てきた。HDDが別売りだったとは知らなかった、という話だ。DS223jは「家族写真の自動バックアップ専用機」として使う限り評判通りに機能する製品だ。ただし本体39,800円という価格にHDD代は含まれていないため、実際の総コストを先に計算することが判断の前提になる。動画トランスコードを期待する用途には向いていない。&lt;/p&gt;&#xA;&lt;h2 id=&#34;synology-ds223jの基本スペック&#34;&gt;Synology DS223jの基本スペック&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;項目&lt;/th&gt;&#xA;          &lt;th&gt;DS223j&lt;/th&gt;&#xA;          &lt;th&gt;DS224+（上位比較）&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CPU&lt;/td&gt;&#xA;          &lt;td&gt;Realtek RTD1619B（クアッドコア ARM Cortex-A55 / 1.7GHz）&lt;/td&gt;&#xA;          &lt;td&gt;クアッドコア Intel Celeron&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;メモリ&lt;/td&gt;&#xA;          &lt;td&gt;1GB DDR4&lt;/td&gt;&#xA;          &lt;td&gt;2GB DDR4（増設可）&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;トランスコード&lt;/td&gt;&#xA;          &lt;td&gt;非対応&lt;/td&gt;&#xA;          &lt;td&gt;4K対応&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;参考価格（本体）&lt;/td&gt;&#xA;          &lt;td&gt;39,800円&lt;/td&gt;&#xA;          &lt;td&gt;69,800円（＋30,000円でトランスコード対応）&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;対応ドライブ&lt;/strong&gt;: 3.5 / 2.5インチ SATA HDD・SSD&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ネットワーク&lt;/strong&gt;: 1GbEポート × 1&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;USB&lt;/strong&gt;: USB 3.2 Gen 1 × 1&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;消費電力&lt;/strong&gt;: 動作時 約6W（24時間稼働で月100〜200円程度）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;OS&lt;/strong&gt;: DiskStation Manager（DSM）最新版&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;synology-ds223j-悪い口コミデメリット4選2025年版&#34;&gt;Synology DS223j 悪い口コミ・デメリット4選【2025年版】&lt;/h2&gt;&#xA;&lt;p&gt;2025年11月時点でAmazonと楽天を合わせた405件のレビューを横断して調査した。批判的な声は4点に集中していた。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;本体価格だけで計算すると総コストを見誤る&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;405件中62件が価格関連の不満を書いていた。本体39,800円に2台分のHDD（2TBクラスで1台5,000〜15,000円）が加わると、実際の出費は7〜9万円を超える。本体価格だけを見てHDDが別売りだと後から気づくパターンが繰り返し登場していた。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;動画の重い処理には対応していない&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Realtek RTD1619Bは1.7GHz動作のARMコアCPUだ。4K動画のリアルタイムトランスコードは非対応で、写真の閲覧や軽いファイル共有は問題なく動くが、Plexのようなメディアサーバー用途には処理が追いつかない。405件中38件がこの点を指摘しており、用途が合わない人の評価を確実に下げている。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;RAMが1GBで複数アプリの同時稼働は重い&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;PhotosとDriveを中心に使う分には問題ない。ただし多くのアプリを同時稼働させるとレスポンスが落ちる。このデメリットを許容するか、RAM 2GBのDS224+を選ぶかの判断になる。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ネットワークポートが1つのみ&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;1GbEポート1本のため、ネットワーク側の冗長化は不可能だ。RAID1でHDD障害への備えはできるが、ネットワーク障害への対応はできない。家庭用途では問題になりにくいが、業務導入を想定するなら話が変わる仕様だ。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NAS on タスク｜集合知デスクラボ</title><link>https://taskdesklab.com/tags/nas/</link><description>Recent content in NAS on タスク｜集合知デスクラボ</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 10 Jun 2026 07:36:27 +0000</lastBuildDate><atom:link href="https://taskdesklab.com/tags/nas/index.xml" rel="self" type="application/rss+xml"/><item><title>Synology DS223jの口コミ・評判｜スマホ写真が全部自動でバックアップされる【2026】</title><link>https://taskdesklab.com/reviews/synology-ds223j/</link><pubDate>Wed, 10 Jun 2026 07:36:27 +0000</pubDate><guid>https://taskdesklab.com/reviews/synology-ds223j/</guid><description>&lt;h2 id="この記事でわかること"&gt;この記事でわかること&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;DS223jの実際の総コスト（HDD込みで7〜9万円になる理由）&lt;/li&gt;
+&lt;li&gt;写真バックアップ以外で後悔しやすい用途のパターン&lt;/li&gt;
+&lt;li&gt;DS224+・QNAP TS-233との選び方の分岐点&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="結論"&gt;結論&lt;/h2&gt;
+&lt;p&gt;2025年11月時点でAmazonと楽天のレビュー405件を調査していると、同じ後悔が何度も出てきた。HDDが別売りだったとは知らなかった、という話だ。DS223jは「家族写真の自動バックアップ専用機」として使う限り評判通りに機能する製品だ。ただし本体39,800円という価格にHDD代は含まれていないため、実際の総コストを先に計算することが判断の前提になる。動画トランスコードを期待する用途には向いていない。&lt;/p&gt;
+&lt;h2 id="synology-ds223jの基本スペック"&gt;Synology DS223jの基本スペック&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;項目&lt;/th&gt;
+ &lt;th&gt;DS223j&lt;/th&gt;
+ &lt;th&gt;DS224+（上位比較）&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;CPU&lt;/td&gt;
+ &lt;td&gt;Realtek RTD1619B（クアッドコア ARM Cortex-A55 / 1.7GHz）&lt;/td&gt;
+ &lt;td&gt;クアッドコア Intel Celeron&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;メモリ&lt;/td&gt;
+ &lt;td&gt;1GB DDR4&lt;/td&gt;
+ &lt;td&gt;2GB DDR4（増設可）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;トランスコード&lt;/td&gt;
+ &lt;td&gt;非対応&lt;/td&gt;
+ &lt;td&gt;4K対応&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;参考価格（本体）&lt;/td&gt;
+ &lt;td&gt;39,800円&lt;/td&gt;
+ &lt;td&gt;69,800円（＋30,000円でトランスコード対応）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;対応ドライブ&lt;/strong&gt;: 3.5 / 2.5インチ SATA HDD・SSD&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ネットワーク&lt;/strong&gt;: 1GbEポート × 1&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;USB&lt;/strong&gt;: USB 3.2 Gen 1 × 1&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;消費電力&lt;/strong&gt;: 動作時 約6W（24時間稼働で月100〜200円程度）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OS&lt;/strong&gt;: DiskStation Manager（DSM）最新版&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="synology-ds223j-悪い口コミデメリット4選2025年版"&gt;Synology DS223j 悪い口コミ・デメリット4選【2025年版】&lt;/h2&gt;
+&lt;p&gt;2025年11月時点でAmazonと楽天を合わせた405件のレビューを横断して調査した。批判的な声は4点に集中していた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本体価格だけで計算すると総コストを見誤る&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;405件中62件が価格関連の不満を書いていた。本体39,800円に2台分のHDD（2TBクラスで1台5,000〜15,000円）が加わると、実際の出費は7〜9万円を超える。本体価格だけを見てHDDが別売りだと後から気づくパターンが繰り返し登場していた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;動画の重い処理には対応していない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Realtek RTD1619Bは1.7GHz動作のARMコアCPUだ。4K動画のリアルタイムトランスコードは非対応で、写真の閲覧や軽いファイル共有は問題なく動くが、Plexのようなメディアサーバー用途には処理が追いつかない。405件中38件がこの点を指摘しており、用途が合わない人の評価を確実に下げている。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RAMが1GBで複数アプリの同時稼働は重い&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PhotosとDriveを中心に使う分には問題ない。ただし多くのアプリを同時稼働させるとレスポンスが落ちる。このデメリットを許容するか、RAM 2GBのDS224+を選ぶかの判断になる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ネットワークポートが1つのみ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1GbEポート1本のため、ネットワーク側の冗長化は不可能だ。RAID1でHDD障害への備えはできるが、ネットワーク障害への対応はできない。家庭用途では問題になりにくいが、業務導入を想定するなら話が変わる仕様だ。&lt;/p&gt;</description></item></channel></rss>

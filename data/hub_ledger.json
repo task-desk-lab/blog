@@ -261,5 +261,53 @@
    "左手用ゲーミングマウス"
   ],
   "date": "2026-09-21"
+ },
+ "Wi-Fiルーター": {
+  "slug": "wi-fiルーター-おすすめ",
+  "items": [
+   "tp-link-deco-m4",
+   "buffalo-wsr-6000ax8p",
+   "バッファロー-wi-fiルーター"
+  ],
+  "date": "2026-09-28"
+ },
+ "Webカメラ": {
+  "slug": "webカメラ-おすすめ",
+  "items": [
+   "logicool-c922n",
+   "logicool-c920s",
+   "ロジクール-ウェブカメラ-c920n"
+  ],
+  "date": "2026-09-28"
+ },
+ "ワイヤレス充電器": {
+  "slug": "ワイヤレス充電器-おすすめ",
+  "items": [
+   "anker-powerwave-10",
+   "anker-maggo-ワイヤレス充電器-qi2",
+   "3in1-qi-ワイヤレス充電スタンド",
+   "belkin-boost-charge-pro"
+  ],
+  "date": "2026-09-28"
+ },
+ "マウス": {
+  "slug": "マウス-おすすめ",
+  "items": [
+   "ロジクール-pebble-m350",
+   "apple-magic-mouse",
+   "logicool-m750",
+   "logicool-mx-master-3s",
+   "microsoft-arc-mouse"
+  ],
+  "date": "2026-09-28"
+ },
+ "スマートディスプレイ": {
+  "slug": "スマートディスプレイ-おすすめ",
+  "items": [
+   "amazon-echo-show-10",
+   "amazon-echo-spot",
+   "line-clova-desk"
+  ],
+  "date": "2026-09-28"
  }
 }

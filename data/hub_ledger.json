@@ -309,5 +309,52 @@
    "line-clova-desk"
   ],
   "date": "2026-09-28"
+ },
+ "スタイラス": {
+  "slug": "スタイラス-おすすめ",
+  "items": [
+   "apple-pencil-第2世代",
+   "microsoft-surface-ペン",
+   "apple-pencil-pro"
+  ],
+  "date": "2026-10-05"
+ },
+ "万年筆": {
+  "slug": "万年筆-おすすめ",
+  "items": [
+   "パイロット-万年筆-カクノ",
+   "lamy-safari-万年筆",
+   "プラチナ万年筆-プレジール",
+   "pilot-カスタム74",
+   "lamy-al-star"
+  ],
+  "date": "2026-10-05"
+ },
+ "モバイルバッテリー": {
+  "slug": "モバイルバッテリー-おすすめ",
+  "items": [
+   "anker-powercore-10000",
+   "anker-powerbank-20000mah",
+   "cio-smartcoby-pro-30w"
+  ],
+  "date": "2026-10-05"
+ },
+ "タンブラー": {
+  "slug": "タンブラー-おすすめ",
+  "items": [
+   "サーモス-真空断熱タンブラー",
+   "stanley-タンブラー",
+   "kinto-トラベルタンブラー"
+  ],
+  "date": "2026-10-05"
+ },
+ "スマートスピーカー": {
+  "slug": "スマートスピーカー-おすすめ",
+  "items": [
+   "amazon-echo-dot-第5世代",
+   "google-home-mini",
+   "amazon-echo-pop"
+  ],
+  "date": "2026-10-05"
  }
 }

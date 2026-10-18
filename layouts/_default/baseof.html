@@ -47,12 +47,22 @@
        the LCP: loaded from <head>, it lands in the pre-LCP dependency graph
        and inflates mobile LCP by ~2.5s on PSI. Early gtag() calls are queued
        in dataLayer and flushed when the script arrives — no data loss. */}}
+  {{/* Owner opt-out: open any page once with ?notrack=1 and this browser
+       never loads gtag.js (?notrack=0 to undo). */}}
   <script>
+    var gaOff = false;
+    try {
+      var q = location.search;
+      if (/[?&]notrack=1/.test(q)) localStorage.setItem('ga_off', '1');
+      if (/[?&]notrack=0/.test(q)) localStorage.removeItem('ga_off');
+      gaOff = localStorage.getItem('ga_off') === '1';
+    } catch (e) {}
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', '{{ . }}');
     window.addEventListener('load', function () {
+      if (gaOff) return;
       var s = document.createElement('script');
       s.async = true;
       s.src = 'https://www.googletagmanager.com/gtag/js?id={{ . }}';

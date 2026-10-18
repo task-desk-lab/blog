@@ -12,8 +12,22 @@ rakuten_url: "https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl
 amazon_url: ""
 
 keywords: ["SanDisk Extreme Portable SSD 口コミ", "SanDisk Extreme Portable SSD 評判", "SanDisk Extreme Portable SSD デメリット", "SanDisk Extreme Portable SSD レビュー", "SanDisk Extreme Portable SSD 後悔", "SanDisk Extreme Portable SSD", "外付けSSD 口コミ", "外付けSSD おすすめ"]
-lastmod: 2026-09-07T06:30:19+09:00
+lastmod: 2026-10-18T09:00:00+09:00
 ---
+
+## SanDisk（サンディスク）SSDの評判は？良い評判・悪い評判
+
+SanDisk Extreme Portable SSDの評判は、用途によってはっきり分かれます。良い評判は、最大1050MB/sの読み取り速度、IP55の防水・防塵、2m落下への耐性、約39gの携帯性です。悪い評判は、連続書き込みで本体が熱くなり速度が落ちる点、実測の書き込みが600〜850MB/s止まりでスペックを下回るという声、2022〜2023年製造ロットのファームウェア不具合（現在は修正済み）の経歴、Samsung T7 Shieldと比べたランダムアクセス性能の弱さです。屋外に持ち出す人ほど評価が高く、デスク固定・コスパ重視の人は割高に感じやすい製品です。
+
+### 向いている人
+- 屋外での映像制作が週3回以上ある映像クリエイター
+- Mac、Windows、PS5など複数デバイスを使い回す人
+- 現場での渡し・編集・バックアップを1台に集約したい人
+
+### 向いていない人
+- 大容量ストレージをコスパ重視で揃えたい人
+- 自宅のデスク固定で外に持ち出さない人
+- 細かいファイルの頻繁なアクセスが主な人
 
 ## SanDisk Extreme Portable SSDの基本スペック
 
@@ -80,22 +94,6 @@ SSD特有の駆動音ゼロ・振動ゼロという点は、持ち運び中の�
 ## SanDisk Extreme Portable SSDを他社製品と比較した口コミ
 
 同価格帯の競合品としてSamsung T7 Shieldが挙げられます。調査した口コミでは、読み取り速度ではSanDisk Extreme Portable SSDが優位ですが、ランダムアクセス性能ではSamsung T7 Shieldが上という評判が見られます。耐久性や防水性はSanDisk Extreme Portable SSDの方が優れているという評価も見られました。
-
-## SanDisk Extreme Portable SSDの評判は？結論
-
-「サンディスク SSD 評判」で調べている人の多くは、SanDisk Extreme Portable SSDそのものの実力を知りたいはずです。この記事の結論は「現場でも落としても1秒で渡せる」というものです。
-
-### 向いている人
-- 屋外での映像制作が週3回以上ある映像クリエイター
-- Mac、Windows、PS5など複数デバイスを使い回す人
-- 現場での渡し・編集・バックアップを1台に集約したい人
-
-### 向いていない人
-- 大容量ストレージをコスパ重視で揃えたい人
-- 自宅のデスク固定で外に持ち出さない人
-- 細かいファイルの頻繁なアクセスが主な人
-
-上で触れたとおり、耐久性と読み取り速度が必要な用途では評判が高く、デスク固定やコスパ重視の人にはデメリットが顕著になる、という二分化が見られました。
 
 ## SanDisk Extreme Portable SSDを買って後悔する人
 

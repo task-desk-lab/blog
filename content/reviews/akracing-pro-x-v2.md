@@ -103,11 +103,11 @@ PUレザーの蒸れが嫌でAKRacing Pro-X V2に乗り換える人もいる。�
 
 ## AKRacing Pro-X V2 口コミで見る競合比較：Secretlab TITAN Evo 2022との違い
 
-同価格帯で最も比較されるのはSecretlab TITAN Evo 2022だ（[Secretlab TITAN Evo 2022 口コミ・レビュー](/secretlab-titan-evo-2022-review/)）。
+同価格帯で最も比較されるのはSecretlab TITAN Evo 2022だ（Secretlab TITAN Evo 2022 口コミ・レビュー）。
 
 比較軸としてよく挙がるのは、ランバーサポートの調整自由度と座面の体格適合、それに保証期間の長さだ。AKRacing Pro-X V2はランバーとヘッドレストの独立調整、フルフラットリクライニングが評価される一方、Secretlab TITAN Evo 2022は磁気着脱ヘッドレストと内蔵ランバーのフィット感が支持されやすい。
 
-身長170cm以上・体重70kg以上で仮眠も含めた多目的な使い方をしたい人はAKRacingで不満が出にくく、身長165cm前後の標準体型ならフィット感でSecretlabに軍配が上がるケースが目立つ。アフターサービスの手厚さでは、5年保証があるAKRacing Pro-X V2が一歩リードしている。同ブランドの下位モデルとの違いは[AKRacing PROシリーズ 比較・選び方ガイド](/akracing-pro-series-comparison/)も参考になる。
+身長170cm以上・体重70kg以上で仮眠も含めた多目的な使い方をしたい人はAKRacingで不満が出にくく、身長165cm前後の標準体型ならフィット感でSecretlabに軍配が上がるケースが目立つ。アフターサービスの手厚さでは、5年保証があるAKRacing Pro-X V2が一歩リードしている。
 
 AKRacingが体型的に合わないと感じたなら、→ Secretlab TITAN Evo 2022をAmazonで比較する
 

@@ -165,8 +165,7 @@ Wi-FiとアプリDL数を確認済みなら → Amazonで7,600円・翌日配送
 
 ---
 
-Androidスマホとの組み合わせで真価を発揮するChromecastに対して、Amazonサービスをよく使う人向けの選択肢はFire TV Stickだ。同じ調査方法でレビューをまとめた[Fire TV Stick 4K Max 口コミまとめ：Amazon・楽天レビューを徹底調査](/fire-tv-stick-4k-max-kuchikomi/)と読み比べると、どちらが自分の使い方に合っているか判断しやすい。
+Androidスマホとの組み合わせで真価を発揮するChromecastに対して、Amazonサービスをよく使う人向けの選択肢はFire TV Stickだ。同じ調査方法でレビューをまとめた[Fire TV Stick 4K Max 口コミまとめ：Amazon・楽天レビューを徹底調査](/reviews/fire-tv-stick-4k-max/)と読み比べると、どちらが自分の使い方に合っているか判断しやすい。
 
-価格帯・機能・スペックの違いを横断して確認したい場合は[ストリーミングデバイス比較：主要5製品を調べてわかったこと](/streaming-device-hikaku/)が参考になる。今回取り上げた3製品を含む主要端末を一覧で整理している。
 
 また明日、集合知で会おう。

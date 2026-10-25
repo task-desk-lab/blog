@@ -55,7 +55,6 @@ ScanSnap iX1600の口コミをAmazonで3,847件、楽天で1,043件、合わせ�
 
 それでも選ぶ理由は何か。デメリットを事前に把握したうえで購入している人の満足度が高い背景は、次のセクションで整理する。価格が気になるなら、[Amazonで最安値を確認する](#amazon-link)のが手っ取り早い。
 
-関連：[複合機の簡易スキャンと専用機ドキュメントスキャナの違いを比較した記事](/scanner/flatbed-vs-document-scanner/)
 
 ## PFU ScanSnap iX1600の良い口コミ・レビュー
 
@@ -92,8 +91,6 @@ EPSON DS-530IIは価格帯がiX1600と近く、給紙枚数も最大50枚でほ�
 
 口コミ件数の圧倒的な多さと、ScanSnap Homeというエコシステムの完成度が、最終的にiX1600を選ぶ理由として残ることが多い。
 
-関連：[Canon DR-C230の口コミ・レビューを詳しく調べた記事](/scanner/canon-dr-c230-review/)
-関連：[EPSON DS-530IIとiX1600の使い分けをまとめた記事](/scanner/epson-ds530ii-review/)
 
 ## PFU ScanSnap iX1600を買って後悔する人
 

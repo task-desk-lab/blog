@@ -91,7 +91,6 @@ Amazonの上位50件のレビューを確認すると、「角度がズレない
 
 「卓上固定ならPIXI、屋外やパイプに巻き付けたいならゴリラポッド」という棲み分けが口コミの大勢だ。平らな机での物撮りや配信台として使うなら、PIXIの安定感が評価を集めている。
 
-▶ [Joby ゴリラポッドの口コミ調査はこちら](/review/joby-gorillapod-mini-tripod)
 
 ▼ Manfrotto PIXIをAmazonで確認する（3,480円・残り在庫わずか）
 
@@ -114,7 +113,6 @@ ECサイト用商品写真を月50枚撮るようなライターがPIXIを導入
 
 [→ 3,480円で今すぐ試す](https://af.moshimo.com/af/c/click?a_id=5473868&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FManfrotto%2520PIXI%2520%25E3%2583%259F%25E3%2583%258B%25E4%25B8%2589%25E8%2584%259A%2F)
 
-▶ [ミニ三脚の選び方まとめはこちら](/guide/mini-tripod-how-to-choose)
 
 ---
 

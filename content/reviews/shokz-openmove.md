@@ -52,7 +52,7 @@ Amazonで1,340件の口コミの中でも、以下のデメリットは繰り返
 長時間、大きな音量で使うと頬骨へのビリビリとした振動が不快に感じる人がいる。これはデメリット指摘としては中程度の言及だが、個人差が大きいという評判。
 
 **上位モデルとの差**  
-同じShokzの「[OpenRun](https://rakuten.taskdesklab.com/go/rakuten/?search=Shokz%20OpenRun)」という上位モデルとの比較口コミでは、音質と装着感で差があるという調査結果。予算に余裕があれば上位モデルも検討する価値がある。
+同じShokzの「[OpenRun](/reviews/shokz-openrun/)」という上位モデルとの比較口コミでは、音質と装着感で差があるという調査結果。予算に余裕があれば上位モデルも検討する価値がある。
 
 ## Shokz OpenMoveの良い口コミ・メリット
 
@@ -81,7 +81,7 @@ Amazonで1,340件の口コミの中でも、以下のデメリットは繰り返
 
 ## Shokz OpenMoveを他社製品と比較した口コミ
 
-競合は同じShokzの上位モデル「[OpenRun](https://rakuten.taskdesklab.com/go/rakuten/?search=Shokz%20OpenRun)」のほか、AfterShokzの従来モデルなど。価格帯の近い他社の骨伝導製品と比較すると、Shokz OpenMoveは「バランス型」という評判。音質は落ちるが、価格と装着感のバランスが良いという調査結果。通常のイヤホンと比べれば音質は劣るが、ながら聴き用途では次元が違う。
+競合は同じShokzの上位モデル「[OpenRun](/reviews/shokz-openrun/)」のほか、AfterShokzの従来モデルなど。価格帯の近い他社の骨伝導製品と比較すると、Shokz OpenMoveは「バランス型」という評判。音質は落ちるが、価格と装着感のバランスが良いという調査結果。通常のイヤホンと比べれば音質は劣るが、ながら聴き用途では次元が違う。
 
 ## Shokz OpenMoveを買って後悔する人
 
@@ -109,7 +109,6 @@ Amazonで1,340件の口コミの中でも、以下のデメリットは繰り返
 
 Amazonで1,340件、楽天で420件以上の口コミを整理すると、Shokz OpenMoveは「ながら聴きと安全性に特化した製品」という評判が統一している。音質よりも、周囲の音を聞きながら使えることが価値。ランナーやサイクリスト、テレワーカーの満足度が高く、1日約14円の使用コストで1年運用できる。音楽の音質を重視する人や電車通勤が中心の人は避けるべき。ながら聴きの価値が理解できる人なら、後悔は少ない。
 
-→ [Amazonで最新価格・送料をチェック](https://amazon.taskdesklab.com/search?q=Shokz%20OpenMove) | [Rakutenでセール情報を確認](https://rakuten.taskdesklab.com/go/rakuten/?search=Shokz%20OpenMove)
 
 次の記事では、AfterShokzの従来モデルとShokz OpenRunを同じ手法で検証します。
 

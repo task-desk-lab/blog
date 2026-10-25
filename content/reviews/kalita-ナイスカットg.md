@@ -105,8 +105,7 @@ Amazon・楽天の口コミを合算して調べたとき、繰り返し登場�
 ドリップ専用で使うならナイスカットG、エスプレッソも兼用したいならEncore ESPという使い分けが大まかな結論だ。ただしEncore ESPは並行輸入品のリスク（修理・サポートが受けられない）があるため、その点も含めて判断してほしい。
 
 → [今すぐ最安値を確認する（楽天）](https://hb.afl.rakuten.co.jp/hgc/g00pxzhm.ycj6k3ed.g00pxzhm.ycj6lb93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsujimoto%2Ftk-61117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsujimoto%2Fi%2F10001280%2F&rafcid=wsc_i_is_439c5cf1-7bbe-470c-adeb-6b2dd6cf9968)　30日返品保証あり（Amazonの場合）  
-→ [Baratza Encore ESPの口コミ記事はこちら](/baratza-encore-esp-review/)  
-→ [1万円以下おすすめコーヒーミル比較](/coffee-grinder-budget-comparison/)
+→ [1万円以下おすすめコーヒーミル比較](/reviews/コーヒーミル-おすすめ/)
 
 ## カリタ ナイスカットGを買って後悔する人
 

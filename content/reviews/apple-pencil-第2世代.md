@@ -19,7 +19,7 @@ lastmod: 2026-09-06T12:17:40+09:00
 
 Apple Pencil 第2世代のレビューをAmazonと楽天あわせて1万件超調べた。Amazonに8,200件、楽天に3,100件の口コミが集まる本製品の総評は「書き心地の再現度が高く、磁気充電の快適さも実用的」だが、USB-C非対応iPadでは使えないという制限がある。対応機種を確認してから買えば、後悔の大半は防げる。
 
-**Apple Pencil Proとの違いを知りたい人へ**：本記事では第2世代に絞って解説している。Proとの機能・価格比較は[Apple Pencil Pro vs 第2世代 比較記事](/apple-pencil-pro-vs-2nd-gen/)を参照してほしい。
+**Apple Pencil Proとの違いを知りたい人へ**：本記事では第2世代に絞って解説している。
 
 ## Apple Pencil 第2世代の基本スペック
 
@@ -155,7 +155,7 @@ Amazonと楽天あわせて1万件超の口コミを調べた結果、Apple Penc
 
 **Q: Apple Pencil Proとどちらを選ぶべき？**
 
-iPad Pro（M4以降）・iPad Air（M2以降）を持っているならProが対応機種になる。スクイーズ操作やバレルロールなど追加機能がある分、価格も上がる。詳細は[Apple Pencil Pro vs 第2世代 比較記事](/apple-pencil-pro-vs-2nd-gen/)を見てほしい。
+iPad Pro（M4以降）・iPad Air（M2以降）を持っているならProが対応機種になる。スクイーズ操作やバレルロールなど追加機能がある分、価格も上がる。
 
 **Q: 充電が切れたら突然使えなくなる？**
 

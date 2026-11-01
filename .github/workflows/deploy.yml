@@ -42,6 +42,11 @@ jobs:
         run: |
           hugo --minify --baseURL "https://taskdesklab.com/"
 
+      - name: defab_gate v3 (changed review articles)
+        run: |
+          pip install --quiet pyyaml
+          python3 tools/defab_gate_v3.py ci "${{ github.event.before }}"
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -82,8 +82,6 @@ description: Tanita RD-800は955件の口コミから「自動記録の利便性
 
 競合は「オムロン カラダスキャン HBF-255T」。価格帯は同等（オムロンも1万円台後半が相場）だが、タニタは計測項目の多さとアプリ連携の安定性で選ぶユーザーが多い。一方、シンプルさを重視する層や、Bluetooth接続に不安を感じる層はオムロンを選ぶ傾向がある。
 
-詳細は「[【内部記事】体重計の選び方ガイド](https://example.com/scales-guide/)」「[【内部記事】スマホ連携家電の比較](https://example.com/smart-home-comparison/)」「[【内部記事】健康管理アプリの基本](https://example.com/health-apps/)」も参考に。
-
 ## Tanita RD-800を買って後悔する人
 
 **スマホ連携が不要な人**

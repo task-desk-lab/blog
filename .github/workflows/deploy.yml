@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 
@@ -42,10 +43,13 @@ jobs:
         run: |
           hugo --minify --baseURL "https://taskdesklab.com/"
 
-      - name: defab_gate v3 (changed review articles)
+      - name: defab_gate v3 (review articles changed since the last successful deploy)
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           pip install --quiet pyyaml
-          python3 tools/defab_gate_v3.py ci "${{ github.event.before }}"
+          BASE=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow deploy.yml --branch main --status success --limit 1 --json headSha -q '.[0].headSha')
+          python3 tools/defab_gate_v3.py ci "${BASE:-${{ github.event.before }}}"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

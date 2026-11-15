@@ -1,0 +1,13 @@
+# Site information pages, linked from the footer and from each other.
+- name: このサイトについて
+  url: /about/
+- name: 編集方針・口コミの数え方
+  url: /editorial-policy/
+- name: 訂正ポリシー
+  url: /corrections/
+- name: 広告・アフィリエイトについて
+  url: /disclosure/
+- name: プライバシーポリシー
+  url: /privacy/
+- name: お問い合わせ
+  url: /contact/

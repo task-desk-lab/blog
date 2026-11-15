@@ -18,6 +18,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      indexnow_urls: ${{ steps.indexnow.outputs.urls }}
     env:
       HUGO_VERSION: 0.160.1
     steps:
@@ -51,6 +53,14 @@ jobs:
           BASE=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow deploy.yml --branch main --status success --limit 1 --json headSha -q '.[0].headSha')
           python3 tools/defab_gate_v3.py ci "${BASE:-${{ github.event.before }}}"
 
+      - name: IndexNow URL list (content changed since the last successful deploy)
+        id: indexnow
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          BASE=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow deploy.yml --branch main --status success --limit 1 --json headSha -q '.[0].headSha')
+          echo "urls=$(python3 tools/indexnow_urls.py "${BASE:-${{ github.event.before }}}")" >> "$GITHUB_OUTPUT"
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -66,3 +76,21 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # IndexNow (Bing etc.): notify changed URLs once they are live.
+  # Key file lives at static/<key>.txt. Failure here never blocks a deploy.
+  indexnow:
+    needs: [build, deploy]
+    if: needs.build.outputs.indexnow_urls != '' && needs.build.outputs.indexnow_urls != '[]'
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - name: Submit to IndexNow
+        env:
+          URLS: ${{ needs.build.outputs.indexnow_urls }}
+          KEY: 940276a2ed4e1783a2e84c90b2e70a56
+        run: |
+          BODY=$(python3 -c 'import json,os; print(json.dumps({"host":"taskdesklab.com","key":os.environ["KEY"],"keyLocation":"https://taskdesklab.com/"+os.environ["KEY"]+".txt","urlList":json.loads(os.environ["URLS"])}))')
+          echo "$BODY" | python3 -c 'import json,sys; print(len(json.load(sys.stdin)["urlList"]), "urls")'
+          curl -sS -o /dev/null -w "IndexNow HTTP %{http_code}\n" -X POST https://api.indexnow.org/indexnow \
+            -H "Content-Type: application/json; charset=utf-8" --data "$BODY"

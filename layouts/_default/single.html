@@ -64,6 +64,7 @@
     {{ .Date.Format "2006年1月2日" }}
     {{ with .Params.categories }} · {{ range . }}<span class="cat">{{ . }}</span>{{ end }}{{ end }}
   </div>
+  <div class="meta pr-note" style="font-size: 12px; margin-top: -16px;">PR：この記事には広告リンク（楽天アフィリエイト等）が含まれます。<a href="{{ "/disclosure/" | absURL }}">広告について</a> ／ <a href="{{ "/editorial-policy/" | absURL }}">口コミの数え方</a></div>
 
   {{/* Affiliate CTA plumbing.
        $az: use front-matter amazon_url when present (vetted real product URL);

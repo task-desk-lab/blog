@@ -993,9 +993,13 @@
         姉妹サイト: <a href="https://kozureyado-navi.com/">子連れ宿ナビ｜口コミで選ぶ子連れにやさしい宿</a>
       </div>
       <p>© {{ now.Year }} {{ .Site.Title }}</p>
+      <nav class="site-pages" aria-label="サイト情報" style="margin: 14px 0; font-size: 13px;">
+        {{ range $i, $p := site.Data.site_pages }}{{ if $i }} ／ {{ end }}<a href="{{ $p.url | absURL }}" style="color: var(--text-dim);">{{ $p.name }}</a>{{ end }}
+      </nav>
       <div class="disclaimer">
-        本サイトは Amazon.co.jp アソシエイト、楽天アフィリエイト等の広告リンクを含みます。<br>
-        掲載する情報は投稿時点のものです。購入前に公式サイトで最新情報をご確認ください。
+        本サイトは楽天アフィリエイト・もしもアフィリエイトの広告リンクを含みます（<a href="{{ "/disclosure/" | absURL }}">広告について</a>）。<br>
+        運営者「タスク」は匿名で運営しています。記事の根拠は楽天市場の購入者レビューとメーカー公式情報で、実機レビュー・体験談は載せていません（<a href="{{ "/editorial-policy/" | absURL }}">編集方針</a>）。<br>
+        掲載する情報は確認時点のものです。購入前に販売ページや公式サイトで最新情報をご確認ください。
       </div>
     </div>
   </footer>
